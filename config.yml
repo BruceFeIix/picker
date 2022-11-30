@@ -1,4 +1,4 @@
-repo: https://github.com/chainreactors/picker
+repo: https://github.com/BruceFeIix/picker
 proxy:
   url: 'http://127.0.0.1:7890'
   rss: false
