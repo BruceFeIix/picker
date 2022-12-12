@@ -1,5 +1,1 @@
-# 昨日精选汇总（2022-12-10）
-
-- BruceFeIix 手动精选
-
-  - [OX App Suite 7.10.6 Cross Site Scripting / SSRF / Resource Consumption exploit](Sploitus.com Exploits RSS Feed: [OX App Suite 7.10.6 Cross Site Scripting / SSRF / Resource Consumption exploit](https://sploitus.com/exploit?id=PACKETSTORM:170064&utm_source=rss&utm_medium=rss)) - [discussion](https://github.com/BruceFeIix/picker/issues/14)
+昨日(2022-12-11)没有精选文章
