@@ -73,7 +73,7 @@ def update_pick():
     yesterday_issues = json.loads(popen(f"gh issue list --label \"pick\" --search \"{yesterday}\" --json title,url,author,body"))
     today_path = root_path.joinpath('today_pick.md')
     if not yesterday_issues:
-        Color.print_failed("not found any picker articles")
+        console.print("not found any picker articles", style='bold yellow')
         for bot in picker_bots:
             bot.send_raw(f"[{yesterday} 精选汇总]", f"昨日({yesterday})没有精选文章, 别忘了阅读[每日信息流]({conf['repo']}/issues), 并点击`convert to issue` 挑选优质文章^v^")
         with open(today_path, "w+", encoding="utf-8") as f:
@@ -145,7 +145,7 @@ def push_issue(issue_number):
             if success:
                 break
     if not success:
-        Color.print_focus(f"{issue_title} not found title in {today}.json")
+        console.print(f"{issue_title} not found title in {today}.json", style='bold yellow')
         body = issue["author"]["login"] + " 新增了精选文章:\n\n" + issue_title + " - " + issue["body"] + f"\n\n可以在 [discussion]({issue['url']}) 讨论"
         for bot in picker_bots:
             bot.send_raw(issue_title, body)
@@ -185,9 +185,9 @@ def parse_rss(url: str, proxy_url=''):
             if pubday == yesterday:
                 print(entry.title)
                 result[entry.title] = entry.link
-        Color.print_success(f'[+] {title}\t{url}\t{len(result.values())}/{len(r.entries)}')
+        console.print(f'[+] {title}\t{url}\t{len(result.values())}/{len(r.entries)}', style='bold green')
     except Exception as e:
-        Color.print_failed(f'[-] failed: {url}')
+        console.print(f'[-] failed: {url}', style='bold red')
         print(e)
 
     return title, result
@@ -246,10 +246,10 @@ def init_rss(conf: dict, update: bool=False, proxy_url=''):
                 if not check:
                     feeds.append(url)
         except Exception as e:
-            Color.print_failed(f'[-] 解析失败：{value}')
+            console.print(f'[-] 解析失败：{value}', style='bold red')
             print(e)
 
-    Color.print_focus(f'[+] {len(feeds)} feeds')
+    console.print(f'[+] {len(feeds)} feeds', style='bold yellow')
     return feeds
 
 
@@ -273,12 +273,12 @@ def job(args, conf):
                 if result:
                     count += len(result.values())
                     results[feed] = result
-        Color.print_focus(f'[+] {len(results)} feeds, {count} articles')
+        console.print(f'[+] {len(results)} feeds, {count} articles', style='bold yellow')
 
         temp_path = root_path.joinpath(f'archive//tmp//{today}.json')
         with open(temp_path, 'w+', encoding="utf-8") as f:
             f.write(json.dumps(results, indent=4, ensure_ascii=False))
-            Color.print_focus(f'[+] temp data: {temp_path}')
+            console.print(f'[+] temp data: {temp_path}', style='bold yellow')
 
         # 更新today
         update_today(results)

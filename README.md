@@ -136,7 +136,7 @@ issue需要通过标签管理, 所以需要先创建`daily`与`dailypick`标签.
 需要在本地安装 github-cli ,并登录.
 
 ```sh
-$ git clone https://github.com/chainreactors/picker
+$ git clone https://github.com/BruceFeIix/picker
 $ cd picker && ./install.sh
 ```
 

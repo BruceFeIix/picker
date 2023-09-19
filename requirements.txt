@@ -1,6 +1,8 @@
+rich
 requests
 feedparser
-colorama
+pyfiglet
 pyyaml
 pyrate-limiter
 listparser
+python-telegram-bot
