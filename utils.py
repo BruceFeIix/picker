@@ -1,7 +1,6 @@
 import os
 import subprocess
 
-from colorama import Fore
 from rich import print
 from rich.console import Console
 from rich.progress import Progress
