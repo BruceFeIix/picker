@@ -1,0 +1,158 @@
+{
+    "Sec-News 安全文摘": {
+        "vArmor中的ptrace阻断功能实现分析": "https://govuln.com/news/url/9NRy"
+    },
+    "unSafe.sh - 不安全": {
+        "铅中毒导致的死亡和 IQ 损失超过预期": "https://buaq.net/go-177786.html",
+        "齐向东：数据安全是科技创新的重点方向，网安企业应坚持“四个牵引”": "https://buaq.net/go-177785.html",
+        "2023 OWASP Top-10 Series: API9:2023 Improper Inventory Management": "https://buaq.net/go-177784.html",
+        "HTMLSmuggler - HTML Smuggling Generator And Obfuscator For Your Red Team Operations": "https://buaq.net/go-177783.html",
+        "Mozilla 研究发现浏览器选择屏展示时机很关键": "https://buaq.net/go-177781.html",
+        "苹果修复了正被利用的 0day": "https://buaq.net/go-177782.html",
+        "ChatGPT API 水龙头": "https://buaq.net/go-177780.html",
+        "HITCON CTF 2023 與 SECCON CTF 2023 筆記": "https://buaq.net/go-177778.html",
+        "HITCON CTF 2023 and SECCON CTF 2023 Writeup": "https://buaq.net/go-177779.html",
+        "vArmor中的ptrace阻断功能实现分析": "https://buaq.net/go-177775.html",
+        "开学季 | 挑个趁手的工具，尽早学会文献管理": "https://buaq.net/go-177776.html",
+        "听听语音 – 第三方 Azure 语音识别客户端，支持文字转语音、语音转文字[iPhone/iPad]": "https://buaq.net/go-177777.html"
+    },
+    "嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com": {
+        "齐向东：数据安全是科技创新的重点方向，网安企业应坚持“四个牵引”": "https://www.4hou.com/posts/wyvR",
+        "黑客利用Microsoft Teams进行盗窃账户": "https://www.4hou.com/posts/OXRp",
+        "从供应链攻击中恢复：3CX黑客攻击事件得到的教训": "https://www.4hou.com/posts/wy8M"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sat Sep 23 10:56:33 UTC 2023": "https://github.com/trickest/cve/commit/dd2facfd12ab28985ba553d9fad11ccb55c1b470"
+    },
+    "Security Boulevard": {
+        "Cyber Week 2023 & The Israel National Cyber Directorate Presents – AI Governance in the Wake of ChatGPT – Policy and Governance": "https://securityboulevard.com/2023/09/cyber-week-2023-the-israel-national-cyber-directorate-presents-ai-governance-in-the-wake-of-chatgpt-policy-and-governance/",
+        "2023 OWASP Top-10 Series: API9:2023 Improper Inventory Management": "https://securityboulevard.com/2023/09/2023-owasp-top-10-series-api92023-improper-inventory-management/",
+        "The Role of AI and Machine Learning in Strengthening Cloud Security": "https://securityboulevard.com/2023/09/the-role-of-ai-and-machine-learning-in-strengthening-cloud-security/"
+    },
+    "90Sec - 最新话题": {
+        "拥抱PHP之在crash中遇见generator": "https://forum.90sec.com/t/topic/2315"
+    },
+    "Marco Ramilli Web Corner": {
+        "Malware Persistence Locations: Windows and Linux": "https://marcoramilli.com/2023/09/23/malware-persistence-locations-windows-and-linux/"
+    },
+    "SAP Blogs": {
+        "Discovering HANA Database – Part 1": "https://blogs.sap.com/2023/09/23/discovering-hana-database-part-1/",
+        "A Sunday of Insights: SIT Event at Brookfield, Wisconsin – September 17, 2023": "https://blogs.sap.com/2023/09/23/a-sunday-of-insights-sit-event-at-brookfield-wisconsin-september-17-2023/",
+        "Secret Manager with ABAP SDK for Google Cloud": "https://blogs.sap.com/2023/09/23/secret-manager-with-abap-sdk-for-google-cloud/"
+    },
+    "Hexacorn": {
+        "The hidden side of 24/7/365 – The dreadful APAC shift": "https://www.hexacorn.com/blog/2023/09/23/the-hidden-side-of-24-7-365-the-dreadful-apac-shift/"
+    },
+    "Reverse Engineering": {
+        "New blog post on C Socket Programming! Essential functions, error handling, and practical examples.": "https://www.reddit.com/r/ReverseEngineering/comments/16qhtik/new_blog_post_on_c_socket_programming_essential/"
+    },
+    "Wallarm": {
+        "2023 OWASP Top-10 Series: API9:2023 Improper Inventory Management": "https://lab.wallarm.com/api92023-improper-inventory-management/"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "铅中毒导致的死亡和 IQ 损失超过预期": "https://www.solidot.org/story?sid=76174",
+        "Mozilla 研究发现浏览器选择屏展示时机很关键": "https://www.solidot.org/story?sid=76173",
+        "苹果修复了正被利用的 0day": "https://www.solidot.org/story?sid=76172",
+        "Unity 公布修改后的收费方案": "https://www.solidot.org/story?sid=76171"
+    },
+    "KitPloit - PenTest & Hacking Tools": {
+        "HTMLSmuggler - HTML Smuggling Generator And Obfuscator For Your Red Team Operations": "http://www.kitploit.com/2023/09/htmlsmuggler-html-smuggling-generator.html"
+    },
+    "看雪学苑": {
+        "深入理解how2heap_2.23": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458518561&idx=1&sn=363a41a3ceefe95c7db3495cd6163c0d&chksm=b18d34ab86fabdbd256e8daefe53a45961460ae7c1a03f38fbe95c07429e1e38840db625f1cf&scene=58&subscene=0#rd",
+        "2023 SDC 早鸟票已售罄！2.5折门票开售": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458518561&idx=2&sn=725176252a25f864b286af3d5803dd1d&chksm=b18d34ab86fabdbd013edfacdf1f6f38d22bdff636a8d46949dfd7b0d8df57b4a198614f58b3&scene=58&subscene=0#rd"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【智库报告】美国加强参与中亚事务的案例": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651139101&idx=1&sn=0195a541b7d3ce8bbcca7b1487f687b7&chksm=f1af5b27c6d8d231804e503fcf789246354f4905e020434aec51aa9479e6ffdeb9700e52c3f5&scene=58&subscene=0#rd",
+        "【智库报告】兰德|不可浪费的独特机会：推进我们在中亚的关系": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651139101&idx=2&sn=14452f0c66fd2a539923bde2ea6878ac&chksm=f1af5b27c6d8d23179d64114d9a8c341f00a675398d3043eb44d554f16d59a62d801f17763a8&scene=58&subscene=0#rd"
+    },
+    "dotNet安全矩阵": {
+        "粉丝福利：抽奖送书《企业信息安全落地实践指南》": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247488736&idx=1&sn=9dc0f99841b1c5fa969d44fcf5db49dc&chksm=fa5aba0dcd2d331b0147d34b95e9c31ab4d52514bceeac1c46f3ee70bedc9b4daef0bade28f2&scene=58&subscene=0#rd",
+        ".NET 上传变种.xamlx文件实现RCE": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247488736&idx=2&sn=d24aaa297c51eb620ccdf67af513086d&chksm=fa5aba0dcd2d331bbb22f3f5657199d718c90efed42fcb9cb67ec23d342f887c117e4858f1cb&scene=58&subscene=0#rd"
+    },
+    "中国信息安全": {
+        "倒计时2天！算力网络安全架构与数据安全治理技术研讨会": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664193689&idx=1&sn=bd2ff113f7bfc42e8cb44d2c92154b9d&chksm=8b595c60bc2ed5766458926b4f7bd452c9867166740f5752d1936c4c881a96a543c79b7c165c&scene=58&subscene=0#rd"
+    },
+    "网安国际": {
+        "【博士招聘】加州大学尔湾分校计算机系Alfred Chen教授招收全奖博士生": "https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652314182&idx=1&sn=15e18353842431a8409d90c2fef5fc98&chksm=8bc487c8bcb30edeeb0ba6401ab214d5ca436b21a4c8dd211991d0e2997fc4cefddaba16c44a&scene=58&subscene=0#rd"
+    },
+    "字节跳动安全中心": {
+        "正在直播 | 安全「攻防」实践技术沙龙": "https://mp.weixin.qq.com/s?__biz=MzUzMzcyMDYzMw==&mid=2247491534&idx=1&sn=e21623dde5ead650e38a34f73ed3b792&chksm=fa9ee498cde96d8e1d79f75adfcf08959e825e23794ddc4ad4fb8b7ea474abe0fee984ba506c&scene=58&subscene=0#rd"
+    },
+    "吴鲁加": {
+        "我现在学英语的方法": "https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247484512&idx=1&sn=abbd48a5b2146e0dba2738f600fa3fdc&chksm=c01a8951f76d0047f844d45aeaa577013554953ec00a45bc8f0169a2913082bec1e33baf6d3b&scene=58&subscene=0#rd"
+    },
+    "极客公园": {
+        "3.48 秒「破百」的纯电 SUV，差点把我送走": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653011846&idx=1&sn=a988079b05a0b39bb28a09ad913ea02d&chksm=7e54c23049234b26ccacf79048310e97a640e9e80a71fc9a33dce0b7201ebc7bfb53a228fe6d&scene=58&subscene=0#rd",
+        "宫崎骏吉卜力工作室被收购；传菜鸟已交招股书，或成阿里第一上市子业务；《博德之门 3》登陆 Mac 平台 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653011820&idx=1&sn=3b76024ed04dded08d664f989e59c7be&chksm=7e54c2da49234bccca2379345b0f8d3480a05b07c35592c4974e0e2aa9ec619d623f9eba0234&scene=58&subscene=0#rd"
+    },
+    "安全研究GoSSIP": {
+        "华盛顿州立大学EECS系Dr. Xu Lin课题组现招收全奖博士生": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247496380&idx=1&sn=cb114b9c8468008e8557d6d92517654d&chksm=c063dc65f7145573b7c5d279283faf25bbd97d357d7d556aa84ef503a33e819962cfc359d61f&scene=58&subscene=0#rd"
+    },
+    "黑海洋 - WIKI": {
+        "ChatGPT API 水龙头": "https://blog.upx8.com/3846"
+    },
+    "迪哥讲事": {
+        "如何将LFI漏洞从高危升级为严重": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247492027&idx=1&sn=b3103bc423916d000130703a57b2e6e5&chksm=e8a5ebd8dfd262ced8661d5c4d3b144dc09149410c8badb3603ffe39ce2cdc2ed56608ae38e6&scene=58&subscene=0#rd",
+        "自动化扫描器 -- AutoScanner": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247492027&idx=2&sn=7816147927919cd775c9425981494515&chksm=e8a5ebd8dfd262ceb69ccdd237a2b97528bb2b30b2bc1ee0949230c7002a06eaef8d37480062&scene=58&subscene=0#rd"
+    },
+    "Hakin9 –  IT Security Magazine": {
+        "Leveraging AI in Cybersecurity: Transforming Threat Detection, Prevention, and Beyond": "https://hakin9.org/leveraging-ai-in-cybersecurity-transforming-threat-detection-prevention-and-beyond/"
+    },
+    "Il Disinformatico": {
+        "Thunderbird aggiornato, come si riattiva la colorazione alternata nel pannello dei messaggi?": "http://attivissimo.blogspot.com/2023/09/thunderbird-aggiornato-come-si-riattiva.html",
+        "La moderazione di questo blog diventa più aperta, grazie ai troll. Sì, avete capito bene": "http://attivissimo.blogspot.com/2023/09/la-moderazione-di-questo-blog-diventa.html",
+        "Mastodon 4.2 aggiunge la funzione di ricerca globale: se volete essere trovabili, ecco come fare": "http://attivissimo.blogspot.com/2023/09/mastodon-42-aggiunge-la-funzione-di.html"
+    },
+    "漏洞战争": {
+        "软件工程学术顶刊——TSE 2022 （网络安全方向）论文清单、摘要与总结": "https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247485166&idx=1&sn=8739160ce958c5e644d2aa62be19b666&chksm=fb041216cc739b00323f01e0ed9b15ffda2d8b53ee4fe60887e7dfc1ea5973b0e5881525e850&scene=58&subscene=0#rd"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "Scanning for Laravel - a PHP Framework for Web Artisants, (Sat, Sep 23rd)": "https://isc.sans.edu/diary/rss/30242"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "National Student Clearinghouse data breach impacts 890 schools": "https://www.bleepingcomputer.com/news/security/national-student-clearinghouse-data-breach-impacts-890-schools/",
+        "Evasive Gelsemium hackers spotted in attack against Asian govt": "https://www.bleepingcomputer.com/news/security/evasive-gelsemium-hackers-spotted-in-attack-against-asian-govt/",
+        "Air Canada discloses data breach of employee and 'certain records'": "https://www.bleepingcomputer.com/news/security/air-canada-discloses-data-breach-of-employee-and-certain-records/",
+        "Malware Persistence Locations: Windows and Linux": "https://marcoramilli.com/2023/09/23/malware-persistence-locations-windows-and-linux/",
+        "LastPass: ‘Horse Gone Barn Bolted’ is Strong Password": "https://krebsonsecurity.com/2023/09/lastpass-horse-gone-barn-bolted-is-strong-password/"
+    },
+    "Full Disclosure": {
+        "APPLE-SA-2023-09-21-6 macOS Ventura 13.6": "https://seclists.org/fulldisclosure/2023/Sep/19",
+        "APPLE-SA-2023-09-21-7 macOS Monterey 12.7": "https://seclists.org/fulldisclosure/2023/Sep/18",
+        "APPLE-SA-2023-09-21-5 watchOS 9.6.3": "https://seclists.org/fulldisclosure/2023/Sep/17",
+        "APPLE-SA-2023-09-21-4 watchOS 10.0.1": "https://seclists.org/fulldisclosure/2023/Sep/16",
+        "APPLE-SA-2023-09-21-3 iOS 16.7 and iPadOS 16.7": "https://seclists.org/fulldisclosure/2023/Sep/15",
+        "APPLE-SA-2023-09-21-2 iOS 17.0.1 and iPadOS 17.0.1": "https://seclists.org/fulldisclosure/2023/Sep/14",
+        "APPLE-SA-2023-09-21-1 Safari 16.6.1": "https://seclists.org/fulldisclosure/2023/Sep/13",
+        "Advisory X41-2023-001: Two Vulnerabilities in OPNsense": "https://seclists.org/fulldisclosure/2023/Sep/12"
+    },
+    "Social Engineering": {
+        "I feel like I was born a few seconds ago": "https://www.reddit.com/r/SocialEngineering/comments/16qdybe/i_feel_like_i_was_born_a_few_seconds_ago/"
+    },
+    "Deep Web": {
+        "What the hell is a “clown”?": "https://www.reddit.com/r/deepweb/comments/16qbnmk/what_the_hell_is_a_clown/"
+    },
+    "KitPloit - PenTest Tools!": {
+        "HTMLSmuggler - HTML Smuggling Generator And Obfuscator For Your Red Team Operations": "http://www.kitploit.com/2023/09/htmlsmuggler-html-smuggling-generator.html"
+    },
+    "netsecstudents: Subreddit for students studying Network Security and its related subjects": {
+        "Microsoft Azure Sentinel: Adding TLPs (Traffic Light Patterns) to Incidents, Alerts and Analytics Rules": "https://www.reddit.com/r/netsecstudents/comments/16pyxs9/microsoft_azure_sentinel_adding_tlps_traffic/",
+        "Underrated textbooks for network security(and less cryptography)?": "https://www.reddit.com/r/netsecstudents/comments/16px66x/underrated_textbooks_for_network_securityand_less/"
+    },
+    "The Hacker News": {
+        "Deadglyph: New Advanced Backdoor with Distinctive Malware Tactics": "https://thehackernews.com/2023/09/deadglyph-new-advanced-backdoor-with.html",
+        "New Apple Zero-Days Exploited to Target Egyptian ex-MP with Predator Spyware": "https://thehackernews.com/2023/09/latest-apple-zero-days-used-to-hack.html"
+    },
+    "Security Affairs": {
+        "Government of Bermuda blames Russian threat actors for the cyber attack": "https://securityaffairs.com/151273/hacking/government-of-bermuda-cyberattack.html",
+        "City of Dallas has set a budget of $8.5 million to mitigate the May Royal ransomware attack": "https://securityaffairs.com/151264/data-breach/city-of-dallas-royal-ransomware-attack-may.html"
+    },
+    "Blackhat Library: Hacking techniques and research": {
+        "The MITRE ATT&CK Framework Explained | Threat Intelligence and Modeling | Part 1": "https://www.reddit.com/r/blackhat/comments/16puq73/the_mitre_attck_framework_explained_threat/"
+    },
+    "Your Hacking Tutorial by Zempirians": {
+        "Looking to build a CTF on http request smuggling, but keep returning 400 Bad Request": "https://www.reddit.com/r/HowToHack/comments/16qc27y/looking_to_build_a_ctf_on_http_request_smuggling/",
+        "PowerShell evasion": "https://www.reddit.com/r/HowToHack/comments/16pxfl4/powershell_evasion/"
+    }
+}
