@@ -1,0 +1,161 @@
+{
+    "Security Boulevard": {
+        "Why Enterprises Switch to SafeBreach": "https://securityboulevard.com/2023/09/why-enterprises-switch-to-safebreach/",
+        "Unlock BYOD Benefits: Policy Guide for Small Business 2023!": "https://securityboulevard.com/2023/09/unlock-byod-benefits-policy-guide-for-small-business-2023/",
+        "Cyber Week 2023 & The Israel National Cyber Directorate Presents – CIO Perspectives and the Innovation Community": "https://securityboulevard.com/2023/09/cyber-week-2023-the-israel-national-cyber-directorate-presents-cio-perspectives-and-the-innovation-community/",
+        "What CIOs Can Learn from Airbnb’s Official ‘Party Pooper’": "https://securityboulevard.com/2023/09/what-cios-can-learn-from-airbnbs-official-party-pooper/",
+        "A Guide to Understanding the Three CMMC Levels": "https://securityboulevard.com/2023/09/a-guide-to-understanding-the-three-cmmc-levels/"
+    },
+    "Sec-News 安全文摘": {
+        "iOS 17隐私设置指南": "https://govuln.com/news/url/MMJa"
+    },
+    "SecWiki News": {
+        "SecWiki News 2023-09-24 Review": "http://www.sec-wiki.com/?2023-09-24"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sun Sep 24 10:57:58 UTC 2023": "https://github.com/trickest/cve/commit/b9601a054bc54b4124ab91125bcec9b1a0f01bf7"
+    },
+    "unSafe.sh - 不安全": {
+        "Reverse-engineering the classic MK4116 16-kilobit DRAM chip": "https://buaq.net/go-177820.html",
+        "Obs141｜Opener與Open Gate外掛－開啟在新分頁與開啟網頁＋內嵌網頁": "https://buaq.net/go-177821.html",
+        "iOS 17隐私设置指南": "https://buaq.net/go-177809.html",
+        "网友称为境外公司远程工作被没收所有违法所得": "https://buaq.net/go-177818.html",
+        "点一下能解决的事就别长按：Android 应用快捷方式面面观": "https://buaq.net/go-177810.html",
+        "EDRaser - Tool For Remotely Deleting Access Logs, Windows Event Logs, Databases, And Other Files": "https://buaq.net/go-177808.html",
+        "Gmail 将从明年 1 月起停止支持基本 HTML 视图": "https://buaq.net/go-177805.html",
+        "IIS 提权修复": "https://buaq.net/go-177804.html"
+    },
+    "InfoSec Write-ups - Medium": {
+        "Mastering BTL1: Journey, Tips, and Insights for Cyber Defenders": "https://infosecwriteups.com/blue-team-level-1-btl1-training-course-exam-review-and-tips-march-2023-7bb00597b5ad?source=rss----7b722bfd1b8d---4",
+        "eJPT v2 Review: Decoding the eLearn Security’s Junior Penetration Tester Certification": "https://infosecwriteups.com/ejpt-v2-review-elearn-jpt-certification-423d7c940d9a?source=rss----7b722bfd1b8d---4",
+        "10 Beginner-Friendly Cybersecurity Projects to Kickstart Your Journey": "https://infosecwriteups.com/10-beginner-friendly-cybersecurity-projects-to-kickstart-your-journey-2acc7250a744?source=rss----7b722bfd1b8d---4",
+        "Unmasking Directory Traversal: Navigating Vulnerabilities in Web Applications (Techniques +…": "https://infosecwriteups.com/unmasking-directory-traversal-navigating-vulnerabilities-in-web-applications-techniques-e5a75c1f6753?source=rss----7b722bfd1b8d---4",
+        "Injecting Danger: Understanding Server-Side Template Exploits": "https://infosecwriteups.com/injecting-danger-understanding-server-side-template-exploits-710f48811715?source=rss----7b722bfd1b8d---4",
+        "The Evolution of Cybersecurity: From Enigma to Quantum Cryptography": "https://infosecwriteups.com/the-evolution-of-cybersecurity-from-enigma-to-quantum-cryptography-653134464af3?source=rss----7b722bfd1b8d---4",
+        "Revolutionizing Bug Bounty Hunting: Unleashing the AI Advantage with Chat GPT": "https://infosecwriteups.com/revolutionizing-bug-bounty-hunting-unleashing-the-ai-advantage-with-chat-gpt-7949c45386b1?source=rss----7b722bfd1b8d---4",
+        "Exploit Analysis: Request-Baskets v1.2.1 Server-side Request Forgery (SSRF)": "https://infosecwriteups.com/exploit-analysis-request-baskets-v1-2-1-server-side-request-forgery-ssrf-688fffd1f424?source=rss----7b722bfd1b8d---4",
+        "Introduction to External Penetration Testing Assessments": "https://infosecwriteups.com/introduction-to-external-penetration-testing-assessments-d289b1721319?source=rss----7b722bfd1b8d---4",
+        "How to Create a Free Kali Linux Machine in the Cloud": "https://infosecwriteups.com/how-to-create-a-free-kali-linux-machine-in-the-cloud-450707d32a79?source=rss----7b722bfd1b8d---4"
+    },
+    "嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com": {
+        "完整分析cuba勒索软件（下）": "https://www.4hou.com/posts/GXE7",
+        "史上最严重的10起勒索软件攻击": "https://www.4hou.com/posts/NKR6"
+    },
+    "ongoing by Tim Bray": {
+        "Digger Unearthed": "https://www.tbray.org/ongoing/When/202x/2023/09/24/Digger-Unearthed"
+    },
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "Elasticsearch 8.5.3 Stack Overflow": "https://cxsecurity.com/issue/WLB-2023090077",
+        "TOTOLINK Wireless Routers Remote Command Execution": "https://cxsecurity.com/issue/WLB-2023090076",
+        "PHP Type Confusion Vulnerability Leading to Administrator Account Takeover via Authentication Bypass": "https://cxsecurity.com/issue/WLB-2023090075",
+        "Taskhub 2.8.8 Cross Site Scripting": "https://cxsecurity.com/issue/WLB-2023090074"
+    },
+    "Bug Bounty in InfoSec Write-ups on Medium": {
+        "Unmasking Directory Traversal: Navigating Vulnerabilities in Web Applications (Techniques +…": "https://infosecwriteups.com/unmasking-directory-traversal-navigating-vulnerabilities-in-web-applications-techniques-e5a75c1f6753?source=rss----7b722bfd1b8d--bug_bounty",
+        "Revolutionizing Bug Bounty Hunting: Unleashing the AI Advantage with Chat GPT": "https://infosecwriteups.com/revolutionizing-bug-bounty-hunting-unleashing-the-ai-advantage-with-chat-gpt-7949c45386b1?source=rss----7b722bfd1b8d--bug_bounty",
+        "Exploit Analysis: Request-Baskets v1.2.1 Server-side Request Forgery (SSRF)": "https://infosecwriteups.com/exploit-analysis-request-baskets-v1-2-1-server-side-request-forgery-ssrf-688fffd1f424?source=rss----7b722bfd1b8d--bug_bounty",
+        "Managing AXIOM instances": "https://infosecwriteups.com/the-power-of-axiom-part-3-b68acdf085be?source=rss----7b722bfd1b8d--bug_bounty",
+        "Core Functionality of AXIOM": "https://infosecwriteups.com/the-power-of-axiom-part-2-8d0272617b92?source=rss----7b722bfd1b8d--bug_bounty",
+        "The Introduction to AXIOM": "https://infosecwriteups.com/the-power-of-axiom-part-1-185200680bd9?source=rss----7b722bfd1b8d--bug_bounty",
+        "Reverse Search IDOR approach to Exposure of all Organizational Sensitive Information.": "https://infosecwriteups.com/reverse-search-idor-approach-to-exposure-of-all-organizational-sensitive-information-954220b96a59?source=rss----7b722bfd1b8d--bug_bounty"
+    },
+    "白帽Wiki - 一个简单的wiki": {
+        "[2023]给火绒接了云查": "https://key08.com/index.php/2023/09/24/1792.html"
+    },
+    "SAP Blogs": {
+        "Exploring the Intersection of Design Thinking and Life-Centred Design": "https://blogs.sap.com/2023/09/24/exploring-the-intersection-of-design-thinking-and-life-centred-design/",
+        "SAP Data Sphere Business Case Scenarios & Implementation Stratergies.": "https://blogs.sap.com/2023/09/24/sap-data-sphere-implementation-stratergy-business-case-scenarios/",
+        "Unleashing Synergy: Master the Future of Cloud Development with SAP BTP and AWS": "https://blogs.sap.com/2023/09/24/unleashing-synergy-master-the-future-of-cloud-development-with-sap-btp-and-aws/"
+    },
+    "Reverse Engineering": {
+        "Reverse-engineering the classic MK4116 16-kilobit DRAM chip": "https://www.reddit.com/r/ReverseEngineering/comments/16r0dy9/reverseengineering_the_classic_mk4116_16kilobit/",
+        "ImHex v1.31.0 has been released! Including a full command line interface, a .NET Script loader and a built-in tutorial in the form of Achievements": "https://www.reddit.com/r/ReverseEngineering/comments/16r5wb4/imhex_v1310_has_been_released_including_a_full/",
+        "Computer System Interrupts: Details how hardware and software components interact to handle interrupts efficiently. Flowchart, Code, and Real-world Example.": "https://www.reddit.com/r/ReverseEngineering/comments/16qn4du/computer_system_interrupts_details_how_hardware/"
+    },
+    "看雪学苑": {
+        "反编译原理控制流分析": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458518567&idx=1&sn=92d799d8624be2e9bd51db952212ebd5&chksm=b18d34ad86fabdbb8baf88b8914fd2643d6ccb7439cd08bc6d7c9f181f63770a355d71005563&scene=58&subscene=0#rd",
+        "赛况播报 | 2023 KCTF-第十题《精准攻击》已开赛": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458518567&idx=2&sn=119d24377ef5ab8c987fd178d51801ed&chksm=b18d34ad86fabdbbcd3147a8f2f4f9e0ec36db9c96b1ea9016d3c81636ded7ddfea25cc2178f&scene=58&subscene=0#rd",
+        "Windows内核漏洞分析与EXP编写技巧": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458518567&idx=3&sn=5845aa88a06560b5666eae7ce4ae039b&chksm=b18d34ad86fabdbb626f57e5bcdf1970f5e157e5d5c7240f8e4793f1fd8bef5c5413deaafa7e&scene=58&subscene=0#rd"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "网友称为境外公司远程工作被没收所有违法所得": "https://www.solidot.org/story?sid=76177",
+        "Gmail 将从明年 1 月起停止支持基本 HTML 视图": "https://www.solidot.org/story?sid=76176",
+        "欧盟就英特尔付钱给 PC 厂商阻止 AMD 进入市场而罚款 4 亿美元": "https://www.solidot.org/story?sid=76175"
+    },
+    "dotNet安全矩阵": {
+        ".NET 武器库本周增量列表": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247488747&idx=1&sn=e138066063ba6a65351891366297b6dd&chksm=fa5aba06cd2d3310a64a71c5a9fcaff476c5738254798ae593c02fdf441a389817eddf4de3cb&scene=58&subscene=0#rd",
+        ".NET安全矩阵知识库优惠持续进行": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247488747&idx=2&sn=3fc46c8775d671985092f12c2986ceb3&chksm=fa5aba06cd2d33104529ff9185708dc6e2ec9a4c24039c7c8705e7d77d8b365ab05261526de0&scene=58&subscene=0#rd"
+    },
+    "KitPloit - PenTest & Hacking Tools": {
+        "EDRaser - Tool For Remotely Deleting Access Logs, Windows Event Logs, Databases, And Other Files": "http://www.kitploit.com/2023/09/edraser-tool-for-remotely-deleting.html"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【技巧】电话号码 OSINT 工具指南": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651139109&idx=1&sn=cd3206ababf7a3f026cb5f3092195b0c&chksm=f1af5b1fc6d8d209527620fb8fa638ec37e89a1bbacd7371e45dbe10a7cba34b8fdf740f2386&scene=58&subscene=0#rd"
+    },
+    "慢雾科技": {
+        "慢雾：Fiat-Shamir 冰心漏洞解析": "https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247498484&idx=1&sn=1f954283553ecf23e6a569a3b6aabd05&chksm=fdde8473caa90d65bfa7c6b118d12a80230d1309463fafd5eb2f1d704959321e9af3b45e267d&scene=58&subscene=0#rd"
+    },
+    "安全学术圈": {
+        "兰州大学 | ChatGPT 驱动的漏洞描述映射及评估": "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247489642&idx=1&sn=ba7b22a0b26dc774c88fccf13e5c60cb&chksm=fe2ee7e1c9596ef7bf2a7fbe5bcf58b95298ba984ce102fa149a3bfb7a29b5e72618097d6f8b&scene=58&subscene=0#rd"
+    },
+    "中国信息安全": {
+        "专家 | 论习近平总书记关于网络强国的重要思想的实践特质与实践路径": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664193721&idx=1&sn=fd00d216701a2ec16096ddf887fa9929&chksm=8b595c40bc2ed5562e7c0bc6d9299f3f4a31d8ef9a7fd616967333e00a42266c16d13a7f8f3a&scene=58&subscene=0#rd",
+        "倒计时1天！算力网络安全架构与数据安全治理技术研讨会": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664193721&idx=2&sn=431c1f25fc0b2fd64cf7c70414927272&chksm=8b595c40bc2ed556205c9bcac8402a046a3f1fd66a18acd29ed817735a82ab9d28b5ac3830c1&scene=58&subscene=0#rd",
+        "关注 | 中央网信办召开全国网络辟谣联动机制第一次全体会议": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664193721&idx=3&sn=95c7ef4b70d1b13d5d5c57ac35b1de6c&chksm=8b595c40bc2ed556cba6b9ecd08334b8579f6bd58b2565dbcfe865ad2db1e313dc54e841fc51&scene=58&subscene=0#rd",
+        "专家解读 | 防范人工智能算法风险的法律规制路径": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664193721&idx=4&sn=966547160a8c8b092f57b671fe44fda5&chksm=8b595c40bc2ed5561003f3096bafbc421cdc497776389c86ae5728a2e2a190b16d7f86cc6b30&scene=58&subscene=0#rd",
+        "评论 | 织牢用户个人信息防护网": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664193721&idx=5&sn=f69b6cef78301ad476d9a6a07ba04519&chksm=8b595c40bc2ed556735a3f926bfbf0319fba57613927a46633fa14c6c6691310c15b01a6bcd6&scene=58&subscene=0#rd",
+        "观点 | 加快推进帮信罪的社会综合治理": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664193721&idx=6&sn=fdab4d54d22b47ad5874820029f08e46&chksm=8b595c40bc2ed5565740dca586e28095746510ce1c3e674b0312cb8b6767e3e434ee8d3ede75&scene=58&subscene=0#rd"
+    },
+    "CNVD漏洞平台": {
+        "2022年度CNVD支撑单位年度工作情况及优秀单位个人表彰名单": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247493879&idx=1&sn=8e410c3be2ab1bfab006ff7775f1eb25&chksm=fd74d83eca035128ac4cccbec0de5224326b116e4ee36c8be693f8cffe0aaeebe0c6d136e5d4&scene=58&subscene=0#rd",
+        "关于新增贵州泰若数科等八家单位为CNVD支撑单位的公告": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247493879&idx=2&sn=013410d4a75c8e621eeee7ce0c31eaca&chksm=fd74d83eca035128df2af53c8185b52b4d04aecf87b8e41ea93acfb0f5d02adbd32d1a472cd4&scene=58&subscene=0#rd"
+    },
+    "极客公园": {
+        "华为 Mate 60 RS 外观泄露；顶配 iPhone 15 卖太好苹果加单；《生化危机：村庄》将登陆 iOS| 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653011877&idx=1&sn=ce57571cb24659cb103628dc9a7311d0&chksm=7e54c21349234b0576a91651269c03cd65286905169e946c03478b655a8cba2aa1714dd17988&scene=58&subscene=0#rd"
+    },
+    "迪哥讲事": {
+        "【0 day】畅捷CRM SQL注入漏洞获取管理员账号密码": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247492031&idx=1&sn=a86406f133e36d1f2d34f3cbf05a0c81&chksm=e8a5ebdcdfd262caf2dd04029ebc49b6a2843385c59cd3a2ab9bd214a260e2e5fe2f6f337f0d&scene=58&subscene=0#rd"
+    },
+    "Desync InfoSec": {
+        "第十课 收集威胁情报数据源——域名（二）": "https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247486880&idx=1&sn=01898fa32f23939c18bba7538e1d3176&chksm=c27f7e0ef508f7182218733196c4bb01a413c06bea31ab5217523202aa70683e1e20da488c84&scene=58&subscene=0#rd",
+        "【CTI】网络威胁情报培训案例学习之毒卷风行动": "https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247486880&idx=2&sn=94dd3f96f304484c9165ea6a183fe384&chksm=c27f7e0ef508f7181c77977344839d8671919849e4feef2405f3c10ca233809c67cc36a5f4f3&scene=58&subscene=0#rd",
+        "【CTI】网络威胁情报培训案例学习之史诗图拉": "https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247486880&idx=3&sn=917ab34ccccd30aafa64cdd820775c50&chksm=c27f7e0ef508f7186751009ecb79598afe0b19ff5dfa8a399016b8308a5243324159de693175&scene=58&subscene=0#rd"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "Client-side JavaScript Instrumentation": "https://blog.doyensec.com//2023/09/25/clientside-javascript-instrumentation.html",
+        "Guerre di Rete - Identikit di OpenAI": "https://guerredirete.substack.com/p/guerre-di-rete-identikit-di-openai"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "YARA Support for .LNK Files, (Sun, Sep 24th)": "https://isc.sans.edu/diary/rss/30244"
+    },
+    "Tor Project blog": {
+        "New Alpha Release: Tor Browser 13.0a5 (Android, Windows, macOS, Linux)": "https://blog.torproject.org/new-alpha-release-tor-browser-130a5/"
+    },
+    "Security Affairs": {
+        "Deadglyph, a very sophisticated and unknown backdoor targets the Middle East": "https://securityaffairs.com/151298/malware/deadglyph-backdoor-middle-east.html",
+        "Alphv group claims the hack of Clarion, a global manufacturer of audio and video equipment for cars": "https://securityaffairs.com/151299/data-breach/alphv-ransomware-hacked-clarion.html",
+        "Security Affairs newsletter Round 438 by Pierluigi Paganini – International edition": "https://securityaffairs.com/151293/breaking-news/security-affairs-newsletter-round-438-by-pierluigi-paganini-international-edition.html",
+        "National Student Clearinghouse data breach impacted approximately 900 US schools": "https://securityaffairs.com/151281/data-breach/national-student-clearinghouse-data-breach.html"
+    },
+    "KitPloit - PenTest Tools!": {
+        "EDRaser - Tool For Remotely Deleting Access Logs, Windows Event Logs, Databases, And Other Files": "http://www.kitploit.com/2023/09/edraser-tool-for-remotely-deleting.html"
+    },
+    "Deep Web": {
+        "taur_node": "https://www.reddit.com/r/deepweb/comments/16r14wx/taur_node/"
+    },
+    "Your Hacking Tutorial by Zempirians": {
+        "How does Hacker101 recognize a flag has been captured?": "https://www.reddit.com/r/HowToHack/comments/16ra4cm/how_does_hacker101_recognize_a_flag_has_been/"
+    },
+    "netsecstudents: Subreddit for students studying Network Security and its related subjects": {
+        "Should I take the minor degree?": "https://www.reddit.com/r/netsecstudents/comments/16ra0cq/should_i_take_the_minor_degree/",
+        "Past week in brief - Microsoft's 38TB Data Leak, Cisco's Splunk Acquisition, Apple's Triple Zero-Days, LastPass Security Update, and OpenAI's Red Teaming Initiative": "https://www.reddit.com/r/netsecstudents/comments/16qssz5/past_week_in_brief_microsofts_38tb_data_leak/",
+        "Does OWASP teaches me how to resolve security issues?": "https://www.reddit.com/r/netsecstudents/comments/16r4bkk/does_owasp_teaches_me_how_to_resolve_security/",
+        "Should I switch majors from cyber security to computer science?": "https://www.reddit.com/r/netsecstudents/comments/16qooml/should_i_switch_majors_from_cyber_security_to/",
+        "HTB Mantis. How to identify MS14-068?": "https://www.reddit.com/r/netsecstudents/comments/16qv4nj/htb_mantis_how_to_identify_ms14068/",
+        "Trying to generate TLS 1.3 Alert": "https://www.reddit.com/r/netsecstudents/comments/16qqmtm/trying_to_generate_tls_13_alert/"
+    },
+    "Blackhat Library: Hacking techniques and research": {
+        "SQL Injection | Bypassing Double Quotes | OverTheWire Natas Level 14": "https://www.reddit.com/r/blackhat/comments/16qz0kv/sql_injection_bypassing_double_quotes_overthewire/",
+        "Affordable EMFI Attacks Against Modern IoT Chips by Davide Toldo": "https://www.reddit.com/r/blackhat/comments/16qnx0x/affordable_emfi_attacks_against_modern_iot_chips/"
+    }
+}
