@@ -1,0 +1,157 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2023-09-30 Review": "http://www.sec-wiki.com/?2023-09-30"
+    },
+    "HackerOne Hacker Activity": {
+        "CVE-2023-30587 Process-based permissions can be bypassed with the \"inspector\" module.": "https://hackerone.com/reports/2078581"
+    },
+    "Security Boulevard": {
+        "Avoid libwebp Electron Woes On macOS With positron": "https://securityboulevard.com/2023/09/avoid-libwebp-electron-woes-on-macos-with-positron/",
+        "A Closer Look at the Snatch Data Ransom Group": "https://securityboulevard.com/2023/09/a-closer-look-at-the-snatch-data-ransom-group/",
+        "Discover Endpoint VPN in 2023: Unlocking Secure Remote Access": "https://securityboulevard.com/2023/09/discover-endpoint-vpn-in-2023-unlocking-secure-remote-access/",
+        "DEF CON 31 – Lorenzo Cococcia ‘s ‘War Stories – Finding Foes And Yourself With Latency Trilateration’": "https://securityboulevard.com/2023/09/def-con-31-lorenzo-cococcia-s-war-stories-finding-foes-and-yourself-with-latency-trilateration/",
+        "2023 OWASP Top-10 Series: API10:2023 Unsafe Consumption of APIs": "https://securityboulevard.com/2023/09/2023-owasp-top-10-series-api102023-unsafe-consumption-of-apis/"
+    },
+    "嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com": {
+        "分析新BBTok 恶意银行软件变体的服务器端组件": "https://www.4hou.com/posts/xzw9",
+        "GPU.zip：侧信道漏洞影响主流GPU，至今未被修复": "https://www.4hou.com/posts/5wXB"
+    },
+    "Vitalik Buterin's website": {
+        "Should Ethereum be okay with enshrining more things in the protocol?": "https://vitalik.ca/general/2023/09/30/enshrinement.html"
+    },
+    "bunnie's blog": {
+        "Bypassing Windows 11 Account Setup": "https://www.bunniestudios.com/blog/?p=6835",
+        "Name that Ware, September 2023": "https://www.bunniestudios.com/blog/?p=6826",
+        "Winner, Name that Ware August 2023": "https://www.bunniestudios.com/blog/?p=6820"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sat Sep 30 10:54:04 UTC 2023": "https://github.com/trickest/cve/commit/6755216522344e14273973a26fe3898c9c5ca561"
+    },
+    "Hacking Articles": {
+        "Python Serialization Vulnerabilities – Pickle": "https://www.hackingarticles.in/python-serialization-vulnerabilities-pickle/"
+    },
+    "Dancho Danchev's Offensive Warfare 2.0 – The Web's Primary Cybercrime Research OSINT And Threat Intelligence Central Clearing House": {
+        "A Compilation of Personally Identifiable IP Addresses from Verified.cm Forum Team Members – An OSINT Analysis – An OSINT Analysis": "https://feedpress.me/link/23736/16373273/a-compilation-of-personally-identifiable-ip-addresses-from-verified-cm-forum-team-members-an-osint-analysis-an-osint-analysis",
+        "A Compilation of Personally Identifiable Email Address Accounts from Verified.cm Forum Team Members – An OSINT Analysis": "https://feedpress.me/link/23736/16373274/a-compilation-of-personally-identifiable-email-address-accounts-from-verified-cm-forum-team-members-an-osint-analysis",
+        "A Compilation of Personally Identifiable IP Addresses from the Ghostmarket Forum Team Members – An OSINT Analysis": "https://feedpress.me/link/23736/16373275/a-compilation-of-personally-identifiable-ip-addresses-from-the-ghostmarket-forum-team-members-an-osint-analysis",
+        "A Compilation of Personally Identifiable Email Address Accounts from the Ghostmarket Forum Team Members – An OSINT Analysis": "https://feedpress.me/link/23736/16373276/a-compilation-of-personally-identifiable-email-address-accounts-from-the-ghostmarket-forum-team-members-an-osint-analysis",
+        "A Compilation of Personally Identifiable Targeted IP Addresses from Booter.tw Malicious Web Site Stress Testing Tool – An OSINT Analysis": "https://feedpress.me/link/23736/16373277/a-compilation-of-personally-identifiable-targeted-ip-addresses-from-booter-tw-malicious-web-site-stress-testing-tool-an-osint-analysis",
+        "A Compilation of Personally Identifiable Email Address Accounts from Booter.tw Malicious Web Site Stress Testing Tool – An OSINT Analysis": "https://feedpress.me/link/23736/16373278/a-compilation-of-personally-identifiable-email-address-accounts-from-booter-tw-malicious-web-site-stress-testing-tool-an-osint-analysis",
+        "A Compilation of Personally Identifiable IP Addresses from Anonymous Hackers Forum Team Members – An OSINT Analysis": "https://feedpress.me/link/23736/16373279/a-compilation-of-personally-identifiable-ip-addresses-from-anonymous-hackers-forum-team-members-an-osint-analysis",
+        "A Compilation of Personally Identifiable Email Address Accounts from Anonymous Hackers Forum Team Members – An OSINT Analysis": "https://feedpress.me/link/23736/16373280/a-compilation-of-personally-identifiable-email-address-accounts-from-anonymous-hackers-forum-team-members-an-osint-analysis"
+    },
+    "SAP Blogs": {
+        "SAP SuccessFactors Opportunity Marketplace & SAP Business AI-powered Recommendation": "https://blogs.sap.com/2023/09/30/sap-successfactors-opportunity-marketplace-sap-business-ai-powered-recommendation/",
+        "TRM Treasury – Organizational – Company code – Valuation Area – Configuration": "https://blogs.sap.com/2023/09/30/trm-treasury-organizational-company-code-valuation-area-configuration/",
+        "What’s new in Job Monitoring in SAP Cloud ALM": "https://blogs.sap.com/2023/09/30/whats-new-in-job-monitoring-in-sap-cloud-alm/",
+        "About Default Credit Limit for new Business Partner": "https://blogs.sap.com/2023/09/30/about-default-credit-limit-for-new-business-partner/"
+    },
+    "Reverse Engineering": {
+        "Flare-On10 challenges start this weekend": "https://www.reddit.com/r/ReverseEngineering/comments/16vzdzu/flareon10_challenges_start_this_weekend/",
+        "HACK Victims with just a Word Document! Not Zero-Day | Windows Defender Bypass": "https://www.reddit.com/r/ReverseEngineering/comments/16wg3sb/hack_victims_with_just_a_word_document_not/"
+    },
+    "Malware-Traffic-Analysis.net - Blog Entries": {
+        "2023-09-28 - IcedID (Bokbot) infection with Keyhole VNC and Cobalt Strike": "https://www.malware-traffic-analysis.net/2023/09/28/index.html"
+    },
+    "Didier Stevens": {
+        "Update: hash.py Version 0.0.10": "https://blog.didierstevens.com/2023/09/30/update-hash-py-version-0-0-10/",
+        "Update: zipdump.py Version 0.0.28": "https://blog.didierstevens.com/2023/09/30/update-zipdump-py-version-0-0-28-2/",
+        "Update: file-magic.py Version 0.0.7": "https://blog.didierstevens.com/2023/09/30/update-file-magic-py-version-0-0-7/",
+        "Update: emldump.py Version 0.0.13": "https://blog.didierstevens.com/2023/09/30/update-emldump-py-version-0-0-13/"
+    },
+    "Wallarm": {
+        "2023 OWASP Top-10 Series: API10:2023 Unsafe Consumption of APIs": "https://lab.wallarm.com/api102023-unsafe-consumption-of-apis/"
+    },
+    "rtl-sdr.com": {
+        "Discovery Dish Pre-Launch: A Lightweight Dish and Feed for L-Band Weather Satellites and Hydrogen Line Reception": "https://www.rtl-sdr.com/discovery-dish-pre-launch-a-lightweight-dish-and-feed-for-l-band-weather-satellites-and-hydrogen-line-reception/"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "欧洲多国 9 月气温创纪录": "https://www.solidot.org/story?sid=76234",
+        "瑞士冰川体积两年损失十分之一": "https://www.solidot.org/story?sid=76233",
+        "AMD 发布 FSR 3": "https://www.solidot.org/story?sid=76232",
+        "印度查税联想办事处": "https://www.solidot.org/story?sid=76231",
+        "苹果中国 App Store 将不允许未备案应用上架": "https://www.solidot.org/story?sid=76230"
+    },
+    "KitPloit - PenTest & Hacking Tools": {
+        "Electron_Shell - Developing A More Covert Remote Access Trojan (RAT) Tool By Leveraging Electron's Features For Command Injection And Combining It With Remote Control Methods": "http://www.kitploit.com/2023/09/electronshell-developing-more-covert.html"
+    },
+    "青衣十三楼飞花堂": {
+        "求解一个简单的RSA题目": "https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247486844&idx=1&sn=8e018740ca21a4598b705db0b4a57e66&chksm=fab2ce43cdc5475572e48a30d782c4d8eaf6f20ed681f8c1d8cf5c2ea4899667611e1b80c38b&scene=58&subscene=0#rd"
+    },
+    "dotNet安全矩阵": {
+        "中秋国庆福利第1弹：送书": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247488825&idx=1&sn=e5d15d7384a9ffadd07b78b4ea3f8c02&chksm=fa5abbd4cd2d32c22cdb64cc674a029469d054fcc84887482ba55d79b201cb345085813c3139&scene=58&subscene=0#rd"
+    },
+    "看雪学苑": {
+        "看雪2023 KCTF年度赛 | 第11题·步步逼近-设计思路及解析": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458520790&idx=1&sn=c82a730ba8566df4f220c849d7ed2087&chksm=b18d3c5c86fab54a7e5f0947d3db3bc1f39643290c8eef89626d64705ea51e8fcb1618d0fba6&scene=58&subscene=0#rd",
+        "国庆充电不停！系统0day安全-Windows平台漏洞挖掘": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458520790&idx=2&sn=957e67b97580bf11f4027363d2db9ed5&chksm=b18d3c5c86fab54aefbf5bb78339e79629d90b4a4e9de8747f6e46bee2b4b202c2d5478193d1&scene=58&subscene=0#rd"
+    },
+    "极客公园": {
+        "Google 25 周年｜ 2.0——从「X」到 「Alphabet」": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653014889&idx=1&sn=eee5fe627f70a427a4a1a136c719d9bc&chksm=7e54b6df49233fc9d5ffbf53edea1d6ccb854f0f5f10783431f00b3ce6276beb8e884aeadd54&scene=58&subscene=0#rd",
+        "想要取代手机的 XR 头显，苦苦搭建底层基础": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653014889&idx=2&sn=5311a8369a68a089b0d014939a38eea4&chksm=7e54b6df49233fc942299219f6ae748c7a20c7e65305ed94f9ca9cbed30d015f30b7a1066b10&scene=58&subscene=0#rd",
+        "库克：苹果正在研究类 ChatGPT AI；京东：线上卖特斯拉消息不实；中秋全国旅客发送超 6000 万 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653014475&idx=1&sn=329966fb5675c486076671d428c82cf8&chksm=7e54b47d49233d6bfc41f4d1b7cde5346dd3aad15eb688e957f9f7470b861cc067ce10f59512&scene=58&subscene=0#rd"
+    },
+    "情报分析师": {
+        "在线诈骗活动和贩运——东南亚的犯罪活动": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650539505&idx=1&sn=6441b5d8b92738db1072ee39777b4bb1&chksm=87112bbab066a2ac89627e5418f7199f32851dacccc61097675b51a0b9657064ab53b41c1233&scene=58&subscene=0#rd",
+        "最新简报产品《今日安全》每日持续更新中！": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650539505&idx=2&sn=bacf37c707644249d07c2d14b906f066&chksm=87112bbab066a2ac270bc5ee1e2e03d7560357b38c03b0dbc474c8e8f4faa8ffa686a099b305&scene=58&subscene=0#rd",
+        "关注小号，谨防失联！": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650539505&idx=3&sn=6aef64e820cca01519b4acaa7115b3f1&chksm=87112bbab066a2ac3067300c5db8f18ac0deff7b12cf7d37cdc97a1691357cb2d7abecaf856b&scene=58&subscene=0#rd"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "A Closer Look at the Snatch Data Ransom Group": "https://krebsonsecurity.com/2023/09/a-closer-look-at-the-snatch-data-ransom-group/"
+    },
+    "网安寻路人": {
+        "《规范和促进数据跨境流动规定（征求意见稿）》英文全文翻译": "https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247500451&idx=1&sn=a72e1e5f80f5a212a0f1f0bdf53a10f5&chksm=97e97f49a09ef65ff99d04715ccbbbbe93aa9e47faaf79654773e8233298446f8bf4a7e867a2&scene=58&subscene=0#rd"
+    },
+    "Il Disinformatico": {
+        "Carrying the Fire: se siete donatori cartacei, controllate la bozza!": "http://attivissimo.blogspot.com/2023/09/carrying-fire-se-siete-donatori.html"
+    },
+    "Troy Hunt's Blog": {
+        "Weekly Update 367": "https://www.troyhunt.com/weekly-update-367/"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "Simple Netcat Backdoor in Python Script, (Sat, Sep 30th)": "https://isc.sans.edu/diary/rss/30264"
+    },
+    "KitPloit - PenTest Tools!": {
+        "Electron_Shell - Developing A More Covert Remote Access Trojan (RAT) Tool By Leveraging Electron's Features For Command Injection And Combining It With Remote Control Methods": "http://www.kitploit.com/2023/09/electronshell-developing-more-covert.html"
+    },
+    "Information Security": {
+        "Alternative to Archer": "https://www.reddit.com/r/Information_Security/comments/16wc6wj/alternative_to_archer/"
+    },
+    "Social Engineering": {
+        "Overly formal & inappropriately abstract natural writing style": "https://www.reddit.com/r/SocialEngineering/comments/16waxro/overly_formal_inappropriately_abstract_natural/",
+        "Phrases when asking favors, that make other person feel in control?": "https://www.reddit.com/r/SocialEngineering/comments/16w3uhz/phrases_when_asking_favors_that_make_other_person/",
+        "Best YouTube channels to learn manipulation": "https://www.reddit.com/r/SocialEngineering/comments/16vypfp/best_youtube_channels_to_learn_manipulation/"
+    },
+    "Your Hacking Tutorial by Zempirians": {
+        "Confused about ebp register": "https://www.reddit.com/r/HowToHack/comments/16wb9y4/confused_about_ebp_register/",
+        "C,C++ or Golang for malware development?": "https://www.reddit.com/r/HowToHack/comments/16wluej/cc_or_golang_for_malware_development/",
+        "Are wargames safe over the SSH?": "https://www.reddit.com/r/HowToHack/comments/16w4ktk/are_wargames_safe_over_the_ssh/",
+        "Configuring Proxychain to Pivot.": "https://www.reddit.com/r/HowToHack/comments/16w0vyx/configuring_proxychain_to_pivot/"
+    },
+    "Blackhat Library: Hacking techniques and research": {
+        "Cyberattack": "https://www.reddit.com/r/blackhat/comments/16wkuza/cyberattack/",
+        "Infostealer infections statistics for the past week (new initiative)": "https://www.reddit.com/r/blackhat/comments/16w278n/infostealer_infections_statistics_for_the_past/"
+    },
+    "Krebs on Security": {
+        "A Closer Look at the Snatch Data Ransom Group": "https://krebsonsecurity.com/2023/09/a-closer-look-at-the-snatch-data-ransom-group/"
+    },
+    "Deep Web": {
+        "classified info?": "https://www.reddit.com/r/deepweb/comments/16wixcq/classified_info/"
+    },
+    "netsecstudents: Subreddit for students studying Network Security and its related subjects": {
+        "HACK Victims with just a Word Document! Not Zero-Day | Windows Defender Bypass": "https://www.reddit.com/r/netsecstudents/comments/16wgfir/hack_victims_with_just_a_word_document_not/"
+    },
+    "Security Affairs": {
+        "ALPHV/BlackCat ransomware gang hacked the hotel chain Motel One": "https://securityaffairs.com/151732/cyber-crime/alphv-ransomware-motel-one.html",
+        "FBI warns of dual ransomware attacks": "https://securityaffairs.com/151722/cyber-crime/fbi-warns-dual-ransomware-attacks.html",
+        "Progress Software fixed two critical severity flaws in WS_FTP Server": "https://securityaffairs.com/151692/breaking-news/progress-software-ws_ftp-server-flaws.html",
+        "Child abuse site taken down, organized child exploitation crime suspected – exclusive": "https://securityaffairs.com/151706/security/child-abuse-site-taken-down-cybernews.html"
+    },
+    "The Hacker News": {
+        "FBI Warns of Rising Trend of Dual Ransomware Attacks Targeting U.S. Companies": "https://thehackernews.com/2023/09/fbi-warns-of-rising-trend-of-dual.html",
+        "Iranian APT Group OilRig Using New Menorah Malware for Covert Operations": "https://thehackernews.com/2023/09/iranian-apt-group-oilrig-using-new.html",
+        "New Critical Security Flaws Expose Exim Mail Servers to Remote Attacks": "https://thehackernews.com/2023/09/new-critical-security-flaws-expose-exim.html"
+    },
+    "Deeplinks": {
+        "The Growing Threat of Cybercrime Law Abuse: LGBTQ+ Rights in MENA and the UN Cybercrime Draft Convention": "https://www.eff.org/deeplinks/2023/09/growing-threat-cybercrime-law-abuse-lgbtq-rights-mena-and-un-cybercrime-draft"
+    }
+}
