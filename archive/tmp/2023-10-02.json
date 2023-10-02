@@ -1,0 +1,139 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2023-10-01 Review": "http://www.sec-wiki.com/?2023-10-01"
+    },
+    "Security Boulevard": {
+        "DEF CON 31  – Andrew Brandt’s ‘War Stories – You’re Not George Clooney, And This Isn’t Oceans 11’": "https://securityboulevard.com/2023/10/def-con-31-andrew-brandts-war-stories-youre-not-george-clooney-and-this-isnt-oceans-11/",
+        "Choosing the Right Cybersecurity Awareness Training Solution: Your Ultimate Checklist": "https://securityboulevard.com/2023/10/choosing-the-right-cybersecurity-awareness-training-solution-your-ultimate-checklist/",
+        "Google Chrome Heap Buffer Overflow Vulnerability (CVE-2023-5217) Notification": "https://securityboulevard.com/2023/10/google-chrome-heap-buffer-overflow-vulnerability-cve-2023-5217-notification/"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sun Oct  1 10:59:08 UTC 2023": "https://github.com/trickest/cve/commit/62450c827e058ef69b3371642b629180024a1e69"
+    },
+    "InfoSec Write-ups - Medium": {
+        "Screen Leakage": "https://infosecwriteups.com/screen-leakage-a7ddc08caed7?source=rss----7b722bfd1b8d---4",
+        "Leaked Database and SMTP credentials through .env file": "https://infosecwriteups.com/leaked-database-and-smtp-credentials-through-env-file-d003df418313?source=rss----7b722bfd1b8d---4",
+        "RCE on Application’s Tracking Admin Panel": "https://infosecwriteups.com/rce-on-applications-tracking-admin-panel-fdc7e8320366?source=rss----7b722bfd1b8d---4",
+        "100% black box: SQL injection on Oracle (PortSwigger Academy).": "https://infosecwriteups.com/100-black-box-sql-injection-on-oracle-portswigger-academy-f020ea3ad145?source=rss----7b722bfd1b8d---4",
+        "Writeups for Damn Vulnerable Web Application (DVWA)": "https://infosecwriteups.com/writeups-for-damn-vulnerable-web-application-dvwa-ba42a43afca1?source=rss----7b722bfd1b8d---4",
+        "THM — Overpass\nWhat happens when some broke CompSci students make a password manager?": "https://infosecwriteups.com/thm-overpass-what-happens-when-some-broke-compsci-students-make-a-password-manager-fe0b811e0a6a?source=rss----7b722bfd1b8d---4",
+        "Exploring Cloud Security: Safeguarding Your Digital Assets in Cloud": "https://infosecwriteups.com/exploring-cloud-security-safeguarding-your-digital-assets-in-cloud-86d0610c5a59?source=rss----7b722bfd1b8d---4",
+        "Ways I followed to Bypass ‘403’ — Your checklist": "https://infosecwriteups.com/ways-i-followed-to-bypass-403-your-checklist-fa3fc1256d2a?source=rss----7b722bfd1b8d---4",
+        "Honeypot Series #1: Oh Snap! Did My Honeypot Just Get Breached?": "https://infosecwriteups.com/honeypot-series-1-oh-snap-did-my-honeypot-just-get-breached-2dadc4288be7?source=rss----7b722bfd1b8d---4",
+        "CloudSEK — Nullcon Cyber Security CTF 2023": "https://infosecwriteups.com/cloudsek-nullcon-cyber-security-ctf-2023-9f2f21c36210?source=rss----7b722bfd1b8d---4"
+    },
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "JetBrains TeamCity Unauthenticated Remote Code Execution": "https://cxsecurity.com/issue/WLB-2023100003",
+        "Synotec Holdings - Sql Injection": "https://cxsecurity.com/issue/WLB-2023100002",
+        "Edunext Technologies - Sql Injection Vulnerability": "https://cxsecurity.com/issue/WLB-2023100001"
+    },
+    "128 nops and counting": {
+        "Build simple fuzzer - part 6": "https://carstein.github.io/2023/10/01/build-simple-fuzzer-part-6.html"
+    },
+    "Bug Bounty in InfoSec Write-ups on Medium": {
+        "Leaked Database and SMTP credentials through .env file": "https://infosecwriteups.com/leaked-database-and-smtp-credentials-through-env-file-d003df418313?source=rss----7b722bfd1b8d--bug_bounty",
+        "RCE on Application’s Tracking Admin Panel": "https://infosecwriteups.com/rce-on-applications-tracking-admin-panel-fdc7e8320366?source=rss----7b722bfd1b8d--bug_bounty",
+        "Ways I followed to Bypass ‘403’ — Your checklist": "https://infosecwriteups.com/ways-i-followed-to-bypass-403-your-checklist-fa3fc1256d2a?source=rss----7b722bfd1b8d--bug_bounty",
+        "Frontend Fumbles: The 250$ Curious Case of API Key Permissions.": "https://infosecwriteups.com/frontend-fumbles-the-250-curious-case-of-api-key-permissions-f2736d1d541c?source=rss----7b722bfd1b8d--bug_bounty",
+        "How to Discover API Subdomains? | API Hacking |": "https://infosecwriteups.com/how-to-discover-api-subdomains-api-hacking-41ef91d00846?source=rss----7b722bfd1b8d--bug_bounty",
+        "Bounty of an Insecure WebView (Part 1): XSS, but with Steroids": "https://infosecwriteups.com/bounty-of-an-insecure-webview-part-1-xss-but-with-steroids-1a41cf654048?source=rss----7b722bfd1b8d--bug_bounty",
+        "A Tale of Weird XSS into $100": "https://infosecwriteups.com/a-tale-of-weird-xss-into-100-4cd451fe79d4?source=rss----7b722bfd1b8d--bug_bounty",
+        "The Art of Monitoring Bug Bounty Programs": "https://infosecwriteups.com/the-art-of-monitoring-bug-bounty-programs-4a229085ae74?source=rss----7b722bfd1b8d--bug_bounty",
+        "How To Hack 2FA/MFA — An Important Cybersecurity Topic": "https://infosecwriteups.com/how-to-hack-2fa-mfa-an-important-cybersecurity-topic-89b5bd30eb7?source=rss----7b722bfd1b8d--bug_bounty",
+        "Bypass SMS Authentication To Account Takeover": "https://infosecwriteups.com/bypass-sms-authentication-to-account-takeover-74b2f42ad2d8?source=rss----7b722bfd1b8d--bug_bounty"
+    },
+    "SAP Blogs": {
+        "Build and Launch a Simple Spring Boot App(web-service) on SAP BTP": "https://blogs.sap.com/2023/10/01/build-and-launch-a-simple-spring-boot-appweb-service-on-sap-btp/",
+        "MDG-S: MDG rule-based workflow": "https://blogs.sap.com/2023/10/01/mdg-s-mdg-rule-based-workflow/"
+    },
+    "Didier Stevens": {
+        "Update: simple_listener.py Version 0.1.3": "https://blog.didierstevens.com/2023/10/01/update-simple_listener-py-version-0-1-3/",
+        "Overview of Content Published in September": "https://blog.didierstevens.com/2023/10/01/overview-of-content-published-in-september-7/"
+    },
+    "": {
+        "Captain’s Log: September 2023": "https://cornerpirate.com/2023/10/01/captains-log-september-2023/"
+    },
+    "QRZ's Blog": {
+        "业余无线电考试A、B操作证试题速记与碎碎念": "https://5ec.top/post/ham-radio-abc/"
+    },
+    "黑海洋 - WIKI": {
+        "免费AI艺术二维码生成工具-QR Code AI": "https://blog.upx8.com/3851"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "研究显示死亡时人们经历新维度的现实": "https://www.solidot.org/story?sid=76238",
+        "研究显示大模型在无损压缩上能超过 PNG 和 FLAC": "https://www.solidot.org/story?sid=76237",
+        "Linux 基金会如果是一家软件公司，它的规模将是世界最大": "https://www.solidot.org/story?sid=76236"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【工具】AI工具导航": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651139270&idx=1&sn=3c967ec5fcd41ecc552a893b0cefd319&chksm=f1af5bfcc6d8d2ea0ffe0e097891223b001428fba068aeb40ca5dee84d7b277a41620cc987ed&scene=58&subscene=0#rd"
+    },
+    "KitPloit - PenTest & Hacking Tools": {
+        "Mellon - OSDP Attack Tool": "http://www.kitploit.com/2023/10/mellon-osdp-attack-tool.html"
+    },
+    "黑奇士": {
+        "巨商派头：烟灰专门有人剪，电梯专门有人控": "https://mp.weixin.qq.com/s?__biz=MzI5ODYwNTE4Nw==&mid=2247487802&idx=1&sn=4eeebf1d46969603a0222b65f4cd0f0f&chksm=eca21ed6dbd597c09a030fdc672c9b62f7cb76b6da3adbd02b7e3dd68a6058ec9aeb18a8dca8&scene=58&subscene=0#rd"
+    },
+    "中国信息安全": {
+        "热烈庆祝中华人民共和国成立74周年": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664194195&idx=1&sn=acec51c2e274ebe261a28da8cd13608e&chksm=8b59626abc2eeb7c21b60f7e8b0292aeb40aebf38d8ebbfd710418c9907436ddb6ba332dd61e&scene=58&subscene=0#rd"
+    },
+    "安全研究GoSSIP": {
+        "加州大学尔湾分校计算机系Alfred Chen教授招收全奖博士生（AI/Systems/Network Security方向)": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247496400&idx=1&sn=096ff6775871a8fd5f806847fe268ce0&chksm=c063dc09f714551f161a9ec2798c9b51bd0076beb92e88ba201367863475f20c61abe6ea3a96&scene=58&subscene=0#rd"
+    },
+    "吴鲁加": {
+        "原子习惯": "https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247484517&idx=1&sn=303d439623d966e5fcc5a6b1c1bb24f8&chksm=c01a8954f76d00429ae032810cc71d531f3cda52faca6c185e6b977d9c1cbbb21cb42a35510f&scene=58&subscene=0#rd"
+    },
+    "极客公园": {
+        "华为旗舰车问界 M9 内饰曝光；苹果：通过软件解决 iPhone 15 过热；国铁：「超员高铁无法发车」系假新闻 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653014907&idx=1&sn=743bd7cea562f131614e237eaf9d61ef&chksm=7e54b6cd49233fdb391dda6a99a1640d001d08b62c967952d7821960823556f9ee7d7ad87b20&scene=58&subscene=0#rd"
+    },
+    "Tide安全团队": {
+        "山东省移动应用九月份安全态势": "https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247512396&idx=1&sn=613c719cc03eae1721130dd18300f658&chksm=ce5d932df92a1a3b0bd9b07f72b4b7fd66cebf0eb083259790d0f0cf5b056ecc2e08dd0dfc8b&scene=58&subscene=0#rd"
+    },
+    "迪哥讲事": {
+        "绕过验证码实现任意用户登陆": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247492078&idx=1&sn=4b3888b4b696b49d0f0bdc40eb53a8ef&chksm=e8a5eb8ddfd2629bc800fcbb9fa4cc655985c1d0a61df468462adaa2c72df204b56a2a7e6b60&scene=58&subscene=0#rd"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "Amazon sends Mastercard, Google Play gift card order emails by mistake": "https://www.bleepingcomputer.com/news/security/amazon-sends-mastercard-google-play-gift-card-order-emails-by-mistake/",
+        "New Marvin attack revives 25-year-old decryption flaw in RSA": "https://www.bleepingcomputer.com/news/security/new-marvin-attack-revives-25-year-old-decryption-flaw-in-rsa/",
+        "Meet LostTrust ransomware — A likely rebrand of the MetaEncryptor gang": "https://www.bleepingcomputer.com/news/security/meet-losttrust-ransomware-a-likely-rebrand-of-the-metaencryptor-gang/",
+        "Loops and nested loops with Ansible": "https://www.adainese.it/blog/2023/09/29/loops-and-nested-loops-with-ansible/",
+        "illwill / Sub7 · GitLab": "https://gitlab.com/illwill/sub7",
+        "Microsoft fixes Outlook prompts to reopen closed windows": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-prompts-to-reopen-closed-windows/",
+        "Cloudflare DDoS protections ironically bypassed using Cloudflare": "https://www.bleepingcomputer.com/news/security/cloudflare-ddos-protections-ironically-bypassed-using-cloudflare/",
+        "Guerre di Rete - Il dataset è politico": "https://guerredirete.substack.com/p/guerre-di-rete-il-dataset-e-politico"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "Analyzing MIME Files: a Quick Tip, (Sun, Oct 1st)": "https://isc.sans.edu/diary/rss/30266"
+    },
+    "Security Affairs": {
+        "BlackCat gang claims they stole data of 2.5 million patients of McLaren Health Care": "https://securityaffairs.com/151748/cyber-crime/mclaren-health-care-blackcat-ransomware.html",
+        "Security Affairs newsletter Round 439 by Pierluigi Paganini – International edition": "https://securityaffairs.com/151744/breaking-news/security-affairs-newsletter-round-439-by-pierluigi-paganini-international-edition.html"
+    },
+    "Technical Information Security Content & Discussion": {
+        "Six 0day exploits were filed against Exim by ZDI, including several RCE. After days of silence, Exim has filed this public detail": "https://www.reddit.com/r/netsec/comments/16xek9n/six_0day_exploits_were_filed_against_exim_by_zdi/",
+        "Lazarus luring employees with trojanized coding challenges: The case of a Spanish aerospace company": "https://www.reddit.com/r/netsec/comments/16wv85t/lazarus_luring_employees_with_trojanized_coding/",
+        "SocVel Quiz 1 October 2023": "https://www.reddit.com/r/netsec/comments/16xesxc/socvel_quiz_1_october_2023/",
+        "Past week in brief - BlackTech's Cisco Router Intrusion, Google's libvpx Zero-Day, GPUzip Data Leak, Russia's $20M Zero-Day Bounty, and Malware in Bing Chat": "https://www.reddit.com/r/netsec/comments/16x6uhr/past_week_in_brief_blacktechs_cisco_router/"
+    },
+    "netsecstudents: Subreddit for students studying Network Security and its related subjects": {
+        "Past week in brief - BlackTech's Cisco Router Intrusion, Google's libvpx Zero-Day, GPUzip Data Leak, Russia's $20M Zero-Day Bounty, and Malware in Bing Chat": "https://www.reddit.com/r/netsecstudents/comments/16x6ttv/past_week_in_brief_blacktechs_cisco_router/",
+        "Learn how to setup/manage your own VPNServers: OpenVPN and WireGuard": "https://www.reddit.com/r/netsecstudents/comments/16x0qns/learn_how_to_setupmanage_your_own_vpnservers/",
+        "Visual Studio Code: embedded reverse shell and how to block, create Sentinel Detection, and add Environment Prevention — well more like ideas and concepts": "https://www.reddit.com/r/netsecstudents/comments/16x0mrn/visual_studio_code_embedded_reverse_shell_and_how/",
+        "Online Cybsec education": "https://www.reddit.com/r/netsecstudents/comments/16x061k/online_cybsec_education/"
+    },
+    "Blackhat Library: Hacking techniques and research": {
+        "Hardware Hacking || JTAG on iPhone 15": "https://www.reddit.com/r/blackhat/comments/16x4ayc/hardware_hacking_jtag_on_iphone_15/",
+        "youtubes monetization / copyright system exploited by russia?": "https://www.reddit.com/r/blackhat/comments/16xcywu/youtubes_monetization_copyright_system_exploited/"
+    },
+    "Social Engineering": {
+        "How are some people able to have parties a several times a month, if not every week? Hell even every other day? Yes this is a serious question!": "https://www.reddit.com/r/SocialEngineering/comments/16x6jdq/how_are_some_people_able_to_have_parties_a/",
+        "I am doing a 10000 Instagram follower giveaway": "https://www.reddit.com/r/SocialEngineering/comments/16xbq1h/i_am_doing_a_10000_instagram_follower_giveaway/"
+    },
+    "Your Hacking Tutorial by Zempirians": {
+        "Why use paid vpn when TOR is free?": "https://www.reddit.com/r/HowToHack/comments/16wmslg/why_use_paid_vpn_when_tor_is_free/",
+        "Going to the internal network through pwned Windows machine": "https://www.reddit.com/r/HowToHack/comments/16x9r18/going_to_the_internal_network_through_pwned/",
+        "iPhone GPS Data": "https://www.reddit.com/r/HowToHack/comments/16x6llz/iphone_gps_data/"
+    },
+    "KitPloit - PenTest Tools!": {
+        "Mellon - OSDP Attack Tool": "http://www.kitploit.com/2023/10/mellon-osdp-attack-tool.html"
+    }
+}
