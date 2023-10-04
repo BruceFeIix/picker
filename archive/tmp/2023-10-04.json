@@ -1,0 +1,274 @@
+{
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "SAP Enable Now Manager 10.6.5 Build 2804 Cloud Edition CSRF / XSS / Redirect": "https://cxsecurity.com/issue/WLB-2023100013",
+        "Nette Plugins Remote Command Execution On Laravel": "https://cxsecurity.com/issue/WLB-2023100012",
+        "openVIVA c2 20220101 Cross Site Scripting": "https://cxsecurity.com/issue/WLB-2023100011",
+        "WordPress Contact Form Generator 2.5.5 Cross Site Scripting": "https://cxsecurity.com/issue/WLB-2023100010"
+    },
+    "SecWiki News": {
+        "SecWiki News 2023-10-03 Review": "http://www.sec-wiki.com/?2023-10-03"
+    },
+    "Security Boulevard": {
+        "Certificate Authorities: What They Are & Why They’re Important": "https://securityboulevard.com/2023/10/certificate-authorities-what-they-are-why-theyre-important/",
+        "Harness the Power of Your Identity Data": "https://securityboulevard.com/2023/10/harness-the-power-of-your-identity-data/",
+        "The MGM attack: What can be learned for your business": "https://securityboulevard.com/2023/10/the-mgm-attack-what-can-be-learned-for-your-business/",
+        "DEF CON 31 – Ben Nassi’s, Ofek Vayner’s ‘Video Based Cryptanalysis Extracting Keys From Power LEDs’": "https://securityboulevard.com/2023/10/def-con-31-ben-nassis-ofek-vayners-video-based-cryptanalysis-extracting-keys-from-power-leds/",
+        "ReversingLabs A1000 Threat Analysis and Hunting Solution Update Drives SecOps Forward": "https://securityboulevard.com/2023/10/reversinglabs-a1000-threat-analysis-and-hunting-solution-update-drives-secops-forward/",
+        "AWS’ MadPot Honeypot Operation Corrals Threat Actors": "https://securityboulevard.com/2023/10/aws-madpot-honeypot-operation-corrals-threat-actors/",
+        "Botmasters Unveiled: Exploring the Dual Role of Botnets in Today’s Digital Landscape": "https://securityboulevard.com/2023/10/botmasters-unveiled-exploring-the-dual-role-of-botnets-in-todays-digital-landscape/",
+        "A Day In the Life with Security Solution Architect, Joshua Roback": "https://securityboulevard.com/2023/10/a-day-in-the-life-with-security-solution-architect-joshua-roback/",
+        "Randall Munroe’s XKCD ‘A Halloween Carol’": "https://securityboulevard.com/2023/10/randall-munroes-xkcd-a-halloween-carol/",
+        "Imperfection in AI starts with a False Sense of Perfection.": "https://securityboulevard.com/2023/10/imperfection-in-ai-starts-with-a-false-sense-of-perfection/"
+    },
+    "ArthurChiao's Blog": {
+        "Linux Load Average：算法、实现与实用指南（2023）": "https://arthurchiao.github.io/blog/linux-loadavg-zh/"
+    },
+    "Vulnerabilities and Threat Research – Qualys Security Blog": {
+        "CVE-2023-4911: Looney Tunables – Local Privilege Escalation in the glibc’s ld.so": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+    },
+    "Scoopz.com": {
+        "Deecies on eBay: The Apple Reseller Revolutionising My Mac Purchases": "https://blog.scoopz.com/2023/10/03/deecies-on-ebay-the-apple-reseller-revolutionising-my-mac-purchases/"
+    },
+    "Sucuri Blog": {
+        "Optimizing WordPress: Security Beyond Default Configurations": "https://blog.sucuri.net/2023/10/optimizing-wordpress-security-beyond-default-configurations.html"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "WordPress KiviCare 3.2.0 Cross Site Scripting exploit": "https://sploitus.com/exploit?id=PACKETSTORM:174895&utm_source=rss&utm_medium=rss",
+        "WordPress Contact Form Generator 2.5.5 Cross Site Scripting exploit": "https://sploitus.com/exploit?id=PACKETSTORM:174896&utm_source=rss&utm_medium=rss",
+        "openVIVA c2 20220101 Cross Site Scripting exploit": "https://sploitus.com/exploit?id=PACKETSTORM:174898&utm_source=rss&utm_medium=rss",
+        "SAP Enable Now Manager 10.6.5 Build 2804 Cloud Edition CSRF / XSS / Redirect exploit": "https://sploitus.com/exploit?id=PACKETSTORM:174899&utm_source=rss&utm_medium=rss",
+        "WordPress KiviCare 3.2.0 Cross Site Scripting Vulnerability exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39093&utm_source=rss&utm_medium=rss",
+        "WordPress Contact Form Generator 2.5.5 Cross Site Scripting Vulnerability exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39092&utm_source=rss&utm_medium=rss",
+        "Exploit for CVE-2022-0441 exploit": "https://sploitus.com/exploit?id=9B369DC1-645E-5997-8A68-175F4690A232&utm_source=rss&utm_medium=rss"
+    },
+    "Recent Commits to cve:main": {
+        "Update Tue Oct  3 11:03:53 UTC 2023": "https://github.com/trickest/cve/commit/1b9bffe13a0552dccbd3b85347ac9b3d1e4dbc7d"
+    },
+    "Der Flounder": {
+        "Slides from the “Introduction to Declarative MDM” session at MacSysAdmin 2023": "https://derflounder.wordpress.com/2023/10/03/slides-from-the-introduction-to-declarative-mdm-session-at-macsysadmin-2023/"
+    },
+    "Files ≈ Packet Storm": {
+        "Gentoo Linux Security Advisory 202310-02": "https://packetstormsecurity.com/files/174901/glsa-202310-02.txt",
+        "Ubuntu Security Notice USN-6405-1": "https://packetstormsecurity.com/files/174900/USN-6405-1.txt",
+        "SAP Enable Now Manager 10.6.5 Build 2804 Cloud Edition CSRF / XSS / Redirect": "https://packetstormsecurity.com/files/174899/SA-20230927-0.txt",
+        "openVIVA c2 20220101 Cross Site Scripting": "https://packetstormsecurity.com/files/174898/SA-20230925-0.txt",
+        "Red Hat Security Advisory 2023-5414-01": "https://packetstormsecurity.com/files/174897/RHSA-2023-5414-01.txt",
+        "WordPress Contact Form Generator 2.5.5 Cross Site Scripting": "https://packetstormsecurity.com/files/174896/wpcfg255-xss.txt",
+        "WordPress KiviCare 3.2.0 Cross Site Scripting": "https://packetstormsecurity.com/files/174895/wpkivicare320-xss.txt",
+        "Ubuntu Security Notice USN-6404-1": "https://packetstormsecurity.com/files/174894/USN-6404-1.txt",
+        "Apple Security Advisory 09-26-2023-9": "https://packetstormsecurity.com/files/174893/APPLE-SA-09-26-2023-9.txt",
+        "Apple Security Advisory 09-26-2023-8": "https://packetstormsecurity.com/files/174892/APPLE-SA-09-26-2023-8.txt",
+        "Ubuntu Security Notice USN-6403-1": "https://packetstormsecurity.com/files/174891/USN-6403-1.txt",
+        "Ubuntu Security Notice USN-6402-1": "https://packetstormsecurity.com/files/174890/USN-6402-1.txt",
+        "Apple Security Advisory 09-26-2023-7": "https://packetstormsecurity.com/files/174889/APPLE-SA-09-26-2023-7.txt",
+        "Apple Security Advisory 09-26-2023-6": "https://packetstormsecurity.com/files/174888/APPLE-SA-09-26-2023-6.txt",
+        "Apple Security Advisory 09-26-2023-5": "https://packetstormsecurity.com/files/174887/APPLE-SA-09-26-2023-5.txt",
+        "Apple Security Advisory 09-26-2023-4": "https://packetstormsecurity.com/files/174886/APPLE-SA-09-26-2023-4.txt",
+        "Apple Security Advisory 09-26-2023-3": "https://packetstormsecurity.com/files/174885/APPLE-SA-09-26-2023-3.txt",
+        "Apple Security Advisory 09-26-2023-2": "https://packetstormsecurity.com/files/174884/APPLE-SA-09-26-2023-2.txt",
+        "Apple Security Advisory 09-26-2023-1": "https://packetstormsecurity.com/files/174883/APPLE-SA-09-26-2023-1.txt"
+    },
+    "hackndo": {
+        "Sensitive Data": "https://en.hackndo.com/sensitive-data/"
+    },
+    "Forcepoint": {
+        "Understanding Forcepoint’s Dynamic Application Steering": "https://www.forcepoint.com/blog/insights/secure-sd-wan-dynamic-application-steering"
+    },
+    "SentinelOne": {
+        "Beyond the WebP Flaw | An In-depth Look at 2023’s Browser Security Challenges": "https://www.sentinelone.com/blog/beyond-the-webp-flaw-an-in-depth-look-at-2023s-browser-security-challenges/"
+    },
+    "Malware-Traffic-Analysis.net - Blog Entries": {
+        "2023-10-03 - Pikabot infection with Cobalt Strike": "https://www.malware-traffic-analysis.net/2023/10/03/index.html"
+    },
+    "PortSwigger Research": {
+        "How to build custom scanners for web security research automation": "https://portswigger.net/research/how-to-build-custom-scanners-for-web-security-research-automation"
+    },
+    "SAP Blogs": {
+        "Towards Sustainable Energy": "https://blogs.sap.com/2023/10/03/towards-sustainable-energy/",
+        "Execute ODATA POST Call in SAP Build Apps": "https://blogs.sap.com/2023/10/03/execute-odata-post-call-in-sap-build-apps/",
+        "SAP Signavio Process Navigator – Solution Scenario": "https://blogs.sap.com/2023/10/03/sap-signavio-process-navigator-solution-scenario/",
+        "Electronic Invoicing in Malaysia": "https://blogs.sap.com/2023/10/03/electronic-invoicing-in-malaysia/",
+        "CDS View for Functional": "https://blogs.sap.com/2023/10/03/cds-view-for-functional/",
+        "Reverse the Bits from billing document in Convergent Invoicing(CI)": "https://blogs.sap.com/2023/10/03/reverse-the-bits-from-billing-document-in-convergent-invoicingci/",
+        "Business Event Triggers in SAP Build Process Automation for SAP S/4HANA: Manage Credit Block on Sales Orders": "https://blogs.sap.com/2023/10/03/business-event-triggers-in-sap-build-process-automation-for-sap-s-4hana-manage-credit-block-on-sales-orders/",
+        "How to create custom UI screens for Mobile Application in Business ByDesign": "https://blogs.sap.com/2023/10/03/how-to-create-custom-ui-screens-for-mobile-application-in-business-bydesign/",
+        "Common Integration Issues: SAP Business Network for Logistics – Global Track and Trace": "https://blogs.sap.com/2023/10/03/common-integration-issues-sap-business-network-for-logistics-global-track-and-trace/",
+        "HCM Brasil: Atualizações e novidades de Setembro 2023": "https://blogs.sap.com/2023/10/03/hcm-brasil-atualizacoes-e-novidades-de-setembro-2023/"
+    },
+    "Didier Stevens": {
+        "Update: pecheck.py Version 0.7.16": "https://blog.didierstevens.com/2023/10/03/update-pecheck-py-version-0-7-16/"
+    },
+    "Dancho Danchev's Blog": {
+        "Upcoming \"The Hacker Scene - 1983 - 2023\" E-Book": "https://ddanchev.blogspot.com/2023/10/upcoming-hacker-scene-1983-2023-e-book.html",
+        "The Most Innovative Leader in Cyber Security To Watch in 2023 Magazine Edition": "https://ddanchev.blogspot.com/2023/10/the-most-innovative-leader-in-cyber.html",
+        "My First Twitter Space on How I Tracked Down The Conti Ransomware Gang Using Real-Time OSINT": "https://ddanchev.blogspot.com/2023/10/my-first-twitter-space-on-how-i-tracked.html",
+        "Me Participating in a Comparative Air Force Research Laboratory Information Directorate Technical Report on Botnets and Malware Detection": "https://ddanchev.blogspot.com/2023/10/me-participating-in-comparative-air.html",
+        "Who Can Assist With My Wikipedia Article Draft Submission?": "https://ddanchev.blogspot.com/2023/10/who-can-assist-with-my-wikipedia.html"
+    },
+    "Intigriti": {
+        "Intigriti partners with TCM Security to train the next generation of bug bounty hunters": "https://blog.intigriti.com/2023/10/03/intigriti-partners-with-tcm-security-to-train-the-next-generation-of-bug-bounty-hunters/"
+    },
+    "nikic's blog": {
+        "LLVM: Scalar evolution": "https://nikic.github.io/2023/10/03/LLVM-Scalar-evolution.html"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "印度用反恐法打击记者": "https://www.solidot.org/story?sid=76244",
+        "Arm 警告其 GPU 驱动漏洞正被活跃利用": "https://www.solidot.org/story?sid=76243"
+    },
+    "黑海洋 - WIKI": {
+        "python爬虫例子": "https://blog.upx8.com/3852"
+    },
+    "Checkmarx.com": {
+        "The evolutionary tale of a persistent Python threat": "https://checkmarx.com/blog/the-evolutionary-tale-of-a-persistent-python-threat/"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "Amazon warns of ‘ShellTorch’ issue affecting code related to AI models": "https://therecord.media/pytorch-torchserve-vulnerabilities-amazon-meta-ai",
+        "Google and Yahoo say they will crack down on spam with new measures": "https://therecord.media/google-yahoo-crack-down-on-spam",
+        "Optimizing WordPress: Security Beyond Default Configurations": "https://blog.sucuri.net/2023/10/optimizing-wordpress-security-beyond-default-configurations.html",
+        "New 'Looney Tunables' Linux bug gives root on major distros": "https://www.bleepingcomputer.com/news/security/new-looney-tunables-linux-bug-gives-root-on-major-distros/",
+        "Wisconsin county dealing with ransomware attack on public health department": "https://therecord.media/wisconsin-county-dealing-with-ransomware-attack-healthcare",
+        "NATO 'actively addressing' alleged cyberattack affecting some websites": "https://therecord.media/nato-siegedsec-unclassified-websites-alleged-cyberattack",
+        "Microsoft now lets you play a game during Windows 11 installs": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-you-play-a-game-during-windows-11-installs/",
+        "Google to bolster phishing and malware delivery defenses in 2024": "https://www.bleepingcomputer.com/news/security/google-to-bolster-phishing-and-malware-delivery-defenses-in-2024/",
+        "Android October security update fixes zero-days exploited in attacks": "https://www.bleepingcomputer.com/news/security/android-october-security-update-fixes-zero-days-exploited-in-attacks/",
+        "Arm, Qualcomm warn GPU drivers are likely being exploited by hackers": "https://therecord.media/arm-qualcomm-warn-gpu-drivers-exploited",
+        "ShellTorch flaws expose AI servers to code execution attacks": "https://www.bleepingcomputer.com/news/security/shelltorch-flaws-expose-ai-servers-to-code-execution-attacks/",
+        "EU Parliament wants journalists to have better protections from spyware": "https://therecord.media/eu-parliament-journalist-spyware-protections",
+        "Esposizione critica di Exim: rilasciate nuove patch per vulnerabilità RCE, ma il rischio è limitato": "https://www.cybersecurity360.it/news/esposizione-critica-di-exim-rilasciate-nuove-patch-per-vulnerabilita-rce-ma-il-rischio-e-limitato/",
+        "Qualcomm says hackers exploit 3 zero-days in its GPU, DSP drivers": "https://www.bleepingcomputer.com/news/security/qualcomm-says-hackers-exploit-3-zero-days-in-its-gpu-dsp-drivers/",
+        "EU to assess risks posed by four key technologies and consider export controls": "https://therecord.media/eu-assesses-risk-posed-by-four-key-technologies",
+        "EvilProxy uses indeed.com open redirect for Microsoft 365 phishing": "https://www.bleepingcomputer.com/news/security/evilproxy-uses-indeedcom-open-redirect-for-microsoft-365-phishing/",
+        "Microsoft Edge, Teams get fixes for zero-days in open-source libraries": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-teams-get-fixes-for-zero-days-in-open-source-libraries/",
+        "Il primo centro paneuropeo di cyber analisi è ora operativo: come funziona": "https://www.cybersecurity360.it/cybersecurity-nazionale/il-primo-centro-paneuropeo-di-cyber-analisi-e-ora-operativo-come-funziona/",
+        "Hackers seen exploiting bugs in browsers and popular file transfer tool": "https://therecord.media/libvpx-ws-ftp-vulnerabilities-browsers-file-transfer-tool",
+        "Time-Based Group: un’ utilissima funzionalità Active Directory quasi sconosciuta": "https://www.securityinfo.it/2023/10/03/time-based-group-un-utilissima-funzionalita-active-directory-quasi-sconosciuta/",
+        "Scoperta Silent Skimmer, una campagna di scraping che sottrae i dati di pagamento": "https://www.securityinfo.it/2023/10/03/scoperta-silent-skimmer-una-campagna-di-scraping-che-sottrae-i-dati-di-pagamento/",
+        "UK passport database to be used to identify suspects from CCTV footage": "https://therecord.media/uk-passport-database-crime-suspects-facial-recognition-cctv",
+        "Activision - 16,006 breached accounts": "https://haveibeenpwned.com/PwnedWebsites#Activision",
+        "Backdoor nei router Cisco: USA e Giappone mettono in guardia contro la minaccia degli hacker cinesi": "https://www.cybersecurity360.it/nuove-minacce/backdoor-nei-router-cisco-usa-e-giappone-mettono-in-guardia-contro-la-minaccia-degli-hacker-cinesi/",
+        "Aumentano i ransomware contro l’industria del gaming": "https://www.securityinfo.it/2023/10/03/aumentano-i-ransomware-contro-lindustria-del-gaming/",
+        "Sistemi di Privileged Access Management: scopi, caratteristiche e principali soluzioni in commercio": "https://www.cybersecurity360.it/soluzioni-aziendali/sistemi-di-privileged-access-management-scopi-caratteristiche-e-principali-soluzioni-in-commercio/",
+        "Caos Sony, l’attacco di Ransomed.vc potrebbe non essere vero: cosa sappiamo": "https://www.cybersecurity360.it/nuove-minacce/ransomware/sony-ransomed-vc-non-vero/",
+        "BlackHat 2023: tre tool per evolvere la strategia DevSecOps": "https://www.giovannicerrato.it/blackhat-2023-tre-tool-per-evolvere-la-strategia-devsecops/"
+    },
+    "Securityinfo.it": {
+        "Scoperta Silent Skimmer, una campagna di scraping che sottrae i dati di pagamento": "https://www.securityinfo.it/2023/10/03/scoperta-silent-skimmer-una-campagna-di-scraping-che-sottrae-i-dati-di-pagamento/?utm_source=rss&utm_medium=rss&utm_campaign=scoperta-silent-skimmer-una-campagna-di-scraping-che-sottrae-i-dati-di-pagamento",
+        "Time-Based Group: un’ utilissima funzionalità Active Directory quasi sconosciuta": "https://www.securityinfo.it/2023/10/03/time-based-group-un-utilissima-funzionalita-active-directory-quasi-sconosciuta/?utm_source=rss&utm_medium=rss&utm_campaign=time-based-group-un-utilissima-funzionalita-active-directory-quasi-sconosciuta",
+        "Aumentano i ransomware contro l’industria del gaming": "https://www.securityinfo.it/2023/10/03/aumentano-i-ransomware-contro-lindustria-del-gaming/?utm_source=rss&utm_medium=rss&utm_campaign=aumentano-i-ransomware-contro-lindustria-del-gaming"
+    },
+    "Il Disinformatico": {
+        "Il Delirio del Giorno: se io avessi più amor proprio, potrei “apparire un po' meno prete e più gradevole in viso”": "http://attivissimo.blogspot.com/2023/10/il-delirio-del-giorno-se-io-avessi-piu.html"
+    },
+    "KitPloit - PenTest & Hacking Tools": {
+        "Nodesub - Command-Line Tool For Finding Subdomains In Bug Bounty Programs": "http://www.kitploit.com/2023/10/nodesub-command-line-tool-for-finding.html"
+    },
+    "ICT Security Magazine": {
+        "Il costo del rischio cyber – Intervista a Massimo Santangelo, Presidente di Adora ICT": "https://www.ictsecuritymagazine.com/notizie/il-costo-del-rischio-cyber-intervista-a-massimo-santangelo-presidente-di-adora-ict/"
+    },
+    "Have I Been Pwned latest breaches": {
+        "Activision - 16,006 breached accounts": "https://haveibeenpwned.com/PwnedWebsites#Activision"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "Are Local LLMs Useful in Incident Response&#x3f;, (Tue, Oct 3rd)": "https://isc.sans.edu/diary/rss/30274",
+        "ISC Stormcast For Tuesday, October 3rd, 2023 https://isc.sans.edu/podcastdetail/8684, (Tue, Oct 3rd)": "https://isc.sans.edu/diary/rss/30272"
+    },
+    "Schneier on Security": {
+        "Hacking Gas Pumps via Bluetooth": "https://www.schneier.com/blog/archives/2023/10/hacking-gas-pumps-via-bluetooth.html"
+    },
+    "Full Disclosure": {
+        "APPLE-SA-09-26-2023-9 tvOS 17": "https://seclists.org/fulldisclosure/2023/Oct/10",
+        "APPLE-SA-09-26-2023-8 watchOS 10": "https://seclists.org/fulldisclosure/2023/Oct/9",
+        "APPLE-SA-09-26-2023-7 iOS 17 and iPadOS 17": "https://seclists.org/fulldisclosure/2023/Oct/8",
+        "APPLE-SA-09-26-2023-6 Xcode 15": "https://seclists.org/fulldisclosure/2023/Oct/7",
+        "APPLE-SA-09-26-2023-5 Additional information for APPLE-SA-2023-09-21-7 macOS Monterey 12.7": "https://seclists.org/fulldisclosure/2023/Oct/6",
+        "APPLE-SA-09-26-2023-4 Additional information for APPLE-SA-2023-09-21-6 macOS Ventura 13.6": "https://seclists.org/fulldisclosure/2023/Oct/5",
+        "APPLE-SA-09-26-2023-3 Additional information for APPLE-SA-2023-09-21-3 iOS 16.7 and iPadOS 16.7": "https://seclists.org/fulldisclosure/2023/Oct/4",
+        "APPLE-SA-09-26-2023-2 macOS Sonoma 14": "https://seclists.org/fulldisclosure/2023/Oct/3",
+        "APPLE-SA-09-26-2023-1 Safari 17": "https://seclists.org/fulldisclosure/2023/Oct/2",
+        "SEC Consult SA-20230927-0 :: Multiple Vulnerabilities in SAP® Enable Now Manager": "https://seclists.org/fulldisclosure/2023/Oct/1",
+        "SEC Consult SA-20230925-0 :: Stored Cross-Site Scripting in mb Support broker management solution openVIVA c2": "https://seclists.org/fulldisclosure/2023/Oct/0"
+    },
+    "BorderGate": {
+        "IPv6 Penetration Testing": "https://www.bordergate.co.uk/ipv6-penetration-testing/"
+    },
+    "Tor Project blog": {
+        "Arti 1.1.9 is released: Assembling the onions": "https://blog.torproject.org/arti_119_released/"
+    },
+    "KitPloit - PenTest Tools!": {
+        "Nodesub - Command-Line Tool For Finding Subdomains In Bug Bounty Programs": "http://www.kitploit.com/2023/10/nodesub-command-line-tool-for-finding.html"
+    },
+    "IT Service Management News": {
+        "Quaderno Clusit \"Certificazioni professionali in sicurezza informatica 3.0\"": "http://blog.cesaregallotti.it/2023/10/quaderno-clusit-certificazioni.html"
+    },
+    "Computer Forensics": {
+        "What do you guys recommend for long-term data archival that does not include cloud storage?": "https://www.reddit.com/r/computerforensics/comments/16z6p5n/what_do_you_guys_recommend_for_longterm_data/",
+        "Is this allowed in digital forensics - File Creation Date changed due to restore": "https://www.reddit.com/r/computerforensics/comments/16yxe2b/is_this_allowed_in_digital_forensics_file/",
+        "Question about disk.img file": "https://www.reddit.com/r/computerforensics/comments/16ynr2c/question_about_diskimg_file/",
+        "Open Source Software for File Carving?": "https://www.reddit.com/r/computerforensics/comments/16yijb5/open_source_software_for_file_carving/",
+        "Cybersecurity": "https://www.reddit.com/r/computerforensics/comments/16yglsj/cybersecurity/"
+    },
+    "Blackhat Library: Hacking techniques and research": {
+        "Known Exploited Vulnerabilities News, Trends and Alerts": "https://www.reddit.com/r/blackhat/comments/16yrucd/known_exploited_vulnerabilities_news_trends_and/",
+        "All in One: The most secure system ever created; Remote Virtual Machine with Modified Operating System Win11 + RHEL (with Anti-detect, Unlimited Residential Proxies, and RDP/VNC Access, Allowing Users to Create Multiple Users on the VPS with Unique Device Fingerprints and Residential Proxy and TOR).": "https://www.reddit.com/r/blackhat/comments/16yz0o0/all_in_one_the_most_secure_system_ever_created/"
+    },
+    "netsecstudents: Subreddit for students studying Network Security and its related subjects": {
+        "WiFiChallenge Lab v2.0 - Now Generally Available": "https://www.reddit.com/r/netsecstudents/comments/16z017u/wifichallenge_lab_v20_now_generally_available/"
+    },
+    "Social Engineering": {
+        "Cop believes his profession is an immutable characteristic.": "https://www.reddit.com/r/SocialEngineering/comments/16yus8z/cop_believes_his_profession_is_an_immutable/"
+    },
+    "Rasta Mouse": {
+        "Cobalt Strike Aggressor Callbacks": "https://rastamouse.me/cobalt-strike-aggressor-callbacks/"
+    },
+    "Deeplinks": {
+        "Is Your State’s Child Safety Law Unconstitutional? Try Comprehensive Data Privacy Instead": "https://www.eff.org/deeplinks/2023/10/your-states-child-safety-law-unconstitutional-try-comprehensive-data-privacy",
+        "EFF And Other Experts Join in Pointing Out Pitfalls of Proposed EU Cyber-Resilience Act": "https://www.eff.org/deeplinks/2023/10/eff-and-other-experts-join-pointing-out-pitfalls-proposed-eu-cyber-resilience-act",
+        "The State of Chihuahua Is Building a 20-Story Tower in Ciudad Juarez to Surveil 13 Cities–and Texas Will Also Be Watching": "https://www.eff.org/deeplinks/2023/09/state-chihuahua-building-20-story-tower-ciudad-juarez-surveil-13-cities-and-state",
+        "GAO Report Shows the Government Uses Face Recognition with No Accountability, Transparency, or Training": "https://www.eff.org/deeplinks/2023/10/gao-report-shows-government-uses-face-recognition-no-accountability-transparency"
+    },
+    "Your Hacking Tutorial by Zempirians": {
+        "TryHackMe or HackTheBox for someone with networking knowledge but with barely any cybersecurity knowledge": "https://www.reddit.com/r/HowToHack/comments/16yvxy7/tryhackme_or_hackthebox_for_someone_with/",
+        "Need to figure this out, i am sure that my phone is bugged": "https://www.reddit.com/r/HowToHack/comments/16z0n8d/need_to_figure_this_out_i_am_sure_that_my_phone/",
+        "Should i get into IT/hacking?": "https://www.reddit.com/r/HowToHack/comments/16z26sl/should_i_get_into_ithacking/"
+    },
+    "Hakin9 –  IT Security Magazine": {
+        "The Dark Web": "https://hakin9.org/the-dark-web/"
+    },
+    "Technical Information Security Content & Discussion": {
+        "root with a single command: sudo logrotate": "https://www.reddit.com/r/netsec/comments/16yok8v/root_with_a_single_command_sudo_logrotate/",
+        "Remote Code Execution In PyTorch Model Server TorchServe": "https://www.reddit.com/r/netsec/comments/16z0ma2/remote_code_execution_in_pytorch_model_server/",
+        "Cloudflare Protection Bypass Vulnerability on Threat Actors' Radar": "https://www.reddit.com/r/netsec/comments/16yr745/cloudflare_protection_bypass_vulnerability_on/",
+        "[QubesOS] Disarm BusKill Dead Man Switch with Keyboard Shortcut (Guide)": "https://www.reddit.com/r/netsec/comments/16ywauh/qubesos_disarm_buskill_dead_man_switch_with/",
+        "Let’s Go into the rabbit hole (part 1) — the challenges of dynamically hooking Golang programs": "https://www.reddit.com/r/netsec/comments/16yv3so/lets_go_into_the_rabbit_hole_part_1_the/",
+        "PETEP: Open source tool for Penetration Testing of non-HTTP protocols (TCP, UDP) through graphical UI or code, also supports using Burp/Zaproxy by wrapping the binary traffic into HTTP.": "https://www.reddit.com/r/netsec/comments/16yz1yj/petep_open_source_tool_for_penetration_testing_of/",
+        "Defending new vectors: Threat actors attempt SQL Server to cloud lateral movement": "https://www.reddit.com/r/netsec/comments/16yxffx/defending_new_vectors_threat_actors_attempt_sql/",
+        "Exploiting Edge Routers Acting as IoT Gateways": "https://www.reddit.com/r/netsec/comments/16yrlh8/exploiting_edge_routers_acting_as_iot_gateways/",
+        "Retired Server called Home — A server decommissioning failure": "https://www.reddit.com/r/netsec/comments/16yrfxg/retired_server_called_home_a_server/"
+    },
+    "The Hacker News": {
+        "Qualcomm Releases Patch for 3 new Zero-Days Under Active Exploitation": "https://thehackernews.com/2023/10/qualcomm-releases-patch-for-3-new-zero.html",
+        "Warning: PyTorch Models Vulnerable to Remote Code Execution via ShellTorch": "https://thehackernews.com/2023/10/warning-pytorch-models-vulnerable-to.html",
+        "Over 3 Dozen Data-Stealing Malicious npm Packages Found Targeting Developers": "https://thehackernews.com/2023/10/over-3-dozen-data-stealing-malicious.html",
+        "API Security Trends 2023 – Have Organizations Improved their Security Posture?": "https://thehackernews.com/2023/10/api-security-trends-2023-have.html",
+        "Protecting your IT infrastructure with Security Configuration Assessment (SCA)": "https://thehackernews.com/2023/10/protecting-your-it-infrastructure-with.html",
+        "Researcher Reveals New Techniques to Bypass Cloudflare's Firewall and DDoS Protection": "https://thehackernews.com/2023/10/researcher-reveal-new-technique-to.html",
+        "Arm Issues Patch for Mali GPU Kernel Driver Vulnerability Amidst Ongoing Exploitation": "https://thehackernews.com/2023/10/arm-issues-patch-for-mali-gpu-kernel.html"
+    },
+    "Deep Web": {
+        "AP News - Liber8 Proxy Creates a cloud-based SMTP 100% Inbox with \"All in one Solutions\" for Email marketers. Can send 300,000 Emails a Day without getting blocked.": "https://www.reddit.com/r/deepweb/comments/16ywo5c/ap_news_liber8_proxy_creates_a_cloudbased_smtp/",
+        "X Play": "https://www.reddit.com/r/deepweb/comments/16yu5at/x_play/",
+        "Hypothetically Roblox": "https://www.reddit.com/r/deepweb/comments/16z24so/hypothetically_roblox/"
+    },
+    "Security Affairs": {
+        "San Francisco’s transport agency Metropolitan Transportation Commission (MTC) exposes drivers’ plate numbers and addresses": "https://securityaffairs.com/151889/data-breach/san-franciscos-transport-agency-metropolitan-transportation-commission-mtc-exposes-drivers-plate-numbers-and-addresses.html",
+        "BunnyLoader, a new Malware-as-a-Service advertised in cybercrime forums": "https://securityaffairs.com/151869/malware/bunnyloader-maas.html",
+        "Exclusive: Lighting the Exfiltration Infrastructure of a LockBit Affiliate (and more)": "https://securityaffairs.com/151862/breaking-news/exfiltration-infrastructure.html",
+        "Two hacker groups are back in the news, LockBit 3.0 Black and BlackCat/AlphV": "https://securityaffairs.com/151855/malware/lockbit-3-0-black-blackcat-alphv.html",
+        "European Telecommunications Standards Institute (ETSI) suffered a data breach": "https://securityaffairs.com/151845/data-breach/etsi-data-breach.html"
+    },
+    "Security Weekly Podcast Network (Audio)": {
+        "Creating Presentations and Training That Engage an Audience - Lina Lau - ASW #257": "http://podcast.securityweekly.com/creating-presentations-and-training-that-engage-an-audience-lina-lau-asw-257",
+        "PKD, NSA, WS_FTP, Exim, Sextortion, BunnyLoader, CISA, More News, and Jason Wood - SWN #330": "http://podcast.securityweekly.com/pkd-nsa-ws_ftp-exim-sextortion-bunnyloader-cisa-more-news-and-jason-wood-swn-330",
+        "Risk Management in the Cloud Starts with Identities - Eric Kedrosky - BSW #322": "http://podcast.securityweekly.com/risk-management-in-the-cloud-starts-with-identities-eric-kedrosky-bsw-322"
+    }
+}
