@@ -1,0 +1,153 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2023-10-15 Review": "http://www.sec-wiki.com/?2023-10-15"
+    },
+    "Security Boulevard": {
+        "DEF CON 31 –  Marcelo Salvati’s (@byt3b133d3r) ‘SpamChannel – Spoofing Emails From 2M+ Domains & Virtually Becoming Satan’": "https://securityboulevard.com/2023/10/def-con-31-marcelo-salvatis-byt3b133d3r-spamchannel-spoofing-emails-from-2m-domains-virtually-becoming-satan/",
+        "Where Next for States on All Things IT and Security?": "https://securityboulevard.com/2023/10/where-next-for-states-on-all-things-it-and-security/",
+        "Unlock Threat Hunting with MITRE ATT&CK: A 2023 Guide You Can’t Miss": "https://securityboulevard.com/2023/10/unlock-threat-hunting-with-mitre-attck-a-2023-guide-you-cant-miss/"
+    },
+    "90Sec - 最新话题": {
+        "管理员能否联系我": "https://forum.90sec.com/t/topic/2321"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "PyTorch Model Server Registration / Deserialization Remote Code Execution Exploit exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39115&utm_source=rss&utm_medium=rss",
+        "Apache Superset 2.0.0 Remote Code Execution Exploit exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39114&utm_source=rss&utm_medium=rss",
+        "Exploit for Vulnerability in Metabase exploit": "https://sploitus.com/exploit?id=D71F3A02-C6FE-50AC-812F-5CEE39D846D4&utm_source=rss&utm_medium=rss",
+        "Exploit for CVE-2023-45603 exploit": "https://sploitus.com/exploit?id=63A160C2-EA54-5739-8B28-FC458BBA0A37&utm_source=rss&utm_medium=rss",
+        "Exploit for Improper Check for Unusual or Exceptional Conditions in Apple Iphone Os exploit": "https://sploitus.com/exploit?id=5ED07DA8-F43C-5785-AEDA-21E8B8966A90&utm_source=rss&utm_medium=rss"
+    },
+    "嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com": {
+        "生成式人工智能时代的5大网络安全趋势": "https://www.4hou.com/posts/L1z4",
+        "攻击者如何绕过常用的Web应用防火墙？": "https://www.4hou.com/posts/QKRl"
+    },
+    "InfoSec Write-ups - Medium": {
+        "Hunting for Hidden Treasures: Unveiling the 403 Bypass Bug Bounty Adventure ️‍♂️": "https://infosecwriteups.com/hunting-for-hidden-treasures-unveiling-the-403-bypass-bug-bounty-adventure-%EF%B8%8F-%EF%B8%8F-c6d17a0282ac?source=rss----7b722bfd1b8d---4",
+        "NahamCon CTF23": "https://infosecwriteups.com/nahamcon-ctf23-71d85011643a?source=rss----7b722bfd1b8d---4",
+        "Scanning for SMB Vulnerabilities with enum4linux": "https://infosecwriteups.com/scanning-for-smb-vulnerabilities-with-enum4linux-896f76d0c078?source=rss----7b722bfd1b8d---4",
+        "Exploring the Upper() Method in Python: Uncovering Vulnerabilities": "https://infosecwriteups.com/exploring-the-upper-method-in-python-uncovering-vulnerabilities-6044f5946e2d?source=rss----7b722bfd1b8d---4",
+        "SSTI -Bypassing Single Quotes Filter": "https://infosecwriteups.com/ssti-bypassing-single-quotes-filter-dc0ee4e4f011?source=rss----7b722bfd1b8d---4",
+        "Empowering Cybersecurity with Active Directory PowerShell Commands": "https://infosecwriteups.com/empowering-cybersecurity-with-active-directory-powershell-commands-d61e881933e1?source=rss----7b722bfd1b8d---4",
+        "My Cybersecurity Blueprint: A Detailed Timeline with Resources (Live)": "https://infosecwriteups.com/cybersecurity-blueprint-guide-559c0824cae3?source=rss----7b722bfd1b8d---4",
+        "Behind the Screens: Exploring a Fresh Phishing Campaign in Indonesia Stealing Facebook Credentials": "https://infosecwriteups.com/behind-the-screens-exploring-a-fresh-phishing-campaign-in-indonesia-stealing-facebook-credentials-9240016c5989?source=rss----7b722bfd1b8d---4",
+        "Threat Intelligence with MISP: Part 3 — Creating Events": "https://infosecwriteups.com/threat-intelligence-with-misp-part-3-creating-events-fccc25ac2017?source=rss----7b722bfd1b8d---4",
+        "CVE-2023–39308: User Feedback <= 1.0.7 — Unauthenticated Stored XSS": "https://infosecwriteups.com/cve-2023-39308-wordpress-plugin-user-feedback-1-0-7-unauthenticated-stored-xss-db992a01686a?source=rss----7b722bfd1b8d---4"
+    },
+    "Bug Bounty in InfoSec Write-ups on Medium": {
+        "Hunting for Hidden Treasures: Unveiling the 403 Bypass Bug Bounty Adventure ️‍♂️": "https://infosecwriteups.com/hunting-for-hidden-treasures-unveiling-the-403-bypass-bug-bounty-adventure-%EF%B8%8F-%EF%B8%8F-c6d17a0282ac?source=rss----7b722bfd1b8d--bug_bounty",
+        "CVE-2023–39308: User Feedback <= 1.0.7 — Unauthenticated Stored XSS": "https://infosecwriteups.com/cve-2023-39308-wordpress-plugin-user-feedback-1-0-7-unauthenticated-stored-xss-db992a01686a?source=rss----7b722bfd1b8d--bug_bounty"
+    },
+    "SAP Blogs": {
+        "Transition to SAP S/4HANA with SAP Services and Support": "https://blogs.sap.com/2023/10/15/transition-to-sap-s-4hana-with-sap-services-and-support/",
+        "New Changes Coming to SAP PartnerEdge Program in 2024": "https://blogs.sap.com/2023/10/15/new-changes-coming-to-sap-partneredge-program-in-2024/",
+        "Approve Purchase Requisition in SAP FIORI": "https://blogs.sap.com/2023/10/15/approve-purchase-requisition-in-sap-fiori/",
+        "LSMW : How to Upload Master Data by using a Batch Input Recording IN SAP ECC": "https://blogs.sap.com/2023/10/15/lsmw-how-to-upload-master-data-by-using-a-batch-input-recording-in-sap-ecc/",
+        "RISE with SAP :Difference between Standard option Vs Tailored option for private edition": "https://blogs.sap.com/2023/10/15/rise-with-sap-difference-between-standard-option-vs-tailored-option-for-private-edition/",
+        "Testing SAP Build Process Automation task UI in SAP Business Application Studio": "https://blogs.sap.com/2023/10/15/testing-sap-build-process-automation-task-ui-in-sap-business-application-studio/",
+        "SAP Inside Track #sitMEL – Full Day Event in Melbourne – 18th Nov 2023 – CALL OUT FOR SPEAKERS!!": "https://blogs.sap.com/2023/10/15/sap-inside-track-sitmel-full-day-event-in-melbourne-18th-nov-2023-call-out-for-speakers/"
+    },
+    "Reverse Engineering": {
+        "A FREE comprehensive step-by-step embedded hacking tutorial covering Embedded Software Development to Reverse Engineering.": "https://www.reddit.com/r/ReverseEngineering/comments/178skf9/a_free_comprehensive_stepbystep_embedded_hacking/"
+    },
+    "KitPloit - PenTest & Hacking Tools": {
+        "JSpector - A Simple Burp Suite Extension To Crawl JavaScript (JS) Files In Passive Mode And Display The Results Directly On The Issues": "http://www.kitploit.com/2023/10/jspector-simple-burp-suite-extension-to.html",
+        "HBSQLI - Automated Tool For Testing Header Based Blind SQL Injection": "http://www.kitploit.com/2023/10/hbsqli-automated-tool-for-testing.html"
+    },
+    "博客园 - 郑瀚Andrew": {
+        "汽车操控原理学习之 -- 行走系统 - 郑瀚Andrew": "https://www.cnblogs.com/LittleHann/p/17753360.html",
+        "汽车操控原理学习之 -- 悬架系统  - 郑瀚Andrew": "https://www.cnblogs.com/LittleHann/p/17736545.html",
+        "汽车操控原理学习之 -- 动力系统 - 郑瀚Andrew": "https://www.cnblogs.com/LittleHann/p/17726824.html"
+    },
+    "黑海洋 - WIKI": {
+        "小学试卷习题生成器": "https://blog.upx8.com/3871"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "AI 耗电量将与国家相当": "https://www.solidot.org/story?sid=76347",
+        "传国内社交网站对部分用户推行前台实名制": "https://www.solidot.org/story?sid=76346"
+    },
+    "dotNet安全矩阵": {
+        "TIOBE排行榜预测C#有望超越Java": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247489009&idx=1&sn=f53760cbfe8de29441c9feb00baac079&chksm=fa5abb1ccd2d320a5424cb0fa7a7f812ba8d8b0b376e2f5fd1a3968545bd158b658a078ce313&scene=58&subscene=0#rd",
+        ".NET 分享一款用于横向移动的工具": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247489009&idx=2&sn=f3d74e3ebd7036cd759078cc3ae9eaa0&chksm=fa5abb1ccd2d320aa74f8a8268c997dae71fdfaa14098a67e74c42f3fcc98bcb202d1b887f9a&scene=58&subscene=0#rd"
+    },
+    "青衣十三楼飞花堂": {
+        "北京市特种设备作业人员资格认定电子证书下载方法": "https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247486905&idx=1&sn=2fcef6b0b31a45f0840a9d9fb2ebf32a&chksm=fab2ce86cdc547900af01fadaf208caf4339d6c80b6ccb6a559043dab4f7a8225fdf1af2b76c&scene=58&subscene=0#rd"
+    },
+    "安全学术圈": {
+        "北京航空航天大学 |  基于异构图卷积网络的网络威胁情报建模": "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247489874&idx=1&sn=3813703202028038faaac620e7e13acf&chksm=fe2ee6d9c9596fcf07e7382aca3649808b41143a981a2633e571a9e3b61f6c1976901b167ec9&scene=58&subscene=0#rd"
+    },
+    "安全研究GoSSIP": {
+        "印第安纳大学伯明顿校区（IUB）Chenghong Wang招募多名全奖博士": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247496453&idx=1&sn=70843f0a0b20f5e9c6a52034422aec61&chksm=c063dddcf71454cafc0c91a332afe8cc25e71860cf12fe36bb8299417cba82a3cd68c30fa529&scene=58&subscene=0#rd"
+    },
+    "极客公园": {
+        "天猫双十一10月24日开启；郭明錤：小米首款汽车出货量预计5-6万部；特斯拉Cybertruck延迟交付原因曝光 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653015961&idx=1&sn=f03c2a63cf577e1a18adf8a9c299fdad&chksm=7e54b22f49233b3929e63fa8d083d1eaa73a4952c042518fea7c09a575622b13e8c86fe68b8a&scene=58&subscene=0#rd"
+    },
+    "安全圈": {
+        "【安全圈】个人信息保护不当致业主被骚扰，宁夏6家物业公司被处罚": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652046591&idx=1&sn=2c9ee2c9b7e7fff584ddb326b7d3755c&chksm=f36e28bfc419a1a9a8e105a3186ca6541f609223dd33e54930d314b6314e817a1395ccaa0d4a&scene=58&subscene=0#rd",
+        "【安全圈】电商“共享”个人信息？判刑+公益赔偿": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652046591&idx=2&sn=65c411fa99b3b0123881c82a94db24f1&chksm=f36e28bfc419a1a9532520cc25af804249041028bd876578716a0096badeaed41bb17c4d55f8&scene=58&subscene=0#rd",
+        "【安全圈】微软计划在 Windows 11 中取消 NTLM 身份验证": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652046591&idx=3&sn=b04f4479e09f7c06eb654153f15d9a2c&chksm=f36e28bfc419a1a9c0d17226efea66bcc75dba2dc514c139981cb02a995fd3b12d5e6733ec38&scene=58&subscene=0#rd",
+        "【安全圈】黑客利用币安智能链合约存储恶意脚本": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652046591&idx=4&sn=68230f475cf11884e1da1bf291acab69&chksm=f36e28bfc419a1a9384a68aa56e75084315ea88617b5b14b9fcdd13e49ce142092b1891feb65&scene=58&subscene=0#rd"
+    },
+    "情报分析师": {
+        "【事实核查】对巴以冲突中的一些社交媒体误导信息梳理": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650541162&idx=1&sn=bf2a2a0b63141d2083dc141a82bb584e&chksm=87112221b066ab37d643974395314737bfb2f9c20c701081f49788f00cbe3c4a0f2764827941&scene=58&subscene=0#rd",
+        "关注小号，谨防失联！": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650541162&idx=2&sn=c95984f4c890d1d635979e5400101a88&chksm=87112221b066ab378c6b45ff8e1fd4b89278b57841d9a7d1e5d81b8c7994ed3e2c7876ced0e7&scene=58&subscene=0#rd"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "UK appoints Neal-Hopes as commander of National Cyber Force": "https://therecord.media/neal-hopes-appointed-commander-uk-national-cyber-force",
+        "Kwik Trip says ‘network incident’ causing disruptions at stores": "https://therecord.media/kwik-trip-network-incident-causing-disruptions",
+        "DarkGate malware spreads through compromised Skype accounts": "https://www.bleepingcomputer.com/news/security/darkgate-malware-spreads-through-compromised-skype-accounts/",
+        "AI algorithm detects MitM attacks on unmanned military vehicles": "https://www.bleepingcomputer.com/news/security/ai-algorithm-detects-mitm-attacks-on-unmanned-military-vehicles/",
+        "Women Political Leaders Summit targeted in RomCom malware phishing": "https://www.bleepingcomputer.com/news/security/women-political-leaders-summit-targeted-in-romcom-malware-phishing/",
+        "Steam enforces SMS verification to curb malware-ridden updates": "https://www.bleepingcomputer.com/news/security/steam-enforces-sms-verification-to-curb-malware-ridden-updates/",
+        "[FIX] cyberpunk skip dialogue disappeared - pc Y button": "https://trueliarx.blogspot.com/2023/10/fix-cyberpunk-skip-dialogue-disappeared.html",
+        "Sony case, Ransomedvc: “MajorNelson and IntelBroker are the same person”": "https://www.suspectfile.com/sony-case-ransomedvc-majornelson-and-intelbroker-are-the-same-person/"
+    },
+    "迪哥讲事": {
+        "一处价值600美刀的xss": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247492270&idx=1&sn=493d962eedad6987b8ad19d4ad285bca&chksm=e8a5e8cddfd261dbdd98a71ac47f1b97184e8b8cf7547eb34bfbbc90dc40b6825a755b618b36&scene=58&subscene=0#rd"
+    },
+    "吴鲁加": {
+        "语音笔记": "https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247484525&idx=1&sn=356e497541b068f6ec0eb76e140e0392&chksm=c01a895cf76d004a8ad443539e2a5ea0edf73fa897107e9893a2f7f9e58359746f4b5b4dcf13&scene=58&subscene=0#rd"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "Domain Name Used as Password Captured by DShield Sensor, (Sun, Oct 15th)": "https://isc.sans.edu/diary/rss/30312"
+    },
+    "网络安全回收站": {
+        "安卓逆向初体验": "https://mp.weixin.qq.com/s?__biz=Mzg2MTc1NDAxMA==&mid=2247483988&idx=1&sn=acf3c4611475af79a9eb200679de35f9&chksm=ce1305a1f9648cb7a5829d7b4be14676905eb1bd22a59a545848193e44ddd6b28578ea2857c5&scene=58&subscene=0#rd"
+    },
+    "Troy Hunt's Blog": {
+        "Weekly Update 369": "https://www.troyhunt.com/weekly-update-369/"
+    },
+    "Technical Information Security Content & Discussion": {
+        "cloudgrep now supports GCP and Azure - Open source tool for searching in cloud storage": "https://www.reddit.com/r/netsec/comments/178dyfx/cloudgrep_now_supports_gcp_and_azure_open_source/",
+        "Exim 4.96.2 - SMTP Mail Server - Message Transfer Agent (MTA) - CVE ZDI": "https://www.reddit.com/r/netsec/comments/178mbjz/exim_4962_smtp_mail_server_message_transfer_agent/",
+        "GitHub - ZephrFish/Stompy: Timestomp Tool to flatten MAC times with a specific timestamp": "https://www.reddit.com/r/netsec/comments/178431s/github_zephrfishstompy_timestomp_tool_to_flatten/"
+    },
+    "Your Hacking Tutorial by Zempirians": {
+        "Many time pad": "https://www.reddit.com/r/HowToHack/comments/178kzo8/many_time_pad/",
+        "Wifite problem - found 0 targets and 0 clients": "https://www.reddit.com/r/HowToHack/comments/1788300/wifite_problem_found_0_targets_and_0_clients/",
+        "File upload through CMD/powershell": "https://www.reddit.com/r/HowToHack/comments/178hyp2/file_upload_through_cmdpowershell/"
+    },
+    "Blackhat Library: Hacking techniques and research": {
+        "Transfer files without noticing?": "https://www.reddit.com/r/blackhat/comments/178ijmf/transfer_files_without_noticing/"
+    },
+    "Deep Web": {
+        "Paranoid or…?": "https://www.reddit.com/r/deepweb/comments/1789hxu/paranoid_or/"
+    },
+    "Social Engineering": {
+        "How society programs you: Propaganda": "https://www.reddit.com/r/SocialEngineering/comments/178kx6p/how_society_programs_you_propaganda/",
+        "Is it chasing if I call someone spontaneously when they did it do me?": "https://www.reddit.com/r/SocialEngineering/comments/17878ys/is_it_chasing_if_i_call_someone_spontaneously/"
+    },
+    "netsecstudents: Subreddit for students studying Network Security and its related subjects": {
+        "Week in Brief - Google Targeted by Unprecedented DDoS Attacks Exploiting Zero-Day, AvosLocker Ransomware Tactics Revealed, ShellBot Evades Detection, Microsoft Ends VBScript, and Curl Vulnerabilities Unpacked": "https://www.reddit.com/r/netsecstudents/comments/178mi2b/week_in_brief_google_targeted_by_unprecedented/"
+    },
+    "KitPloit - PenTest Tools!": {
+        "JSpector - A Simple Burp Suite Extension To Crawl JavaScript (JS) Files In Passive Mode And Display The Results Directly On The Issues": "http://www.kitploit.com/2023/10/jspector-simple-burp-suite-extension-to.html",
+        "HBSQLI - Automated Tool For Testing Header Based Blind SQL Injection": "http://www.kitploit.com/2023/10/hbsqli-automated-tool-for-testing.html"
+    },
+    "Security Affairs": {
+        "The Alphv ransomware gang stole 5TB of data from the Morrison Community Hospital": "https://securityaffairs.com/152486/cyber-crime/alphv-ransomware-morrison-community-hospital.html",
+        "Security Affairs newsletter Round 441 by Pierluigi Paganini – INTERNATIONAL EDITION": "https://securityaffairs.com/152480/breaking-news/security-affairs-newsletter-round-441-by-pierluigi-paganini-international-edition.html"
+    },
+    "Computer Forensics": {
+        "[Volatility] Collection of profiles and symbols for many distributions": "https://www.reddit.com/r/computerforensics/comments/178psuy/volatility_collection_of_profiles_and_symbols_for/"
+    }
+}
