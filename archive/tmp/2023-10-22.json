@@ -1,0 +1,145 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2023-10-21 Review": "http://www.sec-wiki.com/?2023-10-21"
+    },
+    "嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com": {
+        "Telegram、AWS和阿里云的用户们遭到最新的供应链攻击": "https://www.4hou.com/posts/xzrr",
+        "钓鱼电子邮件使用二维码发起攻击的可能性": "https://www.4hou.com/posts/9APx"
+    },
+    "Security Boulevard": {
+        "DEF CON 31 – Corynne McSherry’s, India McKinney’s, Daly Barnett’s, Kate Bertash’s ‘Reproductive Justice In The Age of Digital Surveillance’": "https://securityboulevard.com/2023/10/def-con-31-corynne-mcsherrys-india-mckinneys-daly-barnetts-kate-bertashs-reproductive-justice-in-the-age-of-digital-surveillance/"
+    },
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "Spip-4.2.6 Server-side Information Disclosure": "https://cxsecurity.com/issue/WLB-2023100047"
+    },
+    "ongoing by Tim Bray": {
+        "Feminized Feed": "https://www.tbray.org/ongoing/When/202x/2023/10/21/Feminized-Feed"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sat Oct 21 12:09:41 UTC 2023": "https://github.com/trickest/cve/commit/7a9630f1746c71d12663fc05cff1f51a4521bf93"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Exploit for Off-by-one Error in F5 Nginx exploit": "https://sploitus.com/exploit?id=B175E582-6BBF-5D54-AF15-ED3715F757E3&utm_source=rss&utm_medium=rss",
+        "Exploit for Vulnerability in Atlassian Confluence Server exploit": "https://sploitus.com/exploit?id=6190411F-5D54-5A2D-B3A1-6FDCBFCE0A2B&utm_source=rss&utm_medium=rss",
+        "Exploit for Vulnerability in Rarlab Winrar exploit": "https://sploitus.com/exploit?id=87F34CE8-E6B0-58B1-8865-C423F9D050D1&utm_source=rss&utm_medium=rss"
+    },
+    "SAP Blogs": {
+        "SAP SuccessFactors Recruiting : 2H 2023 Release Highlights": "https://blogs.sap.com/2023/10/21/sap-successfactors-recruiting-2h-2023-release-highlights/",
+        "SAP HANA Cloud release September 2023 Roundup": "https://blogs.sap.com/2023/10/21/sap-hana-cloud-release-september-2023-roundup/",
+        "SuccessFactors Calibration: Major releases for 2H 2023": "https://blogs.sap.com/2023/10/21/sap-successfactors-calibration-2h-2023-major-releases/",
+        "SAP BTP ABAP Environment – New Root Certificate Authority": "https://blogs.sap.com/2023/10/21/sap-btp-abap-environment-new-root-certificate-authority/",
+        "2H 2023 for Compensation: Must-Know new features": "https://blogs.sap.com/2023/10/21/2h-2023-for-compensation-must-know-new-features/"
+    },
+    "Reverse Engineering": {
+        "Hacking a Silent Disco": "https://www.reddit.com/r/ReverseEngineering/comments/17d8egf/hacking_a_silent_disco/",
+        "Dumping the Firwmare from a Ham Radio TNC": "https://www.reddit.com/r/ReverseEngineering/comments/17ctgd0/dumping_the_firwmare_from_a_ham_radio_tnc/"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "Twitter/X 将推出两种新的订阅套餐": "https://www.solidot.org/story?sid=76410",
+        "Hugging Face 被屏蔽": "https://www.solidot.org/story?sid=76409",
+        "耐克在中国推行四天工作制": "https://www.solidot.org/story?sid=76408"
+    },
+    "半块西瓜皮": {
+        "Aspose Total for .NET/Python 破解": "https://guage.cool/aspose-net/"
+    },
+    "KitPloit - PenTest & Hacking Tools": {
+        "SecuSphere - Efficient DevSecOps": "http://www.kitploit.com/2023/10/secusphere-efficient-devsecops.html"
+    },
+    "奇安信 CERT": {
+        "Cisco IOS XE Web UI  命令执行漏洞(CVE-2023-20273)安全风险通告": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247499861&idx=1&sn=e9451a1b922616ece9fdbbd06ce32f8d&chksm=fe79e4cdc90e6ddb80290d2a7614d67e9021647bddfbe91b6c9f98d536541cd4f8947c3c6b20&scene=58&subscene=0#rd"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【资料】认知战系列（1）": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651139919&idx=1&sn=f2948137a4ebebdb4d34bd01bf93a8b9&chksm=f1af5875c6d8d1631b864c2a89650f78e2d113a946e0e01a1863b040a91bc409f95c79e8ac56&scene=58&subscene=0#rd",
+        "【通知】第三届全国开源情报技术大会12.8-12.11日在成都召开！（附邀请函）": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651139919&idx=2&sn=c03c50f343dc716c549c49eb3a1d73df&chksm=f1af5875c6d8d16381cfd77a95131544c05033f1d36f9c9ca735cfaeff78a071b278f2ec6ba3&scene=58&subscene=0#rd"
+    },
+    "学蚁致用": {
+        "As-Exploits 1.5更新": "https://mp.weixin.qq.com/s?__biz=MzI0MDI5MTQ3OQ==&mid=2247484603&idx=1&sn=7dfee9deb3909c29f30e35d9d90bb6ae&chksm=e91c5f43de6bd6559b62a285598cebba5325aa5a74f7a89a1dd7a1e08050553689c6092f3be7&scene=58&subscene=0#rd"
+    },
+    "黑海洋 - WIKI": {
+        "香色闺阁 - IOS设备可自定义源的小说APP（永不掉签）": "https://blog.upx8.com/2629",
+        "浏览器 Encrypted Client Hello (ECH) 开启教程": "https://blog.upx8.com/3876"
+    },
+    "安全圈": {
+        "【安全圈】这类网络攻击可令全球经济损失3.5万亿美元！美中日受影响最严重": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652047041&idx=1&sn=92ddcc087c28db49ee90ade90b33e81d&chksm=f36e2a81c419a397416d1765b51c714ada5dfa5748dcaa59a8bc9739e0c1541f670a3970f8e2&scene=58&subscene=0#rd",
+        "【安全圈】谷歌增强 Android 系统恶意软件防御能力，推出实时扫描功能": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652047041&idx=2&sn=ac547a25301094dd9330b791cff410f1&chksm=f36e2a81c419a3975b21e5c29f4572747816eeffea5d60dc261cac52baf267bc678b0a62e9d9&scene=58&subscene=0#rd",
+        "【安全圈】清华版「AutoGPT」登GitHub热榜！": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652047041&idx=3&sn=10276dc41521de4e73760f2dbb4f448a&chksm=f36e2a81c419a397a15e8544b0e66518824de3c85a3e903868b2947f9bfdfbdda7ce6601bd1c&scene=58&subscene=0#rd",
+        "【安全圈】智利政府部门遭遇 Black Basta 勒索软件攻击": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652047041&idx=4&sn=12884e831a410c3d5660a0922446e6db&chksm=f36e2a81c419a39728dc0a9bbdb81a71d5b35f357bbc9e7b23413161359a8ee911793a81eade&scene=58&subscene=0#rd"
+    },
+    "极客公园": {
+        "宿华辞任快手董事长；科大讯飞：华为处理器可对标英伟达 A100；英特尔：2025 发展一亿台 AI PC | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653016255&idx=1&sn=e25e1974bade1d4c523a710d1823c951&chksm=7e54ad094923241fba59eb6dfc295d822e80dc8a2c8fb3b263aafa8f9101e47b891319453c82&scene=58&subscene=0#rd"
+    },
+    "复旦白泽战队": {
+        "白泽迎新｜想了解2023级新生吗？让数据告诉你～": "https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247487317&idx=1&sn=afc5825e2baf4f6a2837bc6a74bb5c2d&chksm=fdeb8b2bca9c023d9d7095d94d59870985303e1b4313516b396bc717c12ac5e736437e6118d6&scene=58&subscene=0#rd"
+    },
+    "安全研究GoSSIP": {
+        "中佛罗里达大学 CASR Lab 招生": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247496511&idx=1&sn=2767af6354a2c0c7cf3662129ae341bf&chksm=c063dde6f71454f0e8e8d90aa640178d8ca482197a6f82af8a6c84dd0283e25038cec7efd32a&scene=58&subscene=0#rd"
+    },
+    "京东安全应急响应中心": {
+        "【活动】2023狂欢，11.11额外双倍！": "https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727836077&idx=1&sn=276b94672438aad4cd650863a813e525&chksm=8050ae25b7272733102d8274e8eb5eda1ac8efb3a586a9c6f2abced61c32e42bf01ad218fe6e&scene=58&subscene=0#rd"
+    },
+    "渊龙Sec安全团队": {
+        "从零学习AWD比赛指导手册": "https://mp.weixin.qq.com/s?__biz=Mzg4NTY0MDg1Mg==&mid=2247485127&idx=1&sn=332aec05a070fc6f3a8298e9f77ece73&chksm=cfa49d3cf8d3142a61e18a6950e3472c2c94d915240ebaaf784c66d65bb5f6243499f59509e0&scene=58&subscene=0#rd"
+    },
+    "网安寻路人": {
+        "AI法案： 在更广泛的妥协中，欧盟国家开始对基础模型采取分层方法": "https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247500478&idx=1&sn=b96ff9a73aed2002236866ec65a842c1&chksm=97e97f54a09ef6426e25f0ae0e6727db623ac855ddc2c8ac426596a676ec00946c5e109ae5e5&scene=58&subscene=0#rd"
+    },
+    "网络安全回收站": {
+        "As-Exploits 1.5更新": "https://mp.weixin.qq.com/s?__biz=Mzg2MTc1NDAxMA==&mid=2247484013&idx=1&sn=6fcb9b42aac7bd86d511f2096c127712&chksm=ce130598f9648c8eead7f6d7fe2f1d78cb3f790e1696b5d2549a230291a9361ca68e88ad658b&scene=58&subscene=0#rd"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "Tunngle - 8,192,928 breached accounts": "https://haveibeenpwned.com/PwnedWebsites#Tunngle",
+        "UK, Stratton Primary School among the first victims of the Hunters International ransomware group": "https://www.suspectfile.com/uk-stratton-primary-school-among-the-first-victims-of-the-hunters-international-ransomware-group/",
+        "American Family Insurance confirms cyberattack is behind IT outages": "https://www.bleepingcomputer.com/news/security/american-family-insurance-confirms-cyberattack-is-behind-it-outages/",
+        "International Criminal Court systems breached for cyber espionage": "https://www.bleepingcomputer.com/news/security/international-criminal-court-systems-breached-for-cyber-espionage/",
+        "The Week in Ransomware - October 20th 2023 - Fighting Back": "https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-20th-2023-fighting-back/",
+        "Sintesi riepilogativa delle campagne malevole nella settimana del 14 – 20 Ottobre 2023": "https://cert-agid.gov.it/news/sintesi-riepilogativa-delle-campagne-malevole-nella-settimana-del-14-20-ottobre-2023/"
+    },
+    "Have I Been Pwned latest breaches": {
+        "Tunngle - 8,192,928 breached accounts": "https://haveibeenpwned.com/PwnedWebsites#Tunngle"
+    },
+    "IT Service Management News": {
+        "Stato delle norme ISO/IEC 270xx - Privacy": "http://blog.cesaregallotti.it/2023/10/stato-delle-norme-isoiec-270xx-privacy.html"
+    },
+    "The Hacker News": {
+        "Europol Dismantles Ragnar Locker Ransomware Infrastructure, Nabs Key Developer": "https://thehackernews.com/2023/10/europol-dismantles-ragnar-locker.html",
+        "Okta's Support System Breach Exposes Customer Data to Unidentified Threat Actors": "https://thehackernews.com/2023/10/oktas-support-system-breach-exposes.html",
+        "Cisco Zero-Day Exploited to Implant Malicious Lua Backdoor on Thousands of Devices": "https://thehackernews.com/2023/10/cisco-zero-day-exploited-to-implant.html"
+    },
+    "Il Disinformatico": {
+        "Sci-Fi Universe, 13-14 gennaio 2024 a Peschiera del Garda: due giorni di fantascienza, astronomia e astrofisica. Ecco il secondo blocco di ospiti": "http://attivissimo.blogspot.com/2023/10/ci-vediamo-il-13-14-gennaio-2024.html",
+        "ChatGPT non “capisce” la realtà: ennesima dimostrazione pratica": "http://attivissimo.blogspot.com/2023/10/chatgpt-non-capisce-la-realta-ennesima.html",
+        "La Svizzera si prepara alla guida semi-autonoma con nuove leggi: meglio evitare entusiasmi eccessivi. Ne ho parlato a Ticinonews": "http://attivissimo.blogspot.com/2023/10/la-svizzera-si-prepara-alla-guida-semi.html"
+    },
+    "Security Affairs": {
+        "A threat actor is selling access to Facebook and Instagram’s Police Portal": "https://securityaffairs.com/152811/cyber-crime/facebook-and-instagrams-police-portal-access.html",
+        "Threat actors breached Okta support system and stole customers’ data": "https://securityaffairs.com/152803/data-breach/okta-support-system-breached.html",
+        "US DoJ seized domains used by North Korean IT workers to defraud businesses worldwide": "https://securityaffairs.com/152790/security/north-korean-it-workers-scammers.html"
+    },
+    "Information Security": {
+        "What does this symbol represent in a network topology?": "https://www.reddit.com/r/Information_Security/comments/17d61ta/what_does_this_symbol_represent_in_a_network/"
+    },
+    "Technical Information Security Content & Discussion": {
+        "Microsoft Account's OAuth tokens leaking via open redirect in Harvest App": "https://www.reddit.com/r/netsec/comments/17d7yz2/microsoft_accounts_oauth_tokens_leaking_via_open/"
+    },
+    "Social Engineering": {
+        "How US media legitimise Israel's barbarism against the Palestinians": "https://www.reddit.com/r/SocialEngineering/comments/17dcctw/how_us_media_legitimise_israels_barbarism_against/",
+        "Good yet SeT questions that would work with anyone?": "https://www.reddit.com/r/SocialEngineering/comments/17d0so4/good_yet_set_questions_that_would_work_with_anyone/"
+    },
+    "Computer Forensics": {
+        "Live OS for Digital Forensics on ARM architecture": "https://www.reddit.com/r/computerforensics/comments/17daais/live_os_for_digital_forensics_on_arm_architecture/"
+    },
+    "BorderGate": {
+        "Coerced Authentication": "https://www.bordergate.co.uk/coerced-authentication/"
+    },
+    "KitPloit - PenTest Tools!": {
+        "SecuSphere - Efficient DevSecOps": "http://www.kitploit.com/2023/10/secusphere-efficient-devsecops.html"
+    },
+    "Deep Web": {
+        "Tor Browser Tutorial: How to Set up & Use Tor Browser": "https://www.reddit.com/r/deepweb/comments/17d7wd1/tor_browser_tutorial_how_to_set_up_use_tor_browser/",
+        "IPTV websites / forums on deep web": "https://www.reddit.com/r/deepweb/comments/17d6mm2/iptv_websites_forums_on_deep_web/",
+        "..It talked to us through the bushes…": "https://www.reddit.com/r/deepweb/comments/17d203w/it_talked_to_us_through_the_bushes/"
+    },
+    "Tor Project blog": {
+        "Global Encryption Day: Encryption's Critical Role in Safeguarding Human Rights": "https://blog.torproject.org/global-encryption-day-2023/"
+    }
+}
