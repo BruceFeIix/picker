@@ -1,0 +1,96 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2023-10-28 Review": "http://www.sec-wiki.com/?2023-10-28"
+    },
+    "Security Boulevard": {
+        "DEF CON 31 – Policy Panel: International Cyber Policy 101": "https://securityboulevard.com/2023/10/def-con-31-policy-panel-international-cyber-policy-101/"
+    },
+    "先知安全技术社区": {
+        "IO利用之House of kiwi & House of emma": "https://xz.aliyun.com/t/12934",
+        "银狐处置及分析": "https://xz.aliyun.com/t/12933"
+    },
+    "unSafe.sh - 不安全": {
+        "SAP BW/4HANA & BOBJ Dashboard Reporting": "https://buaq.net/go-192760.html",
+        "Multi-State Coalition of Attorneys General Puts Meta's Social Media Platforms on Blast": "https://buaq.net/go-192768.html",
+        "DEF CON 31 – Policy Panel: International Cyber Policy 101": "https://buaq.net/go-192775.html",
+        "Security bug https://bugzilla.mozilla.org/oauth/authorize - CRLF Header injection via \"redirect_uri\" parameter": "https://buaq.net/go-192757.html",
+        "The Duke of St. Bungay in Search of a Minister": "https://buaq.net/go-192769.html",
+        "NAS 绝配！安卓视频播放器 NOVA Video Player (支持 TV 电视 / 海报墙 / 替代 Infuse)": "https://buaq.net/go-192776.html"
+    },
+    "HackerOne Hacker Activity": {
+        "Security bug https://bugzilla.mozilla.org/oauth/authorize - CRLF Header injection via \"redirect_uri\" parameter": "https://hackerone.com/reports/2147132"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Exploit for Code Injection in Apache Rocketmq exploit": "https://sploitus.com/exploit?id=997F6BD5-8A6B-5FC4-B010-BD3E95E6BF75&utm_source=rss&utm_medium=rss",
+        "Exploit for Vulnerability in Citrix Netscaler Application Delivery Controller exploit": "https://sploitus.com/exploit?id=7B95507C-B653-54C1-9230-04CB989ACD1A&utm_source=rss&utm_medium=rss",
+        "Exploit for Out-of-bounds Write in Gnu Glibc exploit": "https://sploitus.com/exploit?id=BF4B712C-ADAD-5E36-ADED-0F179741F896&utm_source=rss&utm_medium=rss",
+        "Exploit for Expression Language Injection in Vmware Spring Cloud Function exploit": "https://sploitus.com/exploit?id=9FAEDEC8-43AD-592A-A17C-BAF6F67FBF44&utm_source=rss&utm_medium=rss"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sat Oct 28 12:09:28 UTC 2023": "https://github.com/trickest/cve/commit/0df41c2268070810d0b94895e5501550bcdef8d0"
+    },
+    "Zdziarski": {
+        "Reflecting on Mental Health and Robert Card": "https://www.zdziarski.com/blog/?p=12428"
+    },
+    "嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com": {
+        "ToddyCat攻击手段再度升级": "https://www.4hou.com/posts/lk96",
+        "为何GPT-4P容易受到多模态提示注入图像攻击？": "https://www.4hou.com/posts/m0W0"
+    },
+    "SAP Blogs": {
+        "How SAP EPD contributes to SAP`s Intelligent Enterprise Vision": "https://blogs.sap.com/2023/10/28/how-sap-epd-contributes-to-saps-intelligent-enterprise-vision/",
+        "SAP BW/4HANA & BOBJ Dashboard Reporting": "https://blogs.sap.com/2023/10/28/sap-bw-4hana-bobj-dashboard-reporting/",
+        "Generate Time Forms from Time Admin Workbench": "https://blogs.sap.com/2023/10/28/generate-time-forms-from-time-admin-workbench/",
+        "SAP Datasphere Scoped Roles Examples | Scenarios": "https://blogs.sap.com/2023/10/28/sap-datasphere-scoped-roles-examples-scenarios/"
+    },
+    "Reverse Engineering": {
+        "Open-source Nintendo 64 FPGA implementation project": "https://www.reddit.com/r/ReverseEngineering/comments/17ibjxv/opensource_nintendo_64_fpga_implementation_project/"
+    },
+    "Hexacorn": {
+        "Beyond the good ol’ .bashrc entry… Part 3": "https://www.hexacorn.com/blog/2023/10/28/beyond-the-good-ol-bashrc-entry-part-3/"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "Android 14 bug 会锁定多配置文件用户的设备": "https://www.solidot.org/story?sid=76470",
+        "Google 在 2021 年为默认搜索交易支付了 263 亿美元": "https://www.solidot.org/story?sid=76469"
+    },
+    "杨龙": {
+        "[Warning] Could not increase number of max_open_files to more than 1024 (request: 10811)": "https://www.yanglong.pro/warning-could-not-increase-number-of-max_open_files-to-more-than-1024-request-10811/"
+    },
+    "FreeBuf网络安全行业门户": {
+        "Lockbit拿下波音，称不交赎金将公布敏感数据": "https://www.freebuf.com/news/382167.html"
+    },
+    "KitPloit - PenTest & Hacking Tools": {
+        "CloudPulse - AWS Cloud Landscape Search Engine": "http://www.kitploit.com/2023/10/cloudpulse-aws-cloud-landscape-search.html"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "HackerOne paid ethical hackers over $300 million in bug bounties": "https://www.bleepingcomputer.com/news/security/hackerone-paid-ethical-hackers-over-300-million-in-bug-bounties/",
+        "Hackers email stolen student data to parents of Nevada school district": "https://www.bleepingcomputer.com/news/security/hackers-email-stolen-student-data-to-parents-of-nevada-school-district/",
+        "Ukrainian hackers disrupt internet providers in Russia-occupied territories": "https://therecord.media/ukranian-hackers-disrupt-internet-providers-crimea",
+        "Guerre di Rete - Blackout su Gaza": "https://guerredirete.substack.com/p/guerre-di-rete-blackout-su-gaza"
+    },
+    "Security Affairs": {
+        "Bug hunters earned $1,038,250 for 58 unique 0-days at Pwn2Own Toronto 2023": "https://securityaffairs.com/153169/hacking/pwn2own-toronto-2023-ended.html"
+    },
+    "Technical Information Security Content & Discussion": {
+        "Turning a boring file move into a privilege escalation on Mac": "https://www.reddit.com/r/netsec/comments/17ibj2e/turning_a_boring_file_move_into_a_privilege/",
+        "Finally a Offsec ML Framework": "https://www.reddit.com/r/netsec/comments/17ietm0/finally_a_offsec_ml_framework/"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "Size Matters for Many Security Controls, (Sat, Oct 28th)": "https://isc.sans.edu/diary/rss/30352"
+    },
+    "The Hacker News": {
+        "Researchers Uncover Wiretapping of XMPP-Based Instant Messaging Service": "https://thehackernews.com/2023/10/researchers-uncover-wiretapping-of-xmpp.html"
+    },
+    "KitPloit - PenTest Tools!": {
+        "CloudPulse - AWS Cloud Landscape Search Engine": "http://www.kitploit.com/2023/10/cloudpulse-aws-cloud-landscape-search.html"
+    },
+    "Blackhat Library: Hacking techniques and research": {
+        "Curious as to how I can get started.": "https://www.reddit.com/r/blackhat/comments/17i8gpi/curious_as_to_how_i_can_get_started/"
+    },
+    "Your Hacking Tutorial by Zempirians": {
+        "How do i install and use the Anubis RAT?": "https://www.reddit.com/r/HowToHack/comments/17iie0x/how_do_i_install_and_use_the_anubis_rat/",
+        "Windows pin": "https://www.reddit.com/r/HowToHack/comments/17i89jb/windows_pin/",
+        "Newbie question, how to check what aplication call, what is it looking for? 🤔": "https://www.reddit.com/r/HowToHack/comments/17ijcyy/newbie_question_how_to_check_what_aplication_call/",
+        "How do I know if my WiFi Router Supports Monitoring?": "https://www.reddit.com/r/HowToHack/comments/17i9fzp/how_do_i_know_if_my_wifi_router_supports/",
+        "Hack using Machine Learning": "https://www.reddit.com/r/HowToHack/comments/17iafdh/hack_using_machine_learning/"
+    }
+}
