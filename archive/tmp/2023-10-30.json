@@ -1,0 +1,135 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2023-10-29 Review": "http://www.sec-wiki.com/?2023-10-29"
+    },
+    "HackerOne Hacker Activity": {
+        "Authenticated path traversal to Stored XSS and Denial-of-Service": "https://hackerone.com/reports/2168002",
+        "Bypass report submit restriction/ban using the API key": "https://hackerone.com/reports/2081930"
+    },
+    "Sec-News 安全文摘": {
+        "技术分享｜死磕RDP协议，从截图和爆破说起": "https://govuln.com/news/url/bk3M",
+        "一次痛苦的协议攻坚：RDP": "https://govuln.com/news/url/EoMD"
+    },
+    "博客": {
+        "debezium总结": "https://dyrnq.com/debezium/"
+    },
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "TEM Opera Plus FM Family Transmitter 35.45 Cross Site Request Forgery": "https://cxsecurity.com/issue/WLB-2023100060",
+        "TEM Opera Plus FM Family Transmitter 35.45 Remote Code Execution": "https://cxsecurity.com/issue/WLB-2023100059",
+        "exploit Slider Revolution < = 6.6.12 - Authenticated (Administrator+) Arbitrary File Upload": "https://cxsecurity.com/issue/WLB-2023100058"
+    },
+    "Security Boulevard": {
+        "8 Essential Windows Security Tips to Protect Your Computer": "https://securityboulevard.com/2023/10/8-essential-windows-security-tips-to-protect-your-computer/",
+        "XDR vs. SIEM": "https://securityboulevard.com/2023/10/xdr-vs-siem/",
+        "DEF CON 31 – Policy Panel: How Hackers Can Work With Government To Protect High Risk Communities": "https://securityboulevard.com/2023/10/def-con-31-policy-panel-how-hackers-can-work-with-government-to-protect-high-risk-communities/",
+        "Achieving Zero-Standing Privileges with Okta and Apono": "https://securityboulevard.com/2023/10/achieving-zero-standing-privileges-with-okta-and-apono/"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Exploit for Vulnerability in Citrix Netscaler Gateway exploit": "https://sploitus.com/exploit?id=7964732E-2145-55DB-8506-BBE433B55E7D&utm_source=rss&utm_medium=rss"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sun Oct 29 12:19:21 UTC 2023": "https://github.com/trickest/cve/commit/490dc63b9dc6bb413d7d59e7b266a4abdd9f48ce"
+    },
+    "InfoSec Write-ups - Medium": {
+        "A Quick Price Manipulation": "https://infosecwriteups.com/a-quick-price-manipulation-14c9244d7dca?source=rss----7b722bfd1b8d---4",
+        "Top 5 Red Flags of Bug Bounty Program": "https://infosecwriteups.com/top-5-red-flags-of-bug-bounty-program-09df79730123?source=rss----7b722bfd1b8d---4",
+        "How I Hacked 1000 + Tesla Cars using OSINT": "https://infosecwriteups.com/how-i-hacked-1000-tesla-cars-using-osint-4cd837b8c530?source=rss----7b722bfd1b8d---4",
+        "How I got Access to Auth0 Management API !!": "https://infosecwriteups.com/how-i-got-access-to-auth0-management-api-44d32fa6c477?source=rss----7b722bfd1b8d---4",
+        "Bug Bounty Hunting — Essential Tools and Techniques": "https://infosecwriteups.com/bug-bounty-hunting-essential-tools-and-techniques-e01e8c68352e?source=rss----7b722bfd1b8d---4",
+        "Top 5 OSINT Tools for Finding Anyone on the Internet": "https://infosecwriteups.com/top-5-osint-tools-for-finding-anyone-on-the-internet-5d93dab8146f?source=rss----7b722bfd1b8d---4",
+        "Exploring the Dark Web: A Guide to Accessing the Hidden Online World": "https://infosecwriteups.com/exploring-the-dark-web-a-guide-to-accessing-the-hidden-online-world-484bbc192ad8?source=rss----7b722bfd1b8d---4",
+        "$1120: ATO Bug in Twitter’s": "https://infosecwriteups.com/1120-ato-bug-in-twitters-e6d30aa4e0e8?source=rss----7b722bfd1b8d---4",
+        "Exploring Antivirus and EDR evasion techniques step-by-step. Part 1": "https://infosecwriteups.com/exploring-antivirus-and-edr-evasion-techniques-step-by-step-part-1-6459563b12ea?source=rss----7b722bfd1b8d---4",
+        "How I Could Get Anyone Arrested Knowing Their IP Address": "https://infosecwriteups.com/how-i-could-get-anyone-arrested-knowing-their-ip-address-c2d7474b5d8c?source=rss----7b722bfd1b8d---4"
+    },
+    "嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com": {
+        "网络犯罪分子如何利用爱彼迎从事欺诈活动？": "https://www.4hou.com/posts/rqoE"
+    },
+    "Bug Bounty in InfoSec Write-ups on Medium": {
+        "A Quick Price Manipulation": "https://infosecwriteups.com/a-quick-price-manipulation-14c9244d7dca?source=rss----7b722bfd1b8d--bug_bounty",
+        "Top 5 Red Flags of Bug Bounty Program": "https://infosecwriteups.com/top-5-red-flags-of-bug-bounty-program-09df79730123?source=rss----7b722bfd1b8d--bug_bounty",
+        "How I got Access to Auth0 Management API !!": "https://infosecwriteups.com/how-i-got-access-to-auth0-management-api-44d32fa6c477?source=rss----7b722bfd1b8d--bug_bounty",
+        "Bug Bounty Hunting — Essential Tools and Techniques": "https://infosecwriteups.com/bug-bounty-hunting-essential-tools-and-techniques-e01e8c68352e?source=rss----7b722bfd1b8d--bug_bounty",
+        "Top 5 OSINT Tools for Finding Anyone on the Internet": "https://infosecwriteups.com/top-5-osint-tools-for-finding-anyone-on-the-internet-5d93dab8146f?source=rss----7b722bfd1b8d--bug_bounty",
+        "$1120: ATO Bug in Twitter’s": "https://infosecwriteups.com/1120-ato-bug-in-twitters-e6d30aa4e0e8?source=rss----7b722bfd1b8d--bug_bounty",
+        "How I Could Get Anyone Arrested Knowing Their IP Address": "https://infosecwriteups.com/how-i-could-get-anyone-arrested-knowing-their-ip-address-c2d7474b5d8c?source=rss----7b722bfd1b8d--bug_bounty",
+        "Akamai Bypass! Advanced XSS.": "https://infosecwriteups.com/akamai-bypass-advanced-xss-8daedb0068f6?source=rss----7b722bfd1b8d--bug_bounty",
+        "ChatGPT for Bug Bounty: Top Prompts for Automation": "https://infosecwriteups.com/chatgpt-for-bug-bounty-top-prompts-for-automation-f76fef9a4683?source=rss----7b722bfd1b8d--bug_bounty",
+        "A web cache deception chained to a CSRF, the recipe": "https://infosecwriteups.com/a-web-cache-deception-chained-to-a-csrf-the-recipe-9e9a5b5f53aa?source=rss----7b722bfd1b8d--bug_bounty"
+    },
+    "SAP Blogs": {
+        "HANA SQL Statements Optimization": "https://blogs.sap.com/2023/10/29/hana-sql-statements-optimization/",
+        "Revenue Recognition in Service Contracts with Ad-Hoc Billing": "https://blogs.sap.com/2023/10/29/revenue-recognition-in-service-contracts-with-ad-hoc-billing/",
+        "GHG spillovers – a challenge which still needs to be addressed…": "https://blogs.sap.com/2023/10/29/ghg-spillovers-a-challenge-which-still-needs-to-be-addressed/",
+        "Designing with Code": "https://blogs.sap.com/2023/10/29/designing-with-code/",
+        "How to add custom project element filters in SAP Portfolio and Project Management": "https://blogs.sap.com/2023/10/29/how-to-add-custom-project-element-filters-in-sap-portfolio-and-project-management/",
+        "What you should not miss when you are at SAP TechEd 2023 in Bangalore": "https://blogs.sap.com/2023/10/29/what-you-should-not-miss-when-you-are-at-sap-teched-2023-in-bangalore/",
+        "SAP BW/4HANA & BOBJ Dashboard Reporting (Blog 2)": "https://blogs.sap.com/2023/10/29/sap-bw-4hana-bobj-dashboard-reporting-2/"
+    },
+    "glzjin": {
+        "西湖论剑2022-MISC TryToExec的解题思路": "https://www.zhaoj.in/read-8883.html",
+        "西湖论剑2022-MISC KP-Basic的解题思路": "https://www.zhaoj.in/read-8864.html",
+        "西湖论剑2020–Web NewUpload 解题思路": "https://www.zhaoj.in/read-8854.html"
+    },
+    "Reverse Engineering": {
+        "Introduction to Hardware Restrictions: Can You Trust Your Phone?": "https://www.reddit.com/r/ReverseEngineering/comments/17jcl3o/introduction_to_hardware_restrictions_can_you/"
+    },
+    "RyotaK's Blog": {
+        "DOM-based race condition: racing in the browser for fun": "https://blog.ryotak.net/post/dom-based-race-condition/"
+    },
+    "Wallarm": {
+        "XDR vs. SIEM": "https://lab.wallarm.com/what/xdr-vs-siem-unveiling-the-next-generation-of-threat-detection-and-response/"
+    },
+    "KitPloit - PenTest & Hacking Tools": {
+        "PatchaPalooza - A Comprehensive Tool That Provides An Insightful Analysis Of Microsoft's Monthly Security Updates": "http://www.kitploit.com/2023/10/patchapalooza-comprehensive-tool-that.html"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "Windows 11 adds support for 11 file archives, including 7-Zip and RAR": "https://www.bleepingcomputer.com/news/microsoft/windows-11-adds-support-for-11-file-archives-including-7-zip-and-rar/",
+        "Speed up DC/ISP operation with automation": "https://www.adainese.it/blog/2023/08/12/speed-up-dc/isp-operation-with-automation/",
+        "Installazione automatica di router Cisco XR con Zero Touch Provisioning": "https://www.adainese.it/blog/2023/10/18/installazione-automatica-di-router-cisco-xr-con-zero-touch-provisioning/",
+        "MemeChat - 4,348,570 breached accounts": "https://haveibeenpwned.com/PwnedWebsites#MemeChat"
+    },
+    "IT Service Management News": {
+        "AI: Avvelenare i dati delle opere artistiche per salvaguardare il diritto d'autore": "http://blog.cesaregallotti.it/2023/10/ai-avvelenare-i-dati-delle-opere.html"
+    },
+    "0x00sec - The Home of the Hacker - Top topics": {
+        "Kali live boot on macbook M1": "https://0x00sec.org/t/kali-live-boot-on-macbook-m1/37623",
+        "Isp>vpn>whoami>proxychain>tor": "https://0x00sec.org/t/isp-vpn-whoami-proxychain-tor/37626",
+        "Seeking Guidance on Writing a Malware Builder": "https://0x00sec.org/t/seeking-guidance-on-writing-a-malware-builder/37630"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "Spam or Phishing&#x26;#x3f; Looking for Credentials &#x26; Passwords, (Sun, Oct 29th)": "https://isc.sans.edu/diary/rss/30354"
+    },
+    "Have I Been Pwned latest breaches": {
+        "MemeChat - 4,348,570 breached accounts": "https://haveibeenpwned.com/PwnedWebsites#MemeChat"
+    },
+    "Security Affairs": {
+        "IT Army of Ukraine disrupted internet providers in territories occupied by Russia": "https://securityaffairs.com/153192/hacktivism/it-army-of-ukraine-hit-russia-isp.html",
+        "Security Affairs newsletter Round 443 by Pierluigi Paganini – INTERNATIONAL EDITION": "https://securityaffairs.com/153186/breaking-news/security-affairs-newsletter-round-443-by-pierluigi-paganini-international-edition.html"
+    },
+    "Computer Forensics": {
+        "GCFE question": "https://www.reddit.com/r/computerforensics/comments/17ix8y8/gcfe_question/"
+    },
+    "Technical Information Security Content & Discussion": {
+        "The Importance of Self-Custody Password Managers: A Deep Dive": "https://www.reddit.com/r/netsec/comments/17jc9ar/the_importance_of_selfcustody_password_managers_a/"
+    },
+    "Blackhat Library: Hacking techniques and research": {
+        "Infostealer Intelligence - Free tools from over 17,500,000 infected computers": "https://www.reddit.com/r/blackhat/comments/17ixok4/infostealer_intelligence_free_tools_from_over/",
+        "Group chat, free guides & methods": "https://www.reddit.com/r/blackhat/comments/17irsh4/group_chat_free_guides_methods/",
+        "Free way to access a private Twitter?": "https://www.reddit.com/r/blackhat/comments/17iz6et/free_way_to_access_a_private_twitter/"
+    },
+    "Social Engineering": {
+        "How to portray positivity and charisma as an introvert?": "https://www.reddit.com/r/SocialEngineering/comments/17j2k2d/how_to_portray_positivity_and_charisma_as_an/",
+        "How do you avoid over humouring somebody?": "https://www.reddit.com/r/SocialEngineering/comments/17j4gor/how_do_you_avoid_over_humouring_somebody/",
+        "Change conversation style depending on in group or 1-on-1?": "https://www.reddit.com/r/SocialEngineering/comments/17j05bp/change_conversation_style_depending_on_in_group/"
+    },
+    "Deep Web": {
+        "How to use pgb public key": "https://www.reddit.com/r/deepweb/comments/17j9whk/how_to_use_pgb_public_key/"
+    },
+    "Your Hacking Tutorial by Zempirians": {
+        "Help with a CTF": "https://www.reddit.com/r/HowToHack/comments/17jco88/help_with_a_ctf/"
+    },
+    "KitPloit - PenTest Tools!": {
+        "PatchaPalooza - A Comprehensive Tool That Provides An Insightful Analysis Of Microsoft's Monthly Security Updates": "http://www.kitploit.com/2023/10/patchapalooza-comprehensive-tool-that.html"
+    }
+}
