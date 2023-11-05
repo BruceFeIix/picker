@@ -1,0 +1,99 @@
+{
+    "HackerOne Hacker Activity": {
+        "Google Docs link in JS files allows editing & reading survey information": "https://hackerone.com/reports/2180521"
+    },
+    "SecWiki News": {
+        "SecWiki News 2023-11-04 Review": "http://www.sec-wiki.com/?2023-11-04"
+    },
+    "Security Boulevard": {
+        "DEF CON 31 – Tracy Mosley’s  ‘War Stories – Nuthin’ But A G Thang Evolution of Cellular Networks’": "https://securityboulevard.com/2023/11/def-con-31-tracy-mosleys-war-stories-nuthin-but-a-g-thang-evolution-of-cellular-networks/"
+    },
+    "先知安全技术社区": {
+        "APK逆向分析入门-以某车载音乐APP为例": "https://xz.aliyun.com/t/12972"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Exploit for SQL Injection in Moodle exploit": "https://sploitus.com/exploit?id=7BCE5F8F-A16E-5285-AFE4-23E811E20B10&utm_source=rss&utm_medium=rss",
+        "Exploit for CVE-2023-46604 exploit": "https://sploitus.com/exploit?id=32BABF3C-0537-598C-AE0C-8C92C9B30990&utm_source=rss&utm_medium=rss",
+        "Exploit for OS Command Injection in Web2Py exploit": "https://sploitus.com/exploit?id=71EB250C-7A83-5D51-974A-725E1371D1F6&utm_source=rss&utm_medium=rss"
+    },
+    "Der Flounder": {
+        "Resolving “Signing Certificate issued by SSO Identity Provider is expiring in 30 days” notifications in Jamf Pro after rotating Entra ID SAML signing certificate": "https://derflounder.wordpress.com/2023/11/04/resolving-signing-certificate-issued-by-sso-identity-provider-is-expiring-in-30-days-notifications-in-jamf-pro-after-rotating-entra-id-saml-signing-certificate/"
+    },
+    "unSafe.sh - 不安全": {
+        "Windows 11预览版变更表明微软正在加速抛弃UWP转而采用XAML": "https://buaq.net/go-194560.html",
+        "Kinsing threat actors probed the Looney Tunables flaws in recent attacks": "https://buaq.net/go-194548.html",
+        "Why are there two business process analysis solutions in SAP Signavio?": "https://buaq.net/go-194547.html",
+        "57 Stories To Learn About Workplace": "https://buaq.net/go-194552.html",
+        "43 Stories To Learn About Anonymity": "https://buaq.net/go-194553.html"
+    },
+    "嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com": {
+        "企业如何加强数据中心固件安全性": "https://www.4hou.com/posts/rqEL",
+        "2023年第三季度APT攻击趋势报告": "https://www.4hou.com/posts/XX9m"
+    },
+    "obaby@mars": {
+        "二十载": "https://h4ck.org.cn/2023/11/%e4%ba%8c%e5%8d%81%e8%bd%bd/"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sat Nov  4 12:22:54 UTC 2023": "https://github.com/trickest/cve/commit/4f0bd7d0897af0ffc84327d58f5d0670139c69fb"
+    },
+    "SAP Blogs": {
+        "A Virtual TechEd Recap – 2023": "https://blogs.sap.com/2023/11/04/a-virtual-teched-recap-2023/",
+        "Why are there two business process analysis solutions in SAP Signavio?": "https://blogs.sap.com/2023/11/04/why-are-there-two-business-process-analysis-solutions-in-sap-signavio/",
+        "Automate FI period open (OB52B) in SAP S/4HANA On premise": "https://blogs.sap.com/2023/11/04/automate-fi-period-open-ob52b-in-sap-s-4hana-on-premise/",
+        "Using extension fields in migration objects (Customer Open Items) in SAP S/4HANA On premise": "https://blogs.sap.com/2023/11/04/using-extension-fields-in-migration-objects-customer-open-items-in-sap-s-4hana-on-premise/"
+    },
+    "Reverse Engineering": {
+        "GitHub - actuator/Android-Security-Exploits-YouTube-Curriculum: 🔓A curated list of modern Android exploitation conference talks.": "https://www.reddit.com/r/ReverseEngineering/comments/17npgdf/github/"
+    },
+    "": {
+        "Can’t crack NTLMV2 hash caught by Responder, what next?": "https://cornerpirate.com/2023/11/04/cant-crack-ntlmv2-hash-caught-by-responder-what-next/"
+    },
+    "博客园 - 郑瀚Andrew": {
+        "XStream反序列化漏洞原理分析 - 郑瀚Andrew": "https://www.cnblogs.com/LittleHann/p/17807249.html"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "动物也具有想象力": "https://www.solidot.org/story?sid=76532",
+        "最强大离子引擎通过了合格性测试": "https://www.solidot.org/story?sid=76531",
+        "NASA 准备让国际空间站一直运行到 2030 年之后": "https://www.solidot.org/story?sid=76530",
+        "Mozilla 督促开发者为移动版扩展做好准备": "https://www.solidot.org/story?sid=76529"
+    },
+    "Black Hills Information Security": {
+        "Talkin’ About Infosec News – 11/4/2023": "https://www.blackhillsinfosec.com/talkin-about-infosec-news-11-4-2023/"
+    },
+    "KitPloit - PenTest & Hacking Tools": {
+        "TEx - Telegram Monitor": "http://www.kitploit.com/2023/11/tex-telegram-monitor.html"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "Apple 'Find My' network can be abused to steal keylogged passwords": "https://www.bleepingcomputer.com/news/apple/apple-find-my-network-can-be-abused-to-steal-keylogged-passwords/",
+        "Discord will switch to temporary file links to block malware delivery": "https://www.bleepingcomputer.com/news/security/discord-will-switch-to-temporary-file-links-to-block-malware-delivery/",
+        "Fitmart - 214,492 breached accounts": "https://haveibeenpwned.com/PwnedWebsites#Fitmart"
+    },
+    "Social Engineering": {
+        "Where to Find ACTUAL Psychological Advice?": "https://www.reddit.com/r/SocialEngineering/comments/17nt0y8/where_to_find_actual_psychological_advice/",
+        "App to Improve Social Skills": "https://www.reddit.com/r/SocialEngineering/comments/17nrfyh/app_to_improve_social_skills/",
+        "Control blushing": "https://www.reddit.com/r/SocialEngineering/comments/17nirgr/control_blushing/"
+    },
+    "The Hacker News": {
+        "StripedFly Malware Operated Unnoticed for 5 Years, Infecting 1 Million Devices": "https://thehackernews.com/2023/11/stripedfly-malware-operated-unnoticed.html",
+        "Okta's Recent Customer Support Data Breach Impacted 134 Customers": "https://thehackernews.com/2023/11/oktas-recent-customer-support-data.html",
+        "Google Play Store Introduces 'Independent Security Review' Badge for Apps": "https://thehackernews.com/2023/11/google-play-store-introduces.html"
+    },
+    "The Human Machine Interface": {
+        "Fuzzer Development: The Soul of a New Machine": "https://h0mbre.github.io/New_Fuzzer_Project/"
+    },
+    "Your Hacking Tutorial by Zempirians": {
+        "What linux tool should I use to dump wireless/wifi packets to a file for later analysis with Wireshark? Dumpcap, hcxdumptool, tcpdump, something else?": "https://www.reddit.com/r/HowToHack/comments/17n94c6/what_linux_tool_should_i_use_to_dump_wirelesswifi/"
+    },
+    "Security Affairs": {
+        "Kinsing threat actors probed the Looney Tunables flaws in recent attacks": "https://securityaffairs.com/153610/hacking/kinsing-hackers-probe-looney-tunables.html"
+    },
+    "KitPloit - PenTest Tools!": {
+        "TEx - Telegram Monitor": "http://www.kitploit.com/2023/11/tex-telegram-monitor.html"
+    },
+    "Computer Forensics": {
+        "Getting started/cfdi": "https://www.reddit.com/r/computerforensics/comments/17nd8r5/getting_startedcfdi/"
+    },
+    "Dark Space Blogspot": {
+        "Quali Airdrop Arriveranno Nel 2024? Controlla Volumi/Interazioni": "http://darkwhite666.blogspot.com/2023/11/quali-airdrop-arriveranno-nel-2024.html"
+    }
+}
