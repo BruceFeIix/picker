@@ -1,0 +1,121 @@
+{
+    "HackerOne Hacker Activity": {
+        "Cross-Site Request Forgery": "https://hackerone.com/reports/2041007"
+    },
+    "SecWiki News": {
+        "SecWiki News 2023-11-05 Review": "http://www.sec-wiki.com/?2023-11-05"
+    },
+    "Jiajun的技术笔记": {
+        "KVM 共享 Intel 集成显卡": "https://jiajunhuang.com/articles/2023_11_05-kvm_windows_intel_gpu.md.html"
+    },
+    "ArthurChiao's Blog": {
+        "[译] 100 行 C 代码创建一个 KVM 虚拟机（2019）": "https://arthurchiao.github.io/blog/kvm-host-in-a-few-lines-of-code-zh/"
+    },
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "Turning Point - Sql Injection": "https://cxsecurity.com/issue/WLB-2023110006"
+    },
+    "先知安全技术社区": {
+        "恶意代码分析技术": "https://xz.aliyun.com/t/12979",
+        ".NET 反序列化漏洞最新gadget链 GetterSecurityException": "https://xz.aliyun.com/t/12977",
+        "扫描器调度中心\"进化史\"": "https://xz.aliyun.com/t/12976"
+    },
+    "Sec-News 安全文摘": {
+        "Linux应急响应思路浅谈": "https://govuln.com/news/url/dNgy",
+        "深入浅出Joern": "https://govuln.com/news/group/vn01/"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Exploit for OS Command Injection in Vm2 Project Vm2 exploit": "https://sploitus.com/exploit?id=A873FDF8-67A1-5901-A026-A43BDAAF4376&utm_source=rss&utm_medium=rss",
+        "Exploit for Improper Initialization in Linux Linux Kernel exploit": "https://sploitus.com/exploit?id=C77E4DCD-6F02-5B59-A70C-5632A7207285&utm_source=rss&utm_medium=rss",
+        "Exploit for CVE-2023-5360 exploit": "https://sploitus.com/exploit?id=6443637C-D399-5B7B-A40E-B5C419B99F44&utm_source=rss&utm_medium=rss"
+    },
+    "Security Boulevard": {
+        "DEF CON 31 – Patrick Wardle’s ‘Leveraging macOS Networking Frameworks to Heuristically Detect Malware’": "https://securityboulevard.com/2023/11/def-con-31-patrick-wardles-leveraging-macos-networking-frameworks-to-heuristically-detect-malware/",
+        "Apono Success Stories: Rho": "https://securityboulevard.com/2023/11/apono-success-stories-rho/",
+        "DDoS Protection Solutions: Safeguarding Your Business in the Digital Age": "https://securityboulevard.com/2023/11/ddos-protection-solutions-safeguarding-your-business-in-the-digital-age/"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sun Nov  5 12:14:36 UTC 2023": "https://github.com/trickest/cve/commit/48ba8b02855bf80c2bbbcf204c769cae8f095931"
+    },
+    "unSafe.sh - 不安全": {
+        "Socks5Systemz proxy service infects 10,000 systems worldwide": "https://buaq.net/go-194697.html",
+        "Designing with Code (Part 2) – Crossing the Bridge": "https://buaq.net/go-194699.html",
+        "深入浅出Joern": "https://buaq.net/go-194696.html",
+        "85 Stories To Learn About Cyber Attack": "https://buaq.net/go-194719.html",
+        "69 Stories To Learn About Cloud Security": "https://buaq.net/go-194720.html"
+    },
+    "世事难料，保持低调": {
+        "LLM时代中的分布式AI": "https://blog.csdn.net/ariesjzj/article/details/134215494"
+    },
+    "嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com": {
+        "如何及时发现Triangulation攻击活动": "https://www.4hou.com/posts/poW1",
+        "GenAI生成“2024年网络安全预测”": "https://www.4hou.com/posts/1po3"
+    },
+    "SAP Blogs": {
+        "Designing with Code (Part 2) – Crossing the Bridge": "https://blogs.sap.com/2023/11/05/designing-with-code-part-2-crossing-the-bridge/",
+        "Cases Overview in ‘Customer Insights’ reporting dashboard": "https://blogs.sap.com/2023/11/05/cases-overview-in-customer-insights-reporting-dashboard/",
+        "Announcement: Hybrid Integrations with Integration Suite": "https://blogs.sap.com/2023/11/05/announcement-hybrid-integrations-with-integration-suite/",
+        "Enable Strust certificate expired alert automation": "https://blogs.sap.com/2023/11/05/enable-strust-certificate-expired-alert-automation/",
+        "New openSAP Course – Reimagine the Customer Journey with SAP Customer Experience Solutions": "https://blogs.sap.com/2023/11/05/new-opensap-course-reimagine-the-customer-journey-with-sap-customer-experience-solutions/",
+        "Configuration Guide to Implementing Differential OT Rates & Shift Premiums in SuccessFactors Time Tracking": "https://blogs.sap.com/2023/11/05/configuration-guide-to-implementing-differential-ot-rates-shift-premiums-in-successfactors-time-tracking/",
+        "The Consignment Process Limitations": "https://blogs.sap.com/2023/11/05/the-consignment-process-limitations/",
+        "Gitops with Argo CD & Kyma, Multi-cluster management": "https://blogs.sap.com/2023/11/05/gitops-with-argo-cd-kyma-multi-cluster-management/"
+    },
+    "MiaoTony's小窝": {
+        "CTF | 2023 USTC Hackergame WriteUp": "https://miaotony.xyz/2023/11/05/CTF_2023Hackergame/"
+    },
+    "黑海洋 - WIKI": {
+        "PokePay虚拟信用卡": "https://blog.upx8.com/3891"
+    },
+    "KitPloit - PenTest & Hacking Tools": {
+        "NetworkAssessment - With Wireshark Or TCPdump, You Can Determine Whether There Is Harmful Activity On Your Network Traffic That You Have Recorded On The Network You Monitor": "http://www.kitploit.com/2023/11/networkassessment-with-wireshark-or.html"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "Falcon 9 火箭第一级重复使用次数达到 18 次": "https://www.solidot.org/story?sid=76534",
+        "考古学家发现史前欧洲的大规模冲突": "https://www.solidot.org/story?sid=76533"
+    },
+    "专注APT攻击与防御": {
+        "论“数字化”及“数字化转型”背景下企业信息安全建设路径": "https://micropoor.blogspot.com/2023/11/blog-post.html"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "Socks5Systemz proxy service infects 10,000 systems worldwide": "https://www.bleepingcomputer.com/news/security/socks5systemz-proxy-service-infects-10-000-systems-worldwide/"
+    },
+    "Have I Been Pwned latest breaches": {
+        "GamingMonk - 654,510 breached accounts": "https://haveibeenpwned.com/PwnedWebsites#GamingMonk"
+    },
+    "Technical Information Security Content & Discussion": {
+        "Smashing the TLB for fun and profit - ekoparty 2023": "https://www.reddit.com/r/netsec/comments/17o24gf/smashing_the_tlb_for_fun_and_profit_ekoparty_2023/"
+    },
+    "Your Hacking Tutorial by Zempirians": {
+        "I am not confident when it comes to discovering any malware when I search for them, because I dont know the good/right way": "https://www.reddit.com/r/HowToHack/comments/17oht9m/i_am_not_confident_when_it_comes_to_discovering/"
+    },
+    "Blackhat Library: Hacking techniques and research": {
+        "Rootkit Analysis to Privilege Escalation | TryHackMe Athena": "https://www.reddit.com/r/blackhat/comments/17oat9u/rootkit_analysis_to_privilege_escalation/",
+        "How to crack website software": "https://www.reddit.com/r/blackhat/comments/17ok3cc/how_to_crack_website_software/"
+    },
+    "Security Affairs": {
+        "US govt sanctioned a Russian woman for laundering virtual currency on behalf of threat actors": "https://securityaffairs.com/153649/breaking-news/russian-woman-virtual-currency-money-laundering.html",
+        "Security Affairs newsletter Round 444 by Pierluigi Paganini – INTERNATIONAL EDITION": "https://securityaffairs.com/153643/breaking-news/security-affairs-newsletter-round-444-by-pierluigi-paganini-international-edition.html",
+        "Lazarus targets blockchain engineers with new KandyKorn macOS Malware": "https://securityaffairs.com/153622/hacking/lazarus-kandykorn-malware.html"
+    },
+    "KitPloit - PenTest Tools!": {
+        "NetworkAssessment - With Wireshark Or TCPdump, You Can Determine Whether There Is Harmful Activity On Your Network Traffic That You Have Recorded On The Network You Monitor": "http://www.kitploit.com/2023/11/networkassessment-with-wireshark-or.html"
+    },
+    "Il Disinformatico": {
+        "Ci vediamo a Pescara l’11 novembre per InnovAzioni?": "http://attivissimo.blogspot.com/2023/11/ci-vediamo-pescara-l11-novembre-per.html",
+        "“Now and Then” dei Beatles: la voce di John Lennon è da considerare autentica o sintetica?": "http://attivissimo.blogspot.com/2023/11/now-and-then-dei-beatles-la-voce-di.html"
+    },
+    "netsecstudents: Subreddit for students studying Network Security and its related subjects": {
+        "Are Stingray and similar devices still in use and how to prevent SMS/Call interception?": "https://www.reddit.com/r/netsecstudents/comments/17o297o/are_stingray_and_similar_devices_still_in_use_and/"
+    },
+    "Information Security": {
+        "الصديق والخليفة: سيرة سيدنا أبو بكر الصديق في التاريخ الإسلامي": "https://www.reddit.com/r/Information_Security/comments/17onliw/الصديق_والخليفة_سيرة_سيدنا_أبو_بكر_الصديق_في/"
+    },
+    "Computer Forensics": {
+        "IOS encryption + iCloud UFED": "https://www.reddit.com/r/computerforensics/comments/17o8eq7/ios_encryption_icloud_ufed/",
+        "Chip-off questions s6 s7": "https://www.reddit.com/r/computerforensics/comments/17obo9d/chipoff_questions_s6_s7/",
+        "Reading removed contents from notepad in Volatility3": "https://www.reddit.com/r/computerforensics/comments/17o1fvw/reading_removed_contents_from_notepad_in/"
+    },
+    "Social Engineering": {
+        "I find sales books to be helpful for learning social engineering": "https://www.reddit.com/r/SocialEngineering/comments/17o76z6/i_find_sales_books_to_be_helpful_for_learning/"
+    }
+}
