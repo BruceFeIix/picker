@@ -1,0 +1,173 @@
+{
+    "Jiajun的技术笔记": {
+        "macOS/Linux 编译 InputLeap": "https://jiajunhuang.com/articles/2023_11_11-input_leap.md.html"
+    },
+    "SecWiki News": {
+        "SecWiki News 2023-11-11 Review": "http://www.sec-wiki.com/?2023-11-11"
+    },
+    "Security Boulevard": {
+        "The Power of Complex Binary Analysis": "https://securityboulevard.com/2023/11/the-power-of-complex-binary-analysis/",
+        "What to do if you expose a secret: How to stay calm and respond to an incident": "https://securityboulevard.com/2023/11/what-to-do-if-you-expose-a-secret-how-to-stay-calm-and-respond-to-an-incident/",
+        "Canada Remembrance Day / Jour du Souvenir du Canada": "https://securityboulevard.com/2023/11/canada-remembrance-day-jour-du-souvenir-du-canada-2/",
+        "2023 United States Veteran’s Day": "https://securityboulevard.com/2023/11/2023-united-states-veterans-day/",
+        "NordVPN Review 2023: Comprehensive Security for Your Business": "https://securityboulevard.com/2023/11/nordvpn-review-2023-comprehensive-security-for-your-business/"
+    },
+    "Verne in GitHub": {
+        "新加坡华侨银行 OCBC 开户记录": "https://einverne.github.io/post/2023/11/ocbc.html"
+    },
+    "unSafe.sh - 不安全": {
+        "李开复称中美之争将进一步分裂科技世界": "https://buaq.net/go-196787.html",
+        "Geopolitical Cybercrime: LockBit attack on the ICBC": "https://buaq.net/go-196748.html",
+        "【通知】第三届全国开源情报技术大会议程（报名已截止）": "https://buaq.net/go-196757.html",
+        "AI Chips in 2024: Is Nvidia Poised to Lead The Race?": "https://buaq.net/go-196751.html",
+        "The Framework Successful People Use to Become Indispensable": "https://buaq.net/go-196752.html",
+        "68 Stories To Learn About Internet Privacy": "https://buaq.net/go-196753.html"
+    },
+    "嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com": {
+        "如何使用Nmap加强网络安全？": "https://www.4hou.com/posts/lkyl",
+        "2023年游戏业网络攻击情况分析": "https://www.4hou.com/posts/OXjg"
+    },
+    "先知安全技术社区": {
+        "traccar代码审记小结": "https://xz.aliyun.com/t/13025",
+        "深入研究Tomcat内存马的攻击技术": "https://xz.aliyun.com/t/13024"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sat Nov 11 12:15:27 UTC 2023": "https://github.com/trickest/cve/commit/16e238b09985eddc57c4a2f770f62b9093ee70f3"
+    },
+    "InfoSec Write-ups - Medium": {
+        "Subdomain takeover and Text injection on a 404 error page-$100 bounty": "https://infosecwriteups.com/subdomain-takeover-and-text-injection-on-a-404-error-page-100-bounty-e47ccf359e6b?source=rss----7b722bfd1b8d---4",
+        "Top 12 OSINT Tools for the Dark Web": "https://infosecwriteups.com/top-12-osint-tools-for-the-dark-web-cfcf88c8fbe0?source=rss----7b722bfd1b8d---4",
+        "Understanding the Critical CVE-2023–22515 in Confluence Server": "https://infosecwriteups.com/understanding-the-critical-cve-2023-22515-in-confluence-server-c0b59dddbb1c?source=rss----7b722bfd1b8d---4",
+        "This Simple Hack Reveals Who’s Selling Your Data": "https://infosecwriteups.com/this-simple-hack-reveals-whos-selling-your-data-037c391f2cc5?source=rss----7b722bfd1b8d---4",
+        "Unlocking Cash: Easy P1 Bug in Grafana Dashboard with Default Credentials = €€€€": "https://infosecwriteups.com/unlocking-cash-easy-p1-bug-in-grafana-dashboard-with-default-credentials-fa36ddf271da?source=rss----7b722bfd1b8d---4",
+        "Secure Your Future: Explore 5 Free Cybersecurity Courses Online": "https://infosecwriteups.com/secure-your-future-explore-5-free-cybersecurity-courses-online-085a335ecc19?source=rss----7b722bfd1b8d---4",
+        "Akamai Bypass! Advanced XSS.": "https://infosecwriteups.com/akamai-bypass-advanced-xss-68634f082859?source=rss----7b722bfd1b8d---4",
+        "Announcing IWCON 2023 Keynote Speaker": "https://infosecwriteups.com/announcing-iwcon-2023-keynote-speaker-6b6be2a2f6f3?source=rss----7b722bfd1b8d---4",
+        "Part 02 What To Do After Choosing a Target? | Bug Bounty": "https://infosecwriteups.com/part-02-what-to-do-after-choosing-a-target-bug-bounty-eb8d73ee73ee?source=rss----7b722bfd1b8d---4",
+        "Broken Access Control and Privilege Escalation: What You Need to Know": "https://infosecwriteups.com/broken-access-control-and-privilege-escalation-what-you-need-to-know-fd19f32044b9?source=rss----7b722bfd1b8d---4"
+    },
+    "CTFするぞ": {
+        "TSG CTF 2023 Writeup": "https://ptr-yudai.hatenablog.com/entry/2023/11/12/041435"
+    },
+    "Bug Bounty in InfoSec Write-ups on Medium": {
+        "Subdomain takeover and Text injection on a 404 error page-$100 bounty": "https://infosecwriteups.com/subdomain-takeover-and-text-injection-on-a-404-error-page-100-bounty-e47ccf359e6b?source=rss----7b722bfd1b8d--bug_bounty",
+        "Unlocking Cash: Easy P1 Bug in Grafana Dashboard with Default Credentials = €€€€": "https://infosecwriteups.com/unlocking-cash-easy-p1-bug-in-grafana-dashboard-with-default-credentials-fa36ddf271da?source=rss----7b722bfd1b8d--bug_bounty",
+        "Secure Your Future: Explore 5 Free Cybersecurity Courses Online": "https://infosecwriteups.com/secure-your-future-explore-5-free-cybersecurity-courses-online-085a335ecc19?source=rss----7b722bfd1b8d--bug_bounty",
+        "Akamai Bypass! Advanced XSS.": "https://infosecwriteups.com/akamai-bypass-advanced-xss-68634f082859?source=rss----7b722bfd1b8d--bug_bounty",
+        "Part 02 What To Do After Choosing a Target? | Bug Bounty": "https://infosecwriteups.com/part-02-what-to-do-after-choosing-a-target-bug-bounty-eb8d73ee73ee?source=rss----7b722bfd1b8d--bug_bounty",
+        "Broken Access Control and Privilege Escalation: What You Need to Know": "https://infosecwriteups.com/broken-access-control-and-privilege-escalation-what-you-need-to-know-fd19f32044b9?source=rss----7b722bfd1b8d--bug_bounty",
+        "Decoding Advanced XSS Payload Chaining Tactics": "https://infosecwriteups.com/decoding-advanced-xss-payload-chaining-tactics-c72cd17da2fe?source=rss----7b722bfd1b8d--bug_bounty",
+        "A step-by-step Android penetration testing guide for beginners": "https://infosecwriteups.com/a-step-by-step-android-penetration-testing-guide-for-beginners-8435e5e969a3?source=rss----7b722bfd1b8d--bug_bounty",
+        "Understanding CRLF Injection": "https://infosecwriteups.com/understanding-crlf-injection-7b042fd5fb22?source=rss----7b722bfd1b8d--bug_bounty",
+        "Bypassing 2FA for Password Reset : By Request Manipulation 500$ Bug": "https://infosecwriteups.com/bypassing-2fa-for-password-reset-by-request-manipulation-500-bug-3c6ed909322f?source=rss----7b722bfd1b8d--bug_bounty"
+    },
+    "Hexacorn": {
+        "Who am I? Asking for my file friend: whoami.exe…": "https://www.hexacorn.com/blog/2023/11/11/who-am-i-asking-for-my-file-friend-whoami-exe/"
+    },
+    "Hex Rays": {
+        "Igor’s Tip of the Week #164: Where’s my code? The case of missing function arguments": "https://hex-rays.com/blog/igors-tip-of-the-week-164-wheres-my-code-the-case-of-missing-function-arguments/"
+    },
+    "SAP Blogs": {
+        "Time Off integration in Compensation Eligibility rules": "https://blogs.sap.com/2023/11/11/time-off-integration-in-compensation-eligibility-rules/"
+    },
+    "Reverse Engineering": {
+        "How can I calculate a force&pressure difference of the sheet against the ruler in this video as it is lifed?": "https://www.reddit.com/r/ReverseEngineering/comments/17t5drh/how_can_i_calculate_a_forcepressure_difference_of/",
+        "Maine says 1.3M people affected by data breach": "https://www.reddit.com/r/ReverseEngineering/comments/17t0r2f/maine_says_13m_people_affected_by_data_breach/"
+    },
+    "KitPloit - PenTest & Hacking Tools": {
+        "CryptoChat - Beyond Secure Messaging": "http://www.kitploit.com/2023/11/cryptochat-beyond-secure-messaging.html"
+    },
+    "Home": {
+        "How secure are the industries?": "https://r0075h3ll.github.io/Industrial-Control-System-Security-Primer/"
+    },
+    "吾爱破解论坛": {
+        "【开放注册公告】吾爱破解论坛2023年11月11日光棍节开放注册公告即将开始 12：00 -- 14：00 和 20：00 -- 22：00，赶不上的定个晚间闹钟吧，新信息会在B站继续发布，推荐使用电脑注册，可以使用论坛的诊断修复工具修复一次，方便提前解决注册中可能会遇到的问题，如果修复后还是不行建议尽快更换设备尝试，注册页面会强制10分钟来阅读注册须知，须知中包括了你注册现在和未来可能会遇到的问题，请仔细阅读，否则可能无法注册成功或注册后被清理，开放注册期间暂停签到任务、QQ登录绑定、下载论坛附件功能、默认搜索功能等功能请各位知晓，在论坛等待大家光临。": "https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651139835&idx=1&sn=cbf01ffaad7e4a71b3b7808b209086ba&chksm=bd50beaf8a2737b98655dc43f6d5288b50b999d6f5c89a8c5f5209ee41ea997aa966755f66fb&scene=58&subscene=0#rd"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "李开复称中美之争将进一步分裂科技世界": "https://www.solidot.org/story?sid=76598",
+        "微软视窗操作系统诞生四十周年": "https://www.solidot.org/story?sid=76597",
+        "微软撤回了 OneDrive 的退出调查": "https://www.solidot.org/story?sid=76596"
+    },
+    "": {
+        "Bypassing CloudFlare": "https://cornerpirate.com/2023/11/11/bypassing-cloudflare/"
+    },
+    "FreeBuf网络安全行业门户": {
+        "工商银行美国子公司勒索软件攻击事件的幕后黑手找到了": "https://www.freebuf.com/news/383568.html"
+    },
+    "威努特工控安全": {
+        "威努特夺得2023“直通乌镇”全球互联网大赛三等奖！": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651105054&idx=1&sn=9b407d04e7476aed3f94750cd0559494&chksm=80e6bdaeb79134b8ff695840f4c04198f66fcca5adacc9724fbfb8e6a1d7b1ef12961d4b5cf6&scene=58&subscene=0#rd",
+        "​威努特深度参加2023第六届中国（黄石）工业互联网创新发展大会": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651105054&idx=2&sn=f09976ade35606d888041016bf04897e&chksm=80e6bdaeb79134b8a5f8a9a64155b5f7b90733ea243d7c8afe0a646b0d511dbf74ec9e8feb93&scene=58&subscene=0#rd"
+    },
+    "看雪学苑": {
+        "Typora保护机制与注册逆向分析": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458528183&idx=1&sn=2207e3beb82c9e8c9113d60bde8fbd6e&chksm=b18d193d86fa902b0fe1178b9835dc9395977586ba2e4eec336d6672431a8514760cb383fe18&scene=58&subscene=0#rd",
+        "招募看雪课程讲师，与我们一起打造优质精品课程！": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458528183&idx=2&sn=5bd0a534a7f338fedc1e32a300c8780a&chksm=b18d193d86fa902bb0b9085619dae97fdd0423f1d4c04301172ff7ce2087cdffd6645e33201a&scene=58&subscene=0#rd"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【通知】第三届全国开源情报技术大会议程（报名已截止）": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651140522&idx=1&sn=93f4b75446d96d5b8c4b7dd1f19249be&chksm=f1af4690c6d8cf86062e03b23ec63d4fef78ebe8737e4faf2b8f8f16412a39558c62e7932d1f&scene=58&subscene=0#rd"
+    },
+    "青衣十三楼飞花堂": {
+        "叶飞回忆录": "https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247486937&idx=1&sn=4d1fe417e8344d0f976f486bed2147f1&chksm=fab2cee6cdc547f030a5163da6043756d409ffe155f02e6b3d85f7fc0517432ae665dc0b4412&scene=58&subscene=0#rd"
+    },
+    "RedTeaming": {
+        "去除IOS烦人的摇一摇广告": "https://mp.weixin.qq.com/s?__biz=MzUyMDgzMDMyMg==&mid=2247484453&idx=1&sn=b2a23d12d1cc834ce0268a9ef296a61a&chksm=f9e52838ce92a12eab17f6cd450cdd865fdcae42b4c1acf1c96cbfef71b6879a463702389bfd&scene=58&subscene=0#rd"
+    },
+    "补天平台": {
+        "破壳平台助力DataCon选手高效漏挖": "https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247500317&idx=1&sn=01a3323972408bd9794e893087447b1d&chksm=eaf98a51dd8e034734cc2b1bcc0c5b9bcdfaf5a5464828610e2e0989b4018124aa2c473b6057&scene=58&subscene=0#rd"
+    },
+    "DataCon大数据安全分析竞赛": {
+        "破壳平台助力DataCon选手高效漏挖": "https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487544&idx=1&sn=1014afe76fc9a130279047f8e44081c3&chksm=fe5d08b8c92a81aef6d9f9ec2a6dc9ee0163310cb307e1a4e655d5f9895dd1f0c5fdfbe5e7fd&scene=58&subscene=0#rd"
+    },
+    "复旦白泽战队": {
+        "我实验室杨珉教授承担的国家重点研发项目“移动应用隐私收集行为的分析检测技术及应用示范”专题研讨会顺利进行": "https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247487885&idx=1&sn=0574afefddc8df559de835e26474393d&chksm=fdeb95f3ca9c1ce56e80c06d02002d088c5fbc38f4dd827e2ee3e5a7a4add5b8c3ea6626439d&scene=58&subscene=0#rd"
+    },
+    "极客公园": {
+        "两月累计 10 万订单，发布「鸿蒙智行」，华为汽车业务坚定走向 toC": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653021138&idx=1&sn=bdddc88e134d0aeeac507e501c69beac&chksm=7e549e644923177258bc9c8376b756a5f0cbfbc8837b99cc5fc4868e6ab597361697779e0f6c&scene=58&subscene=0#rd",
+        "马斯克：将开放 Grok；OpenAI 将建立「安全」的 AI 训练数据集；传腾讯将代理 Meta VR | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653021119&idx=1&sn=bd7e88e7465986eb2fceba67cf4c3cde&chksm=7e549e094923171fe27e01665ee606f6b1e635e9931af1f86dcdefa17b35bc81a72751ddd70b&scene=58&subscene=0#rd"
+    },
+    "Security丨Art": {
+        "ASP.NET 内存马与魔改蚁剑内存马回显": "https://mp.weixin.qq.com/s?__biz=MzUyOTI5MTM4OQ==&mid=2247484049&idx=1&sn=611b984b2e084234549d1525e862944c&chksm=fa620383cd158a95ff4a67f3aba9055b32c952af1505023454cf54d51f5b19037a66acfbbda9&scene=58&subscene=0#rd"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "It’s Still Easy for Anyone to Become You at Experian": "https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/",
+        "Geopolitical Cybercrime: LockBit attack on the ICBC": "https://blog.bushidotoken.net/2023/11/geopolitical-cybercrime-lockbit-attack.html",
+        "Perché i filo-russi hanno buttato giù ChatGpt": "https://www.cybersecurity360.it/nuove-minacce/perche-i-filo-russi-hanno-buttato-giu-chatgpt/"
+    },
+    "KitPloit - PenTest Tools!": {
+        "CryptoChat - Beyond Secure Messaging": "http://www.kitploit.com/2023/11/cryptochat-beyond-secure-messaging.html"
+    },
+    "Krebs on Security": {
+        "It’s Still Easy for Anyone to Become You at Experian": "https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/"
+    },
+    "The Hacker News": {
+        "Microsoft Warns of Fake Skills Assessment Portals Targeting IT Job Seekers": "https://thehackernews.com/2023/11/microsoft-warns-of-fake-skills.html"
+    },
+    "Your Hacking Tutorial by Zempirians": {
+        "Can an attacker take over the entire network through an IoT device?": "https://www.reddit.com/r/HowToHack/comments/17sv6u6/can_an_attacker_take_over_the_entire_network/",
+        "stuck at dumping php file via sql injection": "https://www.reddit.com/r/HowToHack/comments/17stj8y/stuck_at_dumping_php_file_via_sql_injection/",
+        "OpenBullet 2 Not Supported Exception": "https://www.reddit.com/r/HowToHack/comments/17sukta/openbullet_2_not_supported_exception/",
+        "Hacking a bring-your-own-device exam": "https://www.reddit.com/r/HowToHack/comments/17sy570/hacking_a_bringyourowndevice_exam/"
+    },
+    "Technical Information Security Content & Discussion": {
+        "BlueNoroff strikes again with new macOS malware": "https://www.reddit.com/r/netsec/comments/17sz288/bluenoroff_strikes_again_with_new_macos_malware/"
+    },
+    "Troy Hunt's Blog": {
+        "Weekly Update 373": "https://www.troyhunt.com/weekly-update-373/"
+    },
+    "Computer Forensics": {
+        "What software would I graduate from Autopsy to?": "https://www.reddit.com/r/computerforensics/comments/17t31o1/what_software_would_i_graduate_from_autopsy_to/",
+        "Maine says 1.3M people affected by data breach": "https://www.reddit.com/r/computerforensics/comments/17t0r7e/maine_says_13m_people_affected_by_data_breach/"
+    },
+    "Security Affairs": {
+        "Police seized BulletProftLink phishing-as-a-service (PhaaS) platform": "https://securityaffairs.com/154041/cyber-crime/bulletproftlink-phaas-platform-seized.html",
+        "Serbian pleads guilty to running ‘Monopoly’ dark web drug market": "https://securityaffairs.com/154033/cyber-crime/monopoly-market-admin-plead-guilty.html"
+    },
+    "Blackhat Library: Hacking techniques and research": {
+        "Router and VPN Security | TryHackMe Network Device Hardening": "https://www.reddit.com/r/blackhat/comments/17srr8x/router_and_vpn_security_tryhackme_network_device/"
+    },
+    "netsecstudents: Subreddit for students studying Network Security and its related subjects": {
+        "Maine says 1.3M people affected by data breach": "https://www.reddit.com/r/netsecstudents/comments/17t0qbd/maine_says_13m_people_affected_by_data_breach/",
+        "A good way to learn how web applications work?": "https://www.reddit.com/r/netsecstudents/comments/17t071r/a_good_way_to_learn_how_web_applications_work/",
+        "Tried unsuccessfully to hack computer on my own net": "https://www.reddit.com/r/netsecstudents/comments/17t3xgl/tried_unsuccessfully_to_hack_computer_on_my_own/",
+        "Basic Command and Control (C2) setup with Mythic C2": "https://www.reddit.com/r/netsecstudents/comments/17sw7np/basic_command_and_control_c2_setup_with_mythic_c2/"
+    }
+}
