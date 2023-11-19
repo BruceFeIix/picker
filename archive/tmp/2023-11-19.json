@@ -1,0 +1,134 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2023-11-18 Review": "http://www.sec-wiki.com/?2023-11-18"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Exploit for Incorrect Comparison in Dynamic-Linq Linq exploit": "https://sploitus.com/exploit?id=0628E3C3-44C0-5F5A-B560-49E1BFBB5A22&utm_source=rss&utm_medium=rss",
+        "Exploit for Deserialization of Untrusted Data in Apache Activemq exploit": "https://sploitus.com/exploit?id=4A3A24A8-60BB-5987-9260-1D3FE5D80BA8&utm_source=rss&utm_medium=rss"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sat Nov 18 12:09:37 UTC 2023": "https://github.com/trickest/cve/commit/43816927a75d5d963fb4f9d65ba03e47079e5a6c"
+    },
+    "嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com": {
+        "攻击者利用Kopeechka创建大量账户发起大规模攻击": "https://www.4hou.com/posts/9AzP",
+        "2024年安全访问控制6大趋势": "https://www.4hou.com/posts/onoN"
+    },
+    "unSafe.sh - 不安全": {
+        "Russian APT Gamaredon uses USB worm LitterDrifter against Ukraine": "https://buaq.net/go-198841.html",
+        "Delving Into OpenTelemetry Collector": "https://buaq.net/go-198855.html",
+        "30 Years, 30 Lessons: A Journey Through Life's Wisdom": "https://buaq.net/go-198856.html",
+        "68 Stories To Learn About Vpn And Privacy": "https://buaq.net/go-198857.html",
+        "56 Stories To Learn About Future Of Money": "https://buaq.net/go-198858.html",
+        "Stable Diffusion WebUI中文化與添加控制欄位＋Stability Matrix自訂設定": "https://buaq.net/go-198840.html",
+        "312 Stories To Learn About Future": "https://buaq.net/go-198861.html",
+        "The Most Common Indicators of a Phishing Attempt (With Screenshots)": "https://buaq.net/go-198864.html",
+        "一个支付逻辑漏洞和一些tips": "https://buaq.net/go-198836.html",
+        "《半条命》发布二十五周年": "https://buaq.net/go-198843.html"
+    },
+    "先知安全技术社区": {
+        "Redis漏洞及其利用方式": "https://xz.aliyun.com/t/13071",
+        "2023国赛初赛题目复现学习": "https://xz.aliyun.com/t/13070",
+        "volatility工具的学习使用": "https://xz.aliyun.com/t/13067",
+        "某OA ajax.do处漏洞分析": "https://xz.aliyun.com/t/13064"
+    },
+    "SAP Blogs": {
+        "Paging concept in Odata service": "https://blogs.sap.com/2023/11/18/paging-concept-in-odata-service/",
+        "Enhancements in EBS – BADI FIEB_CHANGE_BS_DATA": "https://blogs.sap.com/2023/11/18/enhancements-in-ebs-badi-fieb_change_bs_data/",
+        "Invoice Entry without Purchase Order with flexible workflow for supplier invoice in SAP S/4HANA On premise 2021": "https://blogs.sap.com/2023/11/18/invoice-entry-without-purchase-order-with-flexible-workflow-for-supplier-invoice-in-sap-s-4hana-on-premise-2021/",
+        "Automatic Account Determination for without material master in SAP S/4HANA On premise 2021": "https://blogs.sap.com/2023/11/18/automatic-account-determination-for-without-material-master-in-sap-s-4hana-on-premise-2021/",
+        "Beginner’s Guide to EDI Integration": "https://blogs.sap.com/2023/11/18/beginners-guide-to-edi-integration/",
+        "Improve Spartacus and OCC performance with CMS Rendering Cache": "https://blogs.sap.com/2023/11/18/improve-spartacus-and-occ-performance-with-cms-rendering-caching/"
+    },
+    "Reverse Engineering": {
+        "Dungeon KeeperFX open-source project reaches version 1.0 -- reverse-engineered original game with enhancements": "https://www.reddit.com/r/ReverseEngineering/comments/17xxw8k/dungeon_keeperfx_opensource_project_reaches/"
+    },
+    "FreeBuf网络安全行业门户": {
+        "AI 语料危机 | WPS 想用用户文档“喂”AI": "https://www.freebuf.com/news/384243.html"
+    },
+    "KitPloit - PenTest & Hacking Tools": {
+        "Bread - BIOS Reverse Engineering And Advanced Debugging": "http://www.kitploit.com/2023/11/bread-bios-reverse-engineering-and.html"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【技巧】2个批量导出文件夹中的所有文件名的方法": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651140630&idx=1&sn=7f6ad96a5c439034db9b27ba7f922ecc&chksm=f1af452cc6d8cc3a71ca56a021d41a4e6b9e631015486f0b6cd7fd2987c185d0cefd1023fd5a&scene=58&subscene=0#rd"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "《半条命》发布二十五周年": "https://www.solidot.org/story?sid=76659",
+        "2.8 亿辆电动单车减少的石油需求远高于电动汽车": "https://www.solidot.org/story?sid=76658",
+        "苹果、迪士尼等都从 X/Twitter 撤下广告": "https://www.solidot.org/story?sid=76657",
+        "三位 OpenAI 资深 AI 研究员辞职": "https://www.solidot.org/story?sid=76656",
+        "OpenAI 董事会解雇了 CEO Sam Altman": "https://www.solidot.org/story?sid=76655"
+    },
+    "看雪学苑": {
+        "自研Unidbg trace工具实战ollvm反混淆": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458528764&idx=1&sn=763f334b243afadb238cb5bb15bfce29&chksm=b18d1b7686fa9260e4c62e93e545b248a66fcde4adb11edc20b96ef526a98e03644af5e02b8b&scene=58&subscene=0#rd",
+        "招生！【2023秋季班】安卓高研班（网课）月薪三万&月薪两万计划": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458528764&idx=2&sn=360c86535eb1d1317314d11fc5c208dc&chksm=b18d1b7686fa9260aa833c59e740cbc0d8b315974d5c218afd5ac96cc7ee2e842886233874d1&scene=58&subscene=0#rd"
+    },
+    "专注APT攻击与防御": {
+        "论金融行业数字化人才": "https://micropoor.blogspot.com/2023/11/blog-post_18.html"
+    },
+    "极客公园": {
+        "阿里告别自己的上一个时代": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653021834&idx=1&sn=f267b483fcb0325d4d7672de6f0f43f1&chksm=7e549b3c4923122a639cff2660b10a1e7ee42d65cdea6182766a5c2cb532d7c0ee4aa5e0c64d&scene=58&subscene=0#rd",
+        "离开 OpenAI，Sam Altman：很怀念，但请期待「大招」": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653021832&idx=1&sn=bb017df56e741a9711245d068a123217&chksm=7e549b3e4923122830a61c37db0fa6d2a8d2ef397f5650d33c7514ad2dc7e4c6972ffd1a1bb6&scene=58&subscene=0#rd",
+        "OpenAI 罢免 CEO Sam Altman；格力报案：自媒体低俗言辞侮辱高管；直播电商10个月销售2.2万亿｜极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653021832&idx=2&sn=274a0858390b7624ee82ae309565bc1d&chksm=7e549b3e4923122879abed6568a33597afd31961c328ac6fb0d74a787553a3970364937790e3&scene=58&subscene=0#rd"
+    },
+    "DataCon大数据安全分析竞赛": {
+        "今晚（11月18日）22:30，段海新教授与您相约央视一套《开讲啦》，一起走进白帽黑客的世界": "https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487623&idx=1&sn=b18500d3a56ce23d439cb924b87598fb&chksm=fe5d0807c92a81110d5b8c07dccbbc2a78b11aa67e9a7e5bcca745eb1977332b7669a093ac38&scene=58&subscene=0#rd"
+    },
+    "迪哥讲事": {
+        "一个支付逻辑漏洞和一些tips": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247492625&idx=1&sn=ad3648d202a3af0352e1527a2f3b0449&chksm=e8a5ee72dfd26764595c57802dd2d5e1967d2f67fb24983bf86faa3a39521ba313648503db96&scene=58&subscene=0#rd"
+    },
+    "IT Service Management News": {
+        "Prima e dopo l'audit ISO/IEC 27001 (da ridere)": "http://blog.cesaregallotti.it/2023/11/prima-e-dopo-laudit-isoiec-27001-da.html"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "Norcross, GA: NoEscape is ready to release 1.5TB of data exfiltrated from PruittHealth": "https://www.suspectfile.com/norcross-ga-noescape-is-ready-to-release-1-5tb-of-data-exfiltrated-from-pruitthealth/"
+    },
+    "网安国际": {
+        "今晚（11月18日）22:30，段海新教授与您相约央视一套《开讲啦》，一起走进白帽黑客的世界": "https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652314319&idx=1&sn=d3f31756a427a01732b00e6769fbe142&chksm=8bc48741bcb30e57900c2780c23097e31ca713bd7268fde908b882f9230e8812fd1bb42100e6&scene=58&subscene=0#rd"
+    },
+    "Il Disinformatico": {
+        "Generare immagini con ChatGPT 4 per illustrare un articolo": "http://attivissimo.blogspot.com/2023/11/generare-immagini-con-chatgpt-4.html",
+        "Oggi SpaceX tenta un secondo volo della Starship": "http://attivissimo.blogspot.com/2023/11/oggi-spacex-tenta-un-secondo-volo-della.html"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "Quasar RAT Delivered Through Updated SharpLoader, (Sat, Nov 18th)": "https://isc.sans.edu/diary/rss/30414"
+    },
+    "Arturo Di Corinto": {
+        "Punto stampa Cybertech2023": "https://dicorinto.it/eventi/conferenze/punto-stampa-cybertech2023/",
+        "Arturo Di Corinto alla Maker Faire": "https://dicorinto.it/eventi/conferenze/arturo-di-corinto-alla-maker-faire/"
+    },
+    "KitPloit - PenTest Tools!": {
+        "Bread - BIOS Reverse Engineering And Advanced Debugging": "http://www.kitploit.com/2023/11/bread-bios-reverse-engineering-and.html"
+    },
+    "Technical Information Security Content & Discussion": {
+        "Visual Studio Code Security: Markdown Vulnerabilities in Third-Party Extensions (2/3)": "https://www.reddit.com/r/netsec/comments/17y7utm/visual_studio_code_security_markdown/"
+    },
+    "netsecstudents: Subreddit for students studying Network Security and its related subjects": {
+        "Accountability blog": "https://www.reddit.com/r/netsecstudents/comments/17yhvsk/accountability_blog/",
+        "Looking for an American Cybersecurity Specialist who knows about mssp": "https://www.reddit.com/r/netsecstudents/comments/17y14eo/looking_for_an_american_cybersecurity_specialist/"
+    },
+    "The Hacker News": {
+        "8Base Group Deploying New Phobos Ransomware Variant via SmokeLoader": "https://thehackernews.com/2023/11/8base-group-deploying-new-phobos.html",
+        "Russian Cyber Espionage Group Deploys LitterDrifter USB Worm in Targeted Attacks": "https://thehackernews.com/2023/11/russian-cyber-espionage-group-deploys.html"
+    },
+    "Your Hacking Tutorial by Zempirians": {
+        "Looking For Advice Hacking a Web Cam (my own)": "https://www.reddit.com/r/HowToHack/comments/17xx94p/looking_for_advice_hacking_a_web_cam_my_own/"
+    },
+    "Blackhat Library: Hacking techniques and research": {
+        "How do hackers make phishing attack pages convincing?": "https://www.reddit.com/r/blackhat/comments/17ybsmd/how_do_hackers_make_phishing_attack_pages/"
+    },
+    "Computer Forensics": {
+        "Any way to find deleted images without thumbs.db on Windows 10?": "https://www.reddit.com/r/computerforensics/comments/17y6e71/any_way_to_find_deleted_images_without_thumbsdb/"
+    },
+    "Security Affairs": {
+        "Israeli man sentenced to 80 months in prison for providing hacker-for-hire services": "https://securityaffairs.com/154378/cyber-crime/man-spear-phishing-sentenced.html",
+        "Russian APT Gamaredon uses USB worm LitterDrifter against Ukraine": "https://securityaffairs.com/154362/apt/gamaredon-apt-litterdrifter-usb.html"
+    },
+    "Social Engineering": {
+        "Banks with multiple virtual cards": "https://www.reddit.com/r/SocialEngineering/comments/17y436m/banks_with_multiple_virtual_cards/",
+        "What IS social engineering?": "https://www.reddit.com/r/SocialEngineering/comments/17y2hdp/what_is_social_engineering/",
+        "Books or any recommendations": "https://www.reddit.com/r/SocialEngineering/comments/17xtvhe/books_or_any_recommendations/"
+    },
+    "Dark Space Blogspot": {
+        "La Storia Dell'Insolvenza Di Genesis e Three Arrows Capital (GBTC)": "http://darkwhite666.blogspot.com/2023/11/la-storia-dellinsolvenza-di-genesis-e.html"
+    }
+}
