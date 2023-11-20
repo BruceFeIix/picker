@@ -1,0 +1,115 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2023-11-19 Review": "http://www.sec-wiki.com/?2023-11-19"
+    },
+    "Armin Ronacher's Thoughts and Writings": {
+        "FSL: A License For the Bazaar, Not the Cathedral": "http://lucumr.pocoo.org/2023/11/19/cathedral-and-bazaaar-licensing"
+    },
+    "unSafe.sh - 不安全": {
+        "33 Stories To Learn About Smart Cities": "https://buaq.net/go-198992.html",
+        "122 Stories To Learn About Futurism": "https://buaq.net/go-198994.html",
+        "120 Stories To Learn About Future Technology": "https://buaq.net/go-198993.html",
+        "\"Operation Triangulation\" 卡巴斯基被黑 - 续": "https://buaq.net/go-198968.html"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Click Stocks 1.3 - File Upload Remote Code Execution Vulnerability exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39151&utm_source=rss&utm_medium=rss",
+        "TP-Link ER605 Unauthent LAN-side Remote Code Execution Exploit exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39152&utm_source=rss&utm_medium=rss"
+    },
+    "Security Boulevard": {
+        "Insider Risk Digest: Week 45-46": "https://securityboulevard.com/2023/11/insider-risk-digest-week-45-46/",
+        "How to Protect Your Black Friday and Cyber Monday Shopping": "https://securityboulevard.com/2023/11/how-to-protect-your-black-friday-and-cyber-monday-shopping/",
+        "Network Segmentation Guide: Essential Security Best Practices Revealed": "https://securityboulevard.com/2023/11/network-segmentation-guide-essential-security-best-practices-revealed/"
+    },
+    "嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com": {
+        "盘点2023年与游戏相关的网络威胁（下）": "https://www.4hou.com/posts/lklJ",
+        "如何阻止黑客利用iPhone 13窃取三星Galaxy的加密密钥": "https://www.4hou.com/posts/6xl7"
+    },
+    "CCC Event Blog": {
+        "37C3: Tickets & Presale": "https://events.ccc.de/2023/11/19/37c3-tickets-presale/"
+    },
+    "SAP Blogs": {
+        "Closing the Gap Part 1: Logistics integration for service orders in S/4HANA Cloud for Service": "https://blogs.sap.com/2023/11/19/logistics-integration-for-service-orders-in-s-4hana-cloud-for-service/",
+        "Closing the Gap Series": "https://blogs.sap.com/2023/11/19/closing-the-gap-series/",
+        "S/4HANA needs to support ‘Canary Deployments’": "https://blogs.sap.com/2023/11/19/s-4hana-needs-to-support-canary-deployments/",
+        "Service Due Indicator for Managers": "https://blogs.sap.com/2023/11/19/status-indicator-for-managers/",
+        "The nuts and bolts of a well-thought-out SAP Signavio : Process Manager & Process Collaboration Hub": "https://blogs.sap.com/2023/11/19/the-nuts-and-bolts-of-a-well-thought-out-sap-signavio-process-manager-process-collaboration-hub/",
+        "Registration of package EMLLIB failed at “create afl package _SYS_AFL.EMLLIB file ‘/plugins/eml/libaflemllib’ in _SYS_AFL.EML” with error 444: “package manager error – load library failed”": "https://blogs.sap.com/2023/11/19/registration-of-package-emllib-failed-at-create-afl-package-_sys_afl.emllib-file-plugins-eml-libaflemllib-in-_sys_afl.eml-with-error-444-package-manager-error-load-library-failed/",
+        "SAP Ariba ITK Migration Approach": "https://blogs.sap.com/2023/11/19/sap-ariba-itk-migration-approach/"
+    },
+    "Reverse Engineering": {
+        "Trying to solve Flare-on10 the lame way (1-2)": "https://www.reddit.com/r/ReverseEngineering/comments/17yxb66/trying_to_solve_flareon10_the_lame_way_12/",
+        "A Taxonomy of C Decompiler Fidelity Issues": "https://www.reddit.com/r/ReverseEngineering/comments/17yr08w/a_taxonomy_of_c_decompiler_fidelity_issues/"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "Inkscape 庆祝诞生 20 周年": "https://www.solidot.org/story?sid=76662",
+        "海葵被发现具有向日性": "https://www.solidot.org/story?sid=76661",
+        "小行星将在 12 月 12 日从参宿四前方飞过": "https://www.solidot.org/story?sid=76660"
+    },
+    "KitPloit - PenTest & Hacking Tools": {
+        "LightsOut - Generate An Obfuscated DLL That Will Disable AMSI And ETW": "http://www.kitploit.com/2023/11/lightsout-generate-obfuscated-dll-that.html"
+    },
+    "我的安全梦": {
+        "漏洞应急响应交流群": "https://mp.weixin.qq.com/s?__biz=MzU3NDY1NTYyOQ==&mid=2247485818&idx=1&sn=09853feca33cafa8049c73707a6c02d3&chksm=fd2e5498ca59dd8ebbab6477fedea45781dbe1eebf63ef25ef56bd611e2eb2977f3c4af241cc&scene=58&subscene=0#rd"
+    },
+    "云鼎实验室": {
+        "每周云安全资讯-2023年第47周": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247495015&idx=1&sn=166acaff2a4f4e8996457e41dfe39b59&chksm=fd7911e1ca0e98f7d15107e29cbf13d814728ad1dfcc9dd3179614bbd296ef83d2754a77f0d9&scene=58&subscene=0#rd"
+    },
+    "极客公园": {
+        "蔚来联合创始人：不会也不可能倒闭；传特斯拉中国版 FSD 已准备就绪；《沙丘 2》改档至明年 3 月 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653021862&idx=1&sn=0def8869262fb4016a33c89fed66b10d&chksm=7e549b1049231206c8d23c0ab8d35d470b1645a70d7584bd8a3a7afc2922a7d310dfbfd2a57a&scene=58&subscene=0#rd"
+    },
+    "黑哥虾撩": {
+        "\"Operation Triangulation\" 卡巴斯基被黑 - 续": "https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484094&idx=1&sn=938ec5464fe62abb7fbeba906585aa2c&chksm=c050c8cff72741d9d24284d79f3b6714b66b7e9abb41726a7c683f972bb5471dbb2c293b1826&scene=58&subscene=0#rd"
+    },
+    "看雪学苑": {
+        "【远控木马】银狐组织最新木马样本-分析": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458528787&idx=1&sn=947b0b7f9ade1cbf249f29ee345237e3&chksm=b18d1c9986fa958f377b1b14f33c060ed7495b3d2e9cb7b33f5c4d41686093b31fed10be1735&scene=58&subscene=0#rd",
+        "CTF训练营之Web篇": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458528787&idx=2&sn=113d5c21a4e165a96690bcf94fce0ad9&chksm=b18d1c9986fa958f49768bd9660ebd8c100dd21eeb6e3d607ec36534666aca166b7b49590b7f&scene=58&subscene=0#rd"
+    },
+    "专注APT攻击与防御": {
+        "论网络安全异化（行业）": "https://micropoor.blogspot.com/2023/11/blog-post_19.html"
+    },
+    "嘶吼专业版": {
+        "如何阻止黑客利用iPhone 13窃取三星Galaxy的加密密钥": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247571290&idx=1&sn=2033f4efa7e462397abea25f6f8acf80&chksm=e9140760de638e76e200ed3debf4707969964ce1e454e03273e03bfbd7b669091d87ad4bc598&scene=58&subscene=0#rd",
+        "盘点2023年与游戏相关的网络威胁（下）": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247571290&idx=2&sn=30613b58a5e1e32c91cf5455e174785e&chksm=e9140760de638e762689c16b2cb9b2358c258d398be6578757725bf936d0a8086c86348cb839&scene=58&subscene=0#rd"
+    },
+    "Desync InfoSec": {
+        "第十一课 收集威胁情报数据源——外部数据集（二）": "https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247487049&idx=1&sn=136e205b2aceb8d3a9fe0ad78aee7e3c&chksm=c27f7de7f508f4f1033528d0bd20e6210512b29b58b6e3ed1510804cb8df6675d9f618829482&scene=58&subscene=0#rd"
+    },
+    "天御攻防实验室": {
+        "藏不住了！勒索软件团伙向监管举报甲方": "https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247485141&idx=1&sn=b9cb63823c4d64657612f50c98deadc6&chksm=fb04c5bdcc734cab56a2070fc3b32fd23c6211e7418ca8ef83c0a9aebd6310ccdf737285fe67&scene=58&subscene=0#rd"
+    },
+    "黑伞安全": {
+        "还是狠炸裂的！Chromium libxslt XXE漏洞（CVE-2023-435）": "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247488317&idx=1&sn=5ef9fd277c1f354a7910b1413f075174&chksm=fb029e65cc751773d44bec5f0710340b1f72ea51ae74a14752fa9f5ac5e598a70105bffbea0e&scene=58&subscene=0#rd",
+        "【已复现】金蝶云星空ScpSupRegHandler任意文件上传漏洞": "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247488317&idx=2&sn=7d9d87eb0cb5c5f8aceded9c79950dc3&chksm=fb029e65cc7517733b40b28c2542b91f14824dd3b58a83b6d48173a920ebfe4311d3b0045899&scene=58&subscene=0#rd"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "Guerre di Rete - OpenAI \"drama\"": "https://guerredirete.substack.com/p/guerre-di-rete-openai-drama",
+        "FCC adopts new rules to protect consumers from SIM-swapping attacks": "https://www.bleepingcomputer.com/news/security/fcc-adopts-new-rules-to-protect-consumers-from-sim-swapping-attacks/",
+        "Google shares plans for blocking third-party cookies in Chrome": "https://www.bleepingcomputer.com/news/google/google-shares-plans-for-blocking-third-party-cookies-in-chrome/",
+        "Exploit for CrushFTP RCE chain released, patch now": "https://www.bleepingcomputer.com/news/security/exploit-for-crushftp-rce-chain-released-patch-now/",
+        "FCC adopts new rules to protect against SIM-swapping attacks": "https://www.bleepingcomputer.com/news/security/fcc-adopts-new-rules-to-protect-against-sim-swapping-attacks/",
+        "Windows 10 to let admins control how optional updates are deployed": "https://www.bleepingcomputer.com/news/microsoft/windows-10-to-let-admins-control-how-optional-updates-are-deployed/"
+    },
+    "Security Affairs": {
+        "Security Affairs newsletter Round 446 by Pierluigi Paganini – INTERNATIONAL EDITION": "https://securityaffairs.com/154408/breaking-news/security-affairs-newsletter-round-446-by-pierluigi-paganini-international-edition.html",
+        "8Base ransomware operators use a new variant of the Phobos ransomware": "https://securityaffairs.com/154383/malware/8base-ransomware-phobos-ransomware.html"
+    },
+    "KitPloit - PenTest Tools!": {
+        "LightsOut - Generate An Obfuscated DLL That Will Disable AMSI And ETW": "http://www.kitploit.com/2023/11/lightsout-generate-obfuscated-dll-that.html"
+    },
+    "Your Hacking Tutorial by Zempirians": {
+        "Any hints about this challenge?": "https://www.reddit.com/r/HowToHack/comments/17yqg7a/any_hints_about_this_challenge/",
+        "What can you do relatively easily with access to a WiFi network?": "https://www.reddit.com/r/HowToHack/comments/17ywj5z/what_can_you_do_relatively_easily_with_access_to/",
+        "How do you stop phishing emails from going to spam?": "https://www.reddit.com/r/HowToHack/comments/17yov71/how_do_you_stop_phishing_emails_from_going_to_spam/"
+    },
+    "Computer Forensics": {
+        "Found a pro Israel image IMPLANTED onto my phone gallery. [never seen this image before]": "https://www.reddit.com/r/computerforensics/comments/17yrowv/found_a_pro_israel_image_implanted_onto_my_phone/"
+    },
+    "Blackhat Library: Hacking techniques and research": {
+        "Hardware Hacking P5 | Analyzing SDR Signals | HackTheBox RFlag": "https://www.reddit.com/r/blackhat/comments/17yxfw7/hardware_hacking_p5_analyzing_sdr_signals/",
+        "How do I make sure a phone call won't be traced back to me?": "https://www.reddit.com/r/blackhat/comments/17z8ee4/how_do_i_make_sure_a_phone_call_wont_be_traced/"
+    },
+    "Technical Information Security Content & Discussion": {
+        "Mockingjay revisisted - Process stomping on an executable's RWX section and loading beacon with sRDI": "https://www.reddit.com/r/netsec/comments/17yx1et/mockingjay_revisisted_process_stomping_on_an/",
+        "Building a Free Burp Collaborator with Cloudflare Workers": "https://www.reddit.com/r/netsec/comments/17yoyc2/building_a_free_burp_collaborator_with_cloudflare/"
+    }
+}
