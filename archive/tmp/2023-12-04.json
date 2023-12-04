@@ -1,0 +1,216 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2023-12-03 Review": "http://www.sec-wiki.com/?2023-12-03"
+    },
+    "嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com": {
+        "从用户的设备端攻击5G基础设施": "https://www.4hou.com/posts/onkj",
+        "影子AI：新型影子IT威胁载体": "https://www.4hou.com/posts/AXLB"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sun Dec  3 12:08:55 UTC 2023": "https://github.com/trickest/cve/commit/a14630240f318770859ca4741b637095ff14b6ed"
+    },
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "Quick-Quiz-2.4 File Upload - RCE": "https://cxsecurity.com/issue/WLB-2023120005",
+        "firstideabooks - SQL Injection vulnerability": "https://cxsecurity.com/issue/WLB-2023120004",
+        "artandaustralia - SQL Injection vulnerability": "https://cxsecurity.com/issue/WLB-2023120003",
+        "Orpak Fueling Systems  Exploit and Default Password": "https://cxsecurity.com/issue/WLB-2023120002",
+        "Doksoft Uploader CSRF File Upload": "https://cxsecurity.com/issue/WLB-2023120001"
+    },
+    "No Headback": {
+        "一些鬼故事": "http://xargin.com/ghost-story/"
+    },
+    "Security Boulevard": {
+        "DEF CON 31 – Daniel Avinoam’s ‘Staying Undetected Using The Windows Container Isolation Framework’": "https://securityboulevard.com/2023/12/def-con-31-daniel-avinoams-staying-undetected-using-the-windows-container-isolation-framework/",
+        "Employee Stress Puts Data in Danger": "https://securityboulevard.com/2023/12/employee-stress-puts-data-in-danger/",
+        "2023’s Dark Horse Cyber Story: Critical Infrastructure Attacks": "https://securityboulevard.com/2023/12/2023s-dark-horse-cyber-story-critical-infrastructure-attacks/"
+    },
+    "InfoSec Write-ups - Medium": {
+        "The Story of How I Hacked one of the online payment system website": "https://infosecwriteups.com/the-story-of-how-i-hacked-one-of-the-online-payment-system-website-twice-b0ba48ed13db?source=rss----7b722bfd1b8d---4",
+        "The story of how I finally got my first money from hacking": "https://infosecwriteups.com/the-story-of-how-i-finally-got-my-first-money-from-hacking-c0bd4b3b2b80?source=rss----7b722bfd1b8d---4"
+    },
+    "Twitter @Nicolas Krassas": {
+        "Cybercriminals Leverage Hijacked http://Booking.com accounts for Phishing https://blog.bushidotoken.net/2023/12/cybercriminals-leverage-hijacked.html": "https://twitter.com/Dinosn/status/1731399889517748469",
+        "Malware Development, Inline Assembly https://blog.malicious.group/inline-assembly/": "https://twitter.com/Dinosn/status/1731372667918254343",
+        "MSSqlPwner: pentesting tool designed to seamlessly interact and pwn MSSQL servers https://securityonline.info/mssqlpwner-pentesting-tool-designed-to-s...": "https://twitter.com/Dinosn/status/1731312867146633719",
+        "NimExec - Fileless Command Execution For Lateral Movement In Nim http://www.kitploit.com/2023/12/nimexec-fileless-command-execution-for.html": "https://twitter.com/Dinosn/status/1731312820661170529",
+        "SoarGames - 4,774,445 breached accounts https://haveibeenpwned.com/PwnedWebsites#SoarGames": "https://twitter.com/Dinosn/status/1731254904746823706",
+        "Researchers devised an attack technique to extract ChatGPT training data https://securityaffairs.com/155101/hacking/attack-extract-chatgpt-training-da...": "https://twitter.com/Dinosn/status/1731195190939996507",
+        "RT an0n: I was a little bit uncertain about expired AD passwords, but fortunately @n00py1 has a great blogpost about it: https://www.n00py.io/2021/09/...": "https://twitter.com/an0n_r0/status/1731109539204710416",
+        "RT BlackSnufkin: yet another AV killer tool using BYOVD Now i am like the cool kids 👻 https://github.com/BlackSnufkin/GhostDriver": "https://twitter.com/BlackSnufkin42/status/1731109498872307824"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "inTouch 1.0 File Upload - Remote Code Execution Vulnerability exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39175&utm_source=rss&utm_medium=rss",
+        "OctoberCMS v3.4.0 (Author) Stored Cross-Site Scripting Vulnerability exploit": "https://sploitus.com/exploit?id=ZSL-2023-5804&utm_source=rss&utm_medium=rss",
+        "OctoberCMS v3.4.0 (About) Stored Cross-Site Scripting Vulnerability exploit": "https://sploitus.com/exploit?id=ZSL-2023-5803&utm_source=rss&utm_medium=rss",
+        "OctoberCMS v3.4.0 (Wiki_article) Stored Cross-Site Scripting Vulnerability exploit": "https://sploitus.com/exploit?id=ZSL-2023-5807&utm_source=rss&utm_medium=rss",
+        "WBCE CMS 1.6.1 Shell Upload Vulnerability exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39174&utm_source=rss&utm_medium=rss",
+        "R Radio Network FM Transmitter 1.07 system.cgi Password Disclosure exploit": "https://sploitus.com/exploit?id=ZSL-2023-5802&utm_source=rss&utm_medium=rss",
+        "OctoberCMS v3.4.0 (Category) Stored Cross-Site Scripting Vulnerability exploit": "https://sploitus.com/exploit?id=ZSL-2023-5806&utm_source=rss&utm_medium=rss",
+        "OctoberCMS v3.4.0 (Blog) Stored Cross-Site Scripting Vulnerabilities exploit": "https://sploitus.com/exploit?id=ZSL-2023-5805&utm_source=rss&utm_medium=rss",
+        "Quick Quiz 2.4 File Upload - Remote Code Execution Vulnerability exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39176&utm_source=rss&utm_medium=rss"
+    },
+    "MaskRay": {
+        "Linker notes on PE/COFF": "https://maskray.me/blog/2023-12-03-linker-notes-on-pe-coff"
+    },
+    "Bug Bounty in InfoSec Write-ups on Medium": {
+        "The Story of How I Hacked one of the online payment system website": "https://infosecwriteups.com/the-story-of-how-i-hacked-one-of-the-online-payment-system-website-twice-b0ba48ed13db?source=rss----7b722bfd1b8d--bug_bounty",
+        "The story of how I finally got my first money from hacking": "https://infosecwriteups.com/the-story-of-how-i-finally-got-my-first-money-from-hacking-c0bd4b3b2b80?source=rss----7b722bfd1b8d--bug_bounty"
+    },
+    "Twitter @bytehx": {
+        "RT Whitehat Bandit: How I learned solidity from scratch: 1. CryptoZombies 2. Rewrite/type the simple contracts in https://solidity-by-example.org 3. W...": "https://twitter.com/banditx0x/status/1731167367659659416",
+        "Re @hakluke Probably going to the gym is the way to de-stress.": "https://twitter.com/bytehx343/status/1731070986689151408"
+    },
+    "SAP Blogs": {
+        "Supporting Batch management in the Service Order Process": "https://blogs.sap.com/2023/12/03/supporting-batch-management-in-the-service-order-process/",
+        "Process Observability: Three Highlights from a Recent Study": "https://blogs.sap.com/2023/12/03/process-observability-three-highlights-from-a-recent-study/",
+        "Advanced use of BADI FIEB_CHANGE_BS_DATA": "https://blogs.sap.com/2023/12/03/advanced-use-of-badi-fieb_change_bs_data/",
+        "締め請求を使った入金自動消込についてのまとめ": "https://blogs.sap.com/2023/12/03/automatic-clearing-after-invoice-summary/",
+        "SAP’s AI Evolution: From Simple Searches to Advanced Understanding": "https://blogs.sap.com/2023/12/03/saps-ai-evolution-from-simple-searches-to-advanced-understanding/",
+        "Use MS Excel to organize XML test data": "https://blogs.sap.com/2023/12/03/use-ms-excel-to-organize-xml-test-data/",
+        "Cockpit: Alternative Valuation Run": "https://blogs.sap.com/2023/12/03/cockpit-alternative-valuation-run/",
+        "Central Finance – COPA Data Replication into CFIN": "https://blogs.sap.com/2023/12/03/central-finance-copa-data-replication-into-cfin/"
+    },
+    "KitPloit - PenTest &amp; Hacking Tools": {
+        "NimExec - Fileless Command Execution For Lateral Movement In Nim": "http://www.kitploit.com/2023/12/nimexec-fileless-command-execution-for.html"
+    },
+    "Twitter @hakim": {
+        "RT diversenok: I forgot to post it earlier: I'm writing public Native API docs. Previously I covered thread and token operations; today it's NtQueryIn...": "https://twitter.com/diversenok_zero/status/1731292341149815175"
+    },
+    "看雪学苑": {
+        "基础堆溢出原理与DWORD SHOOT实现": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458530040&idx=1&sn=cfdaa7da3c9720e7a3f61c43a6c556ef&chksm=b18d007286fa8964bad31390f6ac7db57f490a0890cc5af28f11a5995bf5f5509b5788827e3d&scene=58&subscene=0#rd",
+        "实战CVE漏洞分析与防范（第一季）": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458530040&idx=2&sn=e3d0ebbb7ad05e2e630c65918c17f09e&chksm=b18d007286fa89641c59f2d072566b8eec9f6b29d54b58dee015de47d8f2f910cc362aa8f57c&scene=58&subscene=0#rd"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "研究显示三分之一的人仍然怀疑人类需要对气候变化负责": "https://www.solidot.org/story?sid=76786",
+        "中国在建核电站比其他任何国家都多": "https://www.solidot.org/story?sid=76785",
+        "Blog 是否可能回归？": "https://www.solidot.org/story?sid=76784"
+    },
+    "dotNet安全矩阵": {
+        ".NET 一周精选 (2023.12.03)": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247489589&idx=1&sn=5447533b22c2862cf31e087e77c3e339&chksm=fa5ab6d8cd2d3fce406f68a19c302d2d6a99f564632e23b1fbe1313b2be93e7708b86d820e2b&scene=58&subscene=0#rd",
+        ".NET安全矩阵知识库优惠持续进行": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247489589&idx=2&sn=beb1cc22c9bffe6aed37f505f4a60f69&chksm=fa5ab6d8cd2d3fceddbfbb73e2ed8e268eb60e2b0fcf93b8b9bbdc25542cad352f0fdc80dc99&scene=58&subscene=0#rd"
+    },
+    "青衣十三楼飞花堂": {
+        "代代相传的信念": "https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247486983&idx=1&sn=09a74c911b635f78c4d8ce147dfd81e5&chksm=fab2cd38cdc5442e039328073a3b8568713f307b8331f8c895821f51071babd369a34e424165&scene=58&subscene=0#rd"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【资料】情报分析所需的知识": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651140778&idx=1&sn=e63583946d91cd4f85d83628627be2e5&chksm=f1af4590c6d8cc86b5bc2bbbdbf739599d01eff8a21a3e05f88c2dc8f85ae9a3339267cb6fbe&scene=58&subscene=0#rd"
+    },
+    "极客公园": {
+        "AIGC 耗电报告：一次生成消耗 16% 手机电量；OpenAI GPT 商城推迟发布；NASA：哈勃望远镜出现故障｜极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653024029&idx=1&sn=40bb2aa4ee3e4e72735cefb386c5ce42&chksm=7e5492ab49231bbd81ce45d0590894e828a000cea0bfed12f604d741020dc47c7a4cd3e73448&scene=58&subscene=0#rd"
+    },
+    "云鼎实验室": {
+        "每周云安全资讯-2023年第49周": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247495020&idx=1&sn=49e20fef69c84be91b0d9ed5ef780033&chksm=fd7911eaca0e98fc7182220cb591a19a0256530a8f1eb5c6e6294b9903cad47ea0b0300b5a15&scene=58&subscene=0#rd"
+    },
+    "嘶吼专业版": {
+        "从用户的设备端攻击5G基础设施": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247571731&idx=1&sn=81c8413e8ff618b2ab7b4627a3fa2ec8&chksm=e9140929de63803f2b5103dbaf4e82d298f7ad124428b580065e2cc61004e74780f468d47526&scene=58&subscene=0#rd",
+        "影子AI：新型影子IT威胁载体": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247571731&idx=2&sn=6a1e3ade95f6bb4874ce4897eafe5233&chksm=e9140929de63803f5a2fb20a7ac35899ae4512ba38f4b6acaa89d0b6a10ed8afb20e108fc2a5&scene=58&subscene=0#rd"
+    },
+    "Arturo Di Corinto": {
+        "L’economia di ChatGPT": "https://dicorinto.it/associazionismo/leconomia-di-chatgpt/"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "Detected: Esteem Restoration Eagle targets the website of Signatory Contractors Association": "https://marcoramilli.com/2023/12/03/detected-esteem-restoration-eagle-targets-the-website-of-signatory-contractors-association/",
+        "On September 2nd, the U.S. branch of Great Star Industrial Co. disbursed a ransom of 1 million dollars to a ransomware group": "https://www.suspectfile.com/on-september-2nd-the-u-s-branch-of-great-star-industrial-co-disbursed-a-ransom-of-1-million-dollars-to-a-ransomware-group/",
+        "Detected: Allegedly leaked the database of National conference on E-governance india": "https://marcoramilli.com/2023/12/03/detected-allegedly-leaked-the-database-of-national-conference-on-e-governance-india/",
+        "La Francia vieta le app di messaggistica più diffuse per motivi di sicurezza: uno spostamento verso alternative nazionali": "https://www.insicurezzadigitale.com/la-francia-vieta-le-app-di-messaggistica-piu-diffuse-per-motivi-di-sicurezza-uno-spostamento-verso-alternative-nazionali/",
+        "New proxy malware targets Mac users through pirated software": "https://www.bleepingcomputer.com/news/security/new-proxy-malware-targets-mac-users-through-pirated-software/",
+        "Google is phasing out ad personalization for some AdSense products": "https://www.bleepingcomputer.com/news/google/google-is-phasing-out-ad-personalization-for-some-adsense-products/",
+        "North Korea's state hackers stole $3 billion in crypto since 2017": "https://www.bleepingcomputer.com/news/security/north-koreas-state-hackers-stole-3-billion-in-crypto-since-2017/",
+        "Linux version of Qilin ransomware focuses on VMware ESXi": "https://www.bleepingcomputer.com/news/security/linux-version-of-qilin-ransomware-focuses-on-vmware-esxi/",
+        "Cybercriminals Leverage Hijacked Booking.com accounts for Phishing": "https://blog.bushidotoken.net/2023/12/cybercriminals-leverage-hijacked.html",
+        "Detected: EXECUTOR DDOS targets the website of West Street Tavern & Restaurant": "https://marcoramilli.com/2023/12/03/detected-executor-ddos-targets-the-website-of-west-street-tavern-restaurant/",
+        "Detected: Cyber Error System targets the website of SHINE GROUP of Institutions": "https://marcoramilli.com/2023/12/03/detected-cyber-error-system-targets-the-website-of-shine-group-of-institutions/",
+        "Detected: GARUDA SECURITY targets the website of FAAST Networks": "https://marcoramilli.com/2023/12/03/detected-garuda-security-targets-the-website-of-faast-networks/",
+        "Detected: Legion Leaker targets the website of Ministry of Education, East Timor": "https://marcoramilli.com/2023/12/03/detected-legion-leaker-targets-the-website-of-ministry-of-education-east-timor/",
+        "Attacco informatico minaccia di rilasciare dati sensibili di Tipalti, mettendo a rischio aziende come Roblox e Twitch": "https://www.insicurezzadigitale.com/attacco-informatico-minaccia-di-rilasciare-dati-sensibili-di-tipalti-mettendo-a-rischio-aziende-come-roblox-e-twitch/",
+        "Detected: MIRLE Group falls victim to LockBit Ransomware": "https://marcoramilli.com/2023/12/03/detected-mirle-group-falls-victim-to-lockbit-ransomware/",
+        "Detected: NoName targets the website of OneseQ": "https://marcoramilli.com/2023/12/03/detected-noname-targets-the-website-of-oneseq/",
+        "Detected: NoName targets the website of Trasporto Locale": "https://marcoramilli.com/2023/12/03/detected-noname-targets-the-website-of-trasporto-locale/",
+        "Detected: NoName targets the website of Oesia Group": "https://marcoramilli.com/2023/12/03/detected-noname-targets-the-website-of-oesia-group/",
+        "Detected: NoName targets the website of S2 Grupo": "https://marcoramilli.com/2023/12/03/detected-noname-targets-the-website-of-s2-grupo/",
+        "Detected: Jalaun District Co-Operative Bank database allegedly leaked": "https://marcoramilli.com/2023/12/03/detected-jalaun-district-co-operative-bank-database-allegedly-leaked/",
+        "Detected: Alleged sale of Colonial Pipeline Access and Data": "https://marcoramilli.com/2023/12/03/detected-alleged-sale-of-colonial-pipeline-access-and-data/",
+        "Detected: Bern Hotels & Resorts Panama falls victim to Akira Ransomware": "https://marcoramilli.com/2023/12/03/detected-bern-hotels-resorts-panama-falls-victim-to-akira-ransomware/",
+        "Detected: NoName targets the website of CTM SpA": "https://marcoramilli.com/2023/12/03/detected-noname-targets-the-website-of-ctm-spa/",
+        "Detected: NoName targets the website of Azienda del Consorzio Trasporti Veneziano": "https://marcoramilli.com/2023/12/03/detected-noname-targets-the-website-of-azienda-del-consorzio-trasporti-veneziano/",
+        "Detected: NoName targets the website of Trentino Transport": "https://marcoramilli.com/2023/12/03/detected-noname-targets-the-website-of-trentino-transport/",
+        "Detected: NoName targets the website of Gruppo Torinese Trasporti": "https://marcoramilli.com/2023/12/03/detected-noname-targets-the-website-of-gruppo-torinese-trasporti/",
+        "Detected: NoName targets the website of Siena Mobilita": "https://marcoramilli.com/2023/12/03/detected-noname-targets-the-website-of-siena-mobilita/",
+        "Detected: Allegedly leaked database of WEB RADIO 63": "https://marcoramilli.com/2023/12/03/detected-allegedly-leaked-database-of-web-radio-63/",
+        "Detected: NoName targets the website of AMAT Palermo": "https://marcoramilli.com/2023/12/03/detected-noname-targets-the-website-of-amat-palermo/",
+        "Detected: Alleged sale of Saudi Ministry of Health data": "https://marcoramilli.com/2023/12/03/detected-alleged-sale-of-saudi-ministry-of-health-data/",
+        "Detected: NoName targets the website of Consob": "https://marcoramilli.com/2023/12/03/detected-noname-targets-the-website-of-consob/",
+        "Detected: Alleged sale of access to the LSEG (London Stock Exchange Group)": "https://marcoramilli.com/2023/12/03/detected-alleged-sale-of-access-to-the-lseg-london-stock-exchange-group/",
+        "Detected: Alleged sale of access to the Federal IT Modernization ReiSystems": "https://marcoramilli.com/2023/12/03/detected-alleged-sale-of-access-to-the-federal-it-modernization-reisystems/",
+        "Detected: Cyber Error System targets the website of Shine High School": "https://marcoramilli.com/2023/12/03/detected-cyber-error-system-targets-the-website-of-shine-high-school/",
+        "Detected: Cyber Error System targets the website of New Science Degree & PG College": "https://marcoramilli.com/2023/12/03/detected-cyber-error-system-targets-the-website-of-new-science-degree-pg-college/",
+        "Detected: Java DDOS 〄 Power Proof targets the website of Zefoy": "https://marcoramilli.com/2023/12/03/detected-java-ddos-%e3%80%84-power-proof-targets-the-website-of-zefoy/",
+        "Detected: Allegedly leaked Database of Bharat Sanchar Nigam Limited (BSNL)": "https://marcoramilli.com/2023/12/03/detected-allegedly-leaked-database-of-bharat-sanchar-nigam-limited-bsnl/",
+        "Detected: Roblox falls victim to ALPHV Ransomware": "https://marcoramilli.com/2023/12/03/detected-roblox-falls-victim-to-alphv-ransomware/",
+        "Detected: Alleged sale of American clothing store database": "https://marcoramilli.com/2023/12/03/detected-alleged-sale-of-american-clothing-store-database/",
+        "SoarGames - 4,774,445 breached accounts": "https://haveibeenpwned.com/PwnedWebsites#SoarGames",
+        "Detected: Allegedly leaked Ukrainian Business Website Database": "https://marcoramilli.com/2023/12/03/detected-allegedly-leaked-ukrainian-business-website-database/",
+        "Detected: Tipalti falls victim to ALPHV Ransomware": "https://marcoramilli.com/2023/12/03/detected-tipalti-falls-victim-to-alphv-ransomware/",
+        "Detected: Tron Network claims to target israel website": "https://marcoramilli.com/2023/12/03/detected-tron-network-claims-to-target-israel-website/",
+        "Detected: GARUDA CYBER OPERATION targets the website of Airsoft Factory": "https://marcoramilli.com/2023/12/03/detected-garuda-cyber-operation-targets-the-website-of-airsoft-factory/",
+        "Detected: Alleged sale of CC Sniffer": "https://marcoramilli.com/2023/12/03/detected-alleged-sale-of-cc-sniffer/",
+        "Detected: DragonForce Malaysia targets the website of bardlas.co.il": "https://marcoramilli.com/2023/12/03/detected-dragonforce-malaysia-targets-the-website-of-bardlas-co-il/",
+        "Detected: Cyber Error System targets the website of Dispur College": "https://marcoramilli.com/2023/12/03/detected-cyber-error-system-targets-the-website-of-dispur-college/",
+        "Detected: Allegedly leaked the database of Baroda U.P. Gramin Bank": "https://marcoramilli.com/2023/12/03/detected-allegedly-leaked-the-database-of-baroda-u-p-gramin-bank/",
+        "Detected: Java DDOS 〄 Power Proof targets the website of Amazon Pay": "https://marcoramilli.com/2023/12/03/detected-java-ddos-%e3%80%84-power-proof-targets-the-website-of-amazon-pay/"
+    },
+    "迪哥讲事": {
+        "文件导出功能的SSRF": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247492822&idx=1&sn=8d1be4f9840fa3ab2d343d7a0f9d0d16&chksm=e8a5eeb5dfd267a3635fc13e948d89129d164018ab5fb6f06ca4f6d702c3361219566fcfad36&scene=58&subscene=0#rd"
+    },
+    "Il Disinformatico": {
+        "Finalmente disponibile in italiano l’autobiografia dell’astronauta lunare Michael Collins “Carrying the Fire - Il mio viaggio verso la Luna”, in e-book e su carta": "http://attivissimo.blogspot.com/2023/12/finalmente-disponibile-in-italiano.html"
+    },
+    "黑伞安全": {
+        "代码审计:jar-analyzer 分析漏洞 Apache Commons Text RCE": "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247488387&idx=1&sn=32b400ebc06e86a5aff1934b6a1a8d38&chksm=fb029edbcc7517cd41bba92028f4152f6652e69a7a0555e09d99473173e692f87d2292e9092a&scene=58&subscene=0#rd"
+    },
+    "Have I Been Pwned latest breaches": {
+        "SoarGames - 4,774,445 breached accounts": "https://haveibeenpwned.com/PwnedWebsites#SoarGames"
+    },
+    "Troy Hunt's Blog": {
+        "Weekly Update 376": "https://www.troyhunt.com/weekly-update-376/"
+    },
+    "Security Affairs": {
+        "New Agent Raccoon malware targets the Middle East, Africa and the US": "https://securityaffairs.com/155137/malware/agent-raccoon-malware.html",
+        "Security Affairs newsletter Round 448 by Pierluigi Paganini – INTERNATIONAL EDITION": "https://securityaffairs.com/155128/breaking-news/security-affairs-newsletter-round-448-by-pierluigi-paganini-international-edition.html"
+    },
+    "Information Security": {
+        "Neat Swag from Canary for the holidays.": "https://www.reddit.com/r/Information_Security/comments/18a6kai/neat_swag_from_canary_for_the_holidays/",
+        "Breaking News: Liber8 Proxy Creates a New cloud-based modified operating system with Antidetect and unlimited worldwide residential proxy, with RDP and VNC Access Allows users to create multi users on the VPS with unique device fingerprints and Residential Proxy and TOR.": "https://www.reddit.com/r/Information_Security/comments/18a5htq/breaking_news_liber8_proxy_creates_a_new/",
+        "ADVICE? Catfished into more work & less pay": "https://www.reddit.com/r/Information_Security/comments/18a4r7s/advice_catfished_into_more_work_less_pay/"
+    },
+    "Social Engineering": {
+        "what you think?": "https://www.reddit.com/r/SocialEngineering/comments/18a5xg1/what_you_think/"
+    },
+    "Your Hacking Tutorial by Zempirians": {
+        "How do hackers bypass account lock after too many failed login attempts?": "https://www.reddit.com/r/HowToHack/comments/189t6dv/how_do_hackers_bypass_account_lock_after_too_many/",
+        "Hydra question": "https://www.reddit.com/r/HowToHack/comments/18a0m7a/hydra_question/"
+    },
+    "BorderGate": {
+        "Active Directory Explorer": "https://www.bordergate.co.uk/active-directory-explorer/",
+        "Active Directory DACL Attacks": "https://www.bordergate.co.uk/dacl-attacks/"
+    },
+    "KitPloit - PenTest Tools!": {
+        "NimExec - Fileless Command Execution For Lateral Movement In Nim": "http://www.kitploit.com/2023/12/nimexec-fileless-command-execution-for.html"
+    },
+    "Blackhat Library: Hacking techniques and research": {
+        "Analyzing Malicious Microsoft Office Word Malware | HackTheBox Emo": "https://www.reddit.com/r/blackhat/comments/189t6ns/analyzing_malicious_microsoft_office_word_malware/"
+    },
+    "Computer Forensics": {
+        "Correct tools to use for image file": "https://www.reddit.com/r/computerforensics/comments/18a4ks6/correct_tools_to_use_for_image_file/",
+        "Best video enhancement software": "https://www.reddit.com/r/computerforensics/comments/18a0tff/best_video_enhancement_software/"
+    },
+    "Deep Web": {
+        "Florida band thinks they're Dracula": "https://www.reddit.com/r/deepweb/comments/18a3nzg/florida_band_thinks_theyre_dracula/",
+        "Deep Web for sports betting?": "https://www.reddit.com/r/deepweb/comments/189venw/deep_web_for_sports_betting/"
+    },
+    "netsecstudents: Subreddit for students studying Network Security and its related subjects": {
+        "Week in Brief - JAXA Breached, ChatGPT Data Extraction Attack and More": "https://www.reddit.com/r/netsecstudents/comments/18a65bp/week_in_brief_jaxa_breached_chatgpt_data/",
+        "Defensive Security": "https://www.reddit.com/r/netsecstudents/comments/18a46h3/defensive_security/",
+        "What are some sites that dont have hsts preloading": "https://www.reddit.com/r/netsecstudents/comments/18a16oj/what_are_some_sites_that_dont_have_hsts_preloading/"
+    }
+}
