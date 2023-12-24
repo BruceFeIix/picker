@@ -1,0 +1,152 @@
+{
+    "unSafe.sh - 不安全": {
+        "59 Stories To Learn About Future Of Blockchain": "https://buaq.net/go-209474.html",
+        "57 Stories To Learn About Ico": "https://buaq.net/go-209475.html",
+        "20 Stories To Learn About Hyperledger": "https://buaq.net/go-209476.html",
+        "育碧调查黑客入侵": "https://buaq.net/go-209464.html",
+        "Compiling NuttX RTOS to Atmega128 board": "https://buaq.net/go-209460.html",
+        "Linux 6.7 推迟到明年 1 月 7 日发布": "https://buaq.net/go-209465.html",
+        "OpenAI 讨论新一轮融资估值可能超过一千亿美元": "https://buaq.net/go-209466.html",
+        "Brushing Scams on Amazon: What They Are and How to Handle Them": "https://buaq.net/go-209477.html",
+        "微软终止支持 Windows 10 可能导致 2.4 亿台电脑被淘汰": "https://buaq.net/go-209467.html",
+        "Using avrdude and USBasp ISP to read and flash Atmega128 from BK-AVR128 board": "https://buaq.net/go-209446.html",
+        "从Self XSS 到账户接管": "https://buaq.net/go-209471.html"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sat Dec 23 12:31:07 UTC 2023": "https://github.com/trickest/cve/commit/062d2431e4e0346ae481719baf846137afec7928"
+    },
+    "Security Boulevard": {
+        "Group Therapy – security and privacy in Facebook groups": "https://securityboulevard.com/2023/12/group-therapy-security-and-privacy-in-facebook-groups/",
+        "Best Practices in Multi-Factor Authentication for Enhanced Security": "https://securityboulevard.com/2023/12/best-practices-in-multi-factor-authentication-for-enhanced-security/",
+        "USENIX Security ’23 – ‘“It’s The Equivalent of Feeling Like You’re In Jail”: Lessons From Firsthand & Secondhand Accounts Of IoT-Enabled Intimate Partner Abuse’": "https://securityboulevard.com/2023/12/usenix-security-23-its-the-equivalent-of-feeling-like-youre-in-jail-lessons-from-firsthand-secondhand-accounts-of-iot-enabled-intimate-pa/",
+        "Impact of Apache Struts2 Code Execution Vulnerability": "https://securityboulevard.com/2023/12/impact-of-apache-struts2-code-execution-vulnerability/",
+        "Kansas City Hospital Ransomware Attack Consequences": "https://securityboulevard.com/2023/12/kansas-city-hospital-ransomware-attack-consequences/"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Exploit for Cross-site Scripting in Cpanel exploit": "https://sploitus.com/exploit?id=9FBA14F1-9CF4-5B48-BD7A-AC2F6023B63A&utm_source=rss&utm_medium=rss",
+        "Exploit for Deserialization of Untrusted Data in Apache Activemq exploit": "https://sploitus.com/exploit?id=F1BA882D-AEE0-5F39-9E04-ED607D5F8DC2&utm_source=rss&utm_medium=rss",
+        "Exploit for CVE-2023-0386 exploit": "https://sploitus.com/exploit?id=9CF0371B-70C8-54C9-ADC2-CC825AF48FEB&utm_source=rss&utm_medium=rss",
+        "Exploit for Out-of-bounds Write in Gnu Glibc exploit": "https://sploitus.com/exploit?id=16C064EE-3022-51FD-919E-E51F380C2B46&utm_source=rss&utm_medium=rss"
+    },
+    "Twitter @Nicolas Krassas": {
+        "Mobile virtual network operator Mint Mobile discloses a data breach https://securityaffairs.com/156295/data-breach/mint-mobile-data-breach-2.html": "https://twitter.com/Dinosn/status/1738647143089426774",
+        "Hackers Stole $59 Million of Crypto Via Malicious Google and X Ads https://www.hackread.com/hackers-stole-59-million-crypto-google-x-ads/": "https://twitter.com/Dinosn/status/1738647094682853592",
+        "‘Wall of Flippers’ detects Flipper Zero Bluetooth spam attacks https://www.bleepingcomputer.com/news/security/wall-of-flippers-detects-flipper-zero-...": "https://twitter.com/Dinosn/status/1738646207046541639",
+        "RT web3 is going just great: New wallet drainer steals almost $60 million in 9 months December 21, 2023 https://web3isgoinggreat.com/?id=ms-drainer": "https://twitter.com/web3isgreat/status/1738630167700861011",
+        "Iranian cyberspies target US defense orgs with a brand new backdoor https://go.theregister.com/feed/www.theregister.com/2023/12/23/iranian_cyberspies_...": "https://twitter.com/Dinosn/status/1738550320182002026",
+        "CVE-2023-50254 – Deepin-Reader Flaw: A Shortcut to Remote Command Execution https://securityonline.info/cve-2023-50254-deepin-reader-flaw-a-shortcut-...": "https://twitter.com/Dinosn/status/1738536707002155283",
+        "CLZero - A Project For Fuzzing HTTP/1.1 CL.0 Request Smuggling Attack Vectors http://www.kitploit.com/2023/12/clzero-project-for-fuzzing-http11-cl0.ht...": "https://twitter.com/Dinosn/status/1738536446447763686",
+        "RT LiveOverflow 🔴: \"A Vulnerability to Hack The World\" - CVE-2023-4863 The start of a mini series digging into the recent WebP vulnerability. In th...": "https://twitter.com/LiveOverflow/status/1738520896585785394",
+        "Akira ransomware gang claims the theft of sensitive data from Nissan Australia https://securityaffairs.com/156283/cyber-crime/akira-ransomware-breache...": "https://twitter.com/Dinosn/status/1738412641905737773",
+        "Full Chain Baseband Exploits, Part 1 https://labs.taszk.io/articles/post/full_chain_bb_part1/": "https://twitter.com/Dinosn/status/1738412551438823552",
+        "Android/Xamalicious Malware Hijacks 327K+ Android Devices https://securityonline.info/android-xamalicious-malware-hijacks-327k-android-devices/": "https://twitter.com/Dinosn/status/1738412425701929241",
+        "Mint Mobile discloses new data breach exposing customer data https://www.bleepingcomputer.com/news/security/mint-mobile-discloses-new-data-breach-expo...": "https://twitter.com/Dinosn/status/1738412378415419609"
+    },
+    "SecWiki News": {
+        "SecWiki News 2023-12-23 Review": "http://www.sec-wiki.com/?2023-12-23"
+    },
+    "InfoSec Write-ups - Medium": {
+        "Securing your malware from being hooked": "https://infosecwriteups.com/securing-your-malware-from-being-hooked-a995f25531f7?source=rss----7b722bfd1b8d---4"
+    },
+    "obaby@mars": {
+        "抄作业": "https://h4ck.org.cn/2023/12/14852"
+    },
+    "RyotaK's Blog": {
+        "Cloudflare Pagesにおける権限昇格と任意ページの改竄": "https://blog.ryotak.net/post/cloudflare-pages-privesc-and-page-tampering/"
+    },
+    "Twitter @bytehx": {
+        "RT Root Moksha: If you see a price discount or percentage discount area, be sure to try this payload (1,alert)(7*7)], it may be triggered as a discoun...": "https://twitter.com/RootMoksha/status/1738477040729272746",
+        "RT bounter: One-Liner to fuzz the Authorization header 🔥🔥🔥 cook usernames_list : passwords_list -m b64e | ffuf -u https://target[.]com -w - -...": "https://twitter.com/_bughunter/status/1738470492841844893",
+        "Re @bug_vs_me @EpicGames @Hacker0x01 Congrats!": "https://twitter.com/bytehx343/status/1738210865172685070",
+        "Re @x1337loser Congrats!": "https://twitter.com/bytehx343/status/1738426047400738921"
+    },
+    "SAP Blogs": {
+        "SAP Cloud Logging Service 入門": "https://blogs.sap.com/2023/12/23/btp-cloud-logging-getting-start-ja/"
+    },
+    "CCC Event Blog": {
+        "Der 37C3 „Sustainability & Climate Justice“-Track – eine Vorstellung": "https://events.ccc.de/2023/12/23/37c3-sustainability-and-climate-justive-track-team/"
+    },
+    "Reverse Engineering": {
+        "Seeking Assistance with Reverse Engineering Firmware for ASIC Miner KS-0 Pro from Iceriver": "https://www.reddit.com/r/ReverseEngineering/comments/18p9a3u/seeking_assistance_with_reverse_engineering/",
+        "ghidra/GhidraDocs/GhidraClass/BSim/README.md at master · NationalSecurityAgency/ghidra · GitHub": "https://www.reddit.com/r/ReverseEngineering/comments/18p2a76/ghidraghidradocsghidraclassbsimreadmemd_at_master/"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "育碧调查黑客入侵": "https://www.solidot.org/story?sid=76963",
+        "Linux 6.7 推迟到明年 1 月 7 日发布": "https://www.solidot.org/story?sid=76962",
+        "OpenAI 讨论新一轮融资估值可能超过一千亿美元": "https://www.solidot.org/story?sid=76961",
+        "微软终止支持 Windows 10 可能导致 2.4 亿台电脑被淘汰": "https://www.solidot.org/story?sid=76960",
+        "朱令铊中毒当事人去世": "https://www.solidot.org/story?sid=76959"
+    },
+    "看雪学苑": {
+        "Cpp20新特性面试重点": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458532502&idx=1&sn=b9cabbc8ec341ffd4c8aeda8985f6706&chksm=b18d0a1c86fa830af223b4845a65c09bfebe060303ccb66fe9ee6ec1696be9dc8b7b8d35eddb&scene=58&subscene=0#rd",
+        "更新2节！Windows 开发不完全指南": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458532502&idx=2&sn=deacf0164d6c366ab6e029e65d59b28e&chksm=b18d0a1c86fa830a46948ec939db92ad34047df22bbcfa73f06c810d9733548c8af614a3ebc2&scene=58&subscene=0#rd"
+    },
+    "青衣十三楼飞花堂": {
+        "用AZPR/ARCHPR穷举读秀电子书ZIP密码": "https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247487028&idx=1&sn=b4ed2e3fae39a311e9000594d244d38a&chksm=fab2cd0bcdc5441d7dd0b0bd53ff6c55bd37dc142e6d53fefdd6b94820047f3b9fa4992886d7&scene=58&subscene=0#rd"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【工具】情报相关网站汇总": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651141194&idx=1&sn=fe6ee0e9e687f98753880cfe86c3b24a&chksm=f1af4370c6d8ca6662e8bcb015922008d11e31c57e1b8562b118c2261b1f457f5630718f5d93&scene=58&subscene=0#rd"
+    },
+    "极客公园": {
+        "游戏新规引起热议，腾讯网易一日跌去4500亿市值；马斯克超级高铁梦碎；OpenAI寻求新一轮融资，估值超千亿| 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653028384&idx=1&sn=2d17e8f6b2076a571ac658ca9a22a456&chksm=7e577d964920f480e6ac0332b453b08cf65511765b6ab400dda535ba2968b87f5719e7b64021&scene=58&subscene=0#rd"
+    },
+    "KitPloit - PenTest &amp; Hacking Tools": {
+        "CLZero - A Project For Fuzzing HTTP/1.1 CL.0 Request Smuggling Attack Vectors": "http://www.kitploit.com/2023/12/clzero-project-for-fuzzing-http11-cl0.html"
+    },
+    "安全研究GoSSIP": {
+        "G.O.S.S.I.P 阅读推荐 2023-12-20 代码本非人间语（重制版）": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247497012&idx=1&sn=9507c02886454e5a11a65409d356225e&chksm=c063dbedf71452fb4a38ce96b2f20777718993dadbbcb750c644bb7cb9f668d2ee70d88f9096&scene=58&subscene=0#rd"
+    },
+    "dotNet安全矩阵": {
+        ".NET 安全矩阵一周工具集锦": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247489955&idx=1&sn=a6dc581a7c0b4169e2db4eecf7dee3ac&chksm=fa5ab74ecd2d3e588277534f09af5fea8af7d1cf2d8ba465bcebd0dd7637052ff89d5a09fdf2&scene=58&subscene=0#rd",
+        ".NET安全矩阵知识库优惠持续进行": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247489955&idx=2&sn=d2284fdb4162d5c4749cbe91d0132588&chksm=fa5ab74ecd2d3e58c9bf7c1d6192f081b95a6a370fd139c677d9ab77165e7556eca242d2993f&scene=58&subscene=0#rd"
+    },
+    "天御攻防实验室": {
+        "威胁情报与法律风险": "https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247485255&idx=1&sn=4741292f5812f27cd7b330bd8b3a5ce7&chksm=fb04c42fcc734d39856fa2f37d2bff6142bcc335980203c4e2f8cd7618cdffe1425f87f529dc&scene=58&subscene=0#rd"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "‘Wall of Flippers’ detects Flipper Zero Bluetooth spam attacks": "https://www.bleepingcomputer.com/news/security/wall-of-flippers-detects-flipper-zero-bluetooth-spam-attacks/",
+        "Mint Mobile discloses new data breach exposing customer data": "https://www.bleepingcomputer.com/news/security/mint-mobile-discloses-new-data-breach-exposing-customer-data/"
+    },
+    "迪哥讲事": {
+        "从Self XSS 到账户接管": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247493105&idx=1&sn=f1402a8b18d4cc097ab91cae05d1e0e4&chksm=e8a5ef92dfd266843b6de1682b54b32be7392b4a493df396485e9a7fe8d411b1800257547668&scene=58&subscene=0#rd"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "Python Keylogger Using Mailtrap.io, (Sat, Dec 23rd)": "https://isc.sans.edu/diary/rss/30512"
+    },
+    "Desync InfoSec": {
+        "【DFIR报告翻译】教科书级基于钻石模型的分析报告": "https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247487237&idx=1&sn=b9e05c8f8bb672a61c702188bf979454&chksm=c27f7cabf508f5bd8e58bd221db1f570cb5dbf543fc953c8f3b27419e20da0261b80d0799600&scene=58&subscene=0#rd"
+    },
+    "Steflan’s Security Blog": {
+        "Certified Azure Red Team Professional (CARTP) Review": "https://steflan-security.com/certified-red-team-professional-cartp-review/?utm_source=rss&utm_medium=rss&utm_campaign=certified-red-team-professional-cartp-review"
+    },
+    "Computer Forensics": {
+        "Looking into the digital forensics field and would like some advice/insight.": "https://www.reddit.com/r/computerforensics/comments/18pdf7x/looking_into_the_digital_forensics_field_and/",
+        "YARA Analyzer Always Fails": "https://www.reddit.com/r/computerforensics/comments/18p0799/yara_analyzer_always_fails/"
+    },
+    "netsecstudents: Subreddit for students studying Network Security and its related subjects": {
+        "Does SANS accept Sophia.com credits towards their bachelors?": "https://www.reddit.com/r/netsecstudents/comments/18pac2q/does_sans_accept_sophiacom_credits_towards_their/"
+    },
+    "Deep Web": {
+        "High-end ID cards": "https://www.reddit.com/r/deepweb/comments/18ped5c/highend_id_cards/",
+        "it is this site a fake? plz help": "https://www.reddit.com/r/deepweb/comments/18p1zcc/it_is_this_site_a_fake_plz_help/"
+    },
+    "Deeplinks": {
+        "Sketchy and Dangerous Android Children’s Tablets and TV Set-Top Boxes: 2023 in Review": "https://www.eff.org/deeplinks/2023/12/sketchy-and-dangerous-android-childrens-tablets-and-tv-set-top-boxes-2023-review",
+        "Artificial Intelligence and Policing: Year in Review 2023": "https://www.eff.org/deeplinks/2023/12/artificial-intelligence-and-policing-year-review-2023"
+    },
+    "KitPloit - PenTest Tools!": {
+        "CLZero - A Project For Fuzzing HTTP/1.1 CL.0 Request Smuggling Attack Vectors": "http://www.kitploit.com/2023/12/clzero-project-for-fuzzing-http11-cl0.html"
+    },
+    "Security Affairs": {
+        "LockBit ransomware gang claims to have breached accountancy firm Xeinadin": "https://securityaffairs.com/156303/cyber-crime/lockbit-gang-xeinadin.html",
+        "Mobile virtual network operator Mint Mobile discloses a data breach": "https://securityaffairs.com/156295/data-breach/mint-mobile-data-breach-2.html"
+    },
+    "Your Hacking Tutorial by Zempirians": {
+        "Is storm-breaker a legit and safe tool?": "https://www.reddit.com/r/HowToHack/comments/18p1hyo/is_stormbreaker_a_legit_and_safe_tool/",
+        "Awus036ach vs awus036axml": "https://www.reddit.com/r/HowToHack/comments/18p2oaj/awus036ach_vs_awus036axml/",
+        "Distro question": "https://www.reddit.com/r/HowToHack/comments/18p2joo/distro_question/"
+    },
+    "Unsupervised Learning": {
+        "Blogging and Podcasting Are Gatekeeping Concepts": "https://danielmiessler.com/p/blogging-podcasting-gatekeeping-concepts"
+    }
+}
