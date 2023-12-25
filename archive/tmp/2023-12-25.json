@@ -1,0 +1,156 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2023-12-24 Review": "http://www.sec-wiki.com/?2023-12-24"
+    },
+    "先知安全技术社区": {
+        "高级ROP之SROP利用": "https://xz.aliyun.com/t/13198",
+        "一次glibc 提权漏洞的分析与调试": "https://xz.aliyun.com/t/13197"
+    },
+    "unSafe.sh - 不安全": {
+        "Gemini - A Family of Highly Capable Multimodal Models: Appendix": "https://buaq.net/go-209595.html"
+    },
+    "Twitter @Nicolas Krassas": {
+        "Video game giant Ubisoft investigates reports of a data breach https://securityaffairs.com/156331/data-breach/ubisoft-investigating-alleged-data-breac...": "https://twitter.com/Dinosn/status/1738978191728054333",
+        "KnowsMore - A Swiss Army Knife Tool For Pentesting Microsoft Active Directory (NTLM Hashes, BloodHound, NTDS And DCSync) http://www.kitploit.com/2023/...": "https://twitter.com/Dinosn/status/1738928537392840926",
+        "RISC-Y Business: Raging against the reduced machine https://secret.club/2023/12/24/riscy-business.html": "https://twitter.com/Dinosn/status/1738928468761485389",
+        "Developers are juicy targets: DCOM & Visual Studio https://www.reddit.com/r/netsec/comments/18ps23i/developers_are_juicy_targets_dcom_visual_studio/": "https://twitter.com/Dinosn/status/1738892187775963151",
+        "PNLS: Tool that captures and displays SSIDs from device's Preferred Network List in the nearby vicinity. https://www.reddit.com/r/netsec/comments/18pt...": "https://twitter.com/Dinosn/status/1738892028576960633",
+        "Ghidra Basics - Identifying, Decoding and Fixing Encrypted Strings https://www.reddit.com/r/ReverseEngineering/comments/18plzoi/ghidra_basics_identify...": "https://twitter.com/Dinosn/status/1738795979841614163",
+        "Insomniac says it’s ‘saddened and angered’ by massive leak of 1.3 million files https://www.engadget.com/insomniac-says-its-saddened-and-angered-by...": "https://twitter.com/Dinosn/status/1738781208715088167",
+        "LockBit ransomware gang claims to have breached accountancy firm Xeinadin https://securityaffairs.com/156303/cyber-crime/lockbit-gang-xeinadin.html": "https://twitter.com/Dinosn/status/1738779803568804128"
+    },
+    "obaby@mars": {
+        "抄作业续章": "https://h4ck.org.cn/2023/12/14859"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sun Dec 24 12:30:53 UTC 2023": "https://github.com/trickest/cve/commit/b7c6e8301eda1d34b2770ea99e954887b0ebffb2"
+    },
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "Linux Sudo Command Privilege Escalation": "https://cxsecurity.com/issue/WLB-2023120045",
+        "Vinchin Backup And Recovery Command Injection": "https://cxsecurity.com/issue/WLB-2023120044",
+        "Glibc Tunables Privilege Escalation": "https://cxsecurity.com/issue/WLB-2023120043",
+        "Hospital Management System 4.0 XSS / Shell Upload / SQL Injection": "https://cxsecurity.com/issue/WLB-2023120042",
+        "GilaCMS 1.15.4 SQL Injection": "https://cxsecurity.com/issue/WLB-2023120041",
+        "Craft CMS 4.4.14 Remote Code Execution": "https://cxsecurity.com/issue/WLB-2023120040"
+    },
+    "Security Boulevard": {
+        "USENIX Security ’23 – ‘Sneaky Spy Devices And Defective Detectors: The Ecosystem Of Intimate Partner Surveillance With Covert Devices’": "https://securityboulevard.com/2023/12/usenix-security-23-sneaky-spy-devices-and-defective-detectors-the-ecosystem-of-intimate-partner-surveillance-with-covert-devices/",
+        "Democracy 2024: Pro-Hunger ≠ “Pro-Life”": "https://securityboulevard.com/2023/12/democracy-2024-pro-hunger-%e2%89%a0-pro-life/",
+        "The Top 24 Security Predictions for 2024 (Part 2)": "https://securityboulevard.com/2023/12/the-top-24-security-predictions-for-2024-part-2/"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Exploit for Missing Authorization in Zoneminder exploit": "https://sploitus.com/exploit?id=468818B4-DCA4-5D31-85EE-089529AA6813&utm_source=rss&utm_medium=rss"
+    },
+    "AresX's Blog": {
+        "Xray Crack Patching": "https://ares-x.com/2023/12/24/Xray-Crack/"
+    },
+    "SAP Blogs": {
+        "A Scripting Guide For Master Data CRUD Operations in SAP Analytics Cloud Stories": "https://blogs.sap.com/2023/12/24/a-scripting-guide-for-master-data-crud-operations-in-sap-analytics-cloud-stories/"
+    },
+    "Twitter @bytehx": {
+        "RT Sam Curry: This tweet reminded me of a time when I was hacking on Apple's bug bounty program. I found, of all things, a base64 encoded Harry Potter...": "https://twitter.com/samwcyo/status/1738991457627717913",
+        "Re @Sree_god @Hacker0x01 Congrats!": "https://twitter.com/bytehx343/status/1738905392355447081"
+    },
+    "Reverse Engineering": {
+        "RISC-Y Business: Raging against the reduced machine": "https://www.reddit.com/r/ReverseEngineering/comments/18pu4aq/riscy_business_raging_against_the_reduced_machine/",
+        "Ghidra Basics - Identifying, Decoding and Fixing Encrypted Strings": "https://www.reddit.com/r/ReverseEngineering/comments/18plzoi/ghidra_basics_identifying_decoding_and_fixing/"
+    },
+    "KitPloit - PenTest &amp; Hacking Tools": {
+        "KnowsMore - A Swiss Army Knife Tool For Pentesting Microsoft Active Directory (NTLM Hashes, BloodHound, NTDS And DCSync)": "http://www.kitploit.com/2023/12/knowsmore-swiss-army-knife-tool-for.html"
+    },
+    "CCC Event Blog": {
+        "Deine Vorbereitung auf den 37C3": "https://events.ccc.de/2023/12/24/get-ready-for-37c3/",
+        "37C3: Wir ziehen Nerds an": "https://events.ccc.de/2023/12/24/37c3-what-the-foc/"
+    },
+    "体验盒子": {
+        "使用 Flutter InAppWebView 创建 WebView 内容拦截器": "https://www.uedbox.com/post/69387/"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "早期疾病与终生不生育存在关联": "https://www.solidot.org/story?sid=76966",
+        "美国基础设施供应商使用了默认密码如 1111": "https://www.solidot.org/story?sid=76965",
+        "爱与父母聊天的孩子更健谈": "https://www.solidot.org/story?sid=76964"
+    },
+    "secret club": {
+        "RISC-Y Business: Raging against the reduced machine": "https://secret.club/2023/12/24/riscy-business.html"
+    },
+    "看雪学苑": {
+        "Android10 内核编译笔记": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458532503&idx=1&sn=d1a5f4f2c9acc312d50b8f901fb88210&chksm=b18d0a1d86fa830b66d3b73be182570ce5ccf50a69ee7e502b820ca90ef8f43149790ff07f04&scene=58&subscene=0#rd",
+        "【2023秋季班】安卓高研班（网课）月薪三万&月薪两万计划": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458532503&idx=2&sn=79ad21e98e461fbb0076321675ce3cda&chksm=b18d0a1d86fa830b714c167e26b4f5e5eb80e3231e8690e4dfa675fdbf0cb07b6d8289ac69ce&scene=58&subscene=0#rd"
+    },
+    "黑海洋 - WIKI": {
+        "dynv6免费提供DDNS服务以及提供免费二级域名": "https://blog.upx8.com/3974",
+        "Dynamix免费提供DDNS服务以及二级域名": "https://blog.upx8.com/3973",
+        "美国实体电话手机卡，不实名，可Wifi通话": "https://blog.upx8.com/3972",
+        "WordPress携手Jetpack免费提供图片CDN加速，永久缓存！": "https://blog.upx8.com/3971",
+        "适合国内使用双重认证应用（Microsoft Authenticator）": "https://blog.upx8.com/3970"
+    },
+    "dotNet安全矩阵": {
+        "[活动预告] 团队知识库星球圣诞节当天活动": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247489958&idx=1&sn=fb6cf8a578def270da174b918d7b31ee&chksm=fa5ab74bcd2d3e5dc83a78bbbd52bae32be8731853dfcffdd8fa2f24f5abde99fa925462a619&scene=58&subscene=0#rd"
+    },
+    "锦行科技": {
+        "平安夜，道平安": "https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247491945&idx=1&sn=885e2ce1fdaa8ef2d48180bffef57e66&chksm=979a1acca0ed93da2f37994d8362e0cf5aaf4ac1304938e7ad3ff4ed64366d51260d0fae4cc1&scene=58&subscene=0#rd"
+    },
+    "Checkmarx.com": {
+        "Addressing Open Source Security Risks with Software Composition Analysis": "https://checkmarx.com/appsec-knowledge-hub/sca/addressing-open-source-security-risks-with-software-composition-analysis/",
+        "SCA, SAST, DAST – Which is right for the organization?": "https://checkmarx.com/appsec-knowledge-hub/sca/sca-sast-dast-which-is-right-for-the-organization/",
+        "Understanding Software Bill of Materials (SBOM): A Keystone in Modern Application Security and Compliance": "https://checkmarx.com/appsec-knowledge-hub/supply-chain-security/understanding-software-bill-of-materials-sbom-a-keystone-in-modern-application-security-and-compliance/",
+        "Safeguarding Your Software Supply Chain: Strategies for Securing Open Source Packages": "https://checkmarx.com/appsec-knowledge-hub/supply-chain-security/safeguarding-your-software-supply-chain-strategies-for-securing-open-source-packages/",
+        "Navigating the Compliance Maze: Harnessing SAST for Regulatory Success": "https://checkmarx.com/appsec-knowledge-hub/sast/navigating-the-compliance-maze-harnessing-sast-for-regulatory-success/",
+        "Simple Strategies To Help Developers Embrace SAST": "https://checkmarx.com/appsec-knowledge-hub/sast/simple-strategies-to-help-developers-embrace-sast/"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【真实美国】囚犯相信美国监狱当局正试图杀死他们": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651141243&idx=1&sn=cec0d2d3fc07189b9c37ca1d76878f48&chksm=f1af4341c6d8ca57c55c7a02ca966cc5bc0f96f960b74cb601c1c88825107b069f6660d0381f&scene=58&subscene=0#rd",
+        "【资料】美国情报杂志": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651141243&idx=2&sn=c2acab25a797d0e92f132034566889ca&chksm=f1af4341c6d8ca57693b2725e59dfabcf3f69ca744b9321410c82c8764a98d76a840f3ce3549&scene=58&subscene=0#rd"
+    },
+    "情报分析师": {
+        "如何开展开源情报工作？": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650543099&idx=1&sn=f2a95fb9ce80034024ecc2b71fd8df6e&chksm=87113db0b066b4a6f899fca3d33bcd5246025e4957c67b481b0be667dfd09f31a754bbe9fff0&scene=58&subscene=0#rd"
+    },
+    "网络空间安全科学学报": {
+        "《网络空间安全科学学报》编委会副主任贾焰获2023年度何梁何利基金科学与技术进步奖": "https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247496833&idx=1&sn=38883096ddce8bb571cd5e33a1a6dab3&chksm=e9bfe03fdec869297210a4d32ed41d7f1001ce291770a82ce515e8fce8da7613ccfd9409e7ad&scene=58&subscene=0#rd",
+        "贺词 | 为网络强国建设贡献力量": "https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247496833&idx=2&sn=52ce3feb7985084c1a7de846c9b08666&chksm=e9bfe03fdec86929f9ec5e1a8c4dd4141132885efcf26cd7fb142396108caa88c76e8bec7967&scene=58&subscene=0#rd"
+    },
+    "ChaMd5安全团队": {
+        "2023安洵杯 WriteUp By Mini-Venom": "https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247509836&idx=1&sn=19fedb65d30d52e54143f7e00e0382e4&chksm=e89d8f94dfea0682fce2219fcfbeed84900db9f98ad3b2cd270b7c90b68bdc1aa5d492fec01c&scene=58&subscene=0#rd"
+    },
+    "极客公园": {
+        "蔚来发布 ET9，预售价 80 万元；马斯克：不建议所有企业都上市；Ai Pin 明年三月发货 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653028428&idx=1&sn=49b0d532862f0daedad10fb96dd5b14b&chksm=7e577dfa4920f4ec37b1d2ad5e2a11ae66e1d4c608aa3256d83b60ada1d894762fbfc09e2907&scene=58&subscene=0#rd"
+    },
+    "云鼎实验室": {
+        "每周云安全资讯-2023年第52周": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247495997&idx=1&sn=8eb58009d4c1a318b27a14752758cb44&chksm=fd790dbbca0e84ade99fdc5278211a7cb3177e7493dd535d53098635a272749ca1bc53d2ec8d&scene=58&subscene=0#rd"
+    },
+    "迪哥讲事": {
+        "通过xss所引起的信息泄露": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247493115&idx=1&sn=f7138526fd69189b2497e34984254071&chksm=e8a5ef98dfd2668eb85f71443f4e12ed34b8b78595d4797fefb4a99b13c32a8de2cdd45e74c8&scene=58&subscene=0#rd"
+    },
+    "Unsupervised Learning": {
+        "LFTM: 'Looking Forward to Monday' is the Metric for 2024": "https://danielmiessler.com/p/lftm-looking-forward-monday-metric-2024"
+    },
+    "Troy Hunt's Blog": {
+        "Weekly Update 379": "https://www.troyhunt.com/weekly-update-379/"
+    },
+    "KitPloit - PenTest Tools!": {
+        "KnowsMore - A Swiss Army Knife Tool For Pentesting Microsoft Active Directory (NTLM Hashes, BloodHound, NTDS And DCSync)": "http://www.kitploit.com/2023/12/knowsmore-swiss-army-knife-tool-for.html"
+    },
+    "Information Security": {
+        "The Best and Most Affordable Residential and Mobile Proxy Service Ever! Prices start from just $3 a month": "https://www.reddit.com/r/Information_Security/comments/18ps0ay/the_best_and_most_affordable_residential_and/"
+    },
+    "Security Affairs": {
+        "Europol and ENISA spotted 443 e-stores compromised with digital skimming": "https://securityaffairs.com/156340/security/europol-and-enisa-spotted-443-e-stores-compromised-with-digital-skimming.html",
+        "Video game giant Ubisoft investigates reports of a data breach": "https://securityaffairs.com/156331/data-breach/ubisoft-investigating-alleged-data-breach.html"
+    },
+    "Deeplinks": {
+        "Protecting Encryption And Privacy In The US: 2023 Year in Review": "https://www.eff.org/deeplinks/2023/12/protecting-encryption-and-privacy-us-2023-year-review",
+        "Corporate Spy Tech and Inequality: 2023 Year in Review": "https://www.eff.org/deeplinks/2023/12/corporate-spy-tech-and-inequality-2023-year-review"
+    },
+    "Technical Information Security Content & Discussion": {
+        "Check out OpenSSF's \"Source Code Management Platform Configuration Best Practices\" and Legitify - a cli tool that helps you comply": "https://www.reddit.com/r/netsec/comments/18q60w1/check_out_openssfs_source_code_management/",
+        "Developers are juicy targets: DCOM & Visual Studio": "https://www.reddit.com/r/netsec/comments/18ps23i/developers_are_juicy_targets_dcom_visual_studio/",
+        "PNLS: Tool that captures and displays SSIDs from device's Preferred Network List in the nearby vicinity.": "https://www.reddit.com/r/netsec/comments/18pt6sj/pnls_tool_that_captures_and_displays_ssids_from/",
+        "GitHub - dwisiswant0/ngocok: ngrok Collaborator Link — yet another Burp Collaborator alternative for free with ngrok.": "https://www.reddit.com/r/netsec/comments/18q4rza/github_dwisiswant0ngocok_ngrok_collaborator_link/"
+    },
+    "Blackhat Library: Hacking techniques and research": {
+        "Cleaning a Linux Infected Machine | HackTheBox PersistenceFutile": "https://www.reddit.com/r/blackhat/comments/18psucr/cleaning_a_linux_infected_machine_hackthebox/"
+    },
+    "The Hacker News": {
+        "British LAPSUS$ Teen Members Sentenced for High-Profile Attacks": "https://thehackernews.com/2023/12/british-lapsus-teen-members-sentenced.html"
+    }
+}
