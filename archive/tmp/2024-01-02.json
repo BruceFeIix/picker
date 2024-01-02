@@ -1,0 +1,208 @@
+{
+    "渊龙Sec安全团队博客": {
+        "感谢，渊龙三周年与龙年展望": "https://blog.aabyss.cn/post-177.html"
+    },
+    "SecWiki News": {
+        "SecWiki News 2024-01-01 Review": "http://www.sec-wiki.com/?2024-01-01"
+    },
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "IRSYS Technologies - Sql Injection": "https://cxsecurity.com/issue/WLB-2024010003",
+        "cmsms-2.2.19 - File Upload - RCE": "https://cxsecurity.com/issue/WLB-2024010002",
+        "Ultra Mini HTTPd 1.21 - Denial of Service (DoS)": "https://cxsecurity.com/issue/WLB-2024010001"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Exploit for Vulnerability in Microsoft exploit": "https://sploitus.com/exploit?id=B99A5E43-3B5E-52BA-B5E0-4F28AA6C880A&utm_source=rss&utm_medium=rss"
+    },
+    "ArthurChiao's Blog": {
+        "GPU 进阶笔记（三）：华为 NPU/GPU 演进（2024）": "https://arthurchiao.github.io/blog/gpu-advanced-notes-3-zh/"
+    },
+    "unSafe.sh - 不安全": {
+        "Reflections on InfoSec and the Development World – FreeRDP as a Case Study": "https://buaq.net/go-211523.html",
+        "Lessons from Securing FreeRDP": "https://buaq.net/go-211524.html"
+    },
+    "白袍的小行星": {
+        "2023年终总结": "https://red-team.tips/post/2mrt_3sfo/"
+    },
+    "Security Boulevard": {
+        "Welcome To 2024": "https://securityboulevard.com/2024/01/welcome-to-2024/",
+        "What is RabbitMQ?": "https://securityboulevard.com/2024/01/what-is-rabbitmq/",
+        "The Benefits of Employing AI in GRC": "https://securityboulevard.com/2024/01/the-benefits-of-employing-ai-in-grc/",
+        "Insights from CISA HPH Sector Risk and Vulnerability Assessment": "https://securityboulevard.com/2024/01/insights-from-cisa-hph-sector-risk-and-vulnerability-assessment/",
+        "8 Essential Steps to Recover a Hacked Website": "https://securityboulevard.com/2024/01/8-essential-steps-to-recover-a-hacked-website/",
+        "Happy New Year 2024": "https://securityboulevard.com/2024/01/happy-new-year-2024/",
+        "MS Excel Vulnerability Exploited To Distribute Agent Tesla": "https://securityboulevard.com/2024/01/ms-excel-vulnerability-exploited-to-distribute-agent-tesla/",
+        "The Three Keys to Success in Cybersecurity": "https://securityboulevard.com/2024/01/the-three-keys-to-success-in-cybersecurity/"
+    },
+    "Recent Commits to cve:main": {
+        "Update Mon Jan  1 12:38:16 UTC 2024": "https://github.com/trickest/cve/commit/72bdbf53defd6ffa6657df68e4aff295304f5a82"
+    },
+    "Twitter @Nicolas Krassas": {
+        "CVE-2023-50226 Exposed: PoC Code Threatens Parallels Desktop Security https://securityonline.info/cve-2023-50226-exposed-poc-code-threatens-parallels-...": "https://twitter.com/Dinosn/status/1741891465695899740",
+        "Pantheon - Insecure Camera Parser http://www.kitploit.com/2024/01/pantheon-insecure-camera-parser.html": "https://twitter.com/Dinosn/status/1741891429440352525",
+        "Hide and Seek in Windows' Closet: Unmasking the WinSxS Hijacking Hideout https://www.securityjoes.com/post/hide-and-seek-in-windows-closet-unmasking-t...": "https://twitter.com/Dinosn/status/1741891042914238932",
+        "Researchers Crack Tesla Autopilot with ‘Elon Mode,’ Access Critical Data https://www.hackread.com/crack-tesla-autopilot-elon-mode-access-data/": "https://twitter.com/Dinosn/status/1741890830351188243",
+        "1st January – Threat Intelligence Report https://research.checkpoint.com/2024/1st-january-threat-intelligence-report/": "https://twitter.com/Dinosn/status/1741890783161045212",
+        "New Variant of DLL Search Order Hijacking Bypasses Windows 10 and 11 Protections https://thehackernews.com/2024/01/new-variant-of-dll-search-order.htm...": "https://twitter.com/Dinosn/status/1741837874352275894",
+        "It's a pleasure and honour to work with excellent researchers as you, thank you! Have a great year!": "https://twitter.com/Dinosn/status/1741829400578933075",
+        "Osechi (おせち) 2024": "https://twitter.com/Dinosn/status/1741829124245614904",
+        "Cactus RANSOMWARE gang hit the Swedish retail and grocery provider Coop https://securityaffairs.com/156709/cyber-crime/cactus-ransomware-coop-sweden.h...": "https://twitter.com/Dinosn/status/1741824859762512122",
+        "New Terrapin Flaw Could Let Attackers Downgrade SSH Protocol Security https://thehackernews.com/2024/01/new-terrapin-flaw-could-let-attackers.html": "https://twitter.com/Dinosn/status/1741824828846317586",
+        "Windows Local Privilege Escalation Cookbook https://github.com/nickvourd/Windows-Local-Privilege-Escalation-Cookbook": "https://twitter.com/Dinosn/status/1741751999517933601",
+        "Interesting double-poly latches inside AMD's vintage LANCE Ethernet chip http://www.righto.com/2023/12/amd-lance-ethernet-double-poly.html": "https://twitter.com/Dinosn/status/1741751780063531258",
+        "Happy new year to all, try to make this year a challenge for personal improvement and help others to succeed.": "https://twitter.com/Dinosn/status/1741745092954673231",
+        "Apache DolphinScheduler Hit by Severe CVE-2023-49299 Flaw https://securityonline.info/apache-dolphinscheduler-hit-by-severe-cve-2023-49299-flaw/": "https://twitter.com/Dinosn/status/1741744609988944317",
+        "New JinxLoader Targeting Users with Formbook and XLoader Malware https://thehackernews.com/2024/01/new-jinxloader-targeting-users-with.html": "https://twitter.com/Dinosn/status/1741742880421466166"
+    },
+    "喵喵喵喵": {
+        "Fuck You": "https://darkwing.moe/2024/01/01/Fuck-You/"
+    },
+    "Eyal Itkin": {
+        "Reflections on InfoSec and the Development World – FreeRDP as a Case Study": "https://eyalitkin.wordpress.com/2024/01/01/reflections-on-infosec-and-the-development-world-freerdp-as-a-case-study/",
+        "Lessons from Securing FreeRDP": "https://eyalitkin.wordpress.com/2024/01/01/lessons-from-securing-freerdp/"
+    },
+    "Payatu": {
+        "Patch Diff Analysis for SetParent Infinite Recursion Bug": "https://payatu.com/blog/patch-diff-analysis-for-setparent-infinite-recursion-bug/"
+    },
+    "Twitter @bytehx": {
+        "Re @Ajay_kulal @solana Congrats bro!": "https://twitter.com/bytehx343/status/1741746455088627803"
+    },
+    "Hexacorn": {
+        "Bitmap Hunting in SPL": "https://www.hexacorn.com/blog/2024/01/01/bitmap-hunting-in-spl/",
+        "1 little known secret of hdwwiz.exe": "https://www.hexacorn.com/blog/2024/01/01/1-little-known-secret-of-hdwwiz-exe/"
+    },
+    "Reverse Engineering": {
+        "/r/ReverseEngineering's Triannual Hiring Thread": "https://www.reddit.com/r/ReverseEngineering/comments/18vs3gl/rreverseengineerings_triannual_hiring_thread/",
+        "/r/ReverseEngineering's Weekly Questions Thread": "https://www.reddit.com/r/ReverseEngineering/comments/18vs3gi/rreverseengineerings_weekly_questions_thread/",
+        "Interesting double-poly latches inside AMD's vintage LANCE Ethernet chip": "https://www.reddit.com/r/ReverseEngineering/comments/18vp6ja/interesting_doublepoly_latches_inside_amds/",
+        "Texture retrieval from a game help?": "https://www.reddit.com/r/ReverseEngineering/comments/18vs945/texture_retrieval_from_a_game_help/"
+    },
+    "Aris' Blog": {
+        "Looking back at 2023 and future": "https://blog.0xbadc0de.be/archives/479"
+    },
+    "Malwarebytes": {
+        "A week in security (December 25 &#8211; December 31)": "https://www.malwarebytes.com/blog/news/2024/01/a-week-in-security-december-25-december-31"
+    },
+    "SAP Blogs": {
+        "Supply Demand Overview Report using List Report Fiori Template in Business Application Studio": "https://blogs.sap.com/2024/01/01/supply-demand-overview-report-using-list-report-fiori-template-in-business-application-studio/",
+        "Building a Knowledge-Based Chatbot with OpenAI’s Assistants API and SAP Cloud Integration": "https://blogs.sap.com/2024/01/01/building-a-knowledge-based-chatbot-with-openais-assistants-api-and-sap-cloud-integration/",
+        "New Partner Content on SAP Business Accelerator Hub (Q4 ’23)": "https://blogs.sap.com/2024/01/01/new-partner-content-on-sap-business-accelerator-hub-q4-23/"
+    },
+    "nikic's blog": {
+        "This year in LLVM (2023)": "https://www.npopov.com/2024/01/01/This-year-in-LLVM-2023.html"
+    },
+    "KitPloit - PenTest &amp; Hacking Tools": {
+        "Pantheon - Insecure Camera Parser": "http://www.kitploit.com/2024/01/pantheon-insecure-camera-parser.html"
+    },
+    "博客园 - 渗透测试中心": {
+        "windows  lsass转储总结 - 渗透测试中心": "https://www.cnblogs.com/backlion/p/17939434"
+    },
+    "奇安信威胁情报中心": {
+        "元旦祝福，请您亲启": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247509252&idx=1&sn=2e81fa8cb6e632ca92ca0a1d2bf482ab&chksm=ea665273dd11db6530fa94dc9bedae2dc865723cdb21c3ebdfe1031c5863620f26ee2b80956d&scene=58&subscene=0#rd"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "对比 1970 年代的超算和当代的单板电脑树莓派": "https://www.solidot.org/story?sid=77021",
+        "美国原居民组织对在月球上洒人类骨灰发出警告": "https://www.solidot.org/story?sid=77020",
+        "日本西海岸发生里氏 7.6 级地震": "https://www.solidot.org/story?sid=77019"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【情报分析】基于事件的调查：调查记者手册": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651141344&idx=1&sn=f4d81514630a3a908ebefe07cb08dd64&chksm=f1af43dac6d8caccb32262baa862178268dce1c5e4e4111ba3ddaa97aaf63172a2ca7b6e4e32&scene=58&subscene=0#rd"
+    },
+    "白帽100安全攻防实验室": {
+        "白帽一百祝大家新年快乐🎊": "https://mp.weixin.qq.com/s?__biz=MzIxMDYyNTk3Nw==&mid=2247514792&idx=1&sn=d01c4058424dad88a17f8fd769a78c66&chksm=97634e7ea014c7684be1c979a95497f46d51cfb45c61c16f0e0f73227b39853faef7ae84ca9c&scene=58&subscene=0#rd"
+    },
+    "网安杂谈": {
+        "2024年第一天，祝你福暖四季，顺遂安康！做平凡中不凡的自己！": "https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650887980&idx=1&sn=95bcd777a37d9d2ae76c3d3c810610fa&chksm=812eab09b659221f7563ed1147325cdb052634ebc591c7c850ea3013d1a980c1a2b306469439&scene=58&subscene=0#rd"
+    },
+    "山石网科安全技术研究院": {
+        "祝大家元旦快乐，2024龙行大运！": "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247503498&idx=1&sn=f956988a44ccfabb72f75dc69a56bae2&chksm=fa521b34cd2592226a18bd2dc5b15063ad065c83cabe391f93e2a733a83e656029b27e9ed8de&scene=58&subscene=0#rd"
+    },
+    "Wallarm": {
+        "What is RabbitMQ?": "https://lab.wallarm.com/what/what-is-rabbitmq/"
+    },
+    "DataCon大数据安全分析竞赛": {
+        "凡是过往，皆为序章。请保持好你的热爱，奔赴下一场山海！": "https://mp.weixin.qq.com/s?__biz=MzU5Njg1NzMyNw==&mid=2247487898&idx=1&sn=434fc6f5bc919ea8c4f837fa20115c4d&chksm=fe5d091ac92a800c3b7ee76180f87d66739c36cc64304d2958f6b7b389bb34c6dd7de0f14615&scene=58&subscene=0#rd"
+    },
+    "情报分析师": {
+        "情报分析师出品元旦特辑": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650543535&idx=1&sn=b1de15cecf1ca7162654e4ed0d11fe91&chksm=87113be4b066b2f20041eacb2d217eb4b73077ad423e2064c70cfd3445be02b7e14328b82a2a&scene=58&subscene=0#rd"
+    },
+    "渊龙Sec安全团队": {
+        "感谢，渊龙三周年与龙年展望！": "https://mp.weixin.qq.com/s?__biz=Mzg4NTY0MDg1Mg==&mid=2247485208&idx=1&sn=5b85b6aa6822a81d3dc49c68828f6c59&chksm=cfa49ce3f8d315f505c390a4a7f281548a211b867e5d85cb5850940c726e582195fe39f96cc1&scene=58&subscene=0#rd"
+    },
+    "极客公园": {
+        "马斯克再次成为世界首富；iPhone 16 将屏幕增大至 7 英寸；2023 跨年档票房破中国影史纪录 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653029550&idx=1&sn=6b94ec0219fe4e61f24e16a591285f1b&chksm=7e5779184920f00e90b105ec1f24ac86b96bea723b6e37763540dcf2e0cca575467937f04897&scene=58&subscene=0#rd"
+    },
+    "安全圈": {
+        "【安全圈】原价 270 多元的会员，只需 1 元？有人疯狂下单！真相大跌眼镜": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652051308&idx=1&sn=e5fa177a1bf5d5fa330208736d72174f&chksm=f36e3b2cc419b23ac9b4ce3104c042230617327c708dc995ffc37f3da5b837fffcd3e349f82a&scene=58&subscene=0#rd",
+        "【安全圈】Steam热门游戏遭破解，玩家需警惕安全风险": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652051308&idx=2&sn=c75bec7bbcbf0701ed4d19b776433f1c&chksm=f36e3b2cc419b23a0663d33e854e7c5ee3f56c8b03f31096fb7420087a933610d47055e53dbd&scene=58&subscene=0#rd",
+        "【安全圈】现象级车辆App遭网络攻击，泄露数百万用户数据": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652051308&idx=3&sn=c23f6fb5f76241e1a0217c61c80e365e&chksm=f36e3b2cc419b23a691ffbe8e1c3d54baf6a5ea6cb0ea6994f80daf0886354b57243d10cecd6&scene=58&subscene=0#rd",
+        "【安全圈】银行“大盗” Carbanak 勒索软件卷土重来": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652051308&idx=4&sn=8ac7503eeaec433bcb8a22a5eacae874&chksm=f36e3b2cc419b23a294fed7a3a984c32fb9610c52e7e99835fb33ad7e8d09f85f89acc19442b&scene=58&subscene=0#rd"
+    },
+    "在酒吧喝牛奶的牛仔": {
+        "37C3 Potluck CTF Hungry Helmsman writeup": "https://mp.weixin.qq.com/s?__biz=MzkyMjMxOTI2MA==&mid=2247483773&idx=1&sn=78239179c19bb4b74b647f06b43bcf6c&chksm=c1f7618ef680e898fb8da489448bb6e422184d35e15514dfe958f1752498eb01b736c4c1c40e&scene=58&subscene=0#rd"
+    },
+    "360数字安全": {
+        "2024 扬新帆 启新程": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247568231&idx=1&sn=cae8f5bc52f108cc9effdcb52f95e94c&chksm=9f8d5b6fa8fad279fe9e01bcb1d9a6762b12dfdbd6a493fc53e6e79a70bc935668142c0f55e2&scene=58&subscene=0#rd"
+    },
+    "中国信息安全": {
+        "新岁启封，同跨新年": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664201462&idx=1&sn=21df026821546bb82712578f1b7d8e69&chksm=8b597e0fbc2ef7191514ba414f5becd317127c2e96372052a4626a51e0d38235affe1b5cda63&scene=58&subscene=0#rd"
+    },
+    "网安国际": {
+        "InForSec恭祝网络安全华人学者新年快乐！": "https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652314633&idx=1&sn=c7bd9e822dc6ec6b67cddb62b511104c&chksm=8bc48187bcb30891717ea85cb3d65b3b7da5694297643efa77125739508c268f5cf03699e447&scene=58&subscene=0#rd"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "Android game dev’s Google Drive misconfig highlights cloud security risks": "https://www.bleepingcomputer.com/news/security/android-game-devs-google-drive-misconfig-highlights-cloud-security-risks/"
+    },
+    "IT Service Management News": {
+        "Garante privacy, ASL, Tribunale di Udine e DPIA (link alle sentenze)": "http://blog.cesaregallotti.it/2024/01/garante-privacy-asl-tribunale-di-udine.html"
+    },
+    "The Hacker News": {
+        "New Variant of DLL Search Order Hijacking Bypasses Windows 10 and 11 Protections": "https://thehackernews.com/2024/01/new-variant-of-dll-search-order.html",
+        "New Terrapin Flaw Could Let Attackers Downgrade SSH Protocol Security": "https://thehackernews.com/2024/01/new-terrapin-flaw-could-let-attackers.html",
+        "New JinxLoader Targeting Users with Formbook and XLoader Malware": "https://thehackernews.com/2024/01/new-jinxloader-targeting-users-with.html"
+    },
+    "Computer Forensics": {
+        "How do I use Warrant Return feature on Magnet Axiom without a warrant return": "https://www.reddit.com/r/computerforensics/comments/18w15n4/how_do_i_use_warrant_return_feature_on_magnet/"
+    },
+    "Your Hacking Tutorial by Zempirians": {
+        "Alternatives to packet sniffing a password": "https://www.reddit.com/r/HowToHack/comments/18w6df4/alternatives_to_packet_sniffing_a_password/",
+        "Wifite not finding any targets, what am I missing?": "https://www.reddit.com/r/HowToHack/comments/18vobur/wifite_not_finding_any_targets_what_am_i_missing/"
+    },
+    "Security Affairs": {
+        "Top 2023 Security Affairs cybersecurity stories": "https://securityaffairs.com/156722/breaking-news/top-2023-security-affairs-stories.html",
+        "Malware exploits undocumented Google OAuth endpoint to regenerate Google cookies": "https://securityaffairs.com/156723/hacking/exploit-regenerates-google-cookies.html",
+        "Cactus RANSOMWARE gang hit the Swedish retail and grocery provider Coop": "https://securityaffairs.com/156709/cyber-crime/cactus-ransomware-coop-sweden.html"
+    },
+    "KitPloit - PenTest Tools!": {
+        "Pantheon - Insecure Camera Parser": "http://www.kitploit.com/2024/01/pantheon-insecure-camera-parser.html"
+    },
+    "Technical Information Security Content & Discussion": {
+        "Hide and Seek in Windows' Closet: Unmasking the WinSxS Hijacking Hideout": "https://www.reddit.com/r/netsec/comments/18vzjy6/hide_and_seek_in_windows_closet_unmasking_the/",
+        "Unmasking RedLine Stealer": "https://www.reddit.com/r/netsec/comments/18vsysb/unmasking_redline_stealer/"
+    },
+    "Deep Web": {
+        "Please educate me….": "https://www.reddit.com/r/deepweb/comments/18w2hey/please_educate_me/",
+        "What to do if your personal data reaches the dark web, and how to avoid it - California18": "https://www.reddit.com/r/deepweb/comments/18w93nq/what_to_do_if_your_personal_data_reaches_the_dark/"
+    },
+    "Deeplinks": {
+        "Digital Rights for LGBTQ+ People: 2023 Year in Review": "https://www.eff.org/deeplinks/2023/12/digital-rights-lgbtq-people-2023-review",
+        "Year In Review: Google’s Corporate Paternalism in The Browser": "https://www.eff.org/deeplinks/2023/12/year-review-googles-corporate-paternalism-browser"
+    },
+    "0x00sec - The Home of the Hacker - Top topics": {
+        "Malware development from beginer to expert": "https://0x00sec.org/t/malware-development-from-beginer-to-expert/38564"
+    },
+    "netsecstudents: Subreddit for students studying Network Security and its related subjects": {
+        "Finding Vulnerabilities in Internet-Connected Devices": "https://www.reddit.com/r/netsecstudents/comments/18w0wau/finding_vulnerabilities_in_internetconnected/",
+        "Last Week of 2023 in Brief: Most Advanced iPhone Backdoor Discovered, Mint and EasyPark Breached and More": "https://www.reddit.com/r/netsecstudents/comments/18vvt01/last_week_of_2023_in_brief_most_advanced_iphone/"
+    },
+    "Social Engineering": {
+        "Who are the best people (or characters) to copy": "https://www.reddit.com/r/SocialEngineering/comments/18w9kit/who_are_the_best_people_or_characters_to_copy/",
+        "A social engineering trick that has worked for me forever and has literally saved my life.": "https://www.reddit.com/r/SocialEngineering/comments/18vpsj7/a_social_engineering_trick_that_has_worked_for_me/",
+        "How do deal with being bald❗️": "https://www.reddit.com/r/SocialEngineering/comments/18w40tf/how_do_deal_with_being_bald/",
+        "Was browsing the US Patent Database and came across this. Any thoughts or opinions about this? US Patent - 2021/0084551 - Systems and methods for monitoring for and preempting the risk of future occurrence of a quarantine violation.": "https://www.reddit.com/r/SocialEngineering/comments/18vs4wl/was_browsing_the_us_patent_database_and_came/",
+        "Noisy neighbors": "https://www.reddit.com/r/SocialEngineering/comments/18vo441/noisy_neighbors/"
+    },
+    "Security Weekly Podcast Network (Audio)": {
+        "The Booming Business of Cybersecurity - Robert Herjavec - BSW Vault": "http://podcast.securityweekly.com/the-booming-business-of-cybersecurity-robert-herjavec-bsw-vault",
+        "HTTP RFCs Have Evolved, Breaking Into Cloud, Scaling AppSec at Netflix, & Confluence - Keith Hoodlet - ASW Vault": "http://podcast.securityweekly.com/http-rfcs-have-evolved-breaking-into-cloud-scaling-appsec-at-netflix-confluence-keith-hoodlet-asw-vault"
+    }
+}
