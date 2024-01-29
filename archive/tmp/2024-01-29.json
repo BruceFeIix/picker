@@ -1,0 +1,169 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2024-01-28 Review": "http://www.sec-wiki.com/?2024-01-28"
+    },
+    "Security Boulevard": {
+        "NASCIO, PTI on What’s Coming in 2024 for State and Local IT": "https://securityboulevard.com/2024/01/nascio-pti-on-whats-coming-in-2024-for-state-and-local-it/",
+        "Navigating the Future: DevOps Predictions for 2024": "https://securityboulevard.com/2024/01/navigating-the-future-devops-predictions-for-2024/"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Exploit for CVE-2024-23897 exploit": "https://sploitus.com/exploit?id=182FD11B-01BD-564A-B9A7-EB3FCB37837B&utm_source=rss&utm_medium=rss",
+        "Exploit for Weak Password Recovery Mechanism for Forgotten Password in Gitlab exploit": "https://sploitus.com/exploit?id=28FB7FBA-1451-5DE6-B9E7-F0B67E8BCEE9&utm_source=rss&utm_medium=rss",
+        "Exploit for CVE-2023-6933 exploit": "https://sploitus.com/exploit?id=49D576AC-2683-57C3-975A-510DFEBC97AE&utm_source=rss&utm_medium=rss"
+    },
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "Interactive-Floor-Plan-1.0-XSS-Reflected-SESSION-Hijacking": "https://cxsecurity.com/issue/WLB-2024010094",
+        "gsonline - Blind Sql Injection": "https://cxsecurity.com/issue/WLB-2024010092",
+        "Dynamisers CMS v1.0 Bypass Vulnerability": "https://cxsecurity.com/issue/WLB-2024010091",
+        "PSOProxy 0.91 - Denial of Service (DoS)": "https://cxsecurity.com/issue/WLB-2024010090",
+        "Solar FTP Server 2.1.2 - PASV - Denial of Service (DoS)": "https://cxsecurity.com/issue/WLB-2024010089",
+        "Seattle Lab Mail (SLmail) 5.5 - Denial of Service - DoS": "https://cxsecurity.com/issue/WLB-2024010088"
+    },
+    "90Sec - 最新话题": {
+        "长期大量收WebShell，高价寻渗透大佬合作，联系TG（飞机）（电报）：@xxx9964": "https://forum.90sec.com/t/topic/2339",
+        "找大佬一起合作， 批量弄海外站的webshell 拿来做流量 熟悉wordpress的朋友发财了 加我QQ2751349": "https://forum.90sec.com/t/topic/2338",
+        "找渗透大佬一起合作，搞海外网站webshell 利润大 具体可加QQ 2751349": "https://forum.90sec.com/t/topic/2337",
+        "找渗透大佬一起合作，搞海外网站webshell 利润大 具体可加飞机：sky10086111": "https://forum.90sec.com/t/topic/2336",
+        "找渗透大佬一起合作，搞境外webshell 利润大 具体可加飞机：sky10086111": "https://forum.90sec.com/t/topic/2335"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sun Jan 28 20:23:55 UTC 2024": "https://github.com/trickest/cve/commit/16baade1cb3017d9c35a6918f0bb75c6e3120a3e"
+    },
+    "unSafe.sh - 不安全": {
+        "GitHub Copilot 降低了代码质量和可维护性": "https://buaq.net/go-218778.html",
+        "赏金猎人|兜兜转转拿下平台充值漏洞": "https://buaq.net/go-218788.html",
+        "Popular Washington, DC Latino theater whole again after hack emptied accounts": "https://buaq.net/go-218781.html",
+        "数千家空壳公司有年龄超过 123 岁的董事": "https://buaq.net/go-218779.html"
+    },
+    "l3yx's blog": {
+        "Confluence环境搭建及漏洞分析": "https://l3yx.github.io/2024/01/28/Confluence%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E5%8F%8A%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/"
+    },
+    "Twitter @Nicolas Krassas": {
+        "Raven - CI/CD Security Analyzer http://www.kitploit.com/2024/01/raven-cicd-security-analyzer.html": "https://twitter.com/Dinosn/status/1751684527397773519",
+        "ExecIT: Evasive DLL-Based Shellcode Loader https://www.reddit.com/r/netsec/comments/1aczvyw/execit_evasive_dllbased_shellcode_loader/": "https://twitter.com/Dinosn/status/1751684497823707504",
+        "HiddenFace Unmasked: ESET’s Deep Dive into MirrorFace’s Complex Malware https://securityonline.info/hiddenface-unmasked-esets-deep-dive-into-mirrorf...": "https://twitter.com/Dinosn/status/1751680405273518470",
+        "A Practical Guide to PrintNightmare in 2024 https://itm4n.github.io/printnightmare-exploitation/": "https://twitter.com/Dinosn/status/1751680376223723553",
+        "Reverse engineering CMOS, illustrated with a vintage Soviet counter chip http://www.righto.com/2024/01/reverse-engineering-cmos.html": "https://twitter.com/Dinosn/status/1751679937713430591",
+        "Crypto Stealing PyPI Malware Hits Both Windows and Linux Users https://www.hackread.com/crypto-stealing-pypi-malware-windows-linux-users/": "https://twitter.com/Dinosn/status/1751679909968158787",
+        "Medusa ransomware attack hit Kansas City Area Transportation Authority https://securityaffairs.com/158233/cyber-crime/kansas-city-area-transportation-...": "https://twitter.com/Dinosn/status/1751679860278186349",
+        "Modern implant design: position independent malware development https://5pider.net/blog/2024/01/27/modern-shellcode-implant-design/": "https://twitter.com/Dinosn/status/1751617596896546909",
+        "Cybersecurity Alert: Unseen WIREFIRE Web Shell Variant in ICS VPN Appliances https://securityonline.info/cybersecurity-alert-unseen-wirefire-web-shell...": "https://twitter.com/Dinosn/status/1751557088965189636",
+        "Microsoft slashes 1,900 jobs across Xbox and Activision Blizzard https://www.engadget.com/microsoft-slashes-1900-jobs-across-xbox-and-activision-blizz...": "https://twitter.com/Dinosn/status/1751552861199048982",
+        "Wondering if UI developers are actually working with the products or not. New Burp suite proxy UI design is far from ideal when you are working with m...": "https://twitter.com/Dinosn/status/1751507213250629689",
+        "Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling....": "https://twitter.com/Dinosn/status/1751488175812280684",
+        "Attack and defend active directory using modern post exploitation adversary tradecraft activity https://github.com/infosecn1nja/AD-Attack-Defense": "https://twitter.com/Dinosn/status/1751488065925681226",
+        "Firmware key extraction by gaining EL3 https://www.reddit.com/r/ReverseEngineering/comments/1aco26r/firmware_key_extraction_by_gaining_el3/": "https://twitter.com/Dinosn/status/1751461167296295113"
+    },
+    "InfoSec Write-ups - Medium": {
+        "Online Password Cracking Tool — Hydra": "https://infosecwriteups.com/i-hacked-websites-login-page-hydra-3623f01fbb72?source=rss----7b722bfd1b8d---4",
+        "Evolution of Critical Log Sources in SIEM: A 5-Year Retrospective": "https://infosecwriteups.com/evolution-of-critical-log-sources-in-siem-a-5-year-retrospective-841bae2b6a6c?source=rss----7b722bfd1b8d---4",
+        "10 Steps to Get Started in Bug Bounty Hunting": "https://infosecwriteups.com/10-steps-to-get-started-in-bug-bounty-hunting-21e552e62ae2?source=rss----7b722bfd1b8d---4",
+        "Create a Keylogger using Python": "https://infosecwriteups.com/create-a-keylogger-using-python-8395630448dc?source=rss----7b722bfd1b8d---4",
+        "The APT Files #2: Putter Panda": "https://infosecwriteups.com/the-apt-files-2-putter-panda-e24f3559a08b?source=rss----7b722bfd1b8d---4",
+        "Building a Virtual Security Home Lab: Part 8 - Malware Analysis Lab Setup": "https://infosecwriteups.com/building-a-virtual-security-home-lab-part-8-malware-analysis-lab-setup-acf84c665770?source=rss----7b722bfd1b8d---4",
+        "Regeneration of API key by low level user: 500$ Access Control bug": "https://infosecwriteups.com/regeneration-of-api-key-by-low-level-user-500-access-control-bug-87c76b9b5842?source=rss----7b722bfd1b8d---4",
+        "Google Ad powered Crypto Scam": "https://infosecwriteups.com/google-ad-powered-crypto-scam-3aeed1c9b472?source=rss----7b722bfd1b8d---4"
+    },
+    "Bug Bounty in InfoSec Write-ups on Medium": {
+        "Evolution of Critical Log Sources in SIEM: A 5-Year Retrospective": "https://infosecwriteups.com/evolution-of-critical-log-sources-in-siem-a-5-year-retrospective-841bae2b6a6c?source=rss----7b722bfd1b8d--bug_bounty",
+        "Regeneration of API key by low level user: 500$ Access Control bug": "https://infosecwriteups.com/regeneration-of-api-key-by-low-level-user-500-access-control-bug-87c76b9b5842?source=rss----7b722bfd1b8d--bug_bounty"
+    },
+    "Twitter @bytehx": {
+        "RT Paul Seekamp: The more I use this tool, the more I like it. It runs dir scans based on technologies identified. Then, it validates the responses wi...": "https://twitter.com/bytehx343/status/1751656454300602419",
+        "RT payloadartist: 🛠 In the market for a Burp alternative? Just came across Groxy by @glitchedgitz, and it looks rad 👇 https://grroxy.com/ It use...": "https://twitter.com/bytehx343/status/1751614560753291711"
+    },
+    "Reverse Engineering": {
+        "Help with outlook RE project | Please check it out and let me know if you have any ideas": "https://www.reddit.com/r/ReverseEngineering/comments/1adfmf4/help_with_outlook_re_project_please_check_it_out/",
+        "Recon 2024 Call For Papers": "https://www.reddit.com/r/ReverseEngineering/comments/1acvvsv/recon_2024_call_for_papers/",
+        "Open source rewrite of Civilization 1 Source Code - OpenCiv1 Project": "https://www.reddit.com/r/ReverseEngineering/comments/1acyf2q/open_source_rewrite_of_civilization_1_source_code/"
+    },
+    "KitPloit - PenTest &amp; Hacking Tools": {
+        "Raven - CI/CD Security Analyzer": "http://www.kitploit.com/2024/01/raven-cicd-security-analyzer.html"
+    },
+    "Posts on 青鸟的博客": {
+        "从零开始自定义安卓系统(4) product配置详解": "https://blue-bird1.github.io/posts/aosp-4/"
+    },
+    "看雪学苑": {
+        "移动应用安全与风控——应用分析": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458537518&idx=1&sn=c72bb03f5b2c90949ab33b5d5195d3d8&chksm=b18d7ea486faf7b2f95c87b82058b2beb26c279f11a07db1c1f071f9348cd46657ce9360940b&scene=58&subscene=0#rd",
+        "一款伪装成Windows激活程序的窃密病毒正在传播": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458537518&idx=2&sn=af50346eccbd269960d70565302da318&chksm=b18d7ea486faf7b23f6f19a9dc6448122acdc446bddd33ce4e7695af471974f230d9cab3acad&scene=58&subscene=0#rd",
+        "3月1日开班！系统0day安全-二进制漏洞攻防（第3期）": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458537518&idx=3&sn=d2f22ad186ab59c3d61d767901891dd5&chksm=b18d7ea486faf7b2272baba991754aa2012ec8da745b68668194cf177e6ccce5140326d356b3&scene=58&subscene=0#rd"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "GitHub Copilot 降低了代码质量和可维护性": "https://www.solidot.org/story?sid=77243",
+        "数千家空壳公司有年龄超过 123 岁的董事": "https://www.solidot.org/story?sid=77242"
+    },
+    "dotNet安全矩阵": {
+        ".NET 安全矩阵24.1月增量工具一览": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247490534&idx=1&sn=39e1d0f347ea561f2a263093b89ac5da&chksm=fa5ab50bcd2d3c1d896ce1598e688ff25de21596f87a257d106992635fe12b6f3be5543997f7&scene=58&subscene=0#rd",
+        ".NET安全矩阵知识库优惠持续进行": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247490534&idx=2&sn=f5ddf22dba16379f5a11819809eddf79&chksm=fa5ab50bcd2d3c1d53d181b37e425c5acb1adc2fa3c03817c2f52d8bd4e54101b25a757e1ac6&scene=58&subscene=0#rd"
+    },
+    "程序人生": {
+        "BlackHat Europe 2023 议题学习（二）": "http://programlife.net/2024/01/28/BHEU-2023-Learning-Part2/"
+    },
+    "安全研究GoSSIP": {
+        "瞧一瞧看一看啦！": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247497228&idx=1&sn=18ddb884b5534cfb3b14bf988167b487&chksm=c063d8d5f71451c36eeb696665fbd30b19b9966a74f083eb58298ba81f45aa427dd1400e182a&scene=58&subscene=0#rd"
+    },
+    "极客公园": {
+        "玩家哀嚎一片！微软砍掉暴雪研发六年的超级游戏，顺带裁掉 1900 人": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653032166&idx=1&sn=b0c45f15ce36c495d3a435708e07d402&chksm=7e5773504920fa4601cd2850a15310942bac524aaa30373db881489703e853e3f99ffe49eaf6&scene=58&subscene=0#rd",
+        "xAI 融资60亿？马斯克：假的；2023 中国汽车收入超 10 万亿；「霉霉」AI 成人图疯传，白宫：必须立法解决｜极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653032165&idx=1&sn=66819529e78d885c039671c1515d6909&chksm=7e5773534920fa456877a0776709b1e5dc72bfe1ebb0a56fe8479b1b61564f223c5e9afbe889&scene=58&subscene=0#rd"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【资料】巴基斯坦安全报告2008-2023": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651141891&idx=1&sn=fa7f384fc16a9918e4cc4355582e7058&chksm=f1af4039c6d8c92f9b978824b080cccb29be0ad61b2c25fbd758de1d93f93f16ee08124f9352&scene=58&subscene=0#rd"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "Kansas City public transportation authority hit by ransomware": "https://www.bleepingcomputer.com/news/security/kansas-city-public-transportation-authority-hit-by-ransomware/",
+        "Exploits released for critical Jenkins RCE flaw, patch now": "https://www.bleepingcomputer.com/news/security/exploits-released-for-critical-jenkins-rce-flaw-patch-now/",
+        "[PenTestStudy] Micro lab “Server-side vulnerabilities” di PortSwigger": "https://roccosicilia.com/2024/01/28/penteststudy-micro-lab-server-side-vulnerabilities-di-portswigger/",
+        "Popular Washington, DC Latino theater whole again after hack emptied accounts": "https://therecord.media/washington-dc-theater-whole-again-hack",
+        "Guerre di Rete - AI e lavoro, reazioni e azioni (legali)": "https://guerredirete.substack.com/p/guerre-di-rete-ai-e-lavoro-reazioni",
+        "Data protection day: le migliori pratiche per tutelare i dati personali e in azienda": "https://www.cybersecurity360.it/news/data-protection-day-le-migliori-pratiche-per-tutelare-i-dati-personali-e-in-azienda/"
+    },
+    "迪哥讲事": {
+        "赏金猎人|兜兜转转拿下平台充值漏洞": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247493401&idx=1&sn=71957a006a657b5085e465b12d840a66&chksm=e8a5ed7adfd2646c007aca3bbff473ca886ba3fa69d4d9f7b83b95035d70d88bf356e70daab1&scene=58&subscene=0#rd"
+    },
+    "Il Disinformatico": {
+        "Sono stato ospite di Valerio Lundini o è tutto un deepfake? Sono... Faccende Complicate": "http://attivissimo.blogspot.com/2024/01/sono-stato-ospite-di-valerio-lundini-o.html"
+    },
+    "BorderGate": {
+        "Golden gMSA Attacks": "https://www.bordergate.co.uk/golden-gmsa-attacks/"
+    },
+    "Troy Hunt's Blog": {
+        "Weekly Update 384": "https://www.troyhunt.com/weekly-update-384/"
+    },
+    "ZephrSec - Adventures In Information Security": {
+        "Failing Upwards: Put on your own mask before assisting others (Pt2)": "https://blog.zsec.uk/failing-upwards-pt2/",
+        "Failing Upwards (or not) (Pt1)": "https://blog.zsec.uk/failing-upwards-pt1/"
+    },
+    "Blackhat Library: Hacking techniques and research": {
+        "Help Needed to unlock iCloud activation": "https://www.reddit.com/r/blackhat/comments/1ad77x1/help_needed_to_unlock_icloud_activation/",
+        "Private Twitter": "https://www.reddit.com/r/blackhat/comments/1acs2kb/private_twitter/"
+    },
+    "Your Open Hacker Community": {
+        "School assignment to hack an open source app": "https://www.reddit.com/r/HowToHack/comments/1ad1aw9/school_assignment_to_hack_an_open_source_app/",
+        "What tools should you learn first?": "https://www.reddit.com/r/HowToHack/comments/1ad2s57/what_tools_should_you_learn_first/"
+    },
+    "Social Engineering": {
+        "Help me. I’m a swim instructor that needs some tips": "https://www.reddit.com/r/SocialEngineering/comments/1actlrk/help_me_im_a_swim_instructor_that_needs_some_tips/"
+    },
+    "Security Affairs": {
+        "Multiple PoC exploits released for Jenkins flaw CVE-2024-23897": "https://securityaffairs.com/158251/hacking/cve-2024-23897-poc-exploits.html",
+        "Medusa ransomware attack hit Kansas City Area Transportation Authority": "https://securityaffairs.com/158233/cyber-crime/kansas-city-area-transportation-authority-ransomware-attack.html",
+        "Security Affairs newsletter Round 456 by Pierluigi Paganini – INTERNATIONAL EDITION": "https://securityaffairs.com/158225/breaking-news/security-affairs-newsletter-round-456-by-pierluigi-paganini-international-edition.html"
+    },
+    "Technical Information Security Content & Discussion": {
+        "ExecIT: Evasive DLL-Based Shellcode Loader": "https://www.reddit.com/r/netsec/comments/1aczvyw/execit_evasive_dllbased_shellcode_loader/",
+        "TyphoonCon 2024 early bird ticket are now on sale!": "https://www.reddit.com/r/netsec/comments/1ad69y8/typhooncon_2024_early_bird_ticket_are_now_on_sale/"
+    },
+    "Information Security": {
+        "Security and Privacy Failures in Popular 2FA Apps -- \"We identified all general purpose Android TOTP apps in the Google Play Store with at least 100k installs that implemented a backup mechanism (n = 22).\"": "https://www.reddit.com/r/Information_Security/comments/1aczuoi/security_and_privacy_failures_in_popular_2fa_apps/"
+    },
+    "netsecstudents: Subreddit for students studying Network Security and its related subjects": {
+        "TyphoonCon 2024 early bird tickets are now on sale!": "https://www.reddit.com/r/netsecstudents/comments/1ad6ag6/typhooncon_2024_early_bird_tickets_are_now_on_sale/",
+        "Security Learning tools": "https://www.reddit.com/r/netsecstudents/comments/1ad02co/security_learning_tools/"
+    },
+    "Computer Forensics": {
+        "Complete Beginner Guide to Velociraptor | Digital Forensics | TryHackMe": "https://www.reddit.com/r/computerforensics/comments/1aczzh1/complete_beginner_guide_to_velociraptor_digital/"
+    },
+    "KitPloit - PenTest Tools!": {
+        "Raven - CI/CD Security Analyzer": "http://www.kitploit.com/2024/01/raven-cicd-security-analyzer.html"
+    }
+}
