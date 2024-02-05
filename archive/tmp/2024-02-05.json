@@ -1,0 +1,260 @@
+{
+    "HackerOne Hacker Activity": {
+        "Account creation with invalid email addresses / email is accepting % and %0d%0a line termination chars": "https://hackerone.com/reports/815085",
+        "HackerOne SAML signup domain enforcement bypass results in unauthorized access to HackerOne PullRequest organization": "https://hackerone.com/reports/2101076"
+    },
+    "SecWiki News": {
+        "SecWiki News 2024-02-04 Review": "http://www.sec-wiki.com/?2024-02-04"
+    },
+    "安全客-有思想的安全新媒体": {
+        "360数字安全：2024年1月勒索软件流行态势分析报告": "https://www.anquanke.com/post/id/293102",
+        "安全顶流变下流：帕洛阿尔托陷入抄袭丑闻": "https://www.anquanke.com/post/id/293100",
+        "损失已超过 4900 万美元：美国清洁产品制造商高乐氏Clorox 预计明年会更多": "https://www.anquanke.com/post/id/293098",
+        "EventLogCrasher：危险的新0day可废掉Windows安全日志": "https://www.anquanke.com/post/id/293096",
+        "道义远去：LockBit 变脸勒索美国芝加哥圣安东尼儿童医院": "https://www.anquanke.com/post/id/293094",
+        "谷歌发布ImageFX 将文本变成视觉杰作": "https://www.anquanke.com/post/id/293092",
+        "与虎谋皮：BlackCat 勒索美国国防部，300 GB 军事机密岌岌可危": "https://www.anquanke.com/post/id/293090",
+        "MeetMe：针对巴基斯坦，印度设置“爱情”陷阱": "https://www.anquanke.com/post/id/293088",
+        "Commando Cat：恶意软件中的“斜杠”，偷数据、安后门和挖矿全会": "https://www.anquanke.com/post/id/293086",
+        "侥幸过关：空客秘密修补了机载Flysmart+ Manager 应用程序包中的严重漏洞": "https://www.anquanke.com/post/id/293084",
+        "“童童”：北京通用人工智能研究院（BIGAI）也把自家孩子抱出来了": "https://www.anquanke.com/post/id/293082",
+        "要命：也门胡塞武装要割互联网“命根子”": "https://www.anquanke.com/post/id/293080",
+        "Interop 2024：浏览器世界的一场悄然革命": "https://www.anquanke.com/post/id/293078",
+        "Artemis：Meta的人工智能芯片布局": "https://www.anquanke.com/post/id/293076"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Exploit for Forced Browsing in Fortra Goanywhere Managed File Transfer exploit": "https://sploitus.com/exploit?id=379CD7EC-DEC8-52FE-AEA3-979CEA6AB1C4&utm_source=rss&utm_medium=rss",
+        "Exploit for Use After Free in Linux Linux Kernel exploit": "https://sploitus.com/exploit?id=1CE1123F-C86D-5308-8311-EE94DA888538&utm_source=rss&utm_medium=rss"
+    },
+    "Security Boulevard": {
+        "2022 End of Year Roundup": "https://securityboulevard.com/2024/02/2022-end-of-year-roundup/",
+        "USENIX Security ’23 – MorFuzz: Fuzzing Processor Via Runtime Instruction Morphing enhanced Synchronizable Co-simulation": "https://securityboulevard.com/2024/02/usenix-security-23-morfuzz-fuzzing-processor-via-runtime-instruction-morphing-enhanced-synchronizable-co-simulation/",
+        "Balbix Now Integrates BAS Data Into Your Risk Analysis": "https://securityboulevard.com/2024/02/balbix-now-integrates-bas-data-into-your-risk-analysis/",
+        "New Book Offers Approachable Guide for Teaching Cybersecurity": "https://securityboulevard.com/2024/02/new-book-offers-approachable-guide-for-teaching-cybersecurity/"
+    },
+    "Armin Ronacher's Thoughts and Writings": {
+        "Rye: A Vision Continued": "http://lucumr.pocoo.org/2024/2/4/rye-a-vision"
+    },
+    "InfoSec Write-ups - Medium": {
+        "Mass Blind Server-Side Testing Setup For Bug Bounty": "https://infosecwriteups.com/mass-blind-server-side-testing-setup-for-bug-bounty-fa03213b1ec9?source=rss----7b722bfd1b8d---4",
+        "Pentesting 101: A Beginner’s Guide to Ethical Hacking": "https://infosecwriteups.com/pentesting-101-a-beginners-guide-to-ethical-hacking-6f10aeff1a45?source=rss----7b722bfd1b8d---4",
+        "How I Hacked My College’s Site": "https://infosecwriteups.com/how-i-hacked-my-colleges-site-26ae1ab872e4?source=rss----7b722bfd1b8d---4"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sun Feb  4 20:16:05 UTC 2024": "https://github.com/trickest/cve/commit/af1e42ffae5eea73074a3cff183b8c47d4232c6b"
+    },
+    "obaby@mars": {
+        "UNIAPP 华为应用商店 未同步告知权限申请的使用目的": "https://h4ck.org.cn/2024/02/15245",
+        "闺蜜圈（大姨妈记录）2.1.99 APP/H5/小程序": "https://h4ck.org.cn/2024/02/15238"
+    },
+    "Twitter @Nicolas Krassas": {
+        "Finance worker pays out $25 million after video call with deepfake ‘chief financial officer’ https://amp.cnn.com/cnn/2024/02/04/asia/deepfake-cfo-sc...": "https://twitter.com/Dinosn/status/1754156440766325034",
+        "Back to the (Clip)board with Microsoft Whiteboard and Excalidraw in Meta (CVE-2023-26140) https://spaceraccoon.dev/clipboard-microsoft-whiteboard-exca...": "https://twitter.com/Dinosn/status/1754134342077386918",
+        "Cleaning the confusion around the Anydesk credentials being sold on the darkweb market: https://www.linkedin.com/feed/update/urn:li:activity:715989324...": "https://twitter.com/Dinosn/status/1754133656900170150",
+        "AnyDesk Breach 2024: Dark Web Sale of 18,317 Credentials https://securityonline.info/anydesk-breach-2024-dark-web-sale-of-18317-credentials/": "https://twitter.com/Dinosn/status/1754092483535847762",
+        "New variant of Mispadu Stealer is Exploiting CVE-2023-36025 Vulnerability https://securityonline.info/new-variant-of-mispadu-stealer-is-exploiting-cve...": "https://twitter.com/Dinosn/status/1754092390250328067"
+    },
+    "Der Flounder": {
+        "Building distribution packages using AutoPkg": "https://derflounder.wordpress.com/2024/02/04/building-distribution-packages-using-autopkg/"
+    },
+    "嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com": {
+        "SCA 4.x系列｜悬镜源鉴SCA 4.4高可用版本震撼来袭": "https://www.4hou.com/posts/rqOL",
+        "出现网安事件后，需1小时内上报  深度解读网信办新规《网络安全事件报告管理办法》": "https://www.4hou.com/posts/QKzM",
+        "电信和互联网行业网络安全年会召开，爱加密奉上深度技术演讲": "https://www.4hou.com/posts/gD0Z",
+        "2023年度APT报告：80+国家频遭网络攻击，中国及周边地区成网络战焦点": "https://www.4hou.com/posts/nmKp",
+        "工业和信息化部关于印发工业控制系统网络安全防护指南的通知": "https://www.4hou.com/posts/m0J3",
+        "黑客利用易受RCE攻击的Apache RocketMQ服务器": "https://www.4hou.com/posts/JKmv",
+        "风口浪尖上的“摇一摇“广告，终于有了治理良方，但并非来自苹果": "https://www.4hou.com/posts/DZLY",
+        "什么技术原因，导致各大企业API漏洞层出不穷？": "https://www.4hou.com/posts/RKxY"
+    },
+    "Bug Bounty in InfoSec Write-ups on Medium": {
+        "Mass Blind Server-Side Testing Setup For Bug Bounty": "https://infosecwriteups.com/mass-blind-server-side-testing-setup-for-bug-bounty-fa03213b1ec9?source=rss----7b722bfd1b8d--bug_bounty",
+        "How I Hacked My College’s Site": "https://infosecwriteups.com/how-i-hacked-my-colleges-site-26ae1ab872e4?source=rss----7b722bfd1b8d--bug_bounty"
+    },
+    "Reverse Engineering": {
+        "My first write-up for a RE project! (ESP32 firmware & network protocol) Any feedback appreciated": "https://www.reddit.com/r/ReverseEngineering/comments/1aj1s6m/my_first_writeup_for_a_re_project_esp32_firmware/",
+        "Samsung NX 2009 Crypto Fail: Social Media Uploads": "https://www.reddit.com/r/ReverseEngineering/comments/1air133/samsung_nx_2009_crypto_fail_social_media_uploads/",
+        "How to?": "https://www.reddit.com/r/ReverseEngineering/comments/1aiutsq/how_to/"
+    },
+    "text/plain": {
+        "x22i Treadmill Review": "https://textslashplain.com/2024/02/03/x22i-treadmill-review/"
+    },
+    "KitPloit - PenTest &amp; Hacking Tools": {
+        "Argus - A Framework for Staged Static Taint Analysis of GitHub Workflows and Actions": "http://www.kitploit.com/2024/02/argus-framework-for-staged-static-taint.html"
+    },
+    "FreeBuf网络安全行业门户": {
+        "《2023年全球邮件威胁报告》": "https://www.freebuf.com/articles/391467.html",
+        "FreeBuf早报 | 上海网信办约谈“半天妖烤鱼”运营企业；联通成立安全子公司": "https://www.freebuf.com/news/391412.html",
+        "Apple Vision Pro：新的隐私噩梦？": "https://www.freebuf.com/news/391394.html",
+        "前中情局工作人员因泄露机密文件被判 40 年监禁": "https://www.freebuf.com/news/391384.html",
+        "“Synergia”行动逮捕数十名网络犯罪分子，摧毁全球70%的指挥与控制服务器": "https://www.freebuf.com/news/391382.html",
+        "美国清洁用品巨头高乐氏因网络攻击损失 4900 万美元": "https://www.freebuf.com/news/391364.html"
+    },
+    "安全牛": {
+        "简析网络安全审计的关键步骤和收益": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651127673&idx=1&sn=338ee4b6a42d53ef499545ebf5547a11&chksm=bd144faa8a63c6bc1e25b57f44f8e1b2ad099287e4cac8684567d91069f3f3ff6e87787f48ae&scene=58&subscene=0#rd",
+        "10款热门特权访问管理（PAM）解决方案特点分析": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651127673&idx=2&sn=28043727b1ccac5dec50896531bd76ae&chksm=bd144faa8a63c6bce755e9ca9bec4ff0b1c6804aa77c2ec77979f98a8ec8547527e631488fa1&scene=58&subscene=0#rd"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "论文工厂开始贿赂期刊编辑": "https://www.solidot.org/story?sid=77307",
+        "养狗的儿童体能活动更频繁": "https://www.solidot.org/story?sid=77306",
+        "美国能源部估计全国 2% 的电力被用于挖比特币": "https://www.solidot.org/story?sid=77305",
+        "Debian 的 64 位 time_t 时间计数转换正在进行中": "https://www.solidot.org/story?sid=77304",
+        "Reddit 最快下个月在纽约 IPO": "https://www.solidot.org/story?sid=77303",
+        "研究人员发现一种潜在的非阿片止痛药": "https://www.solidot.org/story?sid=77302",
+        "现金的终结": "https://www.solidot.org/story?sid=77301",
+        "WHO 报告估计全球癌症病例到 2050 年将增加 77%": "https://www.solidot.org/story?sid=77300",
+        "终生接触音乐有助于大脑健康": "https://www.solidot.org/story?sid=77299",
+        "全球生育率普遍下降": "https://www.solidot.org/story?sid=77298",
+        "在战争模拟游戏中 AI 聊天机器人倾向于选择核攻击": "https://www.solidot.org/story?sid=77297",
+        "Threads 月活跃用户达到 1.3 亿": "https://www.solidot.org/story?sid=77296"
+    },
+    "吾爱破解论坛": {
+        "【公告】感动吾爱2023优秀会员名单公布": "https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140047&idx=1&sn=3aa367b62b17105ce2b0de8235881f82&chksm=bd50bf9b8a27368d23b3c83bb74fbc8066469986669c36c75a951072134d00e229683e1ea868&scene=58&subscene=0#rd"
+    },
+    "黑海洋 - WIKI": {
+        "STEAM离线账号大全 STEAM离线账号分享-离线啦": "https://blog.upx8.com/4009"
+    },
+    "代码卫士": {
+        "谷歌修复代码测试工具Bazel 中的严重供应链漏洞": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247518821&idx=1&sn=8a1a67b87d1bbad6e1c80390fe7c1c61&chksm=ea94bb0fdde33219950ecb20753f8d0ab99b42fbe0e84141e12196184450ccbc041a602bc10b&scene=58&subscene=0#rd",
+        "Mastodon 漏洞可导致攻击者接管任意账号": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247518821&idx=2&sn=ab7b468c60d1a402498cb060f98514fd&chksm=ea94bb0fdde3321961dc3363a64d3659f5e38e1bc56bf5a4d3537def5da2508c1d31b49fb5f8&scene=58&subscene=0#rd",
+        "热门远程桌面软件AnyDesk 被黑，速度重置密码": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247518821&idx=3&sn=187832fdd4fa4c43dcfe9b3a7f69bbe0&chksm=ea94bb0fdde332191f82209e227df2bf53b7795af43cb3906e71274fcf8fabe5cd6d06d8d74f&scene=58&subscene=0#rd"
+    },
+    "农夫安全团队": {
+        "现状与to10 and 11": "https://mp.weixin.qq.com/s?__biz=MzI0MzQ4NTI1OA==&mid=2247484815&idx=1&sn=57570e84c77ff1de8a2e8c0b92d346e8&chksm=e96d1aaade1a93bcd1887506c1f07ac9660ad5f0042c91c612a52198010a34382a457119cf43&scene=58&subscene=0#rd"
+    },
+    "看雪学苑": {
+        "Windows堆初探": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458540955&idx=1&sn=fda886bf39bd805342c92d188cd4cb6f&chksm=b18d6b1186fae2076b2aeb5b297b8b5ed17ba10021d41b95302e3dacf35e5279b3a16ad6124f&scene=58&subscene=0#rd",
+        "远控软件AnyDesk确认遭受网络攻击，源代码和代码签名证书被盗": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458540955&idx=2&sn=7a85553da1c4ccc5f2366050b5e4eddc&chksm=b18d6b1186fae20764272ec82aee8575913518d942cee08735131d8e46e3b53cbf8229e3b811&scene=58&subscene=0#rd",
+        "实战CVE漏洞分析与防范（第一季）": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458540955&idx=3&sn=98a9d53c173f2ebfbd7a4fc3151ecbd5&chksm=b18d6b1186fae207d5afc82119ae67f5c499eba97dee235ba9a19264202f4fde50be7d0e4227&scene=58&subscene=0#rd"
+    },
+    "Checkmarx.com": {
+        "How AI Enables More Effective Static Application Security Testing": "https://checkmarx.com/appsec-knowledge-hub/sast/how-ai-enables-more-effective-static-application-security-testing-2/"
+    },
+    "dotNet安全矩阵": {
+        ".NET 分享2023版Fortify代码审计工具包": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247490620&idx=1&sn=23bfd62fa510a5160625925a18c1bbcf&chksm=fa5ab2d1cd2d3bc7e0be3dc522ddc624ad746906e394419d6fe016578ba2f3e1853f663dfb61&scene=58&subscene=0#rd",
+        ".NET 分享红包封面和一款反混淆神器": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247490620&idx=2&sn=69e749ae8d2d9a9584c63592af441295&chksm=fa5ab2d1cd2d3bc738e65dcc4cdf6e563b04827d7b02a0ec9f1ef2049f44e5089859fccaa24c&scene=58&subscene=0#rd"
+    },
+    "天御攻防实验室": {
+        "欧洲刑警组织发布《网络犯罪培训能力框架》": "https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247485386&idx=1&sn=2de68cfc8a99d57873d4a06cdbe128f0&chksm=fb04c4a2cc734db46b15812cb2b274dd879206b87f9b48c04b3388ea779778675378888730de&scene=58&subscene=0#rd"
+    },
+    "云鼎实验室": {
+        "安全验证 | Runc CVE-2024-21626 容器逃逸漏洞预警": "https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247496094&idx=1&sn=aba1e72c0a1c447ceea898625120f283&chksm=fd790d18ca0e840e57998c4be4c64b5825adf224f2300de44613ea887f28ff01042614a68f26&scene=58&subscene=0#rd"
+    },
+    "关键基础设施安全应急响应中心": {
+        "全球数据跨境流动合规 半月观察（第二十三期）": "https://mp.weixin.qq.com/s?__biz=MzkyMzAwMDEyNg==&mid=2247542181&idx=1&sn=34c267ab61e79ef729aa9f4f4f8eabf7&chksm=c1e9a9f4f69e20e2a508e01b8eeff34ade65d6a724c8baa9de5a9133d8a89b9c0f2116bed341&scene=58&subscene=0#rd",
+        "16所高校入选新一期一流网络安全学院建设示范项目": "https://mp.weixin.qq.com/s?__biz=MzkyMzAwMDEyNg==&mid=2247542181&idx=2&sn=8dba06a64f25a39cb2a3b68f1e270274&chksm=c1e9a9f4f69e20e23c33bddfbd6787b83382dbf5b67d0d329e5a410d71527c2d920d1efe3ef4&scene=58&subscene=0#rd",
+        "“全球人工智能治理倡议”致力推动构建人类命运共同体": "https://mp.weixin.qq.com/s?__biz=MzkyMzAwMDEyNg==&mid=2247542181&idx=3&sn=086a30ba5ad267212f4e91a5fa689648&chksm=c1e9a9f4f69e20e2b6be419f155099fc664942503f584e1ce29d71c79b3c9a4d658997219ce3&scene=58&subscene=0#rd",
+        "支付or拒付？关于勒索软件攻击的残酷事实！": "https://mp.weixin.qq.com/s?__biz=MzkyMzAwMDEyNg==&mid=2247542181&idx=4&sn=077bbd3f0280a0ba917fdcbd854e7777&chksm=c1e9a9f4f69e20e2b18287a4082dbb4f48e2d56ce060db3e41e5df02224e0bfddb0bb493eb9f&scene=58&subscene=0#rd",
+        "DarkGate 恶意软件正在通过微软群聊进行大肆传播": "https://mp.weixin.qq.com/s?__biz=MzkyMzAwMDEyNg==&mid=2247542181&idx=5&sn=4266a317d7a74c668267994c07950807&chksm=c1e9a9f4f69e20e2712725c66257feda2a99ef76ebddf93053ee3225f908f274068b5b6440d1&scene=58&subscene=0#rd"
+    },
+    "网络空间安全科学学报": {
+        "网安要闻 | 16所高校入选新一期一流网络安全学院建设示范项目": "https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247497603&idx=1&sn=d7af150b2afa78b83993fd8f5cf010e4&chksm=e9bfe33ddec86a2b279e388a78d3c25535166360e604fd3fac85964c02df257f873d4b02e0be&scene=58&subscene=0#rd"
+    },
+    "安全圈": {
+        "【安全圈】内娱700多人个人信息明码标价， 航空公司可免验证订票": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652053621&idx=1&sn=2180c1fc278e5d527b7da14f62c82f7a&chksm=f36e0c35c4198523a586780e799178462dc733c1284f20667087741ed2ae19e8ea8332543838&scene=58&subscene=0#rd",
+        "【安全圈】因网络攻击，高乐氏的损失超过4900万美元": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652053621&idx=2&sn=4d3a618acdd22ecfad431dd034647e6a&chksm=f36e0c35c4198523be5010eeda8e434da312498bf7cc886d69a0bbab06dc992c332934168e93&scene=58&subscene=0#rd",
+        "【安全圈】“Synergia”行动逮捕数十名网络犯罪分子": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652053621&idx=3&sn=ef6913973be14b6c09f06e073653bfa5&chksm=f36e0c35c41985231979d8d499b59245a157322f41c82afcab84e8a9d08c7ddef34a0bf4334e&scene=58&subscene=0#rd",
+        "【安全圈】因袭击关键基础设施网络攻击，6名伊朗官员被制裁": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652053621&idx=4&sn=43f363800009f2dfc607b0521d0323ef&chksm=f36e0c35c419852328924c923fa4b522aab2146b269f0d2f9aee9c6c9fe256ef968e91e07676&scene=58&subscene=0#rd"
+    },
+    "极客公园": {
+        "当大模型公司都在卷大参数，面壁智能却在尽可能把参数做小": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653032583&idx=1&sn=3b6c2bebf192d7862eaf6070f25ce5f9&chksm=7e576d314920e42728f812856985e7f19e735d411c98c91f62d20abec314e1040ad6c9958aed&scene=58&subscene=0#rd",
+        "库克：Vision Pro 很快将在中国上市；雷军不再主讲小米手机发布会；字节推出一站式 AI 开发平台｜极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653032582&idx=1&sn=a39f670380690da91e4b21f75d111435&chksm=7e576d304920e426657f1f82cd75af84262631e38030c34fc0c437c7dd9ab2d37e4a1a42dc96&scene=58&subscene=0#rd"
+    },
+    "默安科技": {
+        "龙年将至，安小默终于可以说出这些话……（内含红包封面）": "https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247498043&idx=1&sn=264213e0971eea88b662a0a281933dac&chksm=e93b0e19de4c870feb5b522931f67d63e60ac48be477f2079f9f17398f515906af3ed9756de4&scene=58&subscene=0#rd"
+    },
+    "情报分析师": {
+        "​破冰高手：人力情报专业人士秘诀": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650545575&idx=1&sn=483e2cce6526cd435fceb220e8316e38&chksm=871133ecb066bafab81769d31d856f44b042cf4a7683d9e90b828de6c9ebf9efe7b2a8fe1e1a&scene=58&subscene=0#rd",
+        "《军武专刊》——锐化您的军武视角，掌握全球防务动态": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650545575&idx=2&sn=a60081497fdaf5564217d9d9662b713b&chksm=871133ecb066bafa2a165bd132709f5cc83041cbb35ab6460051a8c387b70e6187018fd33072&scene=58&subscene=0#rd"
+    },
+    "中国信息安全": {
+        "专题·年度回顾展望 | 2023年国家网络安全总体态势分析与趋势研判": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664204647&idx=1&sn=bb1725572ee5c4a298734fd8ed193475&chksm=8b598b9ebc2e0288aa0a04ad9d227e0606ea4607aae28e44669c553d8a18b9a72eb252ccd571&scene=58&subscene=0#rd",
+        "关注 | 16所高校入选新一期一流网络安全学院建设示范项目": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664204647&idx=2&sn=ae2d15bfb6d1ed5678036ee96e96182e&chksm=8b598b9ebc2e02889fb0c3b8e8e43bf9157171ad1d1fce99eb899be1dda48d4defb2cace53f7&scene=58&subscene=0#rd",
+        "专题·CC标准 | CC标准认证助力企业安全能力建设": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664204647&idx=3&sn=e641f40b44586e370c7139719c16b382&chksm=8b598b9ebc2e0288625b4566ccb9680d5ce98bb1b39fed255909a06dde9d8772054ec33a3371&scene=58&subscene=0#rd",
+        "专家观点 | 算法无处不在，但切忌“算法为王”": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664204647&idx=4&sn=b09c4dc3ec5ade34f6f3572cb6ba4224&chksm=8b598b9ebc2e0288fd78abeed57b7e7d1ddcf2d264b7f0ccf5f6a94700e7202f611cef2154f1&scene=58&subscene=0#rd",
+        "金融安防 | 智能化时代下的AI网络诈骗及防范": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664204647&idx=5&sn=2d41dc0c55c0bc6dc556e319f1864eb6&chksm=8b598b9ebc2e0288cf5ba91996b95b030afbbce2aba45d76704b9d0813d64b8bedd7a50cefd4&scene=58&subscene=0#rd",
+        "关注 | 莫让不良网络流行语侵害未成年人": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664204647&idx=6&sn=ef127f8624305e57db6a0f74d33cbc61&chksm=8b598b9ebc2e0288a14a9ac3b8a8bc101eb17ccfd24625b856fe9437788f7d6b9fec550ad517&scene=58&subscene=0#rd"
+    },
+    "三六零CERT": {
+        "2024年1月勒索软件流行态势分析": "https://mp.weixin.qq.com/s?__biz=MzU5MjEzOTM3NA==&mid=2247502246&idx=1&sn=df6fbfc57760b37dc118dd8e2f55e25b&chksm=fe26cca7c95145b1c58f0027caaa0508a992dc08b355b70eb7d225a4c2f4d50fe523069515bf&scene=58&subscene=0#rd",
+        "安全日报（2024.02.04）": "https://mp.weixin.qq.com/s?__biz=MzU5MjEzOTM3NA==&mid=2247502246&idx=2&sn=aa2902e68c9eee99d53da17d592d8884&chksm=fe26cca7c95145b129594bb4f1497218ba608b775f2e8eb2c04ca76ffddaccac9eb4b739118c&scene=58&subscene=0#rd"
+    },
+    "黑伞安全": {
+        "Burpsuite全网最高效挖洞的教程，免费发放！": "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247488711&idx=1&sn=78fafd2cd4ab31b2c87d7b56dcb7511b&chksm=fb02999fcc7510896d5b3d69d644686c0b3af1d6a73cc65ad5a6065dbd335b00e8690f8da684&scene=58&subscene=0#rd",
+        "【Real World CTF 6th Writeup】就是它！RWCTF 2024体验赛官方Writeup奉上！": "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247488711&idx=2&sn=a6207b2492467c4c3dc787fbbec60633&chksm=fb02999fcc751089cac9830a67432e6e51fc20942fdd57fa48d4389a275f2742dd49172f9d7d&scene=58&subscene=0#rd"
+    },
+    "嘶吼专业版": {
+        "黑客利用易受RCE攻击的Apache RocketMQ服务器": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247573489&idx=1&sn=049a763d7f007d5fedb7481c3f946734&chksm=e9140fcbde6386ddbb9937989840391de4ddd719227c7786d1d1692cc7d83d0e92fa70d148b8&scene=58&subscene=0#rd",
+        "工业和信息化部关于印发工业控制系统网络安全防护指南的通知": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247573489&idx=2&sn=614789e359c2f2d51a21d60a58dd5127&chksm=e9140fcbde6386ddb53b34f9f408f99b27aa75d74b086f988ff9cb242ac26a4795bce56f6574&scene=58&subscene=0#rd"
+    },
+    "Desync InfoSec": {
+        "Windows数字取证和应急响应手册": "https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247487265&idx=1&sn=4223d3a6eee766aede87b8dbf74f776b&chksm=c27f7c8ff508f59978e9f51bddaac6ac9b06588c1eed7e1f3e7c49a39ef2b84b79b58bb5019f&scene=58&subscene=0#rd"
+    },
+    "CNCERT国家工程研究中心": {
+        "16所高校入选新一期一流网络安全学院建设示范项目": "https://mp.weixin.qq.com/s?__biz=MzUzNDYxOTA1NA==&mid=2247542872&idx=1&sn=887c4ce8d51f3442b66a8a1d00d18726&chksm=fa939e99cde4178f22431538253ef4425ff64bcc8ea5fcdc155ab05a2fbd2437b432f83c8af4&scene=58&subscene=0#rd",
+        "全球数据跨境流动合规 半月观察（第二十三期）": "https://mp.weixin.qq.com/s?__biz=MzUzNDYxOTA1NA==&mid=2247542872&idx=2&sn=5a0535b23360824bfeb8ea2f809abd1a&chksm=fa939e99cde4178f49e102d6e89ead35bca4a5ad60d7eaeca4020075dfc09dac987de3288f1b&scene=58&subscene=0#rd",
+        "2024年云安全发展趋势预测观点汇编": "https://mp.weixin.qq.com/s?__biz=MzUzNDYxOTA1NA==&mid=2247542872&idx=3&sn=60f25c9f384e93838ed09d3e9d3168d6&chksm=fa939e99cde4178f92e9012a77c7cec752dd6129c815b25774820af21986d9a0ee1e057924fe&scene=58&subscene=0#rd",
+        "AnyDesk 遭攻击源代码和私钥被盗！立即更新！": "https://mp.weixin.qq.com/s?__biz=MzUzNDYxOTA1NA==&mid=2247542872&idx=4&sn=8e7d7ef413e2a2f0940d39effab26773&chksm=fa939e99cde4178fbf3ebcf77ade6ced7d06608f0900a73ba0fcde518f728377544eb6623c10&scene=58&subscene=0#rd",
+        "影响多个OEM的Android本地漏洞公布": "https://mp.weixin.qq.com/s?__biz=MzUzNDYxOTA1NA==&mid=2247542872&idx=5&sn=87ea4cf94229feb92635f96ffc415ab7&chksm=fa939e99cde4178fefdb91452675d19cf9efbcdc4a19c6e35b5eaf3f4e2b041e2546f3ee49ad&scene=58&subscene=0#rd"
+    },
+    "迪哥讲事": {
+        "通过User-Agent进行SQL注入": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247493441&idx=1&sn=6f627fc172d4db7683e9438be51ce992&chksm=e8a5ed22dfd26434a1e3f11ce9a46034ef094cab5d877ff37f72d51b3b5a8b6aeacd47036c7e&scene=58&subscene=0#rd"
+    },
+    "娜璋AI安全之家": {
+        "Python人工智能 | 二十二.基于大连理工情感词典的情感分析和情绪计算": "https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247499245&idx=1&sn=71abfb6e3746bb27bd81ba5e915f86b2&chksm=cfcf4d20f8b8c43641f91bc4594e92e4fd47715ae5fd0c5d4d7a43e55e4ba2e1bd8749f5ce03&scene=58&subscene=0#rd"
+    },
+    "悬镜安全": {
+        "SCA 4.x系列｜源鉴SCA 4.4高可用版本震撼来袭！": "https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647789789&idx=1&sn=30735db6f429e85b893d7a39267a1fbe&chksm=8770988ab007119c61d36fa650277134a010d11336f6b5f8dae30a16513c5835f2569fb9a205&scene=58&subscene=0#rd",
+        "权威认可 | 悬镜获评中国信通院“2023软件供应链优秀治理实践成果”": "https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647789789&idx=2&sn=537ad9a37f450fc7ed36f3fca53ff4f4&chksm=8770988ab007119c947f302ff5791b8ee057754e6a3f6eb14f3b0bf28241b19f74a70c5bc28d&scene=58&subscene=0#rd"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "Microsoft is bringing the Linux sudo command to Windows Server": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-bringing-the-linux-sudo-command-to-windows-server/",
+        "Leaky Vessels flaws allow hackers to escape Docker, runc containers": "https://www.bleepingcomputer.com/news/security/leaky-vessels-flaws-allow-hackers-to-escape-docker-runc-containers/",
+        "iPwnagotchi13": "https://facelesstech.wordpress.com/2024/01/20/ipwnagotchi13/"
+    },
+    "Full Disclosure": {
+        "APPLE-SA-02-02-2024-1 visionOS 1.0.2": "https://seclists.org/fulldisclosure/2024/Feb/6",
+        "Out-of-bounds read & write in the glibc's qsort()": "https://seclists.org/fulldisclosure/2024/Feb/5",
+        "CVE-2023-6246: Heap-based buffer overflow in the glibc's\tsyslog()": "https://seclists.org/fulldisclosure/2024/Feb/3",
+        "Research about usage & possible issues of the NVD": "https://seclists.org/fulldisclosure/2024/Feb/4",
+        "TROJAN.WIN32 BANKSHOT / Remote Stack Buffer Overflow (SEH)": "https://seclists.org/fulldisclosure/2024/Feb/2",
+        "[KIS-2024-01] XenForo <= 2.2.13 (ArchiveImport.php) Zip Slip\tVulnerability": "https://seclists.org/fulldisclosure/2024/Feb/1",
+        "NULL pointer dereference in the function handle_viminfo_register() of vim": "https://seclists.org/fulldisclosure/2024/Feb/0"
+    },
+    "KitPloit - PenTest Tools!": {
+        "Argus - A Framework for Staged Static Taint Analysis of GitHub Workflows and Actions": "http://www.kitploit.com/2024/02/argus-framework-for-staged-static-taint.html"
+    },
+    "Technical Information Security Content & Discussion": {
+        "How I Hacked My Air Purifier to Remove Cloud Dependency [Detailed Write-Up]": "https://www.reddit.com/r/netsec/comments/1aj2fh5/how_i_hacked_my_air_purifier_to_remove_cloud/"
+    },
+    "Blackhat Library: Hacking techniques and research": {
+        "How would someone maintain access to a database if they no longer work for the company?": "https://www.reddit.com/r/blackhat/comments/1aitxbx/how_would_someone_maintain_access_to_a_database/"
+    },
+    "Your Open Hacker Community": {
+        "How does the website recognize me?": "https://www.reddit.com/r/HowToHack/comments/1aj0bag/how_does_the_website_recognize_me/",
+        "Testing input validation in a user registration form": "https://www.reddit.com/r/HowToHack/comments/1ain1ye/testing_input_validation_in_a_user_registration/",
+        "PHPmailer RCE how to leverage it in this situation?": "https://www.reddit.com/r/HowToHack/comments/1aio5yo/phpmailer_rce_how_to_leverage_it_in_this_situation/"
+    },
+    "Deep Web": {
+        "Is there is alternative of dark web/tor project? Like procet beta or something": "https://www.reddit.com/r/deepweb/comments/1aim9da/is_there_is_alternative_of_dark_webtor_project/",
+        "Help a Newbie please": "https://www.reddit.com/r/deepweb/comments/1aixhms/help_a_newbie_please/"
+    },
+    "Social Engineering": {
+        "my parents might finally be letting me take Dale Carnegie course!": "https://www.reddit.com/r/SocialEngineering/comments/1aj0y73/my_parents_might_finally_be_letting_me_take_dale/",
+        "Understanding people part 25: Social Frame": "https://www.reddit.com/r/SocialEngineering/comments/1aieeyb/understanding_people_part_25_social_frame/"
+    },
+    "Security Affairs": {
+        "US government imposed sanctions on six Iranian intel officials": "https://securityaffairs.com/158621/cyber-warfare-2/iranian-intel-officials-sanctions-critical-infrastructure.html",
+        "A cyberattack impacted operations at Lurie Children’s Hospital": "https://securityaffairs.com/158609/cyber-crime/lurie-childrens-hospital-cyberattack.html",
+        "AnyDesk Incident: Customer Credentials Leaked and Published for Sale on the Dark Web": "https://securityaffairs.com/158595/cyber-crime/anydesk-credentials-leaked-dark-web.html",
+        "Security Affairs newsletter Round 457 by Pierluigi Paganini – INTERNATIONAL EDITION": "https://securityaffairs.com/158588/breaking-news/security-affairs-newsletter-round-457-by-pierluigi-paganini-international-edition.html"
+    },
+    "Information Security": {
+        "Vulnerability scan": "https://www.reddit.com/r/Information_Security/comments/1aj2cq5/vulnerability_scan/",
+        "Can the police find out my IP via Steam?": "https://www.reddit.com/r/Information_Security/comments/1aiv6ye/can_the_police_find_out_my_ip_via_steam/"
+    },
+    "netsecstudents: Subreddit for students studying Network Security and its related subjects": {
+        "When is best to apply for jobs?": "https://www.reddit.com/r/netsecstudents/comments/1aivpvs/when_is_best_to_apply_for_jobs/",
+        "Testing input validation in a user registration form": "https://www.reddit.com/r/netsecstudents/comments/1ain1tz/testing_input_validation_in_a_user_registration/"
+    }
+}
