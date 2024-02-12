@@ -1,0 +1,116 @@
+{
+    "HackerOne Hacker Activity": {
+        "Subdomain takeover on one of the subdomain under mozgcp.net": "https://hackerone.com/reports/2123680",
+        "Subdomain takeover on one of the subdomain under mozaws.net": "https://hackerone.com/reports/2037032"
+    },
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "iCT Sky SQL Injection": "https://cxsecurity.com/issue/WLB-2024020046"
+    },
+    "Sukka's Blog": {
+        "在 JavaScript 中实现和使用 Context": "https://blog.skk.moe/post/context-in-javascript/"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Advanced Page Visit Counter 1.0 - Admin+ Stored Cross-Site Scripting Vulnerability exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39313&utm_source=rss&utm_medium=rss",
+        "Elasticsearch - StackOverflow DoS Exploit exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39315&utm_source=rss&utm_medium=rss",
+        "Zyxel zysh - Format string Exploit exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39314&utm_source=rss&utm_medium=rss",
+        "Wordpress Seotheme - Remote Code Execution Unauthenticated Exploit exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39317&utm_source=rss&utm_medium=rss",
+        "Wordpress Augmented-Reality - Remote Code Execution Unauthenticated Exploit exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39316&utm_source=rss&utm_medium=rss",
+        "Rail Pass Management System 1.0 - Time-Based SQL Injection Vulnerability exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39318&utm_source=rss&utm_medium=rss",
+        "Online Nurse Hiring System 1.0 - Time-Based SQL Injection Vulnerability exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39319&utm_source=rss&utm_medium=rss",
+        "Exploit for Injection in Atlassian Confluence Data Center exploit": "https://sploitus.com/exploit?id=237BB65C-F091-5BDA-A478-F718B1FEC58E&utm_source=rss&utm_medium=rss"
+    },
+    "SecWiki News": {
+        "SecWiki News 2024-02-11 Review": "http://www.sec-wiki.com/?2024-02-11"
+    },
+    "Security Boulevard": {
+        "A personal experience of  CISSP boot camp": "https://securityboulevard.com/2024/02/a-personal-experience-of-cissp-boot-camp/",
+        "Should I get CISSP Certified?": "https://securityboulevard.com/2024/02/should-i-get-cissp-certified/",
+        "Should I get CISM Certified?": "https://securityboulevard.com/2024/02/should-i-get-cism-certified/",
+        "USENIX Security ’23 – Pardis Emami-Naeini, Janarth Dheenadhayalan, Yuvraj Agarwal, Lorrie Faith Cranor – Are Consumers Willing to Pay for Security and Privacy of IoT Devices?": "https://securityboulevard.com/2024/02/usenix-security-23-pardis-emami-naeini-janarth-dheenadhayalan-yuvraj-agarwal-lorrie-faith-cranor-are-consumers-willing-to-pay-for-security-and-privacy-of-iot-devices/",
+        "Should I get CISA Certified?": "https://securityboulevard.com/2024/02/should-i-get-cisa-certified/",
+        "Cyber Mayday and My Journey to Oz": "https://securityboulevard.com/2024/02/cyber-mayday-and-my-journey-to-oz/"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sun Feb 11 18:09:09 UTC 2024": "https://github.com/trickest/cve/commit/69ce8ecd186f57a6cbdbb99c909823ae52f4bc29",
+        "Update Sun Feb 11 10:06:30 UTC 2024": "https://github.com/trickest/cve/commit/7e5812e9f6ac495a15d4365ca1fd92550592817f",
+        "Update Sun Feb 11 02:05:57 UTC 2024": "https://github.com/trickest/cve/commit/edef41e56c255861044cee57c3ace53b6402f79f"
+    },
+    "InfoSec Write-ups - Medium": {
+        "CTF- Beginner Guide": "https://infosecwriteups.com/ctf-beginner-guide-8566e7183f3d?source=rss----7b722bfd1b8d---4"
+    },
+    "MaskRay": {
+        "Toolchain notes on z/Architecture": "https://maskray.me/blog/2024-02-11-toolchain-notes-on-z-architecture"
+    },
+    "unSafe.sh - 不安全": {
+        "赏金猎人|记一次越权导致敏感信息泄露及信息发送": "https://buaq.net/go-221663.html",
+        "32 Stories To Learn About Publishing": "https://buaq.net/go-221659.html",
+        "189 Stories To Learn About Reading Books": "https://buaq.net/go-221658.html",
+        "179 Stories To Learn About Reading": "https://buaq.net/go-221660.html"
+    },
+    "Hacking Dream": {
+        "Charting the Path of Innovation and Responsibility: The Dual Faces of ChatGPT in the Digital Age": "https://www.hackingdream.net/2024/02/chatgpt-possible-risks-.html"
+    },
+    "Reverse Engineering": {
+        "Minimal Linux Bootloader debugging story 🐞": "https://www.reddit.com/r/ReverseEngineering/comments/1aodkfx/minimal_linux_bootloader_debugging_story/"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "46% 的美国人去年没有读完一本书": "https://www.solidot.org/story?sid=77346",
+        "微软决定 Visual Studio Code 对 Ubuntu 18.04 提供额外 12 个月的支持时间": "https://www.solidot.org/story?sid=77345",
+        "人类知识无损压缩 Hutter 奖再次颁奖": "https://www.solidot.org/story?sid=77344"
+    },
+    "极客公园": {
+        "微软市值 3.12 万亿打破苹果纪录；马斯克：将注销移动通信，只用 X；美国或限制中国「智能车」零件进口 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653033254&idx=1&sn=e66fbbbd736d241d2cf4ff87acac74dd&chksm=7e576e904920e7861f80ee3e983aef365890a560ce2539502938ada32661f8a0637836c18395&scene=58&subscene=0#rd"
+    },
+    "迪哥讲事": {
+        "赏金猎人|记一次越权导致敏感信息泄露及信息发送": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247493525&idx=1&sn=afea2ae74d60334aa5f138c7cecc6ac5&chksm=e8a5edf6dfd264e0ae9e8dcf35c4eef06cbf6b571aec3810d59ed62246eb5d389cb3650a9bf3&scene=58&subscene=0#rd"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "ExpressVPN bug has been leaking some DNS requests for years": "https://www.bleepingcomputer.com/news/security/expressvpn-bug-has-been-leaking-some-dns-requests-for-years/",
+        "wss://qetbootstrap.com skimmer": "https://lukeleal.com/research/posts/qetbootstrap-skimmer/"
+    },
+    "Unsupervised Learning": {
+        "Your Work Can Only Be As Good As Your Problems Are Meaningful": "https://danielmiessler.com/p/fulfillment-work-problems"
+    },
+    "0x00sec - The Home of the Hacker - Top topics": {
+        "Unpacking an elf binary packed by an unknown custom packer": "https://0x00sec.org/t/unpacking-an-elf-binary-packed-by-an-unknown-custom-packer/39094"
+    },
+    "IT Service Management News": {
+        "EN 17740:2023 sui profili professionali privacy": "http://blog.cesaregallotti.it/2024/02/en-177402023-sui-profili-professionali.html"
+    },
+    "Technical Information Security Content & Discussion": {
+        "Troy Hunt: How Spoutible’s Leaky API Spurted out a Deluge of Personal Data": "https://www.reddit.com/r/netsec/comments/1ao71ys/troy_hunt_how_spoutibles_leaky_api_spurted_out_a/",
+        "A Beginner's Guide to Tracking Malware Infrastructure": "https://www.reddit.com/r/netsec/comments/1ao7idd/a_beginners_guide_to_tracking_malware/",
+        "appsec.guide just got a new chapter on fuzzing!": "https://www.reddit.com/r/netsec/comments/1ao4lbg/appsecguide_just_got_a_new_chapter_on_fuzzing/",
+        "NidhoggScript is a tool to generate \"script\" file that allows execution of multiple commands and creating playbooks for Nidhogg (https://github.com/Idov31/Nidhogg)": "https://www.reddit.com/r/netsec/comments/1ao9qan/nidhoggscript_is_a_tool_to_generate_script_file/"
+    },
+    "The Hacker News": {
+        "U.S. DoJ Dismantles Warzone RAT Infrastructure, Arrests Key Operators": "https://thehackernews.com/2024/02/us-doj-dismantles-warzone-rat.html"
+    },
+    "Blackhat Library: Hacking techniques and research": {
+        "Prob one of the funniest things I've seen.... Canada has a mobile provider called freedom mobile and when u login to ur account it shows ur number (that u use to login) and it shows ur pin in the url.": "https://www.reddit.com/r/blackhat/comments/1ao6ajw/prob_one_of_the_funniest_things_ive_seen_canada/",
+        "Made a Python Programm for Data Breach Checks(with hashes)": "https://www.reddit.com/r/blackhat/comments/1aokl54/made_a_python_programm_for_data_breach_checkswith/"
+    },
+    "Deep Web": {
+        "How to start a controversial blog in safe and anonymous way?": "https://www.reddit.com/r/deepweb/comments/1ao61tp/how_to_start_a_controversial_blog_in_safe_and/"
+    },
+    "BorderGate": {
+        "Active Directory Schema Modification": "https://www.bordergate.co.uk/active-directory-schema-modification-attacks/"
+    },
+    "Your Open Hacker Community": {
+        "Why are \"admins\" deleting posts that make them look bad?": "https://www.reddit.com/r/HowToHack/comments/1aohiwr/why_are_admins_deleting_posts_that_make_them_look/",
+        "Why is there a Z in the subreddit picture?": "https://www.reddit.com/r/HowToHack/comments/1aog20m/why_is_there_a_z_in_the_subreddit_picture/",
+        "Python password stealer. ( Strictly educational, am running in a VM)": "https://www.reddit.com/r/HowToHack/comments/1aojpam/python_password_stealer_strictly_educational_am/",
+        "Help with xmpp and xml": "https://www.reddit.com/r/HowToHack/comments/1aom5dc/help_with_xmpp_and_xml/",
+        "how to find passwords for accounts": "https://www.reddit.com/r/HowToHack/comments/1aofp4l/how_to_find_passwords_for_accounts/",
+        "Dns Poisoning help": "https://www.reddit.com/r/HowToHack/comments/1ao3h3c/dns_poisoning_help/",
+        "How Hacker hacks social media platforms ?": "https://www.reddit.com/r/HowToHack/comments/1ao0vep/how_hacker_hacks_social_media_platforms/"
+    },
+    "Computer Forensics": {
+        "Android Text Message collection": "https://www.reddit.com/r/computerforensics/comments/1aojle8/android_text_message_collection/",
+        "DB datadirectory \"transplant\"": "https://www.reddit.com/r/computerforensics/comments/1aog3pq/db_datadirectory_transplant/"
+    },
+    "Security Affairs": {
+        "Raspberry Robin spotted using two new 1-day LPE exploits": "https://securityaffairs.com/158969/malware/raspberry-robin-1-day-exploits.html",
+        "Security Affairs newsletter Round 458 by Pierluigi Paganini – INTERNATIONAL EDITION": "https://securityaffairs.com/158965/breaking-news/security-affairs-newsletter-round-458-by-pierluigi-paganini-international-edition.html"
+    }
+}
