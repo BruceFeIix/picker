@@ -1,0 +1,282 @@
+{
+    "HackerOne Hacker Activity": {
+        "Unrestricted File Upload at ██████████": "https://hackerone.com/reports/2357778",
+        "Employee-only Area Bypass": "https://hackerone.com/reports/2299571",
+        "# Drivers can access the customers phone number, current location without getting their offer accepted!": "https://hackerone.com/reports/1785079",
+        "Disclosure of users' ip address whenever they view my fright offer on image preview (Without interaction)": "https://hackerone.com/reports/1782467"
+    },
+    "SecWiki News": {
+        "SecWiki News 2024-02-19 Review": "http://www.sec-wiki.com/?2024-02-19"
+    },
+    "90Sec - 最新话题": {
+        "长期大量收WebShell，高价寻渗透大佬合作。有意者联系TG：@xxx9964": "https://forum.90sec.com/t/topic/2357"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Wondercms 4.3.2 - XSS to Remote Code Execute Exploit exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39344&utm_source=rss&utm_medium=rss",
+        "JFrog Artifactory SQL Injection exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177162&utm_source=rss&utm_medium=rss",
+        "Employee Management System v1 - &#039;email&#039; SQL Injection exploit": "https://sploitus.com/exploit?id=EDB-ID:51803&utm_source=rss&utm_medium=rss",
+        "Employee Management System 1.0 SQL Injection exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177173&utm_source=rss&utm_medium=rss",
+        "SureMDM On-premise < 6.31 - CAPTCHA Bypass User Enumeration Exploit exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39342&utm_source=rss&utm_medium=rss",
+        "Microsoft Windows Defender Bypass - Detection Mitigation Bypass Vulnerability exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39339&utm_source=rss&utm_medium=rss",
+        "Wondercms 4.3.2 - XSS to RCE exploit": "https://sploitus.com/exploit?id=EDB-ID:51805&utm_source=rss&utm_medium=rss",
+        "SureMDM On-Premise CAPTCHA Bypass / User Enumeration exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177179&utm_source=rss&utm_medium=rss",
+        "InstantCMS 2.16.1 Cross Site Scripting exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177183&utm_source=rss&utm_medium=rss",
+        "Microsoft Windows Defender - VBScript Detection Bypass exploit": "https://sploitus.com/exploit?id=EDB-ID:51802&utm_source=rss&utm_medium=rss",
+        "phpFox &lt; 4.8.13 - (redirect) PHP Object Injection Exploit exploit": "https://sploitus.com/exploit?id=EDB-ID:51799&utm_source=rss&utm_medium=rss",
+        "JFrog Artifactory &lt; 7.25.4 - Blind SQL Injection exploit": "https://sploitus.com/exploit?id=EDB-ID:51806&utm_source=rss&utm_medium=rss",
+        "Microsoft Windows Defender / Backdoor_JS.Relvelshe.A Detection / Mitigation Bypass exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177187&utm_source=rss&utm_medium=rss",
+        "Online Library Management System 3 Password Reset exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177177&utm_source=rss&utm_medium=rss",
+        "WonderCMS 4.3.2 Cross Site Scripting / Remote Code Execution exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177169&utm_source=rss&utm_medium=rss",
+        "SureMDM On-premise &lt; 6.31 - CAPTCHA Bypass User Enumeration exploit": "https://sploitus.com/exploit?id=EDB-ID:51804&utm_source=rss&utm_medium=rss",
+        "User Registration And Login And User Management System 3.1 SQL Injection exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177168&utm_source=rss&utm_medium=rss",
+        "phpFox < 4.8.13 - (redirect) PHP Object Injection Exploit exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39337&utm_source=rss&utm_medium=rss",
+        "JFrog Artifactory < 7.25.4 - Blind SQL Injection Exploit exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39343&utm_source=rss&utm_medium=rss",
+        "Employee Management System v1 - (email) SQL Injection Vulnerability exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39341&utm_source=rss&utm_medium=rss",
+        "XAMPP - Buffer Overflow Exploit exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39338&utm_source=rss&utm_medium=rss",
+        "XAMPP - Buffer Overflow POC exploit": "https://sploitus.com/exploit?id=EDB-ID:51800&utm_source=rss&utm_medium=rss",
+        "Microsoft Windows Defender - VBScript Detection Bypass Vulnerability exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39340&utm_source=rss&utm_medium=rss",
+        "Microsoft Windows Defender Bypass - Detection Mitigation Bypass exploit": "https://sploitus.com/exploit?id=EDB-ID:51801&utm_source=rss&utm_medium=rss",
+        "Microsoft Windows Defender / Detection Bypass Part 3 exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177164&utm_source=rss&utm_medium=rss",
+        "Microsoft Windows Defender / Trojan.Win32/Powessere.G VBScript Detection Bypass exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177186&utm_source=rss&utm_medium=rss"
+    },
+    "嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com": {
+        "安全动态回顾 | Google Play上出现多个被恶意软件感染的安卓应用    “大黄蜂”恶意软件攻击在中断4个月后回归": "https://www.4hou.com/posts/MK31",
+        "谷歌称其发现的大多数0 day漏洞背后都是间谍软件供应商": "https://www.4hou.com/posts/L13v"
+    },
+    "InfoSec Write-ups - Medium": {
+        "Missed IWCON 2023? Catch Recorded Expert Sessions Here.": "https://infosecwriteups.com/missed-iwcon-2023-catch-recorded-expert-sessions-here-8d62cf34dd37?source=rss----7b722bfd1b8d---4"
+    },
+    "Recent Commits to cve:main": {
+        "Update Mon Feb 19 18:11:00 UTC 2024": "https://github.com/trickest/cve/commit/77a170e31f7679c659c7babb9c01b1c1b9009211",
+        "Update Mon Feb 19 10:14:16 UTC 2024": "https://github.com/trickest/cve/commit/476b28475e293bfeb3b731d2cf9e94430c6da069",
+        "Update Mon Feb 19 02:07:13 UTC 2024": "https://github.com/trickest/cve/commit/30f6aa901eb881ebc8c19e859d5723ebb80d4705"
+    },
+    "Security Boulevard": {
+        "Titanium and LogRhythm: Elevating Visibility into Cybersecurity Risks in Pakistan": "https://securityboulevard.com/2024/02/titanium-and-logrhythm-elevating-visibility-into-cybersecurity-risks-in-pakistan/",
+        "NSO Group and Its ‘MMS Fingerprint’ Attack": "https://securityboulevard.com/2024/02/nso-group-and-its-mms-fingerprint-attack/",
+        "Generative AI and Cybersecurity: The Impact on CISOs and Security Teams": "https://securityboulevard.com/2024/02/generative-ai-and-cybersecurity-the-impact-on-cisos-and-security-teams/",
+        "Automated remediation of exposed secrets: Pros and cons": "https://securityboulevard.com/2024/02/automated-remediation-of-exposed-secrets-pros-and-cons/",
+        "Google Initiative Aims to Boost AI for Cybersecurity": "https://securityboulevard.com/2024/02/google-initiative-aims-to-boost-ai-for-cybersecurity/",
+        "Join our new Escape community on Slack!": "https://securityboulevard.com/2024/02/join-our-new-escape-community-on-slack/",
+        "3 Ways the CTO Can Fortify the Organization in the Age of Generative AI": "https://securityboulevard.com/2024/02/3-ways-the-cto-can-fortify-the-organization-in-the-age-of-generative-ai/",
+        "Data Security: Beyond Threat Hunting to Monitoring Data Flow and User Behavior": "https://securityboulevard.com/2024/02/data-security-beyond-threat-hunting-to-monitoring-data-flow-and-user-behavior/",
+        "XSS Marks the Spot: Digging Up Vulnerabilities in ChatGPT": "https://securityboulevard.com/2024/02/xss-marks-the-spot-digging-up-vulnerabilities-in-chatgpt/",
+        "Demystifying JWT, OAuth, OIDC, and SAML: A Technical Guide": "https://securityboulevard.com/2024/02/demystifying-jwt-oauth-oidc-and-saml-a-technical-guide/"
+    },
+    "arighi's blog": {
+        "Writing a scheduler for Linux in Rust that runs in user-space": "http://arighi.blogspot.com/2024/02/writing-scheduler-for-linux-in-rust.html"
+    },
+    "Files ≈ Packet Storm": {
+        "Gentoo Linux Security Advisory 202402-28": "https://packetstormsecurity.com/files/177192/glsa-202402-28.txt",
+        "Debian Security Advisory 5626-1": "https://packetstormsecurity.com/files/177191/dsa-5626-1.txt",
+        "Gentoo Linux Security Advisory 202402-27": "https://packetstormsecurity.com/files/177190/glsa-202402-27.txt",
+        "Proxmark3 4.18218 Custom Firmware": "https://packetstormsecurity.com/files/177189/proxmark3-4.18218.zip",
+        "Gentoo Linux Security Advisory 202402-26": "https://packetstormsecurity.com/files/177188/glsa-202402-26.txt",
+        "Microsoft Windows Defender / Backdoor_JS.Relvelshe.A Detection / Mitigation Bypass": "https://packetstormsecurity.com/files/177187/Windows_Defender_Backdoor_JS.Relvelshe.A_Detection_Mitigation_Bypass.txt",
+        "Microsoft Windows Defender / Trojan.Win32/Powessere.G VBScript Detection Bypass": "https://packetstormsecurity.com/files/177186/MICROSOFT_WINDOWS_DEFENDER_VBSCRIPT_TROJAN_MITIGATION_BYPASS.txt",
+        "Gentoo Linux Security Advisory 202402-25": "https://packetstormsecurity.com/files/177185/glsa-202402-25.txt",
+        "Gentoo Linux Security Advisory 202402-21": "https://packetstormsecurity.com/files/177184/glsa-202402-21.txt",
+        "InstantCMS 2.16.1 Cross Site Scripting": "https://packetstormsecurity.com/files/177183/instantcms2161-xss.txt",
+        "Gentoo Linux Security Advisory 202402-24": "https://packetstormsecurity.com/files/177182/glsa-202402-24.txt",
+        "Gentoo Linux Security Advisory 202402-23": "https://packetstormsecurity.com/files/177181/glsa-202402-23.txt",
+        "Gentoo Linux Security Advisory 202402-22": "https://packetstormsecurity.com/files/177180/glsa-202402-22.txt",
+        "SureMDM On-Premise CAPTCHA Bypass / User Enumeration": "https://packetstormsecurity.com/files/177179/suremdmonpremise-bypassenumerate.txt",
+        "Gentoo Linux Security Advisory 202402-20": "https://packetstormsecurity.com/files/177178/glsa-202402-20.txt",
+        "Online Library Management System 3 Password Reset": "https://packetstormsecurity.com/files/177177/olms3-passwordreset.txt",
+        "Gentoo Linux Security Advisory 202402-19": "https://packetstormsecurity.com/files/177176/glsa-202402-19.txt",
+        "Gentoo Linux Security Advisory 202402-18": "https://packetstormsecurity.com/files/177175/glsa-202402-18.txt",
+        "Gentoo Linux Security Advisory 202402-17": "https://packetstormsecurity.com/files/177174/glsa-202402-17.txt",
+        "Employee Management System 1.0 SQL Injection": "https://packetstormsecurity.com/files/177173/employeems10-sql.txt",
+        "Chrome chrome.pageCapture.saveAsMHTML() Extension API Blocked Origin Bypass": "https://packetstormsecurity.com/files/177172/GS20240219141210.tgz",
+        "Gentoo Linux Security Advisory 202402-16": "https://packetstormsecurity.com/files/177171/glsa-202402-16.txt",
+        "Gentoo Linux Security Advisory 202402-15": "https://packetstormsecurity.com/files/177170/glsa-202402-15.txt",
+        "WonderCMS 4.3.2 Cross Site Scripting / Remote Code Execution": "https://packetstormsecurity.com/files/177169/wondercms432-xssexec.txt",
+        "User Registration And Login And User Management System 3.1 SQL Injection": "https://packetstormsecurity.com/files/177168/urlums31-sql.txt"
+    },
+    "Hacking Dream": {
+        "Role of Artificial Intelligence in Cybersecurity": "https://www.hackingdream.net/2024/02/role-of-artificial-intelligence-in-cyber-security.html"
+    },
+    "白帽Wiki - 一个简单的wiki": {
+        "此内容已经被删除": "https://key08.com/index.php/2024/02/19/1829.html"
+    },
+    "Reverse Engineering": {
+        "/r/ReverseEngineering's Weekly Questions Thread": "https://www.reddit.com/r/ReverseEngineering/comments/1aui22e/rreverseengineerings_weekly_questions_thread/",
+        "HexWalk 1.7.0, Hex analyzer new release for Windows/Mac/Linux with new and cool Byte Map feature, analyze binaries from a different point of view (give it a try!)": "https://www.reddit.com/r/ReverseEngineering/comments/1auygqh/hexwalk_170_hex_analyzer_new_release_for/",
+        "Analysis of Mirai Variant leveraging CVE-2023-1389": "https://www.reddit.com/r/ReverseEngineering/comments/1auvqtd/analysis_of_mirai_variant_leveraging_cve20231389/",
+        "A technical analysis of the BackMyData ransomware used to attack hospitals in Romania": "https://www.reddit.com/r/ReverseEngineering/comments/1aumjvj/a_technical_analysis_of_the_backmydata_ransomware/"
+    },
+    "Malwarebytes": {
+        "Why keeping track of user accounts is important": "https://www.malwarebytes.com/blog/news/2024/02/why-keeping-track-of-user-accounts-is-important",
+        "A week in security (February 12 &#8211; February 18)": "https://www.malwarebytes.com/blog/news/2024/02/a-week-in-security-february-12-february-18-2"
+    },
+    "Offensive OSINT": {
+        "Offensive OSINT s05e04 - Open Source Surveillance - Username search": "https://www.offensiveosint.io/offensive-osint-s05e04-open-source-surveillance-username-search/"
+    },
+    "Exploit-DB.com RSS Feed": {
+        "[webapps] JFrog Artifactory < 7.25.4 - Blind SQL Injection": "https://www.exploit-db.com/exploits/51806",
+        "[webapps] Wondercms 4.3.2 - XSS to RCE": "https://www.exploit-db.com/exploits/51805",
+        "[webapps] SureMDM On-premise < 6.31 - CAPTCHA Bypass User Enumeration": "https://www.exploit-db.com/exploits/51804",
+        "[webapps] Employee Management System v1 - 'email' SQL Injection": "https://www.exploit-db.com/exploits/51803",
+        "[local] Microsoft Windows Defender - VBScript Detection Bypass": "https://www.exploit-db.com/exploits/51802",
+        "[local] Microsoft Windows Defender Bypass - Detection Mitigation Bypass": "https://www.exploit-db.com/exploits/51801",
+        "[dos] XAMPP - Buffer Overflow POC": "https://www.exploit-db.com/exploits/51800",
+        "[webapps] phpFox < 4.8.13 - (redirect) PHP Object Injection Exploit": "https://www.exploit-db.com/exploits/51799"
+    },
+    "Intigriti": {
+        "Security testing for eCommerce websites and retailers": "https://blog.intigriti.com/2024/02/19/security-testing-ecommerce-websites/"
+    },
+    "Security Café": {
+        "WinRAR RCE Vulnerability Spotlight: APT29’s Zero-Day Tactics": "https://securitycafe.ro/2024/02/19/winrar-rce-vulnerability-spotlight-apt29s-zero-day-tactics/"
+    },
+    "PortSwigger Research": {
+        "Top 10 web hacking techniques of 2023": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2023"
+    },
+    "KitPloit - PenTest &amp; Hacking Tools": {
+        "SwaggerSpy - Automated OSINT On SwaggerHub": "http://www.kitploit.com/2024/02/swaggerspy-automated-osint-on-swaggerhub.html"
+    },
+    "安全牛": {
+        "融合创新，加速增长！Fortinet发布2023第四季度及全年财报": "https://www.aqniu.com/vendor/102601.html",
+        "数字取证的艺术：如何揭开网络犯罪的真相？": "https://www.aqniu.com/homenews/102598.html",
+        "国家网信办发布第四批深度合成服务算法备案信息公告": "https://www.aqniu.com/industry/102596.html",
+        "新春阅读推荐 | 安全牛2023年度文章精选100篇": "https://www.aqniu.com/industry/102593.html",
+        "实施零信任架构时高级管理层应该考虑什么？": "https://www.aqniu.com/industry/102590.html"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "花可以帮助清理径流养分": "https://www.solidot.org/story?sid=77391",
+        "Linux 内核成为 CVE 编号颁发机构，发布相关指南": "https://www.solidot.org/story?sid=77390",
+        "法国电信公司因违反 GPL 许可被罚 65 万欧元": "https://www.solidot.org/story?sid=77389",
+        "强风将客机的对地飞行速度推到音速以上": "https://www.solidot.org/story?sid=77388",
+        "游戏行业增长放缓": "https://www.solidot.org/story?sid=77387",
+        "苹果准备推出 AI 辅助编程工具": "https://www.solidot.org/story?sid=77386",
+        "欧盟风力发电超过天然气发电": "https://www.solidot.org/story?sid=77385",
+        "黑客从 23andMe 窃取了约 700 万人的遗传数据": "https://www.solidot.org/story?sid=77384",
+        "波兰新总理称前任政府非法使用间谍软件 Pegasus": "https://www.solidot.org/story?sid=77383",
+        "海洋表面温度快速变热": "https://www.solidot.org/story?sid=77382",
+        "欧盟将就苹果在音乐流媒体领域的反竞争行为罚款 5 亿欧元": "https://www.solidot.org/story?sid=77381"
+    },
+    "Checkmarx.com": {
+        "2024 API Risk Management: Secure Your APIs in Cloud-Native World": "https://checkmarx.com/appsec-knowledge-hub/api-security/2024-api-risk-management-secure-your-apis-in-cloud-native-world/",
+        "Open Source vs. Premium SAST Tools: True Costs of “Good enough” static code analysis tools": "https://checkmarx.com/appsec-knowledge-hub/sast/open-source-vs-premium-sast-tools-true-costs-of-good-enough-static-code-analysis-tools/",
+        "API Management Best Practice: Automated API Security Testing": "https://checkmarx.com/appsec-knowledge-hub/api-security/api-management-best-practice-automated-api-security-testing/",
+        "Shadow & Zombie APIs: The Undocumented API Vulnerabilities Threaten Security Posture": "https://checkmarx.com/appsec-knowledge-hub/api-security/shadow-zombie-apis-undocumented-api-vulnerabilities-threaten-security-posture/",
+        "Security Posture Boost: 5 Steps to Effective Static Source Code Analysis": "https://checkmarx.com/appsec-knowledge-hub/sast/boost-your-security-posture-5-steps-to-effective-static-source-code-analysis/"
+    },
+    "FreeBuf网络安全行业门户": {
+        "一黑客因出售美国和加拿大用户银行信息被捕！": "https://www.freebuf.com/news/391984.html",
+        "FreeBuf 早报 | 谷歌Chrome浏览器新功能亮相；ESET修复Windows产品的高危漏洞": "https://www.freebuf.com/news/391974.html",
+        "ESET修复了Windows产品中的高严重性本地权限提升漏洞": "https://www.freebuf.com/news/391969.html",
+        "微软和OpenAI将开启AI账户监控，引发业界隐私担忧": "https://www.freebuf.com/news/391967.html",
+        "谷歌Chrome浏览器新功能亮相，可有效抵御黑客攻击": "https://www.freebuf.com/news/391956.html",
+        "黑莓加大裁员力度，目标年利润再增1亿美元": "https://www.freebuf.com/news/391949.html"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "LockBit ransomware disrupted by global police operation": "https://www.bleepingcomputer.com/news/security/lockbit-ransomware-disrupted-by-global-police-operation/",
+        "North Korean hackers linked to defense sector supply-chain attack": "https://www.bleepingcomputer.com/news/security/north-korean-hackers-linked-to-defense-sector-supply-chain-attack/",
+        "Over 28,500 Exchange servers vulnerable to actively exploited bug": "https://www.bleepingcomputer.com/news/security/over-28-500-exchange-servers-vulnerable-to-actively-exploited-bug/",
+        "Cactus ransomware claim to steal 1.5TB of Schneider Electric data": "https://www.bleepingcomputer.com/news/security/cactus-ransomware-claim-to-steal-15tb-of-schneider-electric-data/",
+        "Hackers exploit critical RCE flaw in Bricks WordPress site builder": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-rce-flaw-in-bricks-wordpress-site-builder/",
+        "Evoluzione del ruolo del DPO: figura chiave per la gestione efficace dei dati personali": "https://www.cybersecurity360.it/legal/privacy-dati-personali/evoluzione-del-ruolo-del-dpo-figura-chiave-per-la-gestione-efficace-dei-dati-personali/",
+        "Wyze camera glitch gave 13,000 users a peek into other homes": "https://www.bleepingcomputer.com/news/security/wyze-camera-glitch-gave-13-000-users-a-peek-into-other-homes/",
+        "Nuove soft skill di cui avranno bisogno i CISO: focus sull’intelligenza artificiale": "https://www.cybersecurity360.it/cultura-cyber/nuove-soft-skill-di-cui-avranno-bisogno-i-ciso-focus-sullintelligenza-artificiale/",
+        "What is the future of Ransomware Payments?": "https://catchingphish.com/posts/f/what-is-the-future-of-ransomware-payments",
+        "Google lavora a una feature Chrome per proteggere le reti private": "https://www.securityinfo.it/2024/02/19/google-lavora-a-una-feature-chrome-per-proteggere-le-reti-private/",
+        "Univpm: focus su cyber security, cyber risk and data protection": "https://www.cybersecurity360.it/outlook/corso-cybersecurity-universita-politecnica-marche/",
+        "KeyTrap attack: Internet access disrupted with one DNS packet": "https://www.bleepingcomputer.com/news/security/keytrap-attack-internet-access-disrupted-with-one-dns-packet/",
+        "Hacker arrested for selling bank accounts of US, Canadian users": "https://www.bleepingcomputer.com/news/security/hacker-arrested-for-selling-bank-accounts-of-us-canadian-users/",
+        "Anatsa Android malware downloaded 150,000 times via Google Play": "https://www.bleepingcomputer.com/news/security/anatsa-android-malware-downloaded-150-000-times-via-google-play/",
+        "Centro di medicina estetica sanzionato per aver pubblicato video senza consenso: cosa impariamo": "https://www.cybersecurity360.it/news/centro-di-medicina-estetica-sanzionato-per-aver-pubblicato-video-senza-consenso-cosa-impariamo/",
+        "Vulnerabilità in prodotti Solarwinds (AL02/240219/CSIRT-ITA)": "https://www.csirt.gov.it/contenuti/vulnerabilita-in-prodotti-solarwinds-al02-240219-csirt-ita",
+        "Anatsa Trojan Returns: Targeting Europe and Expanding Its Reach": "https://www.threatfabric.com/blogs/anatsa-trojan-returns-targeting-europe-and-expanding-its-reach",
+        "The Fate of the CriminalMW Group: Endgame or a New Rebranding Journey?": "https://cyble.com/blog/the-fate-of-the-criminalmw-group-endgame-or-a-new-rebranding-journey/",
+        "Aggiornamenti per prodotti Autodesk (AL01/240219/CSIRT-ITA)": "https://www.csirt.gov.it/contenuti/aggiornamenti-per-prodotti-autodesk-al01-240219-csirt-ita",
+        "Drammatico phishing ai danni di INPS": "https://www.d3lab.net/drammatico-phishing-ai-danni-di-inps/",
+        "Piano triennale per l’informatica 2024-2026: senza cyber security non c’è sviluppo digitale nella PA": "https://www.cybersecurity360.it/cybersecurity-nazionale/piano-triennale-per-linformatica-2024-2026-senza-cyber-security-non-ce-sviluppo-digitale-nella-pa/",
+        "Individuata una campagna di phishing su SPID tramite un dominio appositamente registrato": "https://cert-agid.gov.it/news/individuato-phishing-spid-su-dominio-appositamente-registrato/",
+        "Formazione ed allenamento, riflessioni post-docenza del Master della 24Ore Business School": "https://roccosicilia.com/2024/02/19/formazione-ed-allenamento-riflessioni-post-docenza-del-master-della-24ore-business-school/",
+        "Sfide, opportunità e soluzioni per la Direttiva NIS2": "https://www.telsy.com/sfide-opportunita-e-soluzioni-per-la-direttiva-nis2/",
+        "U.S.A.: colpita un’organizzazione governativa tramite account di un ex dipendente": "https://www.securityinfo.it/2024/02/19/u-s-a-colpita-organizzazione-governativa-tramite-account-di-un-ex-dipendente/",
+        "La Settimana Cibernetica del 18 febbraio 2024": "https://www.csirt.gov.it/contenuti/la-settimana-cibernetica-del-18-febbraio-2024"
+    },
+    "IT Service Management News": {
+        "Garante privacy e conservazione email e metadati 02": "http://blog.cesaregallotti.it/2024/02/garante-privacy-e-conservazione-email-e_19.html",
+        "Continuità operativa, sigle (MBCO e RTO) e relativismo": "http://blog.cesaregallotti.it/2024/02/continuita-operativa-sigle-mbco-e-rto-e.html"
+    },
+    "Krypt3ia": {
+        "Threat Intelligence Report: GoldPickaxe Malware Family and GoldFactory Cybercrime Group": "https://krypt3ia.wordpress.com/2024/02/19/threat-intelligence-report-goldpickaxe-malware-family-and-goldfactory-cybercrime-group/",
+        "Navigating Unemployment Anxiety in a Shaky Tech Landscape": "https://krypt3ia.wordpress.com/2024/02/19/navigating-unemployment-anxiety-in-a-shaky-tech-landscape/"
+    },
+    "Il Disinformatico": {
+        "Video: ho raccontato gli inganni della mente e dei sensi a Verona per il Darwin Day": "http://attivissimo.blogspot.com/2024/02/video-ho-raccontato-gli-inganni-della.html"
+    },
+    "Securityinfo.it": {
+        "Google lavora a una feature Chrome per proteggere le reti private": "https://www.securityinfo.it/2024/02/19/google-lavora-a-una-feature-chrome-per-proteggere-le-reti-private/?utm_source=rss&utm_medium=rss&utm_campaign=google-lavora-a-una-feature-chrome-per-proteggere-le-reti-private",
+        "U.S.A.: colpita un’organizzazione governativa tramite account di un ex dipendente": "https://www.securityinfo.it/2024/02/19/u-s-a-colpita-organizzazione-governativa-tramite-account-di-un-ex-dipendente/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-a-colpita-organizzazione-governativa-tramite-account-di-un-ex-dipendente"
+    },
+    "ICT Security Magazine": {
+        "Considerazioni su Modelli di Intelligenza Artificiale Generativa": "https://www.ictsecuritymagazine.com/articoli/considerazioni-su-modelli-di-intelligenza-artificiale-generativa/"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "Mirai-Mirai On The Wall... &#x5b;Guest Diary&#x5d;, (Sun, Feb 18th)": "https://isc.sans.edu/diary/rss/30658",
+        "ISC Stormcast For Monday, February 19th, 2024 https://isc.sans.edu/podcastdetail/8858, (Mon, Feb 19th)": "https://isc.sans.edu/diary/rss/30664"
+    },
+    "Schneier on Security": {
+        "EU Court of Human Rights Rejects Encryption Backdoors": "https://www.schneier.com/blog/archives/2024/02/eu-court-of-human-rights-rejects-encryption-backdoors.html"
+    },
+    "Unsupervised Learning": {
+        "UL NO. 420: Creators, Nurturers, Executors, and Gatekeepers": "https://danielmiessler.com/p/ul-420",
+        "Creators, Nurturers, Executors, and Gatekeepers": "https://danielmiessler.com/p/ai-creators-nurturers-executors-gatekeepers"
+    },
+    "The Hacker News": {
+        "Meta Warns of 8 Spyware Firms Targeting iOS, Android, and Windows Devices": "https://thehackernews.com/2024/02/meta-warns-of-8-spyware-firms-targeting.html",
+        "How to Achieve the Best Risk-Based Alerting (Bye-Bye SIEM)": "https://thehackernews.com/2024/02/bye-bye-siem-hello-risk-based-alerting.html",
+        "Anatsa Android Trojan Bypasses Google Play Security, Expands Reach to New Countries": "https://thehackernews.com/2024/02/anatsa-android-trojan-bypasses-google.html",
+        "Russian-Linked Hackers Target 80+ Organizations via Roundcube Flaws": "https://thehackernews.com/2024/02/russian-linked-hackers-breach-80.html",
+        "Iranian Hackers Target Middle East Policy Experts with New BASICSTAR Backdoor": "https://thehackernews.com/2024/02/iranian-hackers-target-middle-east.html"
+    },
+    "Security Affairs": {
+        "Operation Cronos: law enforcement disrupted the LockBit operation": "https://securityaffairs.com/159360/cyber-crime/operation-cronos-disrupted-lockbit-operation.html",
+        "Anatsa Android banking Trojan expands to Slovakia, Slovenia, and Czechia": "https://securityaffairs.com/159344/malware/anatsa-banking-trojan-resurgence.html",
+        "A Ukrainian Raccoon Infostealer operator is awaiting trial in the US": "https://securityaffairs.com/159339/cyber-crime/raccoon-infostealer-operator-extradited-to-us.html",
+        "Russia-linked APT TAG-70 targets European government and military mail servers exploiting Roundcube XSS": "https://securityaffairs.com/159311/apt/russia-apt-tag-70-roundcube-xss.html",
+        "How BRICS Got “Rug Pulled” – Cryptocurrency Counterfeiting is on the Rise": "https://securityaffairs.com/159318/cyber-crime/resecurity-warns-cryptocurrency-counterfeiting.html",
+        "SolarWinds addressed critical RCEs in Access Rights Manager (ARM)": "https://securityaffairs.com/159294/security/solarwinds-access-rights-manager-flaws.html"
+    },
+    "netsecstudents: Subreddit for students studying Network Security and its related subjects": {
+        "Network Pentesting - Need Guidance": "https://www.reddit.com/r/netsecstudents/comments/1aul2w1/network_pentesting_need_guidance/",
+        "Some advice please!! Cyber degree or Cloud computing degree": "https://www.reddit.com/r/netsecstudents/comments/1aulfem/some_advice_please_cyber_degree_or_cloud/"
+    },
+    "Your Open Hacker Community": {
+        "Cracking PKZIP Zip File": "https://www.reddit.com/r/HowToHack/comments/1aujfx8/cracking_pkzip_zip_file/"
+    },
+    "Social Engineering": {
+        "So idk if I should update here for my dates but I’ll do it anyway": "https://www.reddit.com/r/SocialEngineering/comments/1aus6hb/so_idk_if_i_should_update_here_for_my_dates_but/"
+    },
+    "D3Lab": {
+        "Drammatico phishing ai danni di INPS": "https://www.d3lab.net/drammatico-phishing-ai-danni-di-inps/"
+    },
+    "Computer Forensics": {
+        "Considering schools": "https://www.reddit.com/r/computerforensics/comments/1aui4ai/considering_schools/"
+    },
+    "Deep Web": {
+        "A r c h": "https://www.reddit.com/r/deepweb/comments/1av0e9y/a_r_c_h/"
+    },
+    "KitPloit - PenTest Tools!": {
+        "SwaggerSpy - Automated OSINT On SwaggerHub": "http://www.kitploit.com/2024/02/swaggerspy-automated-osint-on-swaggerhub.html"
+    },
+    "Information Security": {
+        "A Comprehensive Guide to Achieving SOC 2 Compliance": "https://www.reddit.com/r/Information_Security/comments/1auhcpu/a_comprehensive_guide_to_achieving_soc_2/"
+    },
+    "Technical Information Security Content & Discussion": {
+        "Top 10 web hacking techniques of 2023": "https://www.reddit.com/r/netsec/comments/1aush44/top_10_web_hacking_techniques_of_2023/",
+        "Code Review Like a Pro": "https://www.reddit.com/r/netsec/comments/1auy8l6/code_review_like_a_pro/",
+        "A technical analysis of the BackMyData ransomware used to attack hospitals in Romania": "https://www.reddit.com/r/netsec/comments/1aumj5y/a_technical_analysis_of_the_backmydata_ransomware/",
+        "Analysis of Mirai variant leveraging CVE-2023-1389": "https://www.reddit.com/r/netsec/comments/1aughmd/analysis_of_mirai_variant_leveraging_cve20231389/"
+    },
+    "Blackhat Library: Hacking techniques and research": {
+        "If VirusTotal didn't find any viruses in a file is that mean it's 100% safe ?": "https://www.reddit.com/r/blackhat/comments/1auyy8a/if_virustotal_didnt_find_any_viruses_in_a_file_is/",
+        "Out of project ideas?? Here's the BEST Malware projects to get started with!!": "https://www.reddit.com/r/blackhat/comments/1aua3we/out_of_project_ideas_heres_the_best_malware/"
+    },
+    "Security Weekly Podcast Network (Audio)": {
+        "The New BISO Role – A Career Path to CISO? - BSW Vault": "http://podcast.securityweekly.com/the-new-biso-role-a-career-path-to-ciso-bsw-vault"
+    }
+}
