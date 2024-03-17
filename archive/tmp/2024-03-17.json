@@ -1,0 +1,129 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2024-03-16 Review": "http://www.sec-wiki.com/?2024-03-16"
+    },
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "Checkmk Agent 2.0.0 / 2.1.0 / 2.2.0 Local Privilege Escalation": "https://cxsecurity.com/issue/WLB-2024030038",
+        "StimulusReflex 3.5.0 Arbitrary Code Execution": "https://cxsecurity.com/issue/WLB-2024030037",
+        "Financials By Coda Authorization Bypass": "https://cxsecurity.com/issue/WLB-2024030036",
+        "Financials By Coda Cross Site Scripting": "https://cxsecurity.com/issue/WLB-2024030035",
+        "Webenlive - Blind Sql Injection": "https://cxsecurity.com/issue/WLB-2024030034",
+        "HALO-2.13.1 Cross-origin resource sharing: arbitrary origin trusted": "https://cxsecurity.com/issue/WLB-2024030033",
+        "Schneider Electric v1.0 - Directory traversal & Broken Authentication": "https://cxsecurity.com/issue/WLB-2024030032",
+        "SiteOmat Fueling System - Default Password": "https://cxsecurity.com/issue/WLB-2024030031"
+    },
+    "Security Boulevard": {
+        "How to Identify & Monitor Insider Threat Indicators [A Guide]": "https://securityboulevard.com/2024/03/how-to-identify-monitor-insider-threat-indicators-a-guide/",
+        "USENIX Security ’23 – Pushed By Accident: A Mixed-Methods Study On Strategies Of Handling Secret Information In Source Code Repositories": "https://securityboulevard.com/2024/03/usenix-security-23-pushed-by-accident-a-mixed-methods-study-on-strategies-of-handling-secret-information-in-source-code-repositories/"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sat Mar 16 17:57:22 UTC 2024": "https://github.com/trickest/cve/commit/77118d0eead3b986d67efc099b2b2f7f6fc2bb5a",
+        "Update Sat Mar 16 10:02:20 UTC 2024": "https://github.com/trickest/cve/commit/440c4c296c682ed06c35310fceb867cbab66ee45",
+        "Update Sat Mar 16 01:58:33 UTC 2024": "https://github.com/trickest/cve/commit/2dceb76ada0d2705b45c5a4a3a39846a259fea1d"
+    },
+    "世事难料，保持低调": {
+        "本地用AIGC生成图像与视频": "https://blog.csdn.net/ariesjzj/article/details/136750337"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Winter CMS 1.2.3 - Server-Side Template Injection (SSTI) (Authenticated) exploit": "https://sploitus.com/exploit?id=EDB-ID:51893&utm_source=rss&utm_medium=rss",
+        "Karaf v4.4.3 Console - RCE exploit": "https://sploitus.com/exploit?id=EDB-ID:51895&utm_source=rss&utm_medium=rss",
+        "LaborOfficeFree 19.10 - MySQL Root Password Calculator exploit": "https://sploitus.com/exploit?id=EDB-ID:51894&utm_source=rss&utm_medium=rss",
+        "UPS Network Management Card 4 - Path Traversal exploit": "https://sploitus.com/exploit?id=EDB-ID:51897&utm_source=rss&utm_medium=rss",
+        "Nokia BMC Log Scanner - Remote Code Execution exploit": "https://sploitus.com/exploit?id=EDB-ID:51896&utm_source=rss&utm_medium=rss",
+        "vm2 - sandbox escape exploit": "https://sploitus.com/exploit?id=EDB-ID:51898&utm_source=rss&utm_medium=rss"
+    },
+    "InfoSec Write-ups - Medium": {
+        "Penetration Testing Microsoft Copilot 365": "https://infosecwriteups.com/penetration-testing-microsoft-copilot-365-910301660dac?source=rss----7b722bfd1b8d---4"
+    },
+    "obaby@mars": {
+        "再谈 WordPress 的速度优化 — 优化插件真的是提速的吗？": "https://www.h4ck.org.cn/2024/03/15874"
+    },
+    "ongoing by Tim Bray": {
+        "Bye, Allyson": "https://www.tbray.org/ongoing/When/202x/2024/03/16/Bye-Allyson"
+    },
+    "unSafe.sh - 不安全": {
+        "How to Identify & Monitor Insider Threat Indicators [A Guide]": "https://buaq.net/go-228568.html",
+        "攻击者在百度投放广告传播恶意版 Notepad++ 和 vnote": "https://buaq.net/go-228559.html",
+        "Guerre di Rete - AI Act, infine": "https://buaq.net/go-228561.html",
+        "USENIX Security ’23 – Pushed By Accident: A Mixed-Methods Study On Strategies Of Handling Secret Information In Source Code Repositories": "https://buaq.net/go-228569.html",
+        "Mozilla Location Service 即将关闭": "https://buaq.net/go-228560.html",
+        "And.. another (but far more sophisticated) OAuth vulnerability – now it's in ChatGPT": "https://buaq.net/go-228558.html",
+        "ChatGPT商业版（运营级源码）": "https://buaq.net/go-228546.html",
+        "免费IP信息查询API接口": "https://buaq.net/go-228547.html",
+        "Theft and recovery of a Facebook account": "https://buaq.net/go-228550.html",
+        "Penetration Testing Microsoft Copilot 365": "https://buaq.net/go-228554.html"
+    },
+    "Hexacorn": {
+        "Stuffing up the WINDIR env. var. with THE SPACE": "https://www.hexacorn.com/blog/2024/03/16/stuffing-up-the-windir-env-var-with-the-space/",
+        "Lolbin Wow Ltd x 2": "https://www.hexacorn.com/blog/2024/03/16/lolbin-wow-ltd-x-2/"
+    },
+    "Reverse Engineering": {
+        "And.. another (but far more sophisticated) OAuth vulnerability – now it's in ChatGPT": "https://www.reddit.com/r/ReverseEngineering/comments/1bg77ff/and_another_but_far_more_sophisticated_oauth/",
+        "Hacking Super Nintendo Aladdin to finally finish the game": "https://www.reddit.com/r/ReverseEngineering/comments/1bgbdd1/hacking_super_nintendo_aladdin_to_finally_finish/"
+    },
+    "Exploit-DB.com RSS Feed": {
+        "[local] vm2 - sandbox escape": "https://www.exploit-db.com/exploits/51898",
+        "[webapps] UPS Network Management Card 4 - Path Traversal": "https://www.exploit-db.com/exploits/51897",
+        "[webapps] Nokia BMC Log Scanner - Remote Code Execution": "https://www.exploit-db.com/exploits/51896",
+        "[webapps] Karaf v4.4.3 Console - RCE": "https://www.exploit-db.com/exploits/51895",
+        "[local] LaborOfficeFree 19.10 - MySQL Root Password Calculator": "https://www.exploit-db.com/exploits/51894",
+        "[webapps] Winter CMS 1.2.3 - Server-Side Template Injection (SSTI) (Authenticated)": "https://www.exploit-db.com/exploits/51893"
+    },
+    "KitPloit - PenTest &amp; Hacking Tools": {
+        "Dorkish - Chrome Extension Tool For OSINT & Recon": "http://www.kitploit.com/2024/03/dorkish-chrome-extension-tool-for-osint.html"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "攻击者在百度投放广告传播恶意版 Notepad++ 和 vnote": "https://www.solidot.org/story?sid=77615",
+        "Mozilla Location Service 即将关闭": "https://www.solidot.org/story?sid=77614",
+        "汽车厂商与保险公司分享司机驾驶行为数据": "https://www.solidot.org/story?sid=77613",
+        "Reddit 出售用户生成数据训练 AI 引起 FTC 调查": "https://www.solidot.org/story?sid=77612",
+        "Pornhub 屏蔽德州 IP 访问": "https://www.solidot.org/story?sid=77611"
+    },
+    "程序人生": {
+        "Linux Empty Search Path Vulnerability": "http://programlife.net/2024/03/16/Linux-Empty-Search-Path-Vulnerability/"
+    },
+    "黑海洋 - WIKI": {
+        "ChatGPT商业版（运营级源码）": "https://blog.upx8.com/4114",
+        "免费IP信息查询API接口": "https://blog.upx8.com/4113",
+        "MediaCrawler-开源小红书抖音微博爬虫工具": "https://blog.upx8.com/4112"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "Hackers exploit Aiohttp bug to find vulnerable networks": "https://www.bleepingcomputer.com/news/security/hackers-exploit-aiohttp-bug-to-find-vulnerable-networks/",
+        "Guerre di Rete - AI Act, infine": "https://guerredirete.substack.com/p/guerre-di-rete-ai-act-infine",
+        "Theft and recovery of a Facebook account": "https://www.adainese.it/blog/2023/09/26/theft-and-recovery-of-a-facebook-account/",
+        "Task and process automation": "https://www.adainese.it/blog/2023/09/27/task-and-process-automation/"
+    },
+    "Arturo Di Corinto": {
+        "La propaganda computazionale e le interferenze hacker": "https://dicorinto.it/articoli/la-propaganda-computazionale-e-le-intereferenze-hacker/"
+    },
+    "Security Affairs": {
+        "France Travail data breach impacted 43 Million people": "https://securityaffairs.com/160556/data-breach/france-travail-data-breach-34m-people.html",
+        "Scranton School District in Pennsylvania suffered a ransomware attack": "https://securityaffairs.com/160542/cyber-crime/scranton-school-district-ransomware-attack.html",
+        "Lazarus APT group returned to Tornado Cash to launder stolen funds": "https://securityaffairs.com/160525/breaking-news/lazarus-apt-returned-tornado-cash.html"
+    },
+    "Deeplinks": {
+        "Lawmakers: Ban TikTok to Stop Election Misinformation! Same Lawmakers: Restrict How Government Addresses Election Misinformation!": "https://www.eff.org/deeplinks/2024/03/lawmakers-ban-tiktok-stop-election-misinformation-same-lawmakers-restrict-how"
+    },
+    "Computer Forensics": {
+        "Career transition to Digital Forensics after 50...": "https://www.reddit.com/r/computerforensics/comments/1bgc87k/career_transition_to_digital_forensics_after_50/",
+        "Incident response vs forensics": "https://www.reddit.com/r/computerforensics/comments/1bgbe3p/incident_response_vs_forensics/",
+        "How to find the Process ID / Process Name from extracted HDD files?": "https://www.reddit.com/r/computerforensics/comments/1bfzm0j/how_to_find_the_process_id_process_name_from/"
+    },
+    "KitPloit - PenTest Tools!": {
+        "Dorkish - Chrome Extension Tool For OSINT & Recon": "http://www.kitploit.com/2024/03/dorkish-chrome-extension-tool-for-osint.html"
+    },
+    "Social Engineering": {
+        "Needing basics (not that basic), specific goals.": "https://www.reddit.com/r/SocialEngineering/comments/1bgbve9/needing_basics_not_that_basic_specific_goals/",
+        "Do girls do this kind of thing to manipulate guys?": "https://www.reddit.com/r/SocialEngineering/comments/1bg46r9/do_girls_do_this_kind_of_thing_to_manipulate_guys/"
+    },
+    "Information Security": {
+        "Greenmask release v0.1.7. Dump obfuscation tool": "https://www.reddit.com/r/Information_Security/comments/1bg1fya/greenmask_release_v017_dump_obfuscation_tool/",
+        "Control D DNS": "https://www.reddit.com/r/Information_Security/comments/1bfv6lf/control_d_dns/"
+    },
+    "The Hacker News": {
+        "Hackers Using Cracked Software on GitHub to Spread RisePro Info Stealer": "https://thehackernews.com/2024/03/hackers-using-cracked-software-on.html"
+    },
+    "Your Open Hacker Community": {
+        "having trouble finding the module type for credential popup, bruteforce attack": "https://www.reddit.com/r/HowToHack/comments/1bfyzi3/having_trouble_finding_the_module_type_for/"
+    }
+}
