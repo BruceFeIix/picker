@@ -1,0 +1,356 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2024-05-02 Review": "http://www.sec-wiki.com/?2024-05-02"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "htmlLawed 1.2.5 Remote Command Execution exploit": "https://sploitus.com/exploit?id=PACKETSTORM:178425&utm_source=rss&utm_medium=rss",
+        "Exploit for CVE-2023-6241 exploit": "https://sploitus.com/exploit?id=04496846-F769-5CFE-B11F-2FD5EA4033B0&utm_source=rss&utm_medium=rss",
+        "Exploit for Expression Language Injection in Atlassian Confluence Data Center exploit": "https://sploitus.com/exploit?id=7B61818F-49E5-5BAE-A937-2DED4CAE1570&utm_source=rss&utm_medium=rss"
+    },
+    "Security Boulevard": {
+        "Tips and stories for your team on World Password Day": "https://securityboulevard.com/2024/05/tips-and-stories-for-your-team-on-world-password-day/",
+        "Elliptic Shows How an AI Model Can Identify Bitcoin Laundering": "https://securityboulevard.com/2024/05/elliptic-shows-how-an-ai-model-can-identify-bitcoin-laundering/",
+        "What to Expect at RSA 2024: Will AI Wreak Havoc on Cybersecurity?": "https://securityboulevard.com/2024/05/what-to-expect-at-rsa-2024-will-ai-wreak-havoc-on-cybersecurity/",
+        "Kaseya Connect Global 2024 Day Two Recap: Embracing AI and Autonomous Automation": "https://securityboulevard.com/2024/05/kaseya-connect-global-2024-day-two-recap-embracing-ai-and-autonomous-automation/",
+        "USENIX Security ’23 – Account Security Interfaces: Important, Unintuitive, and Untrustworth – Distinguished Paper Award Winner": "https://securityboulevard.com/2024/05/usenix-security-23-account-security-interfaces-important-unintuitive-and-untrustworth-distinguished-paper-award-winner/",
+        "Acid Rain, Pikabot, VenomRAT, Mallox Ransomware, and More: Hacker’s Playbook Threat Coverage Round-up: March-April 2024": "https://securityboulevard.com/2024/05/acid-rain-pikabot-venomrat-mallox-ransomware-and-more-hackers-playbook-threat-coverage-round-up-march-april-2024/",
+        "Kaseya Connect Global 2024 Kicks Off": "https://securityboulevard.com/2024/05/kaseya-connect-global-2024-kicks-off/",
+        "Why Coro is a Dream Cybersecurity Platform for MSPs": "https://securityboulevard.com/2024/05/why-coro-is-a-dream-cybersecurity-platform-for-msps/",
+        "Daniel Stori’s ‘Frontenders and Backenders’": "https://securityboulevard.com/2024/05/daniel-storis-frontenders-and-backenders/",
+        "Dropbox Hacked: eSignature Service Breached": "https://securityboulevard.com/2024/05/dropbox-sign-hack-richixbw/"
+    },
+    "Recent Commits to cve:main": {
+        "Update Thu May  2 18:10:54 UTC 2024": "https://github.com/trickest/cve/commit/b13347e27c9bb1504b28d8f24072e9e4318707d8",
+        "Update Thu May  2 09:59:35 UTC 2024": "https://github.com/trickest/cve/commit/3709e2e0b99f8fe794217ac2211b983504bdc404",
+        "Update Thu May  2 02:05:11 UTC 2024": "https://github.com/trickest/cve/commit/dae7fddfc1a568d09a493d0d08bb7ee3a6de5cfa"
+    },
+    "Tenable Blog": {
+        "As Pro-Russia Hactivists Target OT Systems, Here’s What You Need To Know": "https://www.tenable.com/blog/as-pro-russia-hactivists-target-ot-systems-heres-what-you-need-to-know"
+    },
+    "ElcomSoft blog": {
+        "Elcomsoft Forensic Acquisition System (EFAS)": "https://blog.elcomsoft.com/2024/05/elcomsoft-forensic-acquisition-system-efas/"
+    },
+    "Sucuri Blog": {
+        "Mal.Metrica Redirects Users to Scam Sites": "https://blog.sucuri.net/2024/05/mal-metrica-redirects-users-to-scam-sites.html"
+    },
+    "Files ≈ Packet Storm": {
+        "Debian Security Advisory 5676-1": "https://packetstormsecurity.com/files/178427/dsa-5676-1.txt",
+        "Ubuntu Security Notice USN-6747-2": "https://packetstormsecurity.com/files/178426/USN-6747-2.txt",
+        "htmlLawed 1.2.5 Remote Command Execution": "https://packetstormsecurity.com/files/178425/CVE-2022-35914.sh.txt",
+        "Red Hat Security Advisory 2024-2651-03": "https://packetstormsecurity.com/files/178424/RHSA-2024-2651-03.txt",
+        "Red Hat Security Advisory 2024-2645-03": "https://packetstormsecurity.com/files/178423/RHSA-2024-2645-03.txt"
+    },
+    "Insinuator.net": {
+        "Vulnerability in Jitsi Meet: Meeting Password Disclosure affecting Meetings with Lobbies": "https://insinuator.net/2024/05/vulnerability-in-jitsi-meet-meeting-password-disclosure-affecting-meetings-with-lobbies/"
+    },
+    "Horizon3.ai": {
+        "Horizon3.ai Appoints Matt Hartley as Chief Revenue Officer to Spearhead Growth Initiatives": "https://www.businesswire.com/news/home/20240502283399/en/Horizon3.ai-Appoints-Matt-Hartley-as-Chief-Revenue-Officer-to-Spearhead-Growth-Initiatives#new_tab"
+    },
+    "GuidePoint Security": {
+        "SCCM Exploitation: Compromising Network Access Accounts": "https://www.guidepointsecurity.com/blog/sccm-exploitation-compromising-network-access-accounts/"
+    },
+    "Hexacorn": {
+        "The art of artifact collection and hoarding for the sake of forensic exclusivity…": "https://www.hexacorn.com/blog/2024/05/02/the-art-of-artifact-collection-and-hoarding-for-the-sake-of-forensic-exclusivity/"
+    },
+    "Trail of Bits Blog": {
+        "The life and times of an Abstract Syntax Tree": "https://blog.trailofbits.com/2024/05/02/the-life-and-times-of-an-abstract-syntax-tree/"
+    },
+    "白帽Wiki - 一个简单的wiki": {
+        "[2024]用EDR剖析流行黑产组织对抗安全软件的多重手段": "https://key08.com/index.php/2024/05/02/1888.html"
+    },
+    "Malwarebytes": {
+        "Dropbox Sign customer data accessed in breach": "https://www.malwarebytes.com/blog/news/2024/05/dropbox-sign-customer-data-accessed-in-breach",
+        "Watch out for tech support scams lurking in sponsored search results": "https://www.malwarebytes.com/blog/news/2024/05/watch-out-for-tech-support-scams-lurking-in-sponsored-search-results",
+        "Psychotherapy practice hacker gets jail time after extorting patients, publishing personal therapy notes online": "https://www.malwarebytes.com/blog/news/2024/05/psychotherapy-practice-hacker-gets-jail-time-after-extorting-patients-publishing-personal-therapy-notes-online"
+    },
+    "Reverse Engineering": {
+        "Calling Conventions Explained": "https://www.reddit.com/r/ReverseEngineering/comments/1ciuprv/calling_conventions_explained/",
+        "Control Flow Guard in Windows 11 24H2": "https://www.reddit.com/r/ReverseEngineering/comments/1cilu16/control_flow_guard_in_windows_11_24h2/",
+        "Reverse Engineering: uncovering protected source code [Android]": "https://www.reddit.com/r/ReverseEngineering/comments/1cihoz1/reverse_engineering_uncovering_protected_source/",
+        "Hydra: Generalizing Peephole Optimizations with Program Synthesis [PDF]": "https://www.reddit.com/r/ReverseEngineering/comments/1ci6cxa/hydra_generalizing_peephole_optimizations_with/",
+        "Need Input on My Authentication Approach": "https://www.reddit.com/r/ReverseEngineering/comments/1ci7y3a/need_input_on_my_authentication_approach/"
+    },
+    "Team82 Disclosure Dashboard": {
+        "CVE-2024-31409": "https://claroty.com/team82/disclosure-dashboard/cve-2024-31409",
+        "CVE-2024-31410": "https://claroty.com/team82/disclosure-dashboard/cve-2024-31410",
+        "CVE-2024-31856": "https://claroty.com/team82/disclosure-dashboard/cve-2024-31856",
+        "CVE-2024-32042": "https://claroty.com/team82/disclosure-dashboard/cve-2024-32042",
+        "CVE-2024-32047": "https://claroty.com/team82/disclosure-dashboard/cve-2024-32047",
+        "CVE-2024-32053": "https://claroty.com/team82/disclosure-dashboard/cve-2024-32053",
+        "CVE-2024-33615": "https://claroty.com/team82/disclosure-dashboard/cve-2024-33615",
+        "CVE-2024-34025": "https://claroty.com/team82/disclosure-dashboard/cve-2024-34025"
+    },
+    "KitPloit - PenTest &amp; Hacking Tools": {
+        "C2-Cloud - The C2 Cloud Is A Robust Web-Based C2 Framework, Designed To Simplify The Life Of Penetration Testers": "http://www.kitploit.com/2024/05/c2-cloud-c2-cloud-is-robust-web-based.html"
+    },
+    "博客园 - 郑瀚Andrew": {
+        "认知提升的方法 - 郑瀚Andrew": "https://www.cnblogs.com/LittleHann/p/18169540"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "微软四月更新再次破坏了 VPN 连接": "https://www.solidot.org/story?sid=78068",
+        "Steam 调查显示英语用户成为第一语言": "https://www.solidot.org/story?sid=78067",
+        "BASIC 语言诞生 60 年": "https://www.solidot.org/story?sid=78066",
+        "研究称年轻人和老年人之间的认知差异在缩小": "https://www.solidot.org/story?sid=78065",
+        "Windows 11 市场份额不升反降": "https://www.solidot.org/story?sid=78064"
+    },
+    "Black Hills Information Security": {
+        "At Home Detection Engineering Lab for Beginners": "https://www.blackhillsinfosec.com/at-home-detection-engineering-lab-for-beginners/"
+    },
+    "安全研究GoSSIP": {
+        "产学融合，携手共进：蚂蚁集团隐语开源社区在数据要素领域校企合作的探索与实践": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247497904&idx=1&sn=34cbeed04545f734f4cf7bc252c0f5cc&chksm=c063d669f7145f7f7acc39811f68383f2a9e3e6cd284de50ffce867c76088ccaaa6eb203f55e&scene=58&subscene=0#rd"
+    },
+    "看雪学苑": {
+        "CVE漏洞复现：Maglev中VisitFindNonDefaultConstructorOrConstruct的类型混淆": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458553429&idx=1&sn=d5674757eedccb83f6e0063db0a5205c&chksm=b18dbcdf86fa35c90d21a8db9c292c73f5adad26a9111751b5c4d2c718ea88c46623724de5d2&scene=58&subscene=0#rd",
+        "从零开始，掌握CVE漏洞复现技能": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458553429&idx=2&sn=a7a32731738b87ae9193ca4b54e2fe47&chksm=b18dbcdf86fa35c9cad5b804f83951af76e5b353adc24246dcb18ede995eaff0187ed2b1e138&scene=58&subscene=0#rd"
+    },
+    "USENIX": {
+        "Towards Generic Database Management System Fuzzing": "https://www.usenix.org/conference/usenixsecurity24/presentation/yang-yupeng",
+        "Speculative Denial-of-Service Attacks In Ethereum": "https://www.usenix.org/conference/usenixsecurity24/presentation/yaish",
+        "'I feel physically safe but not politically safe\": Understanding the Digital Threats and Safety Practices of OnlyFans Creators": "https://www.usenix.org/conference/usenixsecurity24/presentation/soneji",
+        "PINE: Efficient Verification of a Euclidean Norm Bound of a Secret-Shared Vector": "https://www.usenix.org/conference/usenixsecurity24/presentation/rothblum",
+        "SHiFT: Semi-hosted Fuzz Testing for Embedded Applications": "https://www.usenix.org/conference/usenixsecurity24/presentation/mera",
+        "CAMP: Compositional Amplification Attacks against DNS": "https://www.usenix.org/conference/usenixsecurity24/presentation/duan",
+        "Rise of Inspectron: Automated Black-box Auditing of Cross-platform Electron Apps": "https://www.usenix.org/conference/usenixsecurity24/presentation/ali",
+        "DVa: Extracting Victims and Abuse Vectors from Android Accessibility Malware": "https://www.usenix.org/conference/usenixsecurity24/presentation/xu-haichuan",
+        "VoltSchemer: Use Voltage Noise to Manipulate Your Wireless Charger": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhan",
+        "SoK: State of the Krawlers – Evaluating the Effectiveness of Crawling Algorithms for Web Security Measurements": "https://www.usenix.org/conference/usenixsecurity24/presentation/stafeev",
+        "That Doesn't Go There: Attacks on Shared State in Multi-User Augmented Reality Applications": "https://www.usenix.org/conference/usenixsecurity24/presentation/slocum",
+        "SDFuzz: Target States Driven Directed Fuzzing": "https://www.usenix.org/conference/usenixsecurity24/presentation/li-penghui",
+        "FEASE: Fast and Expressive Asymmetric Searchable Encryption": "https://www.usenix.org/conference/usenixsecurity24/presentation/meng",
+        "Critical Code Guided Directed Greybox Fuzzing for Commits": "https://www.usenix.org/conference/usenixsecurity24/presentation/xiang-yi",
+        "Page-Oriented Programming: Subverting Control-Flow Integrity of Commodity Operating System Kernels with Non-Writable Code Pages": "https://www.usenix.org/conference/usenixsecurity24/presentation/han",
+        "A Linear Reconstruction Approach for Attribute Inference Attacks against Synthetic Data": "https://www.usenix.org/conference/usenixsecurity24/presentation/annamalai",
+        "SoK (or SoLK?): On the Quantitative Study of Sociodemographic Factors and Computer Security Behaviors": "https://www.usenix.org/conference/usenixsecurity24/presentation/wei-miranda",
+        "On the Difficulty of Defending Contrastive Learning against Backdoor Attacks": "https://www.usenix.org/conference/usenixsecurity24/presentation/li-changjiang",
+        "\"I chose to fight, be brave, and to deal with it\": Threat Experiences and Security Practices of Pakistani Content Creators": "https://www.usenix.org/conference/usenixsecurity24/presentation/gr%C3%B6ber",
+        "More Simplicity for Trainers, More Opportunity for Attackers: Black-Box Attacks on Speaker Recognition Systems by Inferring Feature Extractor": "https://www.usenix.org/conference/usenixsecurity24/presentation/ge-attacks",
+        "EaTVul: ChatGPT-based Evasion Attack Against Software Vulnerability Detection": "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-shigang",
+        "How Does a Deep Learning Model Architecture Impact Its Privacy? A Comprehensive Study of Privacy Attacks on CNNs and Transformers": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-guangsheng",
+        "Fast and Private Inference of Deep Neural Networks by Co-designing Activation Functions": "https://www.usenix.org/conference/usenixsecurity24/presentation/diaa",
+        "Transferability of White-box Perturbations: Query-Efficient Adversarial Attacks against Commercial DNN Services": "https://www.usenix.org/conference/usenixsecurity24/presentation/shen-meng",
+        "Query Recovery from Easy to Hard: Jigsaw Attack against SSE": "https://www.usenix.org/conference/usenixsecurity24/presentation/nie",
+        "SoK: Security of Programmable Logic Controllers": "https://www.usenix.org/conference/usenixsecurity24/presentation/lopez-morales",
+        "\"I'm not convinced that they don't collect more than is necessary\": User-Controlled Data Minimization Design in Search Engines": "https://www.usenix.org/conference/usenixsecurity24/presentation/sharma",
+        "Towards Privacy-Preserving Social-Media SDKs on Android": "https://www.usenix.org/conference/usenixsecurity24/presentation/lu-haoran",
+        "AI Psychiatry: Forensic Investigation of Deep Learning Networks in Memory Images": "https://www.usenix.org/conference/usenixsecurity24/presentation/oygenblik",
+        "A Friend's Eye is A Good Mirror: Synthesizing MCU Peripheral Models from Peripheral Drivers": "https://www.usenix.org/conference/usenixsecurity24/presentation/lei",
+        "CalcuLatency: Leveraging Cross-Layer Network Latency Measurements to Detect Proxy-Enabled Abuse": "https://www.usenix.org/conference/usenixsecurity24/presentation/ramesh",
+        "False Claims against Model Ownership Resolution": "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-jian",
+        "AE-Morpher: Improve Physical Robustness of Adversarial Objects against LiDAR-based Detectors via Object Reconstruction": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhu",
+        "Learning with Semantics: Towards a Semantics-Aware Routing Anomaly Detection System": "https://www.usenix.org/conference/usenixsecurity24/presentation/chen-yihao",
+        "Don't Waste My Efforts: Pruning Redundant Sanitizer Checks by Developer-Implemented Type Checks": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhai",
+        "EL3XIR: Fuzzing COTS Secure Monitors": "https://www.usenix.org/conference/usenixsecurity24/presentation/lindenmeier",
+        "Penetration Vision through Virtual Reality Headsets: Identifying 360-degree Videos from Head Movements": "https://www.usenix.org/conference/usenixsecurity24/presentation/nguyen",
+        "UIHash: Detecting Similar Android UIs through Grid-Based Visual Appearance Representation": "https://www.usenix.org/conference/usenixsecurity24/presentation/li-jiawei",
+        "MultiFuzz: A Multi-Stream Fuzzer For Testing Monolithic Firmware": "https://www.usenix.org/conference/usenixsecurity24/presentation/chesser",
+        "OPTIKS: An Optimized Key Transparency System": "https://www.usenix.org/conference/usenixsecurity24/presentation/len",
+        "Defending Against Data Reconstruction Attacks in Federated Learning: An Information Theory Approach": "https://www.usenix.org/conference/usenixsecurity24/presentation/tan",
+        "RustSan: Retrofitting AddressSanitizer for Efficient Sanitization of Rust": "https://www.usenix.org/conference/usenixsecurity24/presentation/cho-kyuwon",
+        "6Sense: Internet-Wide IPv6 Scanning and its Security Applications": "https://www.usenix.org/conference/usenixsecurity24/presentation/williams",
+        "Intellectual Property Exposure: Subverting and Securing Intellectual Property Encapsulation in Texas Instruments Microcontrollers": "https://www.usenix.org/conference/usenixsecurity24/presentation/bognar",
+        "Stop, Don't Click Here Anymore: Boosting Website Fingerprinting By Considering Sets of Subpages": "https://www.usenix.org/conference/usenixsecurity24/presentation/mitseva",
+        "SOAP: A Social Authentication Protocol": "https://www.usenix.org/conference/usenixsecurity24/presentation/linker",
+        "PointerGuess: Targeted Password Guessing Model Using Pointer Mechanism": "https://www.usenix.org/conference/usenixsecurity24/presentation/xiu",
+        "MetaSafe: Compiling for Protecting Smart Pointer Metadata to Ensure Safe Rust Integrity": "https://www.usenix.org/conference/usenixsecurity24/presentation/kayondo",
+        "Formalizing Soundness Proofs of Linear PCP SNARKs": "https://www.usenix.org/conference/usenixsecurity24/presentation/bailey",
+        "\"I just hated it and I want my money back\": Data-driven Understanding of Mobile VPN Service Switching Preferences in The Wild": "https://www.usenix.org/conference/usenixsecurity24/presentation/raj",
+        "VOGUES: Validation of Object Guise using Estimated Components": "https://www.usenix.org/conference/usenixsecurity24/presentation/muller",
+        "Lotto: Secure Participant Selection against Adversarial Servers in Federated Learning": "https://www.usenix.org/conference/usenixsecurity24/presentation/jiang-zhifeng",
+        "Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation": "https://www.usenix.org/conference/usenixsecurity24/presentation/b%C3%A4umer",
+        "An Interview Study on Third-Party Cyber Threat Hunting Processes in the U.S. Department of Homeland Security": "https://www.usenix.org/conference/usenixsecurity24/presentation/maxam",
+        "iHunter: Hunting Privacy Violations at Scale in the Software Supply Chain on iOS": "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-dexin",
+        "Inference of Error Specifications and Bug Detection Using Structural Similarities": "https://www.usenix.org/conference/usenixsecurity24/presentation/dossche",
+        "\"There are rabbit holes I want to go down that I'm not allowed to go down\": An Investigation of Security Expert Threat Modeling Practices for Medical ...": "https://www.usenix.org/conference/usenixsecurity24/presentation/thompson",
+        "CDN Cannon: Exploiting CDN Back-to-Origin Strategies for Amplification Attacks": "https://www.usenix.org/conference/usenixsecurity24/presentation/lin-ziyu",
+        "Arcanum: Detecting and Evaluating the Privacy Risks of Browser Extensions on Web Pages and Web Content": "https://www.usenix.org/conference/usenixsecurity24/presentation/xie-qinge",
+        "Loopy Hell(ow): Inﬁnite Traffic Loops at the Application Layer": "https://www.usenix.org/conference/usenixsecurity24/presentation/pan-yepeng",
+        "Single Pass Client-Preprocessing Private Information Retrieval": "https://www.usenix.org/conference/usenixsecurity24/presentation/lazzaretti",
+        "Logic Gone Astray: A Security Analysis Framework for the Control Plane Protocols of 5G Basebands": "https://www.usenix.org/conference/usenixsecurity24/presentation/tu",
+        "DONAPI: Malicious NPM Packages Detector using Behavior Sequence Knowledge Mapping": "https://www.usenix.org/conference/usenixsecurity24/presentation/huang-cheng",
+        "VibSpeech: Exploring Practical Wideband Eavesdropping via Bandlimited Signal of Vibration-based Side Channel": "https://www.usenix.org/conference/usenixsecurity24/presentation/wang-chao",
+        "\"What Keeps People Secure is That They Met The Security Team\": Deconstructing Drivers And Goals of Organizational Security Awareness": "https://www.usenix.org/conference/usenixsecurity24/presentation/hielscher",
+        "PatchCURE: Improving Certifiable Robustness, Model Utility, and Computation Efficiency of Adversarial Patch Defenses": "https://www.usenix.org/conference/usenixsecurity24/presentation/xiang-chong",
+        "Towards More Practical Threat Models in Artificial Intelligence Security": "https://www.usenix.org/conference/usenixsecurity24/presentation/grosse",
+        "DNN-GP: Diagnosing and Mitigating Model's Faults Using Latent Concepts": "https://www.usenix.org/conference/usenixsecurity24/presentation/wang-shuo",
+        "From the Childhood Past: Views of Young Adults on Parental Sharing of Children's Photos": "https://www.usenix.org/conference/usenixsecurity24/presentation/ghafourian",
+        "WhisperFuzz: White-Box Fuzzing for Detecting and Locating Timing Vulnerabilities in Processors": "https://www.usenix.org/conference/usenixsecurity24/presentation/borkar",
+        "Relation Mining Under Local Differential Privacy": "https://www.usenix.org/conference/usenixsecurity24/presentation/dong-kai",
+        "Rethinking the Security Threats of Stale DNS Glue Records": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-yunyi",
+        "GhostRace: Exploiting and Mitigating Speculative Race Conditions": "https://www.usenix.org/conference/usenixsecurity24/presentation/ragab",
+        "Fledging Will Continue Until Privacy Improves: Empirical Analysis of Google's Privacy-Preserving Targeted Advertising": "https://www.usenix.org/conference/usenixsecurity24/presentation/calderonio",
+        "Smudged Fingerprints: Characterizing and Improving the Performance of Web Application Fingerprinting": "https://www.usenix.org/conference/usenixsecurity24/presentation/kondracki",
+        "With Great Power Come Great Side Channels: Statistical Timing Side-Channel Analyses with Bounded Type-1 Errors": "https://www.usenix.org/conference/usenixsecurity24/presentation/dunsche",
+        "A NEW HOPE: Contextual Privacy Policies for Mobile Applications and An Approach Toward Automated Generation": "https://www.usenix.org/conference/usenixsecurity24/presentation/pan-shidong-hope",
+        "GFWeb: Measuring the Great Firewall's Web Censorship at Scale": "https://www.usenix.org/conference/usenixsecurity24/presentation/hoang",
+        "HYPERPILL: Fuzzing for Hypervisor-bugs by leveraging the Hardware Virtualization Interface": "https://www.usenix.org/conference/usenixsecurity24/presentation/bulekov",
+        "Enabling Developers, Protecting Users: Investigating Harassment and Safety in VR": "https://www.usenix.org/conference/usenixsecurity24/presentation/sb",
+        "Fast RS-IOP Multivariate Polynomial Commitments and Verifiable Secret Sharing": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-zongyang",
+        "Eye of Sauron: Long-Range Hidden Spy Camera Detection and Positioning with Inbuilt Memory EM Radiation": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+        "Abandon All Hope Ye Who Enter Here: A Dynamic, Longitudinal Investigation of Android's Data Safety Section": "https://www.usenix.org/conference/usenixsecurity24/presentation/arkalakis",
+        "CellularLint: A Systematic Approach to Identify Inconsistent Behavior in Cellular Network Specifications": "https://www.usenix.org/conference/usenixsecurity24/presentation/rahman",
+        "Pixel+ and Pixel++: Compact and Efficient Forward-Secure Multi-Signatures for PoS Blockchain Consensus": "https://www.usenix.org/conference/usenixsecurity24/presentation/wei-jianghong",
+        "Rabbit-Mix: Robust Algebraic Anonymous Broadcast from Additive Bases": "https://www.usenix.org/conference/usenixsecurity24/presentation/cho-chongwon",
+        "I/O-Efficient Dynamic Searchable Encryption meets Forward & Backward Privacy": "https://www.usenix.org/conference/usenixsecurity24/presentation/mondal",
+        "FaceObfuscator: Defending Deep Learning-based Privacy Attacks with Gradient Descent-resistant Features in Face Recognition": "https://www.usenix.org/conference/usenixsecurity24/presentation/jin",
+        "Assessing Suspicious Emails with Banner Warnings Among Blind and Low-Vision Users in Realistic Settings": "https://www.usenix.org/conference/usenixsecurity24/presentation/sharevski",
+        "When Threads Meet Interrupts: Effective Static Detection of Interrupt-Based Deadlocks in Linux": "https://www.usenix.org/conference/usenixsecurity24/presentation/ye",
+        "DPAdapter: Improving Differentially Private Deep Learning through Noise Tolerance Pre-training": "https://www.usenix.org/conference/usenixsecurity24/presentation/wang-zihao-dpadapter",
+        "Wireless Signal Injection Attacks on VSAT Satellite Modems": "https://www.usenix.org/conference/usenixsecurity24/presentation/bisping",
+        "ENG25519: Faster TLS 1.3 handshake using optimized X25519 and Ed25519": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-jipeng",
+        "ZKSMT: A VM for Proving SMT Theorems in Zero Knowledge": "https://www.usenix.org/conference/usenixsecurity24/presentation/luick",
+        "A Mixed-Methods Study on User Experiences and Challenges of Recovery Codes for an End-to-End Encrypted Service": "https://www.usenix.org/conference/usenixsecurity24/presentation/h%C3%B6ltervennhoff",
+        "In Wallet We Trust: Bypassing the Digital Wallets Payment Security for Free Shopping": "https://www.usenix.org/conference/usenixsecurity24/presentation/anwar",
+        "Abuse Reporting for Metadata-Hiding Communication Based on Secret Sharing": "https://www.usenix.org/conference/usenixsecurity24/presentation/eskandarian",
+        "Notus: Dynamic Proofs of Liabilities from Zero-knowledge RSA Accumulators": "https://www.usenix.org/conference/usenixsecurity24/presentation/xin",
+        "d-DSE: Distinct Dynamic Searchable Encryption Resisting Volume Leakage in Encrypted Databases": "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-dongli",
+        "Racing for TLS Certificate Validation: A Hijacker's Guide to the Android TLS Galaxy": "https://www.usenix.org/conference/usenixsecurity24/presentation/pourali",
+        "Spill the TeA: An Empirical Study of Trusted Application Rollback Prevention on Android Smartphones": "https://www.usenix.org/conference/usenixsecurity24/presentation/busch",
+        "D-Helix: A Generic Decompiler Testing Framework Using Symbolic Differentiation": "https://www.usenix.org/conference/usenixsecurity24/presentation/zou",
+        "\"These results must be false\": A usability evaluation of constant-time analysis tools": "https://www.usenix.org/conference/usenixsecurity24/presentation/fourne",
+        "Reef: Fast Succinct Non-Interactive Zero-Knowledge Regex Proofs": "https://www.usenix.org/conference/usenixsecurity24/presentation/angel",
+        "PerfOMR: Oblivious Message Retrieval with Reduced Communication and Computation": "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-zeyu",
+        "A Decade of Privacy-Relevant Android App Reviews: Large Scale Trends": "https://www.usenix.org/conference/usenixsecurity24/presentation/akgul",
+        "Lightweight Authentication of Web Data via Garble-Then-Prove": "https://www.usenix.org/conference/usenixsecurity24/presentation/xie-xiang",
+        "\"But they have overlooked a few things in Afghanistan:\" An Analysis of the Integration of Biometric Voter Verification in the 2019 Afghan Presidential...": "https://www.usenix.org/conference/usenixsecurity24/presentation/panahi",
+        "Prompt Stealing Attacks Against Text-to-Image Generation Models": "https://www.usenix.org/conference/usenixsecurity24/presentation/shen-xinyue",
+        "Trust Me If You Can – How Usable Is Trusted Types In Practice?": "https://www.usenix.org/conference/usenixsecurity24/presentation/roth",
+        "PURE: Payments with UWB RElay-protection": "https://www.usenix.org/conference/usenixsecurity24/presentation/coppola",
+        "A Binary-level Thread Sanitizer or Why Sanitizing on the Binary Level is Hard": "https://www.usenix.org/conference/usenixsecurity24/presentation/schilling",
+        "Unbalanced Circuit-PSI from Oblivious Key-Value Retrieval": "https://www.usenix.org/conference/usenixsecurity24/presentation/hao-meng-unbalanced",
+        "EVOKE: Efficient Revocation of Verifiable Credentials in IoT Networks": "https://www.usenix.org/conference/usenixsecurity24/presentation/mazzocca",
+        "Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing": "https://www.usenix.org/conference/usenixsecurity24/presentation/asmita",
+        "ZenHammer: Rowhammer Attacks on AMD Zen-based Platforms": "https://www.usenix.org/conference/usenixsecurity24/presentation/jattke",
+        "Web Platform Threats: Automated Detection of Web Security Issues With WPT": "https://www.usenix.org/conference/usenixsecurity24/presentation/bernardo",
+        "Practical Data-Only Attack Generation": "https://www.usenix.org/conference/usenixsecurity24/presentation/johannesmeyer",
+        "LaKey: Efficient Lattice-Based Distributed PRFs Enable Scalable Distributed Key Management": "https://www.usenix.org/conference/usenixsecurity24/presentation/geihs",
+        "dp-promise: Differentially Private Diffusion Probabilistic Models for Image Synthesis": "https://www.usenix.org/conference/usenixsecurity24/presentation/wang-haichen",
+        "The Impact of Exposed Passwords on Honeyword Efficacy": "https://www.usenix.org/conference/usenixsecurity24/presentation/huang-zonghao",
+        "PIXELMOD: Improving Soft Moderation of Visual Misleading Information on Twitter": "https://www.usenix.org/conference/usenixsecurity24/presentation/paudel-pixelmod",
+        "Data Subjects' Reactions to Exercising Their Right of Access": "https://www.usenix.org/conference/usenixsecurity24/presentation/borem",
+        "GoFetch: Breaking Constant-Time Cryptographic Implementations Using Data Memory-Dependent Prefetchers": "https://www.usenix.org/conference/usenixsecurity24/presentation/chen-boru",
+        "SafeFetch: Practical Double-Fetch Protection with Kernel-Fetch Caching": "https://www.usenix.org/conference/usenixsecurity24/presentation/duta",
+        "SoK: The Good, The Bad, and The Unbalanced: Measuring Structural Limitations of Deepfake Media Datasets": "https://www.usenix.org/conference/usenixsecurity24/presentation/layton",
+        "Don't Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models": "https://www.usenix.org/conference/usenixsecurity24/presentation/yu-zhiyuan",
+        "SeaK: Rethinking the Design of a Secure Allocator for OS Kernel": "https://www.usenix.org/conference/usenixsecurity24/presentation/wang-zicheng",
+        "Operation Mango: Scalable Discovery of Taint-Style Vulnerabilities in Binary Firmware Services": "https://www.usenix.org/conference/usenixsecurity24/presentation/gibbs",
+        "Security and Privacy Software Creators' Perspectives on Unintended Consequences": "https://www.usenix.org/conference/usenixsecurity24/presentation/ramulu",
+        "Exploring digital security and privacy in relative poverty in Germany through qualitative interviews": "https://www.usenix.org/conference/usenixsecurity24/presentation/kostan",
+        "Enabling Contextual Soft Moderation on Social Media through Contrastive Textual Deviation": "https://www.usenix.org/conference/usenixsecurity24/presentation/paudel-enabling",
+        "HECKLER: Breaking Confidential VMs with Malicious Interrupts": "https://www.usenix.org/conference/usenixsecurity24/presentation/schl%C3%BCter",
+        "Snowflake, a censorship circumvention system using temporary WebRTC proxies": "https://www.usenix.org/conference/usenixsecurity24/presentation/bocovich",
+        "MD-ML: Super Fast Privacy-Preserving Machine Learning for Malicious Security with a Dishonest Majority": "https://www.usenix.org/conference/usenixsecurity24/presentation/yuan",
+        "DeepEclipse: How to Break White-Box DNN-Watermarking Schemes": "https://www.usenix.org/conference/usenixsecurity24/presentation/pegoraro",
+        "Large Language Models for Code Analysis: Do LLMs Really Do Their Job?": "https://www.usenix.org/conference/usenixsecurity24/presentation/fang",
+        "Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning": "https://www.usenix.org/conference/usenixsecurity24/presentation/hao-meng-scalable",
+        "SoK: All You Need to Know About On-Device ML Model Extraction - The Gap Between Research and Practice": "https://www.usenix.org/conference/usenixsecurity24/presentation/nayan",
+        "AttackGNN: Red-Teaming GNNs in Hardware Security Using Reinforcement Learning": "https://www.usenix.org/conference/usenixsecurity24/presentation/gohil",
+        "Being Transparent is Merely the Beginning: Enforcing Purpose Limitation with Polynomial Approximation": "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-shuofeng",
+        "DARKFLEECE: Probing the Dark Side of Android Subscription Apps": "https://www.usenix.org/conference/usenixsecurity24/presentation/yue",
+        "Property Existence Inference against Generative Models": "https://www.usenix.org/conference/usenixsecurity24/presentation/wang-lijin",
+        "ClearStamp: A Human-Visible and Robust Model-Ownership Proof based on Transposed Model Training": "https://www.usenix.org/conference/usenixsecurity24/presentation/kraub"
+    },
+    "极客公园": {
+        "周鸿祎回应「迈巴赫中标者未付清余款」；币安赵长鹏被判四个月监禁；五一档首日票房破 3 亿 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653040435&idx=1&sn=a56c80ad806ebb635afdc4e951f3b5bc&chksm=7e5752854920db9391510b556e4c58ef60a0343ac4ae01dbd8678639cba064f88910e2050dfb&scene=58&subscene=0#rd"
+    },
+    "情报分析师": {
+        "像间谍一样思考：关于间谍活动你必须知道的 12 个基本事实": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650548989&idx=1&sn=4bd6f020f23d49fb9072b3f45c72c612&chksm=871104b6b0668da03469d8f9920c8d178f7c57c6060f26838a8b1ccacdb4fbea486e2733c18f&scene=58&subscene=0#rd",
+        "情报学院2024年5月2日更新明细": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650548989&idx=2&sn=a3bbe61fb6ef2e86cda728475a835484&chksm=871104b6b0668da0319182dfcd7689205c31d249580d84eab1d565dc7144f900e22d2b624ea9&scene=58&subscene=0#rd"
+    },
+    "漏洞战争": {
+        "网络安全顶刊——TDSC 2023 论文清单与摘要（1）": "https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247485276&idx=1&sn=3883d5e2a9cb9d33d656a7821271a039&chksm=fb0413a4cc739ab2007c34113f62e28758eaae8fcab0df442200e58b734f52b67b0821aa4991&scene=58&subscene=0#rd",
+        "网络安全顶刊——TDSC 2023 论文清单与摘要（2）": "https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247485276&idx=2&sn=d195d650cdf868e271c5c1738f5c371d&chksm=fb0413a4cc739ab2f79180f669278665510f0fabfb0ac69f542e5a6f3dca395e0e6c1ca9ddc5&scene=58&subscene=0#rd",
+        "网络安全顶刊——TDSC 2023 论文清单与摘要（3）": "https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247485276&idx=3&sn=a5c33b8ba43dd1675af83481fd678af6&chksm=fb0413a4cc739ab24fba987a1221571d93237adcf9f6bfade7391361b3e7b01997e9c16ea8f2&scene=58&subscene=0#rd",
+        "网络安全顶刊——TDSC 2023 论文清单与摘要（4）": "https://mp.weixin.qq.com/s?__biz=MzU0MzgzNTU0Mw==&mid=2247485276&idx=4&sn=06073f68e0129623668f27f773ba4665&chksm=fb0413a4cc739ab2916b76be771c16487052d65c8e9117a34fd4ec0f78bc43097e7975b70694&scene=58&subscene=0#rd"
+    },
+    "Securityinfo.it": {
+        "Gli U.S.A. pubblicano nuove linee guida per gestire i rischi dell’IA": "https://www.securityinfo.it/2024/05/02/gli-u-s-a-pubblicano-nuove-linee-guida-per-gestire-i-rischi-dell-ia/?utm_source=rss&utm_medium=rss&utm_campaign=gli-u-s-a-pubblicano-nuove-linee-guida-per-gestire-i-rischi-dell-ia",
+        "Microsoft “rompe” la VPN con l’ultimo update per Windows": "https://www.securityinfo.it/2024/05/02/microsoft-rompe-la-vpn-con-lultimo-update-per-windows/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-rompe-la-vpn-con-lultimo-update-per-windows"
+    },
+    "NETRESEC Network Security Blog": {
+        "PolarProxy 1.0 Released": "https://www.netresec.com/?page=Blog&month=2024-05&post=PolarProxy-1-0-Released"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "CEO who sold fake Cisco devices to US military gets 6 years in prison": "https://www.bleepingcomputer.com/news/security/ceo-who-sold-fake-cisco-devices-to-us-military-gets-6-years-in-prison/",
+        "Organizations patch CISA KEV list bugs 3.5 times faster than others, researchers find": "https://therecord.media/kev-list-vulnerabilities-patched-significantly-faster",
+        "Bitwarden launches new MFA Authenticator app for iOS, Android": "https://www.bleepingcomputer.com/news/software/bitwarden-launches-new-mfa-authenticator-app-for-ios-android/",
+        "Alleged China-based hackers using ‘Cuttlefish’ malware platform to target Turkey": "https://therecord.media/cuttlefish-malware-routers-turkey",
+        "CISA urges software devs to weed out path traversal vulnerabilities": "https://www.bleepingcomputer.com/news/security/cisa-urges-software-devs-to-weed-out-path-traversal-vulnerabilities/",
+        "Police shuts down 12 fraud call centres, arrests 21 suspects": "https://www.bleepingcomputer.com/news/security/police-shuts-down-12-fraud-call-centres-arrests-21-suspects/",
+        "What can we learn from the passwords used in brute-force attacks?": "https://blog.talosintelligence.com/threat-source-newsletter-may-2-2024/",
+        "Newly identified botnet targets decade-old flaw in unpatched D-Link devices": "https://therecord.media/goldoon-botnet-unpatched-dlink-routers",
+        "Microsoft warns of \"Dirty Stream\" attack impacting Android apps": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-dirty-stream-attack-impacting-android-apps/",
+        "Investigation uncovers substantial spyware exports to Indonesia": "https://therecord.media/indonesia-commercial-spyware-acquisition-investigation",
+        "Iranian state-backed cyber spies continue to impersonate media brands, think tanks": "https://therecord.media/apt42-impersonating-media-think-tanks-iran-espionage",
+        "Product Security Audits vs. Bug Bounty": "https://blog.doyensec.com/2024/05/02/products-security-audit-vs-bugbounty.html",
+        "REvil hacker behind Kaseya ransomware attack gets 13 years in prison": "https://www.bleepingcomputer.com/news/security/revil-hacker-behind-kaseya-ransomware-attack-gets-13-years-in-prison/",
+        "Microsoft won't fix Windows 0x80070643 errors, manual fix required": "https://www.bleepingcomputer.com/news/microsoft/microsoft-wont-fix-windows-0x80070643-errors-manual-fix-required/",
+        "Cybersecurity consultant arrested after allegedly extorting IT firm": "https://www.bleepingcomputer.com/news/legal/cybersecurity-consultant-arrested-after-allegedly-extorting-it-firm/",
+        "Gli U.S.A. pubblicano nuove linee guida per gestire i rischi dell’IA": "https://www.securityinfo.it/2024/05/02/gli-u-s-a-pubblicano-nuove-linee-guida-per-gestire-i-rischi-dell-ia/",
+        "LockBit publishes confidential data stolen from Cannes hospital in France": "https://therecord.media/lockbit-ransomware-hopital-de-cannes-data-published",
+        "Ukrainian sentenced to almost 14 years for infecting thousands with REvil ransomware": "https://therecord.media/revil-ransomware-yaroslav-vasinskyi-prison-sentence",
+        "Microsoft “rompe” la VPN con l’ultimo update per Windows": "https://www.securityinfo.it/2024/05/02/microsoft-rompe-la-vpn-con-lultimo-update-per-windows/"
+    },
+    "迪哥讲事": {
+        "记一次从登录框到前台rce": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247494486&idx=1&sn=10286369df3533012ecaba68da80c2a5&chksm=e8a5e135dfd268230250cef0bdd8aeb8a04ff00b10cc17f1aeabbc3c1ac52a589348d249d5b7&scene=58&subscene=0#rd"
+    },
+    "Schneier on Security": {
+        "The UK Bans Default Passwords": "https://www.schneier.com/blog/archives/2024/05/the-uk-bans-default-passwords.html"
+    },
+    "Diritto dell'Informatica": {
+        "Smartphone sempre rintracciabili: la nuova frontiera della geolocalizzazione offline": "https://www.dirittodellinformatica.it/ict/smartphone-sempre-rintracciabili-la-nuova-frontiera-della-geolocalizzazione-offline.html"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "Scans Probing for LB-Link and Vinga WR-AC1200 routers CVE-2023-24796, (Thu, May 2nd)": "https://isc.sans.edu/diary/rss/30890",
+        "ISC Stormcast For Thursday, May 2nd, 2024 https://isc.sans.edu/podcastdetail/8964, (Thu, May 2nd)": "https://isc.sans.edu/diary/rss/30888"
+    },
+    "Posts By SpecterOps Team Members - Medium": {
+        "Manual LDAP Querying: Part 2": "https://posts.specterops.io/manual-ldap-querying-part-2-8a65099e12e3?source=rss----f05f8696e3cc---4"
+    },
+    "娜璋AI安全之家": {
+        "[AI安全论文] (32)南洋理工大学刘杨教授——网络空间安全和AIGC整合之道学习笔记及强推（InForSec）": "https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247499894&idx=1&sn=b13567ba9da2116544931b0b3b32fb0d&chksm=cfcf70bbf8b8f9ad60043155333761e2d3a828f6b5952b33b73545830442f0c27963d34a3521&scene=58&subscene=0#rd"
+    },
+    "KitPloit - PenTest Tools!": {
+        "C2-Cloud - The C2 Cloud Is A Robust Web-Based C2 Framework, Designed To Simplify The Life Of Penetration Testers": "http://www.kitploit.com/2024/05/c2-cloud-c2-cloud-is-robust-web-based.html"
+    },
+    "Computer Forensics": {
+        "Best training for mobile forensics and car forensics": "https://www.reddit.com/r/computerforensics/comments/1cim95d/best_training_for_mobile_forensics_and_car/",
+        "Volatility 3: ISF Symbol Creation Error": "https://www.reddit.com/r/computerforensics/comments/1ciax88/volatility_3_isf_symbol_creation_error/"
+    },
+    "Social Engineering": {
+        "I want to exploit keypad entry during a vishing engagement, is this possible?": "https://www.reddit.com/r/SocialEngineering/comments/1cimkkw/i_want_to_exploit_keypad_entry_during_a_vishing/"
+    },
+    "Information Security": {
+        "One key to rule them all: Recovering the master key from RAM to break Android's file-based encryption": "https://www.reddit.com/r/Information_Security/comments/1cic4d4/one_key_to_rule_them_all_recovering_the_master/",
+        "I want to travel for work..": "https://www.reddit.com/r/Information_Security/comments/1cicsqq/i_want_to_travel_for_work/",
+        "Cyber Risk Management Strategy Discussion": "https://www.reddit.com/r/Information_Security/comments/1ci9xe0/cyber_risk_management_strategy_discussion/",
+        "The 101s on How to Protect Consumer Data": "https://www.reddit.com/r/Information_Security/comments/1ci3fyi/the_101s_on_how_to_protect_consumer_data/"
+    },
+    "Technical Information Security Content & Discussion": {
+        "It’s Morphin’ Time: Self-Modifying Code Sections with WriteProcessMemory for EDR Evasion": "https://www.reddit.com/r/netsec/comments/1ci87pd/its_morphin_time_selfmodifying_code_sections_with/"
+    },
+    "Your Open Hacker Community": {
+        "Failed hacks make your target stronger": "https://www.reddit.com/r/HowToHack/comments/1ci87a8/failed_hacks_make_your_target_stronger/",
+        "Why are man pages soo confusing?": "https://www.reddit.com/r/HowToHack/comments/1ci4s9r/why_are_man_pages_soo_confusing/",
+        "Tip: Automation playground on Google Colab": "https://www.reddit.com/r/HowToHack/comments/1cia6vy/tip_automation_playground_on_google_colab/"
+    },
+    "The Hacker News": {
+        "Popular Android Apps Like Xiaomi, WPS Office Vulnerable to File Overwrite Flaw": "https://thehackernews.com/2024/05/popular-android-apps-like-xiaomi-wps.html",
+        "Ukrainian REvil Hacker Sentenced to 13 Years and Ordered to Pay $16 Million": "https://thehackernews.com/2024/05/ukrainian-revil-hacker-sentenced-to-13.html",
+        "When is One Vulnerability Scanner Not Enough?": "https://thehackernews.com/2024/05/when-is-one-vulnerability-scanner-not.html",
+        "Dropbox Discloses Breach of Digital Signature Service Affecting All Users": "https://thehackernews.com/2024/05/dropbox-discloses-breach-of-digital.html",
+        "New \"Goldoon\" Botnet Targets D-Link Routers With Decade-Old Flaw": "https://thehackernews.com/2024/05/new-goldoon-botnet-targets-d-link.html",
+        "CISA Warns of Active Exploitation of Severe GitLab Password Reset Vulnerability": "https://thehackernews.com/2024/05/cisa-warns-of-active-exploitation-of.html",
+        "New Cuttlefish Malware Hijacks Router Connections, Sniffs for Cloud Credentials": "https://thehackernews.com/2024/05/new-cuttlefish-malware-hijacks-router.html"
+    },
+    "Security Affairs": {
+        "Ukrainian REvil gang member sentenced to 13 years in prison": "https://securityaffairs.com/162679/cyber-crime/revil-gang-member-sentenced.html",
+        "Pro-Russia hackers target critical infrastructure in North America and Europe": "https://securityaffairs.com/162672/hacking/pro-russia-hackers-target-critical-infrastructure.html",
+        "HPE Aruba Networking addressed four critical ArubaOS RCE flaws": "https://securityaffairs.com/162663/security/hpe-aruba-networking-critical-flaws.html",
+        "Threat actors hacked the Dropbox Sign production environment": "https://securityaffairs.com/162654/hacking/dropbox-sign-production-environment-hacked.html",
+        "CISA adds GitLab flaw to its Known Exploited Vulnerabilities catalog": "https://securityaffairs.com/162646/security/gitlab-known-exploited-vulnerabilities-catalog.html",
+        "Panda Restaurant Group disclosed a data breach": "https://securityaffairs.com/162633/data-breach/panda-restaurant-group-data-breach.html"
+    },
+    "Security Weekly Podcast Network (Audio)": {
+        "Kicking Off With Crypto - PSW #827": "http://sites.libsyn.com/18678/kicking-off-with-crypto-psw-827"
+    }
+}
