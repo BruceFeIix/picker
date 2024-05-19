@@ -1,0 +1,108 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2024-05-18 Review": "http://www.sec-wiki.com/?2024-05-18"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sat May 18 18:06:54 UTC 2024": "https://github.com/trickest/cve/commit/ebe5ff6447970dacb4735b47842398e436a4a1d6",
+        "Update Sat May 18 10:16:48 UTC 2024": "https://github.com/trickest/cve/commit/7103711bc240dad74f7a94a674a73f6c8de143de",
+        "Update Sat May 18 02:14:25 UTC 2024": "https://github.com/trickest/cve/commit/bf01cd540fed52677853cbf6af62ce7a6f17c90c"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Exploit for CVE-2023-4596 exploit": "https://sploitus.com/exploit?id=0B6AF725-2A3A-57C0-83A7-5907BB481236&utm_source=rss&utm_medium=rss",
+        "Exploit for CVE-2024-32002 exploit": "https://sploitus.com/exploit?id=C723A395-03C5-5419-89D4-CF82DFAE845A&utm_source=rss&utm_medium=rss",
+        "Exploit for CVE-2024-27972 exploit": "https://sploitus.com/exploit?id=BF642A68-F025-5774-8F05-63EA9FD8F97C&utm_source=rss&utm_medium=rss"
+    },
+    "Security Boulevard": {
+        "USENIX Security ’23 – Controlled Data Races In Enclaves: Attacks And Detection": "https://securityboulevard.com/2024/05/usenix-security-23-controlled-data-races-in-enclaves-attacks-and-detection/",
+        "London Drugs cyber attack: What businesses can learn from its week-long shutdown": "https://securityboulevard.com/2024/05/london-drugs-cyber-attack-what-businesses-can-learn-from-its-week-long-shutdown/",
+        "What is Secure Code Review and How to Conduct it?": "https://securityboulevard.com/2024/05/what-is-secure-code-review-and-how-to-conduct-it/"
+    },
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "TrojanSpy.Win64.EMOTET.A MVID-2024-0684 Code Execution": "https://cxsecurity.com/issue/WLB-2024050050"
+    },
+    "obaby@mars": {
+        "它": "https://h4ck.org.cn/2024/05/17063"
+    },
+    "CCC Event Blog": {
+        "Chaos Singularity 2024": "https://events.ccc.de/2024/05/18/cosin-2024/"
+    },
+    "黑海洋 - WIKI": {
+        "煎饼的一键DD/重装脚本": "https://www.upx8.com/4158",
+        "免费的在线字幕工具集合-字幕工具箱": "https://www.upx8.com/4157",
+        "夸克网盘资源搜索引擎": "https://www.upx8.com/4156"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "美亚利桑那州女子被控帮助朝鲜 IT 工人获得远程工作": "https://www.solidot.org/story?sid=78206",
+        "法国海外领土屏蔽 TikTok": "https://www.solidot.org/story?sid=78205",
+        "去年吃超辣玉米片死亡的男孩有先天心脏缺陷": "https://www.solidot.org/story?sid=78204",
+        "Twitter 终于死了": "https://www.solidot.org/story?sid=78203",
+        "《产品经理的AI服务搭建实操课》报名招募中": "https://www.solidot.org/story?sid=78202"
+    },
+    "七夜安全博客": {
+        "推荐1款开源文件同步程序，支持全平台，安全可靠，同步迅速": "https://mp.weixin.qq.com/s?__biz=MzIwODIxMjc4MQ==&mid=2651005153&idx=1&sn=fc30938e3993ead4c65f67fa660274e3&chksm=8cf106a3bb868fb51050bcbd47b24ededc637bb7182b92ff5bf379b0716c056fe0006b827369&scene=58&subscene=0#rd"
+    },
+    "看雪学苑": {
+        "句柄降权绕过CallBacks检查": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458555132&idx=1&sn=6f0145d1565fc60634cd996ba20900e9&chksm=b18da27686fa2b600a32895a9c3e88d2fea7c13a8de30454c8ae91a5e141c71c418670e95298&scene=58&subscene=0#rd",
+        "更新：CEF窗口创建 | Windows 开发不完全指南": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458555132&idx=2&sn=8218e3dfc56f58f1c0578058d9f13baf&chksm=b18da27686fa2b601b07817291cab389cb77e07382e7664f37ac64adefe08729d585070a6f5a&scene=58&subscene=0#rd"
+    },
+    "青衣十三楼飞花堂": {
+        "NSFOCUS旧友记--Python的伪科学(鬼)故事之回旋镖": "https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247487424&idx=1&sn=51f28cd1aa4f9ae8f6ba6994b80108b4&chksm=fab2ccffcdc545e94e7a47de2f78c1de8c88eaf60bdbd13de1479896011d0b0d93b820598ad3&scene=58&subscene=0#rd"
+    },
+    "dotNet安全矩阵": {
+        ".NET 矩阵W20增量红队工具集合": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247491859&idx=1&sn=6f8e792ce3a7a76dc6a15051cc5a484a&chksm=fa594ffecd2ec6e8763b6eae6d428c708d561b975e844df5320c787433d3a7903e52f96b4158&scene=58&subscene=0#rd",
+        ".NET 一款团队内部免杀的WebShell": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247491859&idx=2&sn=b43822679234d184e452e2cac71ed990&chksm=fa594ffecd2ec6e8c44732a1612e6674b8fe0a31784be08b9cc5c9e1a6b903e89afc8498a801&scene=58&subscene=0#rd",
+        ".NET 复现某多媒体中间件文件上传漏洞": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247491859&idx=3&sn=ebe810c1e94c17df49ec0f4e320aee64&chksm=fa594ffecd2ec6e80f08e91b8c351aa09191aa7b4bad41eeedfd1a9c73e0c6f532ce53c4ce03&scene=58&subscene=0#rd"
+    },
+    "极客公园": {
+        "OpenAI 将与 Reddit 开展数据合作；传高合汽车将获十亿美元重组资金；iPhone 电池或迎来重大升级 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653041458&idx=1&sn=c1cad9aeb6273ecfc212f7883deb39eb&chksm=7e574e844920c792b42132b11978bf0f7bba9e823a31e40bd3bb8237bbc36cfc30950d1257c3&scene=58&subscene=0#rd"
+    },
+    "吴鲁加": {
+        "辅助阅读长文章的学习工具": "https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247484713&idx=1&sn=609294486802e60555cd175bd1755b57&chksm=c01a8818f76d010ea3e80758ceb86850354f13305cae1c929afe1d08ed896773a8d96340b7f3&scene=58&subscene=0#rd"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "Banking malware Grandoreiro returns after police disruption": "https://www.bleepingcomputer.com/news/security/banking-malware-grandoreiro-returns-after-police-disruption/",
+        "Ransomware gang targets Windows admins via PuTTy, WinSCP malvertising": "https://www.bleepingcomputer.com/news/security/ransomware-gang-targets-windows-admins-via-putty-winscp-malvertising/",
+        "Android malware Grandoreiro returns after police disruption": "https://www.bleepingcomputer.com/news/security/android-malware-grandoreiro-returns-after-police-disruption/",
+        "Investigating Surfshark and NordVPN with JA4T": "https://medium.com/foxio/investigating-surfshark-and-nordvpn-with-ja4t-7bbf5a33aad0",
+        "Pastebin and Its Incidental OSINT": "https://www.secjuice.com/pastebin-incidental-osint/"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "Wireshark 4.2.5 Released, (Sat, May 18th)": "https://isc.sans.edu/diary/rss/30934"
+    },
+    "迪哥讲事": {
+        "一个高危的xss": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247494642&idx=1&sn=d9522db6b73bcc0727859a3ce42c5724&chksm=e8a5e191dfd26887d7e2101d58f092212ce77228d26d1309bbcd47c5ff05ac3eb8c189f0036b&scene=58&subscene=0#rd"
+    },
+    "Blackhat Library: Hacking techniques and research": {
+        "How can i radiate my grabber virus?": "https://www.reddit.com/r/blackhat/comments/1cv7tqz/how_can_i_radiate_my_grabber_virus/",
+        "A crazy vulnerability exploit story from my early days": "https://www.reddit.com/r/blackhat/comments/1cv7dur/a_crazy_vulnerability_exploit_story_from_my_early/",
+        "Where can i find legit hackers": "https://www.reddit.com/r/blackhat/comments/1cuws7m/where_can_i_find_legit_hackers/",
+        "Wattpad data breach — need password": "https://www.reddit.com/r/blackhat/comments/1culhr9/wattpad_data_breach_need_password/",
+        "darknet doxbins and pastebins?": "https://www.reddit.com/r/blackhat/comments/1cuo0fl/darknet_doxbins_and_pastebins/",
+        "Security question": "https://www.reddit.com/r/blackhat/comments/1culxld/security_question/"
+    },
+    "Information Security": {
+        "PostgreSQL database anonymization tool release. Greenmask v0.2.0b1": "https://www.reddit.com/r/Information_Security/comments/1cur49y/postgresql_database_anonymization_tool_release/"
+    },
+    "Technical Information Security Content & Discussion": {
+        "A Basic Guide to Discovering Attack Surface with Ghidra and GDB": "https://www.reddit.com/r/netsec/comments/1cuybo3/a_basic_guide_to_discovering_attack_surface_with/",
+        "Freeway for Network Pentesting": "https://www.reddit.com/r/netsec/comments/1cuujpn/freeway_for_network_pentesting/",
+        "RomHack CFP Closes May 31!": "https://www.reddit.com/r/netsec/comments/1cv4nph/romhack_cfp_closes_may_31/"
+    },
+    "Security Affairs": {
+        "North Korea-linked IT workers infiltrated hundreds of US firms": "https://securityaffairs.com/163349/intelligence/north-korea-linked-it-workers-infiltrated-us-firms.html"
+    },
+    "Social Engineering": {
+        "how to sneak someone in my appartement when I share the entry with my landlord.": "https://www.reddit.com/r/SocialEngineering/comments/1cuz4ze/how_to_sneak_someone_in_my_appartement_when_i/",
+        "How to turn disrespect into raw power": "https://www.reddit.com/r/SocialEngineering/comments/1cv7f96/how_to_turn_disrespect_into_raw_power/",
+        "How to become a ghost? Not literally ghost but like someone nobody knows about. Totally under the radar. To me I thing pros are way heavier than the cons about becoming a ghost.": "https://www.reddit.com/r/SocialEngineering/comments/1cuznr8/how_to_become_a_ghost_not_literally_ghost_but/",
+        "How do you fix things when your drunken self stuffs up?": "https://www.reddit.com/r/SocialEngineering/comments/1cuw3l5/how_do_you_fix_things_when_your_drunken_self/"
+    },
+    "netsecstudents: Subreddit for students studying Network Security and its related subjects": {
+        "How To: Use UFW(Uncomplicated Firewall) and Send the logs to Sentinel and Parse with a function for easy querying/viewing": "https://www.reddit.com/r/netsecstudents/comments/1cv0d1t/how_to_use_ufwuncomplicated_firewall_and_send_the/",
+        "ISSO or Information Assurance/ Security Audit?": "https://www.reddit.com/r/netsecstudents/comments/1cv01zz/isso_or_information_assurance_security_audit/",
+        "Why is IPsec transport mode \"vulnerable\" for not having integrity of variable fields? Why is this so important?": "https://www.reddit.com/r/netsecstudents/comments/1cuu9co/why_is_ipsec_transport_mode_vulnerable_for_not/"
+    },
+    "Computer Forensics": {
+        "Any Agent-based acquisition for IOS 17?": "https://www.reddit.com/r/computerforensics/comments/1cuvrvb/any_agentbased_acquisition_for_ios_17/"
+    }
+}
