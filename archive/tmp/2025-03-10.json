@@ -1,0 +1,181 @@
+{
+    "InfoSec Write-ups - Medium": {
+        "From Partial IDOR to GPS Tracking — API Flaw Explained": "https://infosecwriteups.com/from-partial-idor-to-gps-tracking-api-flaw-explained-5eebab2af32a?source=rss----7b722bfd1b8d---4",
+        "From Foothold to Takeover: Mastering Pivoting Moves": "https://infosecwriteups.com/from-foothold-to-takeover-mastering-pivoting-moves-d57310a86d37?source=rss----7b722bfd1b8d---4",
+        "Connecting Burp Suite to an Android Emulator": "https://infosecwriteups.com/connecting-burp-suite-to-an-android-emulator-d5100a675b81?source=rss----7b722bfd1b8d---4",
+        "Chemistry Walkthrough — HackTheBox": "https://infosecwriteups.com/chemistry-walkthrough-hackthebox-36ef34fe0462?source=rss----7b722bfd1b8d---4",
+        "Find Exposed Buckets and files, etc., with this resource.": "https://infosecwriteups.com/find-exposed-buckets-and-files-etc-with-this-resource-115f8865015b?source=rss----7b722bfd1b8d---4"
+    },
+    "SecWiki News": {
+        "SecWiki News 2025-03-09 Review": "http://www.sec-wiki.com/?2025-03-09"
+    },
+    "Twitter @Nicolas Krassas": {
+        "Re @omnigodzzz Awesome work, looking forward to seeing more in the future! Thank you": "https://x.com/Dinosn/status/1898747061224267976",
+        "Reversing Samsung's H-Arx Hypervisor Framework - Part 1 https://dayzerosec.com/blog/2025/03/08/reversing-samsungs-h-arx-hypervisor-part-1.html": "https://x.com/Dinosn/status/1898717008931303523",
+        "Popular Python Logging Library Vulnerable to Remote Code Execution (CVE-2025-27607) https://securityonline.info/popular-python-logging-library-vulnera...": "https://x.com/Dinosn/status/1898692583724871988",
+        "RT Duty: 🚀 SubCat v1.3.0 is out! Now featuring advanced tech detection, filtering, and reverse lookup mode for deeper subdomain intelligence. Check...": "https://x.com/Dinosn/status/1898661932028109180",
+        "CVE-2024-50394: QNAP Helpdesk Vulnerability Could Allow Remote System Compromise https://securityonline.info/cve-2024-50394-qnap-helpdesk-vulnerabilit...": "https://x.com/Dinosn/status/1898571960025542756"
+    },
+    "Security Boulevard": {
+        "BSides Exeter 2024 – Keynote: Matt Broomhall & Richard DeVere": "https://securityboulevard.com/2025/03/bsides-exeter-2024-keynote-matt-broomhall-richard-devere/?utm_source=rss&utm_medium=rss&utm_campaign=bsides-exeter-2024-keynote-matt-broomhall-richard-devere"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sun Mar  9 20:23:17 UTC 2025": "https://github.com/trickest/cve/commit/86578953d2a536ad47b50184acc1da1c856907e0",
+        "Update Sun Mar  9 12:28:53 UTC 2025": "https://github.com/trickest/cve/commit/c4cf27a7b529430e1dbea0bd315e9a95f93ae8df",
+        "Update Sun Mar  9 04:24:59 UTC 2025": "https://github.com/trickest/cve/commit/e0c71cdcd7fa99ae41ddcd75f9b56d72a1279fb8"
+    },
+    "一个被知识诅咒的人": {
+        "【人工智能】卷积神经网络的奥秘：深度学习的视觉革命": "https://blog.csdn.net/nokiaguy/article/details/146133669"
+    },
+    "Doonsec's feed": {
+        "一图读懂《反间谍安全防范工作规定》": "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247634902&idx=1&sn=aeab7c7f4a706cd73299e6fee6d72765",
+        "一图读懂 | 国家标准《网络安全技术 政务计算机终端核心配置规范》": "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247634902&idx=2&sn=f18cdaf1753763322035082b9bd61caa",
+        "Sitecore 曝零日漏洞，可执行任意代码攻击": "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247634902&idx=3&sn=87c638841df320c816ef0a7d421ea324",
+        "塔塔科技遭勒索攻击，1.4TB数据被泄露": "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247634902&idx=4&sn=a02f6bf033965af11575211f03c77a21",
+        "中文字符形近字的研究": "https://mp.weixin.qq.com/s?__biz=MzI3OTE4MTU5Mw==&mid=2247486110&idx=1&sn=1847f579da9114bced384741b6320740",
+        "网络安全人士必知的webshell哥斯拉": "https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247490584&idx=1&sn=07162841abb8881747cc29c826c72e4e",
+        "【资讯】天津市数据局对《天津市算力券实施方案（试行）（征求意见稿）》公开征求意见": "https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247550265&idx=1&sn=fb7c7c6cc267e3fc5519de48eb7f9421",
+        "【资讯】苏州市政府办公室印发《关于促进数据产业高质量发展的实施意见的通知》": "https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247550265&idx=2&sn=4bc31fcc34336c8df636dac54d2a4ed8",
+        "【资讯】南昌市政府办公室印发《南昌市支持制造业全面数字化转型的若干措施》": "https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247550265&idx=3&sn=1d7d5838a817ee99164aac40457db7ac",
+        "【资讯】广州南沙区科技局印发《南沙元宇宙产业先导示范区入驻管理暂行办法》": "https://mp.weixin.qq.com/s?__biz=MzU1NDY3NDgwMQ==&mid=2247550265&idx=4&sn=40ad55c6f00703dfa714cf9cdfb6435f",
+        "Vulnhub-election靶机，多重信息收集+suid提权": "https://mp.weixin.qq.com/s?__biz=MzkzNzg4MTI0NQ==&mid=2247486626&idx=1&sn=0cbdd4d1071d07aeaed20506b7e20492",
+        "聊聊DeepSeek与Manus": "https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484341&idx=1&sn=f0ad7a6418e6bea0557838f791c88562",
+        "湘安无事edu技术交流群": "https://mp.weixin.qq.com/s?__biz=MzU3Mjk2NDU2Nw==&mid=2247492854&idx=1&sn=fc1cda044f311ac85f26e15808116f65",
+        "学习笔记 | 用大模型来判断文档是否敏感": "https://mp.weixin.qq.com/s?__biz=MjM5Mjc0MDU1MQ==&mid=2452314009&idx=1&sn=ddf784856a4d19c4ef05b503b8a10ea2",
+        "《改个返回包接管全站？》": "https://mp.weixin.qq.com/s?__biz=MzkzODM0OTkwMA==&mid=2247487153&idx=1&sn=26b7b3c2b85002197c89d1b02b17c339",
+        "使用 x64dbg Automate 进行大规模分析": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247487591&idx=1&sn=f468131ff1b55e9b70d13096d8468b83",
+        "追寻自由之道": "https://mp.weixin.qq.com/s?__biz=Mzg3ODAzNjg5OA==&mid=2247485338&idx=1&sn=f69069d4fa3a70fed4244a82b599ba55",
+        "何凯文的“楚门世界”：一场流量时代的荒诞真人秀": "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247544607&idx=1&sn=ffe657c945c8436a44a403c331b5b977",
+        "特别笃定，DeepSeek 已经撞开了数智时代的大门！": "https://mp.weixin.qq.com/s?__biz=MzAxOTk3NTg5OQ==&mid=2247492517&idx=1&sn=2df6b1fc7f72e4d4337132d3d76c7a03",
+        "付费阅读：《数智时代：AI如何重塑我们和未来？》源PPT，会持续更新中......": "https://mp.weixin.qq.com/s?__biz=MzAxOTk3NTg5OQ==&mid=2247492517&idx=2&sn=765de5c6bdbfba9e3698452d360033e6",
+        "从联盟角度看待网安现状（英雄联盟之网安篇）": "https://mp.weixin.qq.com/s?__biz=MzkwMTU2NzMwOQ==&mid=2247484665&idx=1&sn=c0a4f2c9fe8933044d84a4dcbf678c4f",
+        "Python实现微信互拆体多开代码": "https://mp.weixin.qq.com/s?__biz=MzU1NDg4MjY1Mg==&mid=2247488684&idx=1&sn=e71d6b0b31f1c2c799339e34588c01c3",
+        "【最新漏洞播报】": "https://mp.weixin.qq.com/s?__biz=Mzg4MDg5NzAxMQ==&mid=2247485757&idx=1&sn=88c93afe3d77576996c88fd3a31b4901",
+        "ESP32 芯片被爆暗藏“命令”，或影响数十亿台物联网设备": "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650260681&idx=1&sn=3ae9f2fd3543e07eda6d82dbc6adbbe3",
+        "中国金融大模型发展白皮书": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655269812&idx=1&sn=1c9c967faf8ae5809828ade3ce0e64b7",
+        "我的评价是全是干货": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247518762&idx=1&sn=0ba0a31ae4a06c204d8f9870f329bbcc",
+        "春启新章 | 寒假淬炼沉淀 新学期剑指星辰": "https://mp.weixin.qq.com/s?__biz=MzkxNjcyMTc0NQ==&mid=2247484113&idx=1&sn=f1b541258cc73499c993daa537e7cf02",
+        "当ChatGPT突破防火墙：14亿人的数字保卫战已然打响！": "https://mp.weixin.qq.com/s?__biz=Mzg5MDU4NjYwOQ==&mid=2247484190&idx=1&sn=44a31fee15739d3ccc192c450ce63be9",
+        "新赛季！ATEC2025•人工智能机器人创新应用&安全": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247499884&idx=1&sn=6c432082919bd9c44b86380ae61d71aa",
+        "安天网络行为检测能力升级通告（20250309）": "https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650210356&idx=1&sn=512e855f1043b6eb5a7188b6f31e6cf8",
+        "两会报道丨光明网：民营企业创新力撬动经济内循环升级": "https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650210356&idx=2&sn=f3de123c564d0256e4bb1576cc47d2f5",
+        "OSPFv3和OSPFv2到底有啥区别？": "https://mp.weixin.qq.com/s?__biz=MzUyNTExOTY1Nw==&mid=2247528562&idx=1&sn=70408be44de1aa9cc8c37cc2b7e22023",
+        "什么是超融合数据中心网络？": "https://mp.weixin.qq.com/s?__biz=MzIyMzIwNzAxMQ==&mid=2649465974&idx=1&sn=8b4105d5d6e59198ae403e1b983e2613",
+        "工信部：关于防范针对DeepSeek本地化部署实施网络攻击的风险提示": "https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247598063&idx=1&sn=ef091de54f37c058de31fcf4d50708e8",
+        "120页PPT 厦门大学最新正式版-DeepSeek大模型赋能政府数字化转型": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655269764&idx=1&sn=0df6923983fc34edfca320832572d6be",
+        "188元，无需网络，DIY 开源AI-Box离线运行 DeepSeek /Qwen /Gemini 大模型！": "https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454937128&idx=1&sn=77db824bc39e2dd8c5bd774c96875a0e",
+        "合约开空悔亏，申请未成年退款？！": "https://mp.weixin.qq.com/s?__biz=Mzk0OTY3OTc5Mw==&mid=2247484951&idx=1&sn=d1f4528529a17e08fa05ab7dcf3fecb5",
+        "Linux 内核越界写入漏洞（CVE-2024-53104）": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094931&idx=1&sn=e3c2c8b464a873243e663da80de3035d",
+        "零接触也能窃密？警惕电磁泄漏": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652094931&idx=2&sn=b58c08b23b1ab5d02ad186047729ca31",
+        "AI大模型训练微调与数据集准备的系统性教程": "https://mp.weixin.qq.com/s?__biz=Mzg5MDQyMzg3NQ==&mid=2247484638&idx=1&sn=1fca1218649f0a0c670f8de93a8af49a"
+    },
+    "MaskRay": {
+        "Compiling C++ with the Clang API": "https://maskray.me/blog/2025-03-09-compiling-c++-with-clang-api"
+    },
+    "Bug Bounty in InfoSec Write-ups on Medium": {
+        "From Partial IDOR to GPS Tracking — API Flaw Explained": "https://infosecwriteups.com/from-partial-idor-to-gps-tracking-api-flaw-explained-5eebab2af32a?source=rss----7b722bfd1b8d--bug_bounty",
+        "Find Exposed Buckets and files, etc., with this resource.": "https://infosecwriteups.com/find-exposed-buckets-and-files-etc-with-this-resource-115f8865015b?source=rss----7b722bfd1b8d--bug_bounty"
+    },
+    "Didier Stevens": {
+        "Update: pdf-parser.py Version 0.7.11": "https://blog.didierstevens.com/2025/03/09/update-pdf-parser-py-version-0-7-11/"
+    },
+    "Reverse Engineering": {
+        "Lynx Ransomware Analysis; An Advanced Post-Exploitation Ransomware": "https://www.reddit.com/r/ReverseEngineering/comments/1j7bi8m/lynx_ransomware_analysis_an_advanced/",
+        "Advancements in Recompilation for retro gaming hardware": "https://www.reddit.com/r/ReverseEngineering/comments/1j7hn52/advancements_in_recompilation_for_retro_gaming/"
+    },
+    "赵武的自留地": {
+        "网络安全的时代机遇": "https://mp.weixin.qq.com/s?__biz=MjM5NDQ5NjM5NQ==&mid=2651626412&idx=1&sn=b17175f987a6338c9d1d242747d536fa&chksm=bd7ed1488a09585e272d9d65d52be572075057c236793e75df3e88ce290afc12af0be940326e&scene=58&subscene=0#rd"
+    },
+    "思想花火": {
+        "学习笔记 | 用大模型来判断文档是否敏感": "https://mp.weixin.qq.com/s?__biz=MjM5Mjc0MDU1MQ==&mid=2452314009&idx=1&sn=ddf784856a4d19c4ef05b503b8a10ea2&chksm=b17e52318609db27a66f60e9d5fc2c785487a213721754c333ee529a31d81bfa0c65c65acb4e&scene=58&subscene=0#rd"
+    },
+    "黑海洋 - IT技术知识库": {
+        "App Store伪装上架影视APP | iOS观影合集（持续更新）": "https://blog.upx8.com/2624"
+    },
+    "Shostack & Friends Blog": {
+        "The First Constitutional Crisis of 2025": "https://shostack.org/blog/the-first-constitutional-crisis-of-2025/"
+    },
+    "ChaMd5安全团队": {
+        "春秋云境MagicRelay WP": "https://mp.weixin.qq.com/s?__biz=MzIzMTc1MjExOQ==&mid=2247512195&idx=1&sn=f52cef985acd854bf996bd8e126d188a&chksm=e89d985bdfea114dcc8305500b0db71a8b4710f51185535ee85f77b761635e87951db945fbee&scene=58&subscene=0#rd"
+    },
+    "威努特安全网络": {
+        "威努特云桌面系统：高校智慧教学新基建": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651131535&idx=1&sn=2db6119ebcb09a2ddc0d204ea9d5d5e6&chksm=80e7143fb7909d291ca959873da19925e06bd34f825a6ad9702b75f0ae42b972761e34ab3c78&scene=58&subscene=0#rd"
+    },
+    "黑哥虾撩": {
+        "聊聊DeepSeek与Manus": "https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484341&idx=1&sn=f0ad7a6418e6bea0557838f791c88562&chksm=c050c9c4f72740d209a43ae4a6da10290a622dfebd0773f1b1c6040e3adf9f5b2adea11c88aa&scene=58&subscene=0#rd"
+    },
+    "网络空间安全科学学报": {
+        "学术前沿 | 南京邮电大学密码工程与信息安全团队：面向物联网的认证密钥协商协议研究综述": "https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247505185&idx=1&sn=4205600c4663d911fd94aff8413eb3aa&chksm=e9bfc19fdec84889c0fc3a923d5a1be9806426ab72785c0152d8a144af59182826c3304f4800&scene=58&subscene=0#rd"
+    },
+    "安全圈": {
+        "【安全圈】网络犯罪分子利用 DeepSeek 的流行度来传播木马化的 AI 客户端": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652068401&idx=1&sn=5600b75d725f6e90a4cbfddf6a7e10cc&chksm=f36e7671c419ff6779a718675ee5db31a65917f5d45ef1371139735e72117e0c2ca89cc281ea&scene=58&subscene=0#rd",
+        "【安全圈】美国特勤局主导的行动查封了 Garantex 加密货币交易所": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652068401&idx=2&sn=aa8cff3d814795a2126e35071802a530&chksm=f36e7671c419ff673f0f7813cd6df5cff808c44065636aef2e7370468a76227b047b2ab6a2e5&scene=58&subscene=0#rd",
+        "【安全圈】大规模网络攻击活动利用美国和中国的 4,000 个 ISP IP 进行凭证窃取和加密劫持": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652068401&idx=3&sn=5837f215d68ad78ddef593cdc7f26b35&chksm=f36e7671c419ff676cd7457746807b2ac3cde784ea64ea86d29410d9969fbbe9286cd27ed532&scene=58&subscene=0#rd",
+        "【安全圈】虚假验证码网络钓鱼活动影响超1150个组织": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652068401&idx=4&sn=65d9fb1f0ec0515e698cff3981995b80&chksm=f36e7671c419ff670961bd9cac8660f2d994cd917170374c8d7f801bc65f5228e8a7257668c7&scene=58&subscene=0#rd"
+    },
+    "安全研究GoSSIP": {
+        "新赛季！ATEC2025•人工智能机器人创新应用&安全": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247499884&idx=1&sn=6c432082919bd9c44b86380ae61d71aa&chksm=c063eeb5f71467a38770892f49998041a3c820795d161fb295bd4eae9787b976f6a7db31341f&scene=58&subscene=0#rd"
+    },
+    "极客公园": {
+        "千年宣纸拥抱新消费，「新质供给」开启非遗新潮流": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653075235&idx=1&sn=0b1fbba014577e4595f5861198f8cad4&chksm=7e57ca95492043836eb45531dc15188990be7d82a69f3263238e74c67ac9d96c2fc07a24bd46&scene=58&subscene=0#rd",
+        "时速200公里，SU7 Ultra车主被抓捕；Mistral新模型超DeepSeek；麦当劳门店引入AI技术 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653075234&idx=1&sn=641e2bf8746467f32b6b14062c065613&chksm=7e57ca944920438289eb8607f2bbbe270738a19ac1d9fffcc0aa33137f4f56a411f12dd4de26&scene=58&subscene=0#rd"
+    },
+    "情报分析师": {
+        "基于开源情报对CIA被裁员工未来动向的结构性分析": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650560197&idx=1&sn=b5febbeca831f6a03183510614d3dde4&chksm=8711788eb066f1981909ee515912f4d9fad763b48d09933622b08a474fae38ba222edf6beb4f&scene=58&subscene=0#rd",
+        "港口风云再起！李嘉诚抛售巴拿马43港，全球航运格局惊变": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650560197&idx=2&sn=fe2d24dbefddf95b3853a49832b59183&chksm=8711788eb066f198d6d83e4d97242dd414e31ee87c6d6e7c84fd9b933c0c31639efeea677c86&scene=58&subscene=0#rd"
+    },
+    "娜璋AI安全之家": {
+        "[安全开源分享] gmalg —— 纯Python实现的国密算法库（初学者强推）": "https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247501626&idx=1&sn=a260b0a2dfdcdf6f06b54c00f26c05b8&chksm=cfcf77f7f8b8fee131289fa43978e0f6a384aebfb90dbc59d133dbfa7c63019a3248615edb7e&scene=58&subscene=0#rd"
+    },
+    "放之": {
+        "追寻自由之道": "https://mp.weixin.qq.com/s?__biz=Mzg3ODAzNjg5OA==&mid=2247485338&idx=1&sn=f69069d4fa3a70fed4244a82b599ba55&chksm=cf189557f86f1c4190c201b00e2a3e5afa12ff2d5068c91235dcefeb87d6510698e43f39e7a0&scene=58&subscene=0#rd"
+    },
+    "迪哥讲事": {
+        "从任意文件读取到上线CS": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497255&idx=1&sn=8bd8f3ce8d9691a776c1effca4249371&chksm=e8a5fc44dfd275523300232ef6bc6b5bfff40139eaafc5fa5777ff2f7e7a1a1b28235ca49852&scene=58&subscene=0#rd"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "Tarlogic detects a hidden feature in the mass-market ESP32 chip that could infect millions of IoT devices": "https://www.tarlogic.com/news/backdoor-esp32-chip-infect-ot-devices/",
+        "New Chirp tool uses audio tones to transfer data between devices": "https://www.bleepingcomputer.com/news/software/new-chirp-tool-uses-audio-tones-to-transfer-data-between-devices/",
+        "US cities warn of wave of unpaid parking phishing texts": "https://www.bleepingcomputer.com/news/security/us-cities-warn-of-wave-of-unpaid-parking-phishing-texts/",
+        "Il Csirt regionale è un faro per la cybersecurity (di F. Fiorini)": "https://www.huffingtonpost.it/blog/2025/03/03/news/limportanza_del_csirt_regionale_un_faro_nella_cybersecurity-18570362/",
+        "Undocumented commands found in Bluetooth chip used by a billion devices": "https://www.bleepingcomputer.com/news/security/undocumented-commands-found-in-bluetooth-chip-used-by-a-billion-devices/"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "Commonly Probed Webshell URLs, (Sun, Mar 9th)": "https://isc.sans.edu/diary/rss/31748"
+    },
+    "Hacking Exposed Computer Forensics Blog": {
+        "Daily Blog #771: Solution Saturday 3/8/25": "https://www.hecfblog.com/2025/03/daily-blog-771-solution-saturday-3825.html"
+    },
+    "Computer Forensics": {
+        "mStrings: A Practical Approach to Malware String Analysis": "https://www.reddit.com/r/computerforensics/comments/1j774u7/mstrings_a_practical_approach_to_malware_string/",
+        "BitLocker Recovery Key questions": "https://www.reddit.com/r/computerforensics/comments/1j7i2an/bitlocker_recovery_key_questions/",
+        "Imaging IOS data from backup using RECON ITR": "https://www.reddit.com/r/computerforensics/comments/1j76ktn/imaging_ios_data_from_backup_using_recon_itr/"
+    },
+    "ICT Security Magazine": {
+        "Direttiva (UE) 2016/943 sulla protezione del Know-How e delle informazioni commerciali riservate": "https://www.ictsecuritymagazine.com/articoli/direttiva-ue-2016-943/"
+    },
+    "Technical Information Security Content & Discussion": {
+        "Injecting domain expertise into your AI system": "https://www.reddit.com/r/netsec/comments/1j76ap1/injecting_domain_expertise_into_your_ai_system/"
+    },
+    "Information Security": {
+        "Help me to chose what domain i need to get into as beginner": "https://www.reddit.com/r/Information_Security/comments/1j78gku/help_me_to_chose_what_domain_i_need_to_get_into/",
+        "AI Surveillance & Privacy: Can They Coexist?": "https://www.reddit.com/r/Information_Security/comments/1j70n67/ai_surveillance_privacy_can_they_coexist/"
+    },
+    "Security Affairs": {
+        "Undocumented hidden feature found in Espressif ESP32 microchip": "https://securityaffairs.com/175102/hacking/undocumented-hidden-feature-espressif-esp32-microchip.html",
+        "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 36": "https://securityaffairs.com/175124/malware/security-affairs-malware-newsletter-round-36.html",
+        "Security Affairs newsletter Round 514 by Pierluigi Paganini – INTERNATIONAL EDITION": "https://securityaffairs.com/175115/security/security-affairs-newsletter-round-514-by-pierluigi-paganini-international-edition.html"
+    },
+    "RedTeam": {
+        "企业信息安全能力建设的飞轮框架与可扩展路径": "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484355&idx=1&sn=cc5e493d6ac795cdca090331836f1f7e&chksm=c006cb33f7714225b8a7baa22e35bd85795a57c7e931275015d9bba058f5f451aa1e45c2ee99&scene=58&subscene=0#rd"
+    },
+    "Your Open Hacker Community": {
+        "There is no way we're ALL smart enough to actually become good at this?!": "https://www.reddit.com/r/HowToHack/comments/1j78ksq/there_is_no_way_were_all_smart_enough_to_actually/",
+        "Backdating Messages/Emails": "https://www.reddit.com/r/HowToHack/comments/1j7l7zp/backdating_messagesemails/",
+        "Home Lab Network": "https://www.reddit.com/r/HowToHack/comments/1j7h98u/home_lab_network/",
+        "Stuck on PortSwigger Academy Lab - CORS Vulnerability with Trusted Null Origin": "https://www.reddit.com/r/HowToHack/comments/1j766ux/stuck_on_portswigger_academy_lab_cors/",
+        "Is there trust us would kicked around To order drugs ?": "https://www.reddit.com/r/HowToHack/comments/1j7juxr/is_there_trust_us_would_kicked_around_to_order/",
+        "Is checkm8 malware": "https://www.reddit.com/r/HowToHack/comments/1j6wbl7/is_checkm8_malware/",
+        "Ip": "https://www.reddit.com/r/HowToHack/comments/1j6ygrv/ip/"
+    }
+}
