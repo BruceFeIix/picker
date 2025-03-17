@@ -1,0 +1,169 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2025-03-16 Review": "http://www.sec-wiki.com/?2025-03-16"
+    },
+    "Der Flounder": {
+        "Using /usr/libexec/mdmclient DumpManagementStatus to get information about MDM management": "https://derflounder.wordpress.com/2025/03/16/using-usr-libexec-mdmclient-dumpmanagementstatus-to-get-information-about-mdm-management/"
+    },
+    "Security Boulevard": {
+        "Why Only Phishing Simulations Are Not Enough": "https://securityboulevard.com/2025/03/why-only-phishing-simulations-are-not-enough/?utm_source=rss&utm_medium=rss&utm_campaign=why-only-phishing-simulations-are-not-enough",
+        "BSides Exeter 2024 – Blue Track – Lessons From The ISOON Leaks": "https://securityboulevard.com/2025/03/bsides-exeter-2024-blue-track-lessons-from-the-isoon-leaks/?utm_source=rss&utm_medium=rss&utm_campaign=bsides-exeter-2024-blue-track-lessons-from-the-isoon-leaks"
+    },
+    "InfoSec Write-ups - Medium": {
+        "A website that will be helpful in your bug bounty journey.": "https://infosecwriteups.com/a-website-that-will-be-helpful-in-your-bug-bounty-journey-de4f0f1721a8?source=rss----7b722bfd1b8d---4",
+        "SOC338 — Lumma Stealer — DLL Side-Loading via Click Fix Phishing": "https://infosecwriteups.com/soc338-lumma-stealer-dll-side-loading-via-click-fix-phishing-8d56a20f4acc?source=rss----7b722bfd1b8d---4",
+        "CVE-2025–24813: Apache Tomcat Path Equivalence Vulnerability $$$$ BOUNTY": "https://infosecwriteups.com/cve-2025-24813-apache-tomcat-path-equivalence-vulnerability-bounty-961350b31e16?source=rss----7b722bfd1b8d---4",
+        "What After choosing a target ? Recon Methodology— Bug Bounty Restart Phase 3": "https://infosecwriteups.com/what-after-choosing-a-target-recon-methodology-bug-bounty-restart-phase-3-8d83afee5116?source=rss----7b722bfd1b8d---4"
+    },
+    "Jiajun的技术笔记": {
+        "A RC script for freebsd frpc": "https://jiajunhuang.com/articles/2025_03_16-freebsd_frpc.md.html"
+    },
+    "Doonsec's feed": {
+        "探索现代 Windows 内核堆": "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247487752&idx=1&sn=8903727ba960c9dc12b0b95c1bc99d9e",
+        "315曝光：你的隐私正在被“信息黑洞”吞噬！百亿数据成商品？": "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247544715&idx=1&sn=0044bcaa180751932b85dd5e92f56860",
+        "云安全(七)：Docker": "https://mp.weixin.qq.com/s?__biz=MzkyMjUzNTM1Mw==&mid=2247487167&idx=1&sn=a6e80141188c2bad69153bdedd441296",
+        "新华社：中国电信、中国移动、中国联通，集体回应！": "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652114851&idx=1&sn=a651abbc5cab395629336db0f65a235e",
+        "黑进学校系统...RCE...": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497281&idx=1&sn=9785d3972cca586c851eb32b1b5c9741",
+        "批量IP反查域名，够快速查询指定IP/域名关联的所有网站。": "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247511120&idx=1&sn=b392bfce141fa65ad23b53d4ef73dac8",
+        "分享一下群友的 Mac 移动硬盘": "https://mp.weixin.qq.com/s?__biz=MzUyMzE1MzI3NA==&mid=2247486569&idx=1&sn=c3768039e96945f53dd0de5878908ffd",
+        "终极拷问：当AI成为基础生产力，你到底是造车人、开车人，还是被碾碎的路面？": "https://mp.weixin.qq.com/s?__biz=MzAxOTk3NTg5OQ==&mid=2247492542&idx=1&sn=f9e7362d48a0953933778bc9f16f1278",
+        "SRC漏洞挖掘之文件上传漏洞挖掘实战指南": "https://mp.weixin.qq.com/s?__biz=Mzg5MDU4NjYwOQ==&mid=2247484223&idx=1&sn=feba755768b8f849823e57dae54399e0",
+        "白帽子的 “挖宝游戏”：一篇文章搞懂 SRC 漏洞挖掘！小白必看！": "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484669&idx=1&sn=82a9a982ee9d4f43c3290d5d51ccc4ee",
+        "Intelbras-Wireless-未授权与密码泄露-CVE-2021-3017": "https://mp.weixin.qq.com/s?__biz=MzkyOTg3ODc5OA==&mid=2247484669&idx=2&sn=c1b532838dd0610644a601decaa5b2f7",
+        "HTB靶机 - dog记录": "https://mp.weixin.qq.com/s?__biz=Mzk1Nzk3MjA5Ng==&mid=2247484110&idx=1&sn=17e8ae5326b7eb95239d21915e746e80",
+        "AI《提示工程师》认证指南！": "https://mp.weixin.qq.com/s?__biz=Mzg4MTg0MjQ5OA==&mid=2247488126&idx=1&sn=1c0573fb21b580b2e9f08f8e6a0fff9e",
+        "朋友新购一台 Mac Pro M4（10+10C/32G/2T）作为办公机器，分享一下第一时间安装的软件": "https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491249&idx=1&sn=1228c4281f2d5e2c2f83de58eb86d67a",
+        "坚持梦想并相信自己": "https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491245&idx=1&sn=d56b851cd19c19bc93cdcd179037f8a1",
+        "强制性国家标准 GB 44495 - 2024《汽车整车信息安全技术要求》": "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247622471&idx=1&sn=29e1ccbb5297818a38cb5d62b09a0fd9",
+        "GB 44496—2024《汽车软件升级通用技术要求》": "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247622471&idx=2&sn=939e1523c319f9ca125e36393e073709",
+        "一图读懂强制性国家标准GB 44496—2024《汽车软件升级通用技术要求》": "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247622471&idx=3&sn=fa6b99626957a96800190ab01c679377",
+        "深度解读DeepSeek": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655270713&idx=1&sn=e719f27ec2add293ecf0b0e7096193d2",
+        "【漏洞复现】Apache Tomcat 命令执行漏洞（CVE-2025-24813)": "https://mp.weixin.qq.com/s?__biz=MzU3NDY3MzA2Ng==&mid=2247484165&idx=1&sn=079a104fd320c9c27612368c79e5ef6a",
+        "API接口数据泄露": "https://mp.weixin.qq.com/s?__biz=MzkxODM5NDA3Nw==&mid=2247484521&idx=1&sn=3e0df168ca8baa7c4931606f5b83c151",
+        "基于协程并发的Web敏感文件扫描器，精准探测备份文件、配置泄露及版本控制目录暴露风险": "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247493818&idx=1&sn=e65c2e5827a9eb198bb5144bb555cc70",
+        "【工具分享】这台\\\"离线扫描仪\\\"让你工作效率翻倍：纯内网离线版OCR文字识别神器，小巧开源 解压即用": "https://mp.weixin.qq.com/s?__biz=MzA3MzgwMzYyMA==&mid=2452890428&idx=1&sn=fd861fda8252863dd40d5b77a001afed",
+        "IMF爆肝7小时绿野仙踪寻找6大flag，层层递进、sqlmap、bp、weevely、nc、cve-2021-4034齐装上阵": "https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247484341&idx=1&sn=e4ec9ef45b99fd24053300313548b169",
+        "招聘|阿里云|高级安全工程师": "https://mp.weixin.qq.com/s?__biz=Mzg2NTcyNjU4Nw==&mid=2247485941&idx=1&sn=a02f93d4bb5cac2fc9eb4abb11389aa8",
+        "【漏洞挖掘案例】18w身份证泄露！某211高校信息泄露导致的RCE，影响全校用户！": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247518797&idx=1&sn=101e1dea5510e128c9f55d8311ff6a3b",
+        "SRC专项知识库": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247518797&idx=2&sn=7e316fe426ea722d5e2e968e86ca33c4",
+        "MiSRC「白帽赏金挑战赛」上线！提交漏洞赢多重奖励~": "https://mp.weixin.qq.com/s?__biz=MzI2NzI2OTExNA==&mid=2247518027&idx=1&sn=32dc85072594e95e1c10986972ae569b"
+    },
+    "MaskRay": {
+        "Relocation generation in assemblers": "https://maskray.me/blog/2025-03-16-relocation-generation-in-assemblers"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sun Mar 16 16:14:18 UTC 2025": "https://github.com/trickest/cve/commit/40b65b2c0b726a38bd9374c1c1c79222dbbc1047"
+    },
+    "Twitter @bytehx": {
+        "Re @0x_xnum Congrats!": "https://x.com/bytehx343/status/1901187654386917750"
+    },
+    "Hacking Dream": {
+        "IPv6 DNS Takeover - Attacking & Exploitation IPV6": "https://www.hackingdream.net/2025/03/ipv6-dns-takeover-attacking-exploiting-ipv6.html"
+    },
+    "Bug Bounty in InfoSec Write-ups on Medium": {
+        "A website that will be helpful in your bug bounty journey.": "https://infosecwriteups.com/a-website-that-will-be-helpful-in-your-bug-bounty-journey-de4f0f1721a8?source=rss----7b722bfd1b8d--bug_bounty",
+        "CVE-2025–24813: Apache Tomcat Path Equivalence Vulnerability $$$$ BOUNTY": "https://infosecwriteups.com/cve-2025-24813-apache-tomcat-path-equivalence-vulnerability-bounty-961350b31e16?source=rss----7b722bfd1b8d--bug_bounty",
+        "What After choosing a target ? Recon Methodology— Bug Bounty Restart Phase 3": "https://infosecwriteups.com/what-after-choosing-a-target-recon-methodology-bug-bounty-restart-phase-3-8d83afee5116?source=rss----7b722bfd1b8d--bug_bounty"
+    },
+    "Reverse Engineering": {
+        "GTA Vice City reverse engineered / ported to run on Dreamcast": "https://www.reddit.com/r/ReverseEngineering/comments/1jcvo0l/gta_vice_city_reverse_engineered_ported_to_run_on/",
+        "A high-performance C++ framework for emulating executable binaries inspired by Qiling": "https://www.reddit.com/r/ReverseEngineering/comments/1jct7wx/a_highperformance_c_framework_for_emulating/"
+    },
+    "安全分析与研究": {
+        "新型RL窃密木马样本分析": "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247491093&idx=1&sn=1e518c4a3d6667accc37784425dcbb56&chksm=902fb13da758382bb633caa673c96b53eaae919960e2308bec42fbfd0366dbda843288e5c1ed&scene=58&subscene=0#rd"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "Waymo 的无人出租车去年在旧金山收到了 589 张违反停车规定的罚单": "https://www.solidot.org/story?sid=80802",
+        "美国 Z 世代的储蓄不足以支付一个月的开支": "https://www.solidot.org/story?sid=80801",
+        "移除对 32 位 PhysX 支持影响英伟达新显卡性能": "https://www.solidot.org/story?sid=80800"
+    },
+    "虎符智库": {
+        "2025 AI大模型安全防护：AI 安全部署实战指南": "https://mp.weixin.qq.com/s?__biz=MzIwNjYwMTMyNQ==&mid=2247493045&idx=1&sn=7b3bbb10cce3eb79ba8d2ae87ef0e0fc&chksm=971d88b7a06a01a1497d1db083e6411edea82c7c13fa15d9cdaef47c454ca01f0ea924e63f3c&scene=58&subscene=0#rd"
+    },
+    "威努特安全网络": {
+        "守护教育数据——威努特高校数据中心灾备方案深度解析": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651131660&idx=1&sn=a152b1812c2ba511f2d5bec770351dcd&chksm=80e715bcb7909caa5d60c145bd083d307a1438664442965e0e27e1d73f9013c556f1ba73f52a&scene=58&subscene=0#rd"
+    },
+    "侠易龙门阵": {
+        "《凡人修仙传》经典问辩之论善恶": "https://mp.weixin.qq.com/s?__biz=MzIxODYyNjczNA==&mid=2247483915&idx=1&sn=ae9b4d6ce3606445d06e8141253e27e8&chksm=97e6edcaa09164dc2e735d6d3b94980c9315a6635bae22d768be091a43362a339019222bb838&scene=58&subscene=0#rd"
+    },
+    "安全圈": {
+        "【安全圈】315晚会曝光偷信息“黑洞”，平台一天处理百亿条数据": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652068519&idx=1&sn=caf7880c3563cbc8019913736627788b&chksm=f36e76e7c419fff13e4d834b4fb324ed6e8c1f6b27f492b4e7b465ec18303736161be1f12b4f&scene=58&subscene=0#rd",
+        "【安全圈】塔塔被曝遭遇勒索软件攻击，总量 1.4TB 的超 73 万个文档被窃": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652068519&idx=2&sn=cf21ee5bd76c346cfdb3846f3557400f&chksm=f36e76e7c419fff13c1f6461011723eb0d124d516c54fb8b0772ffe16c50df5ba71989a0fc1f&scene=58&subscene=0#rd",
+        "【安全圈】网络犯罪的“智能帮凶”：AI 智能体成黑客新武器": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652068519&idx=3&sn=f5d41396cb24404a365164b8f724ae19&chksm=f36e76e7c419fff11a0bb0eb090da5c138de38e2f1642fbe58a5f567deb7cf69aa82e95cfcec&scene=58&subscene=0#rd"
+    },
+    "dotNet安全矩阵": {
+        ".NET内网实战：通过系统白名单文件 Fodhelper.exe 绕过 UAC 实现提权": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499141&idx=1&sn=24ce62e9e2f1bba1bccd76b6786da611&chksm=fa595368cd2eda7e4cb3b78500401ab517bf3083d4392cb4be04d46d6f38fd14e31b3a50298f&scene=58&subscene=0#rd",
+        ".NET 安全攻防知识交流社区": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499141&idx=2&sn=29500fa7f46ce0d7954c8938c3c33ece&chksm=fa595368cd2eda7e838d9bdffc131b570dc978fb46a02a7be404ecf1a3d05f974485e59574aa&scene=58&subscene=0#rd",
+        ".NET 总第 63 期红队武器库和资源汇总": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499141&idx=3&sn=ea4ae37572322ffe3e4a285e900a2691&chksm=fa595368cd2eda7e79305f8f283090102ddf0e75e39a9f9b226b6b3133b32a955f751030e1f5&scene=58&subscene=0#rd"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【资料】美国2025国防授权法案中暗示陆军将采购开源情报工具": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651149445&idx=1&sn=9e9aaa435ee41178495d23eac2640ac0&chksm=f1af23bfc6d8aaa93cf60ba4743cef9193715552915cad4274a67c4e4b314ad7aa775914a1f5&scene=58&subscene=0#rd"
+    },
+    "极客公园": {
+        "AI 大模型创业，悄悄盯上年轻人最爱的「谷子经济」": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653075805&idx=1&sn=51e34213be783a9979f34e8e25c7d3a6&chksm=7e57c4eb49204dfd66a0362a5913044e6a7d9a0b9b2e9e52a79bdd14014407a1dfbb31d57ae8&scene=58&subscene=0#rd",
+        "狂揽 1445 亿！毛利碾压特斯拉，理想却要豪赌 AI？": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653075804&idx=1&sn=3e8dc6c50d7413db6bab1492f144fb2e&chksm=7e57c4ea49204dfc3bab70e71563d203f6b2a43746286e5b2962f4dbf59eea61877c4cc3e2bc&scene=58&subscene=0#rd",
+        "OpenAI 攻击 DeepSeek 有「重大风险」；米哈游创始人「AI 游戏」曝光；315 光 「AI 灰产」 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653075803&idx=1&sn=52587b5154f25d9d137ea5e37302ea66&chksm=7e57c4ed49204dfb44e6071500fda7f6ba77f26f2039b0df6edb931c7c9960328e81a509b77a&scene=58&subscene=0#rd"
+    },
+    "山石网科安全技术研究院": {
+        "Deep Java Library (DJL) CVE-2025-0851 漏洞复现与深度剖析": "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247511471&idx=1&sn=32bd67757c2cbd6a79189bf1477d235b&chksm=fa527811cd25f107c9c9199292c9f0a93ad38ab2182c46f4066d25a5220f2f60f25701767127&scene=58&subscene=0#rd"
+    },
+    "字节跳动技术团队": {
+        "豆包文生图技术报告发布！数据处理、预训练、RLHF全流程公开": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247513736&idx=1&sn=7a8d400accd2eb22997fceba43eaa7fc&chksm=e9d37d6adea4f47c18cab5c18f276bd751702b4a4b2051fa7b44a4cf0f664303185a7d36bb2d&scene=58&subscene=0#rd"
+    },
+    "吴鲁加": {
+        "脾气": "https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485227&idx=1&sn=fa3fef73b9c0057663a44e3dcd42e05d&chksm=c01a8a1af76d030c2dfc0705a92faad69ca829c502c082171f701e8f00fa74996e8b4a756fe7&scene=58&subscene=0#rd"
+    },
+    "迪哥讲事": {
+        "黑进学校系统...RCE...": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497281&idx=1&sn=9785d3972cca586c851eb32b1b5c9741&chksm=e8a5fc22dfd2753444238dc2c97ba7e6bdab8c89d95f3658e9400208557e84e3bd3f32ec9086&scene=58&subscene=0#rd"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "Fake \"Security Alert\" issues on GitHub use OAuth app to hijack accounts": "https://www.bleepingcomputer.com/news/security/fake-security-alert-issues-on-github-use-oauth-app-to-hijack-accounts/",
+        "Malicious Adobe, DocuSign OAuth apps target Microsoft 365 accounts": "https://www.bleepingcomputer.com/news/security/malicious-adobe-docusign-oauth-apps-target-microsoft-365-accounts/",
+        "Guerre di Rete - Dal Bybit hack al Fort Knox digitale": "https://guerredirete.substack.com/p/guerre-di-rete-dal-bybit-hack-al",
+        "New Akira ransomware decryptor cracks encryptions keys using GPUs": "https://www.bleepingcomputer.com/news/security/gpu-powered-akira-ransomware-decryptor-released-on-github/"
+    },
+    "Troy Hunt's Blog": {
+        "Weekly Update 443": "https://www.troyhunt.com/weekly-update-443/"
+    },
+    "Hacking Exposed Computer Forensics Blog": {
+        "Daily Blog #778: Solution Saturday 3/15/25": "https://www.hecfblog.com/2025/03/daily-blog-778-solution-saturday-31525.html"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "Mirai Bot now incroporating (malformed&#x3f;) DrayTek Vigor Router Exploits, (Sun, Mar 16th)": "https://isc.sans.edu/diary/rss/31770"
+    },
+    "Security Affairs": {
+        "Denmark warns of increased state-sponsored campaigns targeting the European telcos": "https://securityaffairs.com/175479/intelligence/denmark-warns-of-increased-state-sponsored-campaigns-targeting-the-european-telcos.html",
+        "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 37": "https://securityaffairs.com/175472/malware/security-affairs-malware-newsletter-round-37.html",
+        "Security Affairs newsletter Round 515 by Pierluigi Paganini – INTERNATIONAL EDITION": "https://securityaffairs.com/175462/breaking-news/security-affairs-newsletter-round-515-by-pierluigi-paganini-international-edition.html",
+        "A ransomware attack hit the Micronesian state of Yap, causing the health system network to go down.": "https://securityaffairs.com/175445/cyber-crime/a-ransomware-attack-hit-the-micronesian-state-of-yap.html"
+    },
+    "Blackhat Library: Hacking techniques and research": {
+        "Unpacking the Diicot Malware Targeting Linux Environments": "https://www.reddit.com/r/blackhat/comments/1jcrs6a/unpacking_the_diicot_malware_targeting_linux/"
+    },
+    "Your Open Hacker Community": {
+        "Looking for a nice snd active group (which tolerate beginners?)": "https://www.reddit.com/r/HowToHack/comments/1jcu165/looking_for_a_nice_snd_active_group_which/",
+        "How to make malware bypass microsoft defender?": "https://www.reddit.com/r/HowToHack/comments/1jcfhs4/how_to_make_malware_bypass_microsoft_defender/",
+        "I’m looking for a hacker": "https://www.reddit.com/r/HowToHack/comments/1jcyrt5/im_looking_for_a_hacker/",
+        "So I need help on how extract the files or modify the files of a disposable vape screen for a Wefume vape to run 1993 doom on it": "https://www.reddit.com/r/HowToHack/comments/1jccl9e/so_i_need_help_on_how_extract_the_files_or_modify/",
+        "How do I hack wifi password[Educational purposes]": "https://www.reddit.com/r/HowToHack/comments/1jclf2k/how_do_i_hack_wifi_passwordeducational_purposes/",
+        "How to clear the logs": "https://www.reddit.com/r/HowToHack/comments/1jcfl0v/how_to_clear_the_logs/"
+    },
+    "Information Security": {
+        "Software Developer Convicted of Sabotaging his Employer’s Computer Systems and Deleting Data": "https://www.reddit.com/r/Information_Security/comments/1jcyh24/software_developer_convicted_of_sabotaging_his/",
+        "Fortinet Cybersecurity Survey": "https://www.reddit.com/r/Information_Security/comments/1jcvion/fortinet_cybersecurity_survey/"
+    },
+    "Deeplinks": {
+        "The Foilies 2025": "https://www.eff.org/deeplinks/2025/03/foilies-2025"
+    },
+    "Social Engineering": {
+        "Our emotional responses to tragedy often focus on proportions rather than total numbers—a bias that can skew our judgment about where help is most needed. [article]": "https://www.reddit.com/r/SocialEngineering/comments/1jcdzd5/our_emotional_responses_to_tragedy_often_focus_on/",
+        "Why most people are predictable even if they think they're unique": "https://www.reddit.com/r/SocialEngineering/comments/1jckqx4/why_most_people_are_predictable_even_if_they/",
+        "We need to ressurrect the Vitality of the Religious feeling!": "https://www.reddit.com/r/SocialEngineering/comments/1jcutmm/we_need_to_ressurrect_the_vitality_of_the/"
+    },
+    "Deep Web": {
+        "So i recently heard about Daisy's Destruction": "https://www.reddit.com/r/deepweb/comments/1jcszrm/so_i_recently_heard_about_daisys_destruction/"
+    },
+    "Daniel Miessler": {
+        "Coding is Thinking": "https://danielmiessler.com/blog/thinking-coding"
+    }
+}
