@@ -1,0 +1,146 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2025-04-12 Review": "http://www.sec-wiki.com/?2025-04-12"
+    },
+    "Security Boulevard": {
+        "Rest Assured with Top-tier Cloud-Native Security": "https://securityboulevard.com/2025/04/rest-assured-with-top-tier-cloud-native-security/?utm_source=rss&utm_medium=rss&utm_campaign=rest-assured-with-top-tier-cloud-native-security",
+        "Exploring Innovative NHIs Lifecycle Management Solutions": "https://securityboulevard.com/2025/04/exploring-innovative-nhis-lifecycle-management-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=exploring-innovative-nhis-lifecycle-management-solutions",
+        "BSidesLV24 – Breaking Ground – From Keyless To Careless: Abusing Misconfigured OIDC Authentication In Cloud Environments": "https://securityboulevard.com/2025/04/bsideslv24-breaking-ground-from-keyless-to-careless-abusing-misconfigured-oidc-authentication-in-cloud-environments/?utm_source=rss&utm_medium=rss&utm_campaign=bsideslv24-breaking-ground-from-keyless-to-careless-abusing-misconfigured-oidc-authentication-in-cloud-environments"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sat Apr 12 16:13:08 UTC 2025": "https://github.com/trickest/cve/commit/3216dc26ad6d2f3d4aac45cdafc8c1d76b863b87"
+    },
+    "InfoSec Write-ups - Medium": {
+        "Bug Bounty Recon Starter Pack: Tools, Coffee, Existential Crisis": "https://infosecwriteups.com/bug-bounty-recon-starter-pack-tools-coffee-existential-crisis-8ca172820ede?source=rss----7b722bfd1b8d---4",
+        "Flipper Zero Episode 2: What is RFID and How Does It Work?": "https://infosecwriteups.com/flipper-zero-episode-2-what-is-rfid-and-how-does-it-work-1561709cc1a5?source=rss----7b722bfd1b8d---4",
+        "Bluetooth Low Energy Stack And Terminologies": "https://infosecwriteups.com/bluetooth-low-energy-stack-and-terminologies-31e4e080cd2a?source=rss----7b722bfd1b8d---4",
+        "5 Web Vulnerabilities That Paid Me the Most (And How to Find Them!)": "https://infosecwriteups.com/5-web-vulnerabilities-that-paid-me-the-most-and-how-to-find-them-42f3f922740d?source=rss----7b722bfd1b8d---4",
+        "OTP BYPASS METHODOLOGIES": "https://infosecwriteups.com/otp-bypass-methodologies-3ed951d1eb12?source=rss----7b722bfd1b8d---4",
+        "Malware Persistence: How Hackers Stay Alive on Your System (And How to Stop Them)": "https://infosecwriteups.com/malware-persistence-how-hackers-stay-alive-on-your-system-and-how-to-stop-them-31d684569868?source=rss----7b722bfd1b8d---4"
+    },
+    "Hacking Dream": {
+        "Abusing GMSA Permissions - What You Need to Know as a Pentester": "https://www.hackingdream.net/2025/04/abusing-gmsa-permissions-what-you-need-to-know-as-pentester.html"
+    },
+    "Bug Bounty in InfoSec Write-ups on Medium": {
+        "Bug Bounty Recon Starter Pack: Tools, Coffee, Existential Crisis": "https://infosecwriteups.com/bug-bounty-recon-starter-pack-tools-coffee-existential-crisis-8ca172820ede?source=rss----7b722bfd1b8d--bug_bounty",
+        "5 Web Vulnerabilities That Paid Me the Most (And How to Find Them!)": "https://infosecwriteups.com/5-web-vulnerabilities-that-paid-me-the-most-and-how-to-find-them-42f3f922740d?source=rss----7b722bfd1b8d--bug_bounty",
+        "OTP BYPASS METHODOLOGIES": "https://infosecwriteups.com/otp-bypass-methodologies-3ed951d1eb12?source=rss----7b722bfd1b8d--bug_bounty"
+    },
+    "Reverse Engineering": {
+        "Thank you for 750 users! Practice your reverse-engineering on CrackMy.App!": "https://www.reddit.com/r/ReverseEngineering/comments/1jxrz0a/thank_you_for_750_users_practice_your/",
+        "PS2 Recompilation and decompilation tools": "https://www.reddit.com/r/ReverseEngineering/comments/1jxrdoj/ps2_recompilation_and_decompilation_tools/"
+    },
+    "体验盒子": {
+        "Cursor agent ask manual区别": "https://www.uedbox.com/post/119346/"
+    },
+    "KitPloit - PenTest &amp; Hacking Tools": {
+        "QuickResponseC2 - A Command & Control Server That Leverages QR Codes To Send Commands And Receive Results From Remote Systems": "http://www.kitploit.com/2025/04/quickresponsec2-command-control-server.html"
+    },
+    "黑海洋 - Wiki": {
+        "Chypass – AI驱动的XSS WAF绕过工具 burp插件": "https://blog.upx8.com/4743",
+        "SpiderX – JS前端加密自动化绕过工具": "https://blog.upx8.com/4742",
+        "argfuscator 命令混淆工具": "https://blog.upx8.com/4741",
+        "CF-Hero 查找Cloudflare保护的网站真实IP": "https://blog.upx8.com/4739",
+        "SharpThief 一键窃取签名程序的图标版本数字签名信息": "https://blog.upx8.com/4740",
+        "Godzilla_null 流量特征二开哥斯拉免杀版": "https://blog.upx8.com/4738",
+        "fine 网络空间资产测绘 ICP备案 小程序反编译工具": "https://blog.upx8.com/4737",
+        "ProxyCat 渗透测试ip代理池工具": "https://blog.upx8.com/4736",
+        "TscanPlus 综合性网络安全检测工具": "https://blog.upx8.com/4735",
+        "Logent AI：全球首个智能AI Agent Logo生成器": "https://blog.upx8.com/4734"
+    },
+    "安全分析与研究": {
+        "Phobos勒索病毒样本分析": "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247491539&idx=1&sn=94e9e4aca12d6a8c0c99b4f333628aeb&subscene=0"
+    },
+    "看雪学苑": {
+        "一个恶意样本分析": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458592500&idx=1&sn=4818420f051401e737f80d5a5181ceae&subscene=0",
+        "周末不虚度！两场直播带你高效学习充电，速来围观": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458592500&idx=2&sn=1c46ab75ab2d5c0ead2ab1c6b419b966&subscene=0"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【通知】开源情报企业/智库名录（2025）可免费领取": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651149642&idx=1&sn=aec592715ee3ecb8c22f9483e6ff76d2&subscene=0",
+        "【通知】打击防范电信网络诈骗犯罪培训班5月博鳌开训": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651149642&idx=2&sn=db90806f8a17a175ca7f1dd5d114b382&subscene=0"
+    },
+    "青衣十三楼飞花堂": {
+        "Angr符号执行练习Auto Rop Generation": "https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488230&idx=1&sn=7127cad1afba2c9bfbf3892fe41ab017&subscene=0"
+    },
+    "dotNet安全矩阵": {
+        ".NET 一种尚未公开绕过 SQL 全局防注入拦截的方法": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499413&idx=1&sn=ca17d0f53daa78ac96ac66f82e387645&subscene=0",
+        "国内最专业、最全面的 [ .NET 代码审计 ] 体系化学习社区": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499413&idx=2&sn=2d56452ae6b405053a24a957debf9536&subscene=0",
+        ".NET 总第 66 期红队武器库和资源汇总": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499413&idx=3&sn=fdffa402b46a5a7434023a0842bb8f97&subscene=0"
+    },
+    "安全圈": {
+        "【安全圈】军工研究院保密员被判无期": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069034&idx=1&sn=255d379ee8d7c7932c4bad98af623ced&subscene=0",
+        "【安全圈】在校大学生滥用AI被抓": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069034&idx=2&sn=7ba359c368ee8d44043e1bf88bce7164&subscene=0",
+        "【安全圈】微软4月安全更新：修复125个漏洞，12个存在高利用风险": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069034&idx=3&sn=b2c1459405fd108b2d8796be35f685ea&subscene=0"
+    },
+    "安全内参": {
+        "基因信息出境，是否既要“安全审查”，又要“安全评估”？": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514163&idx=1&sn=e88a758c17894294c34b373a0f794b3e&subscene=0",
+        "CNCERT：关于Foxmail邮件客户端存在跨站脚本攻击漏洞的安全公告": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514163&idx=2&sn=833919f6929df766601724c5b9e4477d&subscene=0"
+    },
+    "山石网科安全技术研究院": {
+        "固件安全的隐忧：UEFI漏洞的持续威胁与修复之路": "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247511689&idx=1&sn=b520b9a89b0e0dc7e5f319ee3e50dc9f&subscene=0"
+    },
+    "Hacking就是好玩": {
+        "免费开源！ksubdomain v2.1发布": "https://mp.weixin.qq.com/s?__biz=MzU2NzcwNTY3Mg==&mid=2247485400&idx=1&sn=660223ab253aabaa0ae12457937a7ffa&subscene=0"
+    },
+    "极客公园": {
+        "继续反制，中国对美所有商品加征 125% 关税；小米汽车回应 SU7 湛江事故；GPT-4 将退役 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653077428&idx=1&sn=6a734b7e6cf2cd1f16c221f816c6c7c3&subscene=0"
+    },
+    "情报分析师": {
+        "生成式人工智能赋能美军军事情报：美国太平洋试点与全球趋势": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650560609&idx=1&sn=a83e7939e8ef45722d4c4945f85f8628&subscene=0",
+        "特朗普的关税“魔术”：涉嫌操纵股市与内幕交易": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650560609&idx=2&sn=ca8eec0f619027eace1e661d71279979&subscene=0"
+    },
+    "网络空间安全科学学报": {
+        "学术前沿 | 西安交通大学苏洲教授团队：无人机网络安全综述": "https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247505414&idx=1&sn=6e469e7d605db6d1b505e9c78c67755e&subscene=0"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "AI-hallucinated code dependencies become new supply chain risk": "https://www.bleepingcomputer.com/news/security/ai-hallucinated-code-dependencies-become-new-supply-chain-risk/",
+        "Tycoon2FA phishing kit targets Microsoft 365 with new tricks": "https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-kit-targets-microsoft-365-with-new-tricks/",
+        "Leak confirms OpenAI's GPT 4.1 is coming before GPT 5.0": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openais-gpt-41-is-coming-before-gpt-50/",
+        "Violati i dati di utenti Atm, MyCicero e altri enti: attacco con databreach": "https://www.cybersecurity360.it/nuove-minacce/violati-i-dati-di-utenti-atm-mycicero-e-altri-enti-attacco-con-databreach/"
+    },
+    "Hacking Exposed Computer Forensics Blog": {
+        "Daily Blog #806: Solution Saturday 4/12/25": "https://www.hecfblog.com/2025/04/daily-blog-806-solution-saturday-41225.html",
+        "Daily Blog #805: Mount That Thing!": "https://www.hecfblog.com/2025/04/daily-blog-805-mount-that-thing.html"
+    },
+    "RedTeam": {
+        "MCP 赋能安全工具的无缝集成": "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484396&idx=1&sn=2873a95da7a1ad77080e1e5c4b179fe7&subscene=0"
+    },
+    "迪哥讲事": {
+        "RCE": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497401&idx=1&sn=90eda1b06e1f03b62249f21e6509a522&subscene=0"
+    },
+    "字节跳动技术团队": {
+        "Multi-SWE-bench：首个多语言代码修复基准开源": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247514094&idx=1&sn=3eaea5585f2b57427d5561be7f35ab08&subscene=0"
+    },
+    "Security Affairs": {
+        "Symbolic Link trick lets attackers bypass FortiGate patches, Fortinet warns": "https://securityaffairs.com/176473/hacking/symbolic-link-trick-lets-attackers-bypass-fortigate-patches-fortinet-warns.html",
+        "Attackers are exploiting recently disclosed OttoKit WordPress plugin flaw": "https://securityaffairs.com/176461/security/ottokit-wordpress-plugin-flaw-exploitation.html"
+    },
+    "KitPloit - PenTest Tools!": {
+        "QuickResponseC2 - A Command & Control Server That Leverages QR Codes To Send Commands And Receive Results From Remote Systems": "http://www.kitploit.com/2025/04/quickresponsec2-command-control-server.html"
+    },
+    "Information Security": {
+        "LLM Permeability — looking for collaborators during a blind study on security": "https://www.reddit.com/r/Information_Security/comments/1jxpld5/llm_permeability_looking_for_collaborators_during/"
+    },
+    "Your Open Hacker Community": {
+        "Wifi brute force?": "https://www.reddit.com/r/HowToHack/comments/1jxlole/wifi_brute_force/",
+        "Old deleted photos on iphone or ipad": "https://www.reddit.com/r/HowToHack/comments/1jxur96/old_deleted_photos_on_iphone_or_ipad/",
+        "Help with old Discord that I don't have the email for.": "https://www.reddit.com/r/HowToHack/comments/1jxugri/help_with_old_discord_that_i_dont_have_the_email/",
+        "Proxies and privacy": "https://www.reddit.com/r/HowToHack/comments/1jxjb0h/proxies_and_privacy/"
+    },
+    "Troy Hunt's Blog": {
+        "Weekly Update 447": "https://www.troyhunt.com/weekly-update-447/"
+    },
+    "netsecstudents: Subreddit for students studying Network Security and its related subjects": {
+        "How Do You Keep Track of Relevant CVEs/Threats for NetSec Studies Without Drowning in Info?": "https://www.reddit.com/r/netsecstudents/comments/1jxjwj7/how_do_you_keep_track_of_relevant_cvesthreats_for/"
+    },
+    "Technical Information Security Content & Discussion": {
+        "Question about session-based cookies vs session-based tokens vs session based api keys": "https://www.reddit.com/r/netsec/comments/1jxoqgz/question_about_sessionbased_cookies_vs/",
+        "Critical Wallet Bugs Expose Users to Silent Crypto Drains": "https://www.reddit.com/r/netsec/comments/1jxefp9/critical_wallet_bugs_expose_users_to_silent/",
+        "Azure Managed Identities resource (background, attacker and defender perspective)": "https://www.reddit.com/r/netsec/comments/1jxeimb/azure_managed_identities_resource_background/",
+        "French newsletter with technical articles and tools": "https://www.reddit.com/r/netsec/comments/1jxed26/french_newsletter_with_technical_articles_and/"
+    },
+    "Deep Web": {
+        "I Build. I Don’t Sell. Looking for Someone Who Does.": "https://www.reddit.com/r/deepweb/comments/1jxd6mp/i_build_i_dont_sell_looking_for_someone_who_does/",
+        "Question about forums.": "https://www.reddit.com/r/deepweb/comments/1jxqypg/question_about_forums/"
+    }
+}
