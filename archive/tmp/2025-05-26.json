@@ -1,0 +1,142 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2025-05-25 Review": "http://www.sec-wiki.com/?2025-05-25"
+    },
+    "Security Boulevard": {
+        "OTP Authentication in 2025: How MojoAuth Stacks Up Against Twilio Verify, Auth0, Stytch & Descope": "https://securityboulevard.com/2025/05/otp-authentication-in-2025-how-mojoauth-stacks-up-against-twilio-verify-auth0-stytch-descope/?utm_source=rss&utm_medium=rss&utm_campaign=otp-authentication-in-2025-how-mojoauth-stacks-up-against-twilio-verify-auth0-stytch-descope"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sun May 25 15:54:01 UTC 2025": "https://github.com/trickest/cve/commit/43d8c499df8efb8d4ed7378e978f61cda9f6dc3a"
+    },
+    "128 nops": {
+        "Channels and threads in Rust": "https://carstein.github.io/rust/2025/05/25/two-layers.html"
+    },
+    "Reverse Engineering": {
+        "Rooting Bosch lcn2kai Headunit": "https://www.reddit.com/r/ReverseEngineering/comments/1kvg4l3/rooting_bosch_lcn2kai_headunit/",
+        "tachy0n": "https://www.reddit.com/r/ReverseEngineering/comments/1kus300/tachy0n/"
+    },
+    "Exploit-DB.com RSS Feed": {
+        "[local] ABB Cylon Aspect Studio 3.08.03 - Binary Planting": "https://www.exploit-db.com/exploits/52306",
+        "[remote] ABB Cylon Aspect 3.08.03 - Guest2Root Privilege Escalation": "https://www.exploit-db.com/exploits/52305",
+        "[webapps] Java-springboot-codebase 1.1 - Arbitrary File Read": "https://www.exploit-db.com/exploits/52304",
+        "[remote] Grandstream GSD3710 1.0.11.13 - Stack Buffer Overflow": "https://www.exploit-db.com/exploits/52303",
+        "[webapps] WordPress User Registration & Membership Plugin 4.1.2 - Authentication Bypass": "https://www.exploit-db.com/exploits/52302",
+        "[local] Microsoft Windows Server 2016 - Win32k Elevation of Privilege": "https://www.exploit-db.com/exploits/52301",
+        "[remote] Windows 2024.15 - Unauthenticated Desktop Screenshot Capture": "https://www.exploit-db.com/exploits/52300"
+    },
+    "杨龙": {
+        "编译php7.1 openssl3.x版本过高？": "https://www.yanglong.pro/%e7%bc%96%e8%af%91php7-1-openssl3-x%e7%89%88%e6%9c%ac%e8%bf%87%e9%ab%98%ef%bc%9f/"
+    },
+    "Gorgias'Blog": {
+        "IGS Arcade 逆向系列（二）- 游戏文件恢复": "https://gorgias.me/2025/05/25/IGS_Arcade_RE_2/"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "Firefox 升级地址栏功能": "https://www.solidot.org/story?sid=81388",
+        "SteamOS 正式支持第三方掌机": "https://www.solidot.org/story?sid=81387",
+        "亚马逊不再续订《时光之轮》第四季": "https://www.solidot.org/story?sid=81386"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【工具】追踪你的搜索：网格生成器": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651150092&idx=1&sn=eab8815b2c6e98e601440357673b0978",
+        "【资料】美国的情报和国家安全": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651150092&idx=2&sn=71654f3c3d70152f0aaf5f861a19ff8b"
+    },
+    "威努特安全网络": {
+        "抗干扰、低延迟、全覆盖，风电场工业环网建设指南": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651133168&idx=1&sn=897c1ddaa290a2f5004d8e0bd630ee58"
+    },
+    "dotNet安全矩阵": {
+        ".NET 内网实战：通过 xbap 绕过安全防护执行系统命令": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499734&idx=1&sn=38b732abea5f55da2c11338a0d2a608c",
+        ".NET 安全攻防知识交流社区": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499734&idx=2&sn=298d077630a0ab8cc906523c371a55a5",
+        ".NET 总第 73 期红队武器库和资源汇总": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499734&idx=3&sn=b80be1ce63bfc4ccb53814e5b0e5de01"
+    },
+    "安全研究GoSSIP": {
+        "G.O.S.S.I.P 广而告之——中电信量子集团安全攻防 & 侧信道攻击工程师招聘": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247500188&idx=1&sn=bd2a2af6a40ad84ef5f48260d96550bf"
+    },
+    "青衣十三楼飞花堂": {
+        "NSFOCUS旧友记--非正常人类研究中心被研究对象之Ga1ois(3)": "https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488320&idx=1&sn=9423b163927d984b1de8d3b849bc02ec"
+    },
+    "安全圈": {
+        "【安全圈】美国起诉与勒索软件攻击有关的Qakbot僵尸网络领导人": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069814&idx=1&sn=55315ce70af7e756bc81036d3ab03200",
+        "【安全圈】警方在全球打击行动中逮捕了270名暗网供应商和买家": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069814&idx=2&sn=4cc21b93ac0eef3c3791ae5c524b40d5",
+        "【安全圈】打印机制造商Procolled数月来一直提供恶意软件驱动程序": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069814&idx=3&sn=1ae16215ca2bb8677fe32b72a17c1cbc"
+    },
+    "安全内参": {
+        "河南某公司办公系统遭篡改挂恶意标语被罚3万元": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514413&idx=1&sn=72a307ba87230821ffaea7f5dcf40c79"
+    },
+    "电子物证": {
+        "【网络犯罪境外电子数据取证的三种模式与选择适用】": "https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048452&idx=1&sn=18573584ba60f8bbe83ae05543ba4f07",
+        "【刑事诉讼中人工智能证据的不可解释性困境及其化解路径】": "https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048452&idx=2&sn=73565d9b686385b629fcaa7543c5bf33"
+    },
+    "迪哥讲事": {
+        "从SSRF到帐户接管": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497646&idx=1&sn=6cf2bfc7c0825057e9feec696adecf4c"
+    },
+    "极客公园": {
+        "苹果 AI 的崩塌真相：从乔布斯愿景，到高管失误的困局": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653080107&idx=1&sn=6c39c2625e645b92db8fd314e88c68ce",
+        "比亚迪欧洲销量超越特斯拉；马斯克称回归724工作状态；UU跑腿创始人回应强制高管送外卖｜极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653080163&idx=1&sn=1a8cdbd4174fcfaed1d8b2fd1719c994"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "Vibe coding company says Claude 4 reduced syntax errors by 25%": "https://www.bleepingcomputer.com/news/artificial-intelligence/vibe-coding-company-says-claude-4-reduced-syntax-errors-by-25-percent/",
+        "Leak suggests xAI is getting ready to ship Grok 3.5": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-suggests-xai-is-getting-ready-to-ship-grok-35/",
+        "Doxbin (TOoDA) - 136,461 breached accounts": "https://haveibeenpwned.com/Breach/DoxbinTOoDA",
+        "Storenvy - 11,052,071 breached accounts": "https://haveibeenpwned.com/Breach/Storenvy",
+        "Cocospy - 1,798,059 breached accounts": "https://haveibeenpwned.com/Breach/Cocospy",
+        "Spyic - 875,999 breached accounts": "https://haveibeenpwned.com/Breach/Spyic",
+        "ALIEN TXTBASE Stealer Logs - 284,132,969 breached accounts": "https://haveibeenpwned.com/Breach/AlienStealerLogs",
+        "Orange Romania - 556,557 breached accounts": "https://haveibeenpwned.com/Breach/OrangeRomania",
+        "Spyzie - 518,643 breached accounts": "https://haveibeenpwned.com/Breach/Spyzie",
+        "Flat Earth Sun, Moon and Zodiac App - 33,294 breached accounts": "https://haveibeenpwned.com/Breach/FlatEarthDave",
+        "Color Dating - 220,503 breached accounts": "https://haveibeenpwned.com/Breach/ColorDating",
+        "Lexipol - 672,546 breached accounts": "https://haveibeenpwned.com/Breach/Lexipol",
+        "SpyX - 1,977,011 breached accounts": "https://haveibeenpwned.com/Breach/SpyX",
+        "Troy Hunt's Mailchimp List - 16,627 breached accounts": "https://haveibeenpwned.com/Breach/TroyHuntMailchimpList",
+        "German Doner Kebab - 162,373 breached accounts": "https://haveibeenpwned.com/Breach/GermanDonerKebab",
+        "Boulanger - 2,077,078 breached accounts": "https://haveibeenpwned.com/Breach/Boulanger",
+        "Qraved - 984,519 breached accounts": "https://haveibeenpwned.com/Breach/Qraved",
+        "Samsung Germany Customer Tickets - 216,333 breached accounts": "https://haveibeenpwned.com/Breach/SamsungGermany",
+        "TehetségKapu - 54,357 breached accounts": "https://haveibeenpwned.com/Breach/TehetsegKapu",
+        "OnRPG - 1,047,640 breached accounts": "https://haveibeenpwned.com/Breach/OnRPG",
+        "Fédération Francaise de Rugby - 281,977 breached accounts": "https://haveibeenpwned.com/Breach/FFR",
+        "Operation Endgame 2.0 - 15,436,844 breached accounts": "https://haveibeenpwned.com/Breach/OperationEndgame2",
+        "ChatGPT Deep Research can now pull data from Dropbox and Box": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-deep-research-can-now-pull-data-from-dropbox-and-box/",
+        "Researchers claim ChatGPT o3 bypassed shutdown in controlled test": "https://www.bleepingcomputer.com/news/artificial-intelligence/researchers-claim-chatgpt-o3-bypassed-shutdown-in-controlled-test/",
+        "Fake Zenmap. WinMRT sites target IT staff with Bumblebee malware": "https://www.bleepingcomputer.com/news/security/bumblebee-malware-distributed-via-zenmap-winmrt-seo-poisoning/",
+        "Glitch to end app hosting and user profiles on July 8": "https://www.bleepingcomputer.com/news/security/glitch-to-end-app-hosting-and-user-profiles-on-july-8/"
+    },
+    "Security Affairs": {
+        "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 46": "https://securityaffairs.com/178265/breaking-news/security-affairs-malware-newsletter-round-46.html",
+        "Security Affairs newsletter Round 525 by Pierluigi Paganini – INTERNATIONAL EDITION": "https://securityaffairs.com/178257/breaking-news/security-affairs-newsletter-round-525-by-pierluigi-paganini-international-edition.html",
+        "Operation ENDGAME disrupted global ransomware infrastructure": "https://securityaffairs.com/178245/cyber-crime/operation-endgame-disrupted-global-ransomware-infrastructure.html"
+    },
+    "The Hacker News": {
+        "Hackers Use Fake VPN and Browser NSIS Installers to Deliver Winos 4.0 Malware": "https://thehackernews.com/2025/05/hackers-use-fake-vpn-and-browser-nsis.html"
+    },
+    "netsecstudents: Subreddit for students studying Network Security and its related subjects": {
+        "How reliable is IP geolocation in fraud pipelines — and what do you use to catch geo mismatch attacks?": "https://www.reddit.com/r/netsecstudents/comments/1kv9i0p/how_reliable_is_ip_geolocation_in_fraud_pipelines/"
+    },
+    "Information Security": {
+        "Anyone Actually Happy With Their Security Awareness Training Vendor?": "https://www.reddit.com/r/Information_Security/comments/1kv941g/anyone_actually_happy_with_their_security/",
+        "How did OnePlus website know I was looking at the site on my work laptop NOT logged in to my OnePlus account?": "https://www.reddit.com/r/Information_Security/comments/1kva9xo/how_did_oneplus_website_know_i_was_looking_at_the/",
+        "Security Awareness Training – Worthwhile Vendors or Just Compliance Theater?": "https://www.reddit.com/r/Information_Security/comments/1kv536v/security_awareness_training_worthwhile_vendors_or/",
+        "All these SaaS security tools feel the same. What actually works?": "https://www.reddit.com/r/Information_Security/comments/1kuxwg9/all_these_saas_security_tools_feel_the_same_what/"
+    },
+    "Computer Forensics": {
+        "homework help regarding a case that used hashing?": "https://www.reddit.com/r/computerforensics/comments/1kv7zyl/homework_help_regarding_a_case_that_used_hashing/",
+        "Which is the best automated IR tool?": "https://www.reddit.com/r/computerforensics/comments/1kuppvr/which_is_the_best_automated_ir_tool/"
+    },
+    "Blackhat Library: Hacking techniques and research": {
+        "Where can I purchase or rent bot farm services?": "https://www.reddit.com/r/blackhat/comments/1kvfs7p/where_can_i_purchase_or_rent_bot_farm_services/",
+        "mass unfollow bot?": "https://www.reddit.com/r/blackhat/comments/1kvgg2r/mass_unfollow_bot/"
+    },
+    "Technical Information Security Content & Discussion": {
+        "BadUSB Attack Explained: From Principles to Practice and Defense": "https://www.reddit.com/r/netsec/comments/1kuuvzz/badusb_attack_explained_from_principles_to/"
+    },
+    "Social Engineering": {
+        "anyway to know someone's name through their number ?": "https://www.reddit.com/r/SocialEngineering/comments/1kvcx3i/anyway_to_know_someones_name_through_their_number/",
+        "How to find out what gossip is being spread about you": "https://www.reddit.com/r/SocialEngineering/comments/1kv4vav/how_to_find_out_what_gossip_is_being_spread_about/"
+    },
+    "Your Open Hacker Community": {
+        "Tip and Tricks for malware development?": "https://www.reddit.com/r/HowToHack/comments/1kv775c/tip_and_tricks_for_malware_development/",
+        "Heltec esp32 v3.1 question": "https://www.reddit.com/r/HowToHack/comments/1kvaxr5/heltec_esp32_v31_question/",
+        "I set up a raspberry pi to hack": "https://www.reddit.com/r/HowToHack/comments/1kv3j2u/i_set_up_a_raspberry_pi_to_hack/",
+        "A GUY IS TROUBLING MY FRIEND WITH FAKE EDITS": "https://www.reddit.com/r/HowToHack/comments/1kv8qr0/a_guy_is_troubling_my_friend_with_fake_edits/",
+        "How to bypass a sms verification": "https://www.reddit.com/r/HowToHack/comments/1kurk5v/how_to_bypass_a_sms_verification/"
+    }
+}
