@@ -1,0 +1,132 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2025-10-12 Review": "http://www.sec-wiki.com/?2025-10-12"
+    },
+    "Taxodium": {
+        "Album#4 - Town": "https://taxodium.ink/album-4.html"
+    },
+    "Jiajun的技术笔记": {
+        "TiDB 源码阅读（六）：TiDB Coprocessor 源码解析": "https://jiajunhuang.com/articles/2025_10_12-tidb_source_code_coprocessor.md.html"
+    },
+    "Doonsec's feed": {
+        "兰花豆说网络安全公众号正式启用新LOGO": "https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492110&idx=1&sn=393f05131108b8222f005458947be08b",
+        "分享的图片、视频、链接": "https://mp.weixin.qq.com/s?__biz=MzE5MTAzMzY5NA==&mid=2247485371&idx=2&sn=20aba192ded76ee2591074c42a3d7699",
+        "微软Defender曝高危漏洞：攻击者可绕过认证并上传恶意文件": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182974&idx=1&sn=918adb5101663bca8f727f1494d1d881",
+        "政务大模型从场景到安全的完整落地建议": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ3NzIxMw==&mid=2247485761&idx=1&sn=20dee883c66ac56605e57d52baddf5e0",
+        "美军官留学的背后：奥姆斯特德基金会的战略渗透": "https://mp.weixin.qq.com/s?__biz=Mzg2MTg3NzQ5OQ==&mid=2247485818&idx=1&sn=74c92d44d4cb1eaad48896a8265d07f5",
+        "【WP】PolarCTF2025年秋季个人挑战赛WEB方向题解": "https://mp.weixin.qq.com/s?__biz=Mzk0NDYwOTcxNg==&mid=2247486271&idx=1&sn=9e7931f104d7129b562fda8cd614a6e1",
+        "免杀windows Defender": "https://mp.weixin.qq.com/s?__biz=Mzk4ODg5MTY3Mw==&mid=2247483885&idx=1&sn=5a96a26219a54a96fb34f4954fab50ad",
+        "下周起，微软用户将面临三大风险，奇安信推出紧急应对方案": "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064371&idx=1&sn=9af3cfcd8c2ac24920001dc7864315bc",
+        "CyberChef 基础实用指南：安全人员必备“数据料理刀”": "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486743&idx=1&sn=744b5eca2f01f6093a3676ce94938009",
+        "【DC-4 渗透实战笔记】用户凭据泄露 + teehee 提权 ！": "https://mp.weixin.qq.com/s?__biz=Mzk0MTc2NDk2Nw==&mid=2247484656&idx=1&sn=fd4c69c57618a763ac23672d1a9a0ef2",
+        "完成测评产品、名录清单、信创企业后台管理功能开发": "https://mp.weixin.qq.com/s?__biz=MzU3MDEwMjk2MQ==&mid=2247485268&idx=1&sn=31a34975cb2d376f0514d38568563a39",
+        "女友刷到机器狗视频喊我做？扒遍开源资料发现：成本可控、步骤简单，看完上篇就能搞定硬件！——下篇": "https://mp.weixin.qq.com/s?__biz=MjM5Nzk3MjMzMA==&mid=2650570429&idx=1&sn=e7e2b63c668159c8abeccef9ba79b06f",
+        "01 最初的起点 【FunBoxEasy】": "https://mp.weixin.qq.com/s?__biz=Mzg2Mzc1NzcyOA==&mid=2247484847&idx=1&sn=169c32e8517967cba1b6c5ae015b3810",
+        "羊城杯完整WP": "https://mp.weixin.qq.com/s?__biz=MzkyODMxMjQ3OQ==&mid=2247485943&idx=1&sn=7f4d499dcb6609fa31fb83ae088b1f65",
+        "高德地图api key泄露安全漏洞处置措施": "https://mp.weixin.qq.com/s?__biz=MzUzMDgwMjY1Mg==&mid=2247485884&idx=1&sn=45bd5bcb7d1ed74f2b840868dd883bfc",
+        "防守": "https://mp.weixin.qq.com/s?__biz=MzkzMjIwMDY4Nw==&mid=2247486220&idx=1&sn=306634a5cca1d90d8ee0f198b1159de6",
+        "NSFOCUS旧友记--非正常人类研究中心被研究对象之张云海": "https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488707&idx=1&sn=ca68f2740185d42a0f1b2c26f0677d22",
+        "第十八届中国网络空间安全学科专业建设与人才培养研讨会会议议程": "https://mp.weixin.qq.com/s?__biz=MzAxNTc1ODU5OA==&mid=2665516484&idx=1&sn=edbe5f7a02e7a22a56209f4587be66bc",
+        "全栈爬虫系列-web爬虫开发与逆向实战视频教程更新到补环境专栏第10节啦。": "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247507802&idx=1&sn=c2dfde05cb602181ca0b54a2d16a294c",
+        "G.O.S.S.I.P 2025年10月投稿指南": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247500793&idx=1&sn=0014dca42b05d547c9042943b2c9a406",
+        "四川省发布商用密码管理行政处罚裁量权基准表": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655293014&idx=1&sn=d81a3971b79288daf18203f1dc465ce8",
+        "300+份算力资料 | 今天上传9份算力文档": "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655293014&idx=2&sn=275d4a283bc1996d455212952eee5216",
+        "JoplinServer 权限提升漏洞(CVE-2025-27134)": "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492951&idx=1&sn=982d2c0c0a0d19a5957f807fff868e0e",
+        "【攻防实战】系列一-使用metasploit打穿某集团": "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247504194&idx=1&sn=fa5241afd95ebd07b9166593f0fc16b1",
+        "每天一个网络知识：什么是无线接入点（AP）？": "https://mp.weixin.qq.com/s?__biz=MzUyNTExOTY1Nw==&mid=2247531946&idx=1&sn=ff958fbe582972aa9d790a37f7287398",
+        "当隧道工具变成攻击武器：GSocket 滥用对企业安全的深层冲击": "https://mp.weixin.qq.com/s?__biz=MzkzMzMyOTc5OQ==&mid=2247484488&idx=1&sn=779af2a3a768e44e4bb09d2c3fc94e66",
+        "国产100%开源，大佬带你手搓一台64位AMOLED 屏小电脑，基于树莓派5，附赠拓竹3D打印工程源文件": "https://mp.weixin.qq.com/s?__biz=MjM5OTA4MzA0MA==&mid=2454940076&idx=1&sn=43cded4053ef3524b9eacfce99312509",
+        "免费 | 一键显示、搜索隐藏文件，这个 Mac 工具装上挺好用": "https://mp.weixin.qq.com/s?__biz=MzI2MjcwMTgwOQ==&mid=2247492706&idx=1&sn=b96aa6e24fca95ba2f48d79886bbd1f4",
+        "知识星球 | 有没有采用web端进行人脸识别对比的安全保护方案？": "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247644197&idx=1&sn=045a811403dcfbb0e4dde98016e3c5ef",
+        "实战分享——凭证泄露导致接管大量人脸数据": "https://mp.weixin.qq.com/s?__biz=MzkwOTg3NzAyNQ==&mid=2247484206&idx=1&sn=7ed576492f8f1b8fcf8003b4f4673a79",
+        "src漏洞挖掘 XSS&CSRF组合拳": "https://mp.weixin.qq.com/s?__biz=Mzg5MDk3NDE2Mw==&mid=2247484036&idx=1&sn=62921cabb250757c28410f2526a2ced9",
+        "[JS逆向]⼀套⾏云流⽔的组合拳进⼊后台": "https://mp.weixin.qq.com/s?__biz=Mzk4ODg5MTY3Mw==&mid=2247483871&idx=1&sn=0ec3c921baccbeaf00b77c6e04518bc8",
+        "WeLab Bank CEO李家达：将在AI领域投入更多资源": "https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653932783&idx=1&sn=259c879e89911a2c6499948c5db4debc",
+        "25900元/人/月，太平金科2025年-2026年AI训练推理平台开发人力采购项目中标结果公告": "https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653932783&idx=2&sn=61339c16861f731e0d0c1dfed8396409"
+    },
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "Perfex CRM Chatbot Cross Site Scripting": "https://cxsecurity.com/issue/WLB-2025100008"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sun Oct 12 11:26:13 UTC 2025": "https://github.com/trickest/cve/commit/1aacf565607410d39a8e459d916e1a58e632280e"
+    },
+    "Sucuri Blog": {
+        "What Is a 501 Error & How to Fix It": "https://blog.sucuri.net/2025/10/what-is-a-501-error-how-to-fix-it.html"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "同卵双胞胎的 IQ 差异与学校教育相关": "https://www.solidot.org/story?sid=82526",
+        "在特朗普宣布加征 100% 关税前 30 分钟有人对比特币进行巨额做空": "https://www.solidot.org/story?sid=82525",
+        "线上学习的学生自信心低于线下学习的学生": "https://www.solidot.org/story?sid=82524"
+    },
+    "黑鸟": {
+        "微软Defender曝高危漏洞：攻击者可绕过认证并上传恶意文件": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451182974&idx=1&sn=918adb5101663bca8f727f1494d1d881"
+    },
+    "安全分析与研究": {
+        "伪装成银狐专杀工具攻击样本分析": "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493688&idx=1&sn=ca0cbb71a05cc7b61fa71d8e1f78490a"
+    },
+    "黑海洋 - Wiki": {
+        "基于Git对象模型的已删除GitHub仓库恢复方法研究": "https://blog.upx8.com/4878"
+    },
+    "威努特安全网络": {
+        "什么是“好用”的安全运维智能体？": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651136342&idx=1&sn=143fd98faf190c6b9ce4319d16c99bf6"
+    },
+    "天黑说嘿话": {
+        "软件供应链企业为什么必须买5台Web应用防火墙": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484692&idx=1&sn=100506758858bfe3850dde247dd2f8fa"
+    },
+    "安全研究GoSSIP": {
+        "G.O.S.S.I.P 2025年10月投稿指南": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247500793&idx=1&sn=0014dca42b05d547c9042943b2c9a406"
+    },
+    "青衣十三楼飞花堂": {
+        "NSFOCUS旧友记--非正常人类研究中心被研究对象之张云海": "https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488707&idx=1&sn=ca68f2740185d42a0f1b2c26f0677d22"
+    },
+    "情报分析师": {
+        "巴基斯坦战略SWOT情报分析": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650562353&idx=1&sn=4501ad7d219583f1c8ee54ac1947727f",
+        "美国向乌克兰提供“战斧”导弹的战略影响分析": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650562353&idx=2&sn=b51b0d4932dc32030aeb9adfd9447fd2"
+    },
+    "电子物证": {
+        "【最高检发布检察技术支持刑事检察技术性证据审查典型案例】": "https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048639&idx=1&sn=4d7c4b1f487a4fc594017937270605ca",
+        "【手机号验证码&图片验证码漏洞利用总结】": "https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048639&idx=2&sn=3aed9647a8edefd3fea9c8c538dd21b8"
+    },
+    "极客公园": {
+        "马斯克脑机公司展示脑机控制机械臂；三星中国发布折叠屏新机，16999 元起售；滴滴自动驾驶获 20 亿元融资 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653088226&idx=1&sn=c1a567e7366243c2c2bb6c3ccd4ee588"
+    },
+    "安全学术圈": {
+        "CODASPY 2026 CFP": "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247493923&idx=1&sn=8071ef0d9b28710ecd163aa1b1a8c691"
+    },
+    "迪哥讲事": {
+        "实战 | 记一次SQL到接口的SSRF": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498403&idx=1&sn=52532994f266c11d89a95ca93d996f95"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "The ZoraSafe app wants to protect older people online and will present at TechCrunch Disrupt 2025": "https://techcrunch.com/2025/10/12/the-zorasafe-app-wants-to-protect-older-people-online-and-will-present-at-techcrunch-disrupt-2025/",
+        "Spain dismantles “GXC Team” cybercrime syndicate, arrests leader": "https://www.bleepingcomputer.com/news/security/spain-dismantles-gxc-team-cybercrime-syndicate-arrests-leader/",
+        "Fake 'Inflation Refund' texts target New Yorkers in new scam": "https://www.bleepingcomputer.com/news/security/fake-inflation-refund-texts-target-new-yorkers-in-new-scam/",
+        "Improving consistency with EDR DLL Injection via APCs": "https://fluxsec.red/improving-EDR-via-windows-driver-apc-injection-rust",
+        "Hells Hollow: A new SSDT Hooking technique": "https://fluxsec.red/red-team-notes",
+        "What Is a 501 Error & How to Fix It": "https://blog.sucuri.net/2025/10/what-is-a-501-error-how-to-fix-it.html",
+        "Frameworks for Projects with Cisco ACI and NDO": "https://www.adainese.it/blog/2025/10/12/frameworks-for-projects-with-cisco-aci-and-ndo/"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "ISC Stormcast For Monday, October 13th, 2025 https://isc.sans.edu/podcastdetail/9652, (Sun, Oct 12th)": "https://isc.sans.edu/diary/rss/32362",
+        "Wireshark 4.4.10 and 4.6.0 Released, (Sun, Oct 12th)": "https://isc.sans.edu/diary/rss/32358"
+    },
+    "Troy Hunt's Blog": {
+        "Weekly Update 473": "https://www.troyhunt.com/weekly-update-473/"
+    },
+    "Active Directory & Azure AD/Entra ID Security": {
+        "Microsoft Interview": "https://adsecurity.org/?p=4802"
+    },
+    "Security Affairs": {
+        "Clop Ransomware group claims the hack of Harvard University": "https://securityaffairs.com/183282/cyber-crime/clop-ransomware-group-claims-the-hack-of-harvard-university.html",
+        "Security Affairs newsletter Round 545 by Pierluigi Paganini – INTERNATIONAL EDITION": "https://securityaffairs.com/183268/breaking-news/security-affairs-newsletter-round-545-by-pierluigi-paganini-international-edition.html",
+        "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 66": "https://securityaffairs.com/183273/malware/security-affairs-malware-newsletter-round-66.html"
+    },
+    "The Hacker News": {
+        "New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login": "https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html"
+    },
+    "Daniel Miessler": {
+        "Explore vs. Exploit: The Pattern-Novelty Balance": "https://danielmiessler.com/blog/explore-exploit-pattern-novelty?utm_source=rss&utm_medium=feed&utm_campaign=website"
+    },
+    "Rasta Mouse": {
+        "Crystal Kit": "https://rastamouse.me/crystal-kit/"
+    }
+}
