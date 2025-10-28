@@ -1,0 +1,313 @@
+{
+    "paper - Last paper": {
+        "后量子密码学与量子安全：综述": "https://paper.seebug.org/3403/"
+    },
+    "奇安信攻防社区": {
+        "动态容器注入-一种隐蔽的k8s权限维持方法": "https://forum.butian.net/share/4606"
+    },
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "WordPress Backup Migration 1.3.7: Remote Command Execution": "https://cxsecurity.com/issue/WLB-2025100014"
+    },
+    "SecWiki News": {
+        "SecWiki News 2025-10-27 Review": "http://www.sec-wiki.com/?2025-10-27"
+    },
+    "嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com": {
+        "工信部通报20款智能终端存在侵害用户权益行为": "https://www.4hou.com/posts/pn01",
+        "金融信创必看！破万亿资管巨头鹏华基金：用CACTER守护邮件安全": "https://www.4hou.com/posts/vwAV"
+    },
+    "Darknet – Hacking Tools, Hacker News & Cyber Security": {
+        "Reaper – Unified Application Security Testing with AI Support": "https://www.darknet.org.uk/2025/10/reaper-unified-application-security-testing-with-ai-support/"
+    },
+    "Tenable Blog": {
+        "How to Take Vulnerability Management to the Next Level and Supercharge Your Career": "https://www.tenable.com/blog/how-to-take-vulnerability-management-to-the-next-level-and-supercharge-your-career"
+    },
+    "Recent Commits to cve:main": {
+        "Update Mon Oct 27 11:40:51 UTC 2025": "https://github.com/trickest/cve/commit/0675fe9e4db0d64a3165983671a97996313c6263"
+    },
+    "Doonsec's feed": {
+        "G.O.S.S.I.P 阅读推荐 2025-10-27 模棱两可之处见真章": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247500884&idx=1&sn=3dbfbf2aa86b38678ed8dfdb8d4ec823",
+        "ForumTroll APT组织借浴火重生后的Hacking Team间谍软件加入网络战场": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183187&idx=1&sn=1bd89632c1500e2a015279c51653acd5",
+        "NestJSDevTools存在远程命令执行漏洞CVE-2025-54782 附POC": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489440&idx=1&sn=511a7d0447738373f0e6f10ef895b43f",
+        "意想不到的任意用户密码重置": "https://mp.weixin.qq.com/s?__biz=Mzg2MjU2MjY4Mw==&mid=2247485261&idx=1&sn=7efebc94fab2e55e45911172f80cf99b",
+        "SecWiki周刊（第608期）": "https://mp.weixin.qq.com/s?__biz=MjM5NDM1OTM0Mg==&mid=2651053577&idx=1&sn=da21ffcbf1b127f58e9b95bf497101ac",
+        "【渗透Tips】XXE高效Payload记录": "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247485353&idx=1&sn=8b3fe965fbc1106183e16ec50ac9316d",
+        "强网拟态2025 WriteUP By N0wayBack": "https://mp.weixin.qq.com/s?__biz=Mzg4MTg1MDY4MQ==&mid=2247488067&idx=1&sn=21b3a4abe766be67cf94109dc4ee72b5",
+        "三季度报告：电科网安第三季度营收2.69亿，前三季度营收累计7.57亿，同比减少23.71%。": "https://mp.weixin.qq.com/s?__biz=MzUzNjkxODE5MA==&mid=2247494759&idx=1&sn=308a0637589396aed0e74f4612ee60ee",
+        "一场蓄谋2年的国家级APT攻击细节披露：加密技术成为隐藏武器": "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064408&idx=1&sn=e96b0c063e31e19fb54287bac1eee316",
+        "【工具分享】自动化生成文件上传数据包": "https://mp.weixin.qq.com/s?__biz=MzkyNDYwNTcyNA==&mid=2247488479&idx=1&sn=47fb5f54b6ffc375b5f7a0b35c41cc9e",
+        "网络安全公司想增长？先做 “品类迁徙”：从合规到业务需求，就看这几步（突围系列）": "https://mp.weixin.qq.com/s?__biz=MjM5MDk4OTk0NA==&mid=2650126661&idx=1&sn=5b0e00a4345a806a81a5307607157ef9",
+        "这破功能逼疯打工人——致远OA旧选人组件换新选人组件攻略": "https://mp.weixin.qq.com/s?__biz=MzkyMzY0MTk2OA==&mid=2247487092&idx=1&sn=850a4abb8fa6b1b53fa7d430c22e0b74",
+        "泛微OA E9 如何让多人协作填表时“各填各的”？——基于权限控制的精细化填报方案": "https://mp.weixin.qq.com/s?__biz=MzkyMzY0MTk2OA==&mid=2247487092&idx=2&sn=65d3b40ee719098b2e91c56e87a4e2c3",
+        "微信封三天，刚好，无境靶场快上线了，快来看看吧！": "https://mp.weixin.qq.com/s?__biz=MzkyOTQzNjIwNw==&mid=2247492759&idx=1&sn=462b7a47249eeea306a3486450a38238",
+        "【高危漏洞预警】Windows Cloud Files Filter Driver权限提升漏洞CVE-2025-55680": "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490907&idx=1&sn=bbd24b1e11c96e79b2846ec90bd55e82",
+        "取证云上架首届“数证杯”参考题解，备赛党速看！": "https://mp.weixin.qq.com/s?__biz=MjM5NTU4NjgzMg==&mid=2651446529&idx=1&sn=ec14f06c54eb00b00a8255a990100a2b",
+        "快手技术沙龙举办：生成式推荐系统如何重构搜推广？": "https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247497800&idx=1&sn=bb9d65d8a467fe06a1cf4d27e9f5b52b",
+        "GeekCon 2025 回顾：我们的独家洞见与思考": "https://mp.weixin.qq.com/s?__biz=MzkyNTU4OTc3MA==&mid=2247485519&idx=1&sn=940344afccf9c4e647f8249d9d63cf7f",
+        "三条命令完成Mac版微信4.0(及以上)双开": "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486805&idx=1&sn=c65229f673e4bdc4928ca1fe23c53a91",
+        "「智汇安全·洞见未来」——复旦大学计算与智能创新学院学科周论坛精彩回顾": "https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247496465&idx=1&sn=b858c2bc72aabea9c8ac2e1d17258b42",
+        "为什么我给所有 Linux 服务器都上了全盘加密（LUKS）": "https://mp.weixin.qq.com/s?__biz=MzI5MjY4MTMyMQ==&mid=2247492651&idx=1&sn=b925ee7816f1146522bce98ba41eb1ce",
+        "AI占比18%！央行2024年度金融科技发展奖这些AI项目最亮眼": "https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653932851&idx=1&sn=07f762573aa74936b2739d054be925a6",
+        "AI快讯：腾讯发布AI程序员Ada，我国实现机器人算法重大突破": "https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653932851&idx=2&sn=cf9fb201800f6e7fa3e069d17a3fb7d5",
+        "270万！中银基金大模型应用基础建设项目，含：AI计算服务器、智能体平台软件": "https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653932851&idx=3&sn=07732d9f22870800a4259c549fe1bc16",
+        "BITs2CTF 2025报名开启！等你来战!": "https://mp.weixin.qq.com/s?__biz=Mzk1NzM1NTQyNg==&mid=2247483999&idx=1&sn=3a7e9957acca9d026c54d4c4b9b0997f",
+        "2025年“羊城杯”网络安全大赛决赛WP": "https://mp.weixin.qq.com/s?__biz=Mzk4ODI5Njg2Mw==&mid=2247484361&idx=1&sn=ab7c8984912f770726d302cf993f6a7a",
+        "一种基于PKI技术的汽车OTA安全升级方案": "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628102&idx=1&sn=d88d2ce54bc33a3a396de4712686f9b9",
+        "上汽通用五菱：智能网联汽车CAN总线信息安全测试方法": "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628102&idx=2&sn=2afc62dbb72fc382e0ceab63bd0ff142",
+        "车联网供应链安全与合规培训课程 2025": "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628102&idx=3&sn=1d5e0cd9b9075f7f2e438cc0c3500f94",
+        "等级保护标准体系再完善：六项新技术公安行标正式发布": "https://mp.weixin.qq.com/s?__biz=MzIxODQ0NDEyNg==&mid=2247483984&idx=1&sn=c1e418936721c22b3e9d6238de691aba",
+        "JavaScript嗅探器的新变化": "https://mp.weixin.qq.com/s?__biz=MzAxODA3NDc3NA==&mid=2247485697&idx=1&sn=4b259afda876439114d5e8b27846b4b1",
+        "Fastjson2下的反序列化调用链完整过程": "https://mp.weixin.qq.com/s?__biz=MzkzNTYwMTk4Mw==&mid=2247490021&idx=1&sn=a45b04a24b2a6ba9b5c4e157dd65d8dc",
+        "全国密评地图 | 国密局160家密评机构名单正式发布": "https://mp.weixin.qq.com/s?__biz=MzkyNzE5MDUzMw==&mid=2247580218&idx=1&sn=e77f11eda5530f6b2a064842c355844d",
+        "Dell Storage Manager 的严重漏洞让攻击者破坏系统": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096578&idx=1&sn=4d17e0477116128a67b3bab4ba02efd9",
+        "黑客利用 Windows Server Update Services RCE 漏洞": "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096578&idx=2&sn=71c0e190ed439156e651b5c8f1eeabae",
+        "论文研读与思考|服务化控制信息传输架构与异常检测技术调研": "https://mp.weixin.qq.com/s?__biz=MzU4NjcxMTY3Mg==&mid=2247486836&idx=1&sn=46ec6f7ccd90a6a8759c291938d75f55",
+        "第八届“强网”拟态防御国际精英挑战WP": "https://mp.weixin.qq.com/s?__biz=Mzk0MzgyOTYzNw==&mid=2247485732&idx=1&sn=454765229d29ba9bf2cb5cfc7f6a326e",
+        "请勿轻信低价骗局！Steam假入库灰产陷阱手法剖析": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247527054&idx=1&sn=3dcdf808dfdce42acce5a0f425b72b63",
+        "诚邀渠道合作伙伴共启新征程": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247527054&idx=2&sn=f1ef186ff255d71a9f24b6a779539041"
+    },
+    "GuidePoint Security": {
+        "Are You Protecting Yourself from Deepfakes? Take This Quick Quiz.": "https://www.guidepointsecurity.com/blog/are-you-protecting-yourself-from-deepfakes-quiz/"
+    },
+    "Securelist": {
+        "Mem3nt0 mori – The Hacking Team is back!": "https://securelist.com/forumtroll-apt-hacking-team-dante-spyware/117851/"
+    },
+    "Didier Stevens": {
+        "Bytes over DNS Tools": "https://blog.didierstevens.com/2025/10/27/bytes-over-dns-tools/",
+        "Update: dnsresolver.py Version 0.0.4": "https://blog.didierstevens.com/2025/10/27/update-dnsresolver-py-version-0-0-4/"
+    },
+    "Malwarebytes": {
+        "How to set up two factor authentication (2FA) on your Instagram account": "https://www.malwarebytes.com/blog/how-to/2025/10/how-to-set-up-two-factor-authentication-2fa-on-your-instagram-account",
+        "Phishing scam uses fake death notices to trick LastPass users": "https://www.malwarebytes.com/blog/news/2025/10/phishing-scam-uses-fake-death-notices-to-trick-lastpass-users",
+        "A week in security (October 20 &#8211; October 26)": "https://www.malwarebytes.com/blog/news/2025/10/a-week-in-security-october-20-october-26"
+    },
+    "Intigriti": {
+        "Cyber Awareness Month: Vulnerabilities beware this Halloween": "https://www.intigriti.com/blog/business-insights/cyber-awareness-month-vulnerabilities-beware-this-halloween"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "新冠 mRNA 疫苗能触发免疫系统识别和杀死癌细胞": "https://www.solidot.org/story?sid=82651",
+        "生成式 AI 是否会威胁开源生态系统": "https://www.solidot.org/story?sid=82650",
+        "天文学家在银河系外冰层发现复杂有机分子": "https://www.solidot.org/story?sid=82649",
+        "AI 聊天机器人太过于奉承人类": "https://www.solidot.org/story?sid=82648",
+        "【火热报名中】NVIDIA 中国开发者日 2025 将于11月14日在苏州举办": "https://www.solidot.org/story?sid=82647",
+        "盖茨的核电公司通过环评": "https://www.solidot.org/story?sid=82646",
+        "号称保护隐私的浏览器被发现包含恶意程序的功能": "https://www.solidot.org/story?sid=82645",
+        "企业将 AI 作为裁员借口": "https://www.solidot.org/story?sid=82644",
+        "微软禁用文件资源管理器的预览功能": "https://www.solidot.org/story?sid=82643"
+    },
+    "黑海洋 - Wiki": {
+        "WeChat Selkies：把微信/QQ搬进浏览器的 Linux Docker": "https://blog.upx8.com/4888"
+    },
+    "安全分析与研究": {
+        "使用EtherHiding技术隐藏C2通信流量窃密木马样本分析": "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247493945&idx=1&sn=a17a2e328f94a8e68226edc9df6d2420"
+    },
+    "网安志异": {
+        "绘制地下都市：黑客如何描绘出你Mac电脑内核的秘密蓝图？ Phrack #72-9": "https://mp.weixin.qq.com/s?__biz=MzAxNzYyNzMyNg==&mid=2664232756&idx=1&sn=7d1258218fa0e559b2093085d145029b"
+    },
+    "安全内参": {
+        "医疗数据泄露屡现天价赔偿！一大型医院泄露患者隐私赔偿1.28亿元": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515127&idx=1&sn=01acba83491db9daa263301b35baa4f6",
+        "别随便连公共Wi-Fi！新型攻击可用普通设备偷录信号，悄悄锁定你的身份": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515127&idx=2&sn=1bf6c7b19e5f549ce0b2c95bf653d386"
+    },
+    "天黑说嘿话": {
+        "巡星漏洞扫描平台": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484864&idx=1&sn=deecfb860d1988539c75df286513f252"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【情报】美军近一年各军种兵力均呈现增加态势": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651152685&idx=1&sn=5313afefce423866316266b2be632cab"
+    },
+    "看雪学苑": {
+        "Vmprotect2.12.3分析之虚拟机流程": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458602728&idx=1&sn=cbcaf0b438d959a45a5a897f5fc5e35e",
+        "芯片安全设计及应用技术研讨会上海站--“破局芯片安全：技术 · 标准 · 产业”": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458602728&idx=2&sn=0bfff781d2b4f6920002bd24392ead16",
+        "勒索软件团伙Safepay声称入侵监控服务商Xortec": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458602728&idx=3&sn=b30e5a9d4ccaf293c4ce0a1cc2bf16a5"
+    },
+    "威努特安全网络": {
+        "智能体应用实践：自动生成日志范化规则​": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651136831&idx=1&sn=564e3d1fdfc7eb2a96fcfca28164d893"
+    },
+    "奇安信威胁情报中心": {
+        "一次针对 iOS 间谍武器开发人员的 0day 攻击到美国十大政府承包商 L3Harris 的陷落": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247516445&idx=1&sn=96ac3c139e429191e1472dcdb916cda7"
+    },
+    "代码卫士": {
+        "黑客正在大规模利用受老旧漏洞影响的WordPress 插件": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524284&idx=1&sn=a47fdc708ae65d68939d797fb4f739ad",
+        "OpenWrt 修复 DSL 驱动中的 RCE 和内核内存泄露漏洞": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524284&idx=2&sn=3db26e74afeb401ca38364146c82882b"
+    },
+    "安全学术圈": {
+        "鹏城实验室-中山大学 | 郭得科&谢国锐老师博士招生信息": "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494137&idx=1&sn=20349eba674c071f34427aa1601786b9"
+    },
+    "奇安信 CERT": {
+        "【已复现】Windows Server Update Service远程代码执行漏洞(CVE-2025-59287)安全风险通告": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504063&idx=1&sn=028ec8f075afd68647fcbf48accfbaa3"
+    },
+    "dotNet安全矩阵": {
+        "从上周的 WSUS 远程代码执行谈 .NET 反序列化漏洞": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500865&idx=1&sn=ff565fc267cda77f7a0e09342b886b8d",
+        ".NET内网实战： 通过 FileSecurity 获取目录及文件控制列表和规则": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500865&idx=2&sn=21945c64bcc9ba8cce16cd0a1b7bb122",
+        ".NET 实战攻防电子报刊，从内网基础到高阶实战！": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500865&idx=3&sn=6a5b49f705cb5082426038c607366c07"
+    },
+    "安全研究GoSSIP": {
+        "G.O.S.S.I.P 阅读推荐 2025-10-27 模棱两可之处见真章": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247500884&idx=1&sn=3dbfbf2aa86b38678ed8dfdb8d4ec823"
+    },
+    "中国信息安全": {
+        "专题·网络靶场 | 数据合成技术（合成数据）在网络靶场中的应用": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664251873&idx=1&sn=81a9a7d4ad7dd1e0eef659b15982d39b",
+        "专家解读 | 筑基数据跨境流动 护航个人信息安全": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664251873&idx=2&sn=e93a0cd5b1c807b21b6d35c137089ca7",
+        "关注 | 整治网络虚假摆拍 维护企业合法权益": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664251873&idx=3&sn=43061857f0e9e329d77d7ca2e60ef6a9",
+        "行业 | 盛邦安全攻克超高速“加密技术”，200G密码技术迈入全球“无人区”": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664251873&idx=4&sn=c42b21a69e5a44c19136cb9dbf74abc8",
+        "评论 | 清除“雾霾”让网络空间更清朗": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664251873&idx=5&sn=ff14a1d1a15e3858aaca7afdb7cd7904"
+    },
+    "腾讯玄武实验室": {
+        "每日安全动态推送(25/10/27)": "https://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&mid=2651960237&idx=1&sn=68742a97c416c06755eb3de55c6b3c1c"
+    },
+    "数世咨询": {
+        "研究发现：API 安全盲区正在威胁 AI 智能体部署": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247540620&idx=1&sn=7f33913abb7f3612b8d27e0b5a5e5e2e"
+    },
+    "安全圈": {
+        "【安全圈】BreachForums论坛 重新上线无需暗网访问": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072431&idx=1&sn=c729dbfb72fe515dcbaf16d5acb39db8",
+        "【安全圈】Everest 勒索软件集团称窃取 150 万都柏林机场乘客记录": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072431&idx=2&sn=d04b156db0aec61eac994f1bb093b23d",
+        "【安全圈】新型 Python 木马伪装 Minecraft 应用": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072431&idx=3&sn=72e30d94ee87bdeec7430f48fe9907bd",
+        "【安全圈】3,000 个 YouTube 视频被曝为恶意软件陷阱": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072431&idx=4&sn=d426f008b78a567b13485d8859f776a4"
+    },
+    "长亭科技": {
+        "长亭科技上榜国家专精特新“小巨人”，以AI安全创新领跑网络安全新赛道": "https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651389840&idx=1&sn=fa65ff85f994035e94e6e7d2e5f695c2",
+        "【售后专栏】更新！长亭400热线热搜答疑-产品能量胶-9月篇": "https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651389840&idx=2&sn=3aced095060714b77e4f106ba2c8be86"
+    },
+    "安全牛": {
+        "卡内基梅隆大学：当前大多数AI风险研究是“狭隘”和“偏离”的；美国一航司突发IT系统宕机事故，超400 次航班紧急取消 | 牛览": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139149&idx=1&sn=dde3e5fbbe2fcb4b91b8d3907a0386eb",
+        "《AI云服务市场发展现状及安全能力洞察》研究报告——安全、可控、可信地“上云用智算”": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139149&idx=2&sn=459cbd4a4360f43e65bd09eba9b183f4"
+    },
+    "情报分析师": {
+        "鲜为人知的 X/Twitter 高级精准搜索技能": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650562722&idx=1&sn=c753cc14ceef03d488cff6e555987dab",
+        "美国以能源为抓手推动地缘政治遏制与印太战略重构对华影响分析": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650562722&idx=2&sn=b6b064a04e58d4c23b4f2e3410e8fadf"
+    },
+    "极客公园": {
+        "宁德时代赚走 185 亿，车企却不想再给「宁王」打工了": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653089360&idx=1&sn=ff9852ea39f102111050018923ad520f",
+        "看似万能的 AI，其实比你想的更脆弱和邪恶": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653089356&idx=1&sn=1c3d10630dfa38e9c123c50042bf9375",
+        "马斯克 xAI 上新款「虚拟女友」；传小米 17 Air 明年上；996 成美国创业者美德 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653089355&idx=1&sn=900db8e3eab2c9c0c6cc047612fbd654"
+    },
+    "雷神众测": {
+        "雷神众测漏洞周报2025.10.20-2025.10.26": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503580&idx=1&sn=8d76dbe1c9bcc3abe91c07cf0db46802"
+    },
+    "复旦白泽战队": {
+        "「智汇安全·洞见未来」——复旦大学计算与智能创新学院学科周论坛精彩回顾": "https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247496465&idx=1&sn=b858c2bc72aabea9c8ac2e1d17258b42"
+    },
+    "深信服千里目安全技术中心": {
+        "【漏洞通告】Windows 服务器更新服务 (WSUS) 远程代码执行漏洞(CVE-2025-59287)": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524735&idx=1&sn=db46b53845369cfde708d16ccc463286",
+        "关于国家授时中心遭受美国国家安全局网络攻击事件的技术分析报告": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247524735&idx=2&sn=26c454e9991be48cebadbf8d9545da9d"
+    },
+    "吴鲁加": {
+        "AI 时代更要有人味": "https://mp.weixin.qq.com/s?__biz=Mzg5NDY4ODM1MA==&mid=2247485781&idx=1&sn=6f45cefe87a3c75883c182e51bddc030"
+    },
+    "腾讯安全威胁情报中心": {
+        "情报每周回顾 2025-10-27": "https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247510935&idx=1&sn=a304d7b09b3014a1cb266274e241df44"
+    },
+    "京东安全应急响应中心": {
+        "JoySafety安全审核大模型重磅更新！提示词注入、多语种、多轮对话检测能力全面加码": "https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727850068&idx=1&sn=a67a376597448593874c3ed1177c1a1a"
+    },
+    "美团技术团队": {
+        "LongCat-Video 视频生成模型正式发布，探索世界模型的第一步": "https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781654&idx=1&sn=11534a7155b6d53badd15858036d2e20",
+        "活动回顾｜2025年美团北斗计划 · 基座大模型技术交流会圆满落幕": "https://mp.weixin.qq.com/s?__biz=MjM5NjQ5MTI5OA==&mid=2651781654&idx=2&sn=8b7a7d70bca75795d24b1f44458b45c8"
+    },
+    "CNVD漏洞平台": {
+        "CNVD漏洞周报2025年第41期": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496443&idx=1&sn=dde031f4c23e22aefa2f922cd60d1c11",
+        "上周关注度较高的产品安全漏洞(20251020-20251026)": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496443&idx=2&sn=3d0eeedba3f78ad71a508a6347a50d2a"
+    },
+    "字节跳动技术团队": {
+        "AIO Sandbox：为 AI Agent 打造的一体化、可定制的沙箱环境": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247517104&idx=1&sn=ef0dc840f9133ed09b50f13440a13c76",
+        "抖音云游戏调度优化实践": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247517104&idx=2&sn=46ca0643e305e7c58309798940aa2b37"
+    },
+    "网安国际": {
+        "DataCon2025报名启动：用数据，守护未来！ (文末抽奖）": "https://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652318085&idx=1&sn=c17db601076709c3ac814740a18a06be"
+    },
+    "IT Service Management News": {
+        "ISO Survey 2024": "http://blog.cesaregallotti.it/2025/10/iso-survey-2024.html",
+        "Indisponibilità AWS per 15 ore": "http://blog.cesaregallotti.it/2025/10/indisponibilita-aws-per-15-ore.html"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "Bytes over DNS, (Mon, Oct 27th)": "https://isc.sans.edu/diary/rss/32420",
+        "ISC Stormcast For Monday, October 27th, 2025 https://isc.sans.edu/podcastdetail/9672, (Mon, Oct 27th)": "https://isc.sans.edu/diary/rss/32424"
+    },
+    "ICT Security Magazine": {
+        "OSINT: un antidoto al caos digitale?": "https://www.ictsecuritymagazine.com/articoli/osint-caos-digitale/",
+        "Human-Operated Ransomware: l’evoluzione della minaccia cyber più sofisticata": "https://www.ictsecuritymagazine.com/notizie/human-operated-ransomware/"
+    },
+    "Schneier on Security": {
+        "Louvre Jewel Heist": "https://www.schneier.com/blog/archives/2025/10/louvre-jewel-heist.html",
+        "First Wap: A Surveillance Computer You’ve Never Heard Of": "https://www.schneier.com/blog/archives/2025/10/first-wap-a-surveillance-computer-youve-never-heard-of.html"
+    },
+    "Have I Been Pwned latest breaches": {
+        "MyVidster (2025) - 3,864,364 breached accounts": "https://haveibeenpwned.com/Breach/MyVidster2025"
+    },
+    "Troy Hunt's Blog": {
+        "How We (Almost) Found Chromium's Bug via Crash Reports to Report URI": "https://www.troyhunt.com/how-we-almost-found-chromiums-bug-via-crash-reports-to-report-uri/"
+    },
+    "360数字安全": {
+        "360协同国家相关单位极速封堵超危RCE漏洞，守护全球数百万大模型服务器安全": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247582562&idx=1&sn=59e12a0ed46baee10f84b93fbff492f3",
+        "10月28日 | 看Agent+千行智变": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247582562&idx=2&sn=33d572b04a0ee04465c0342786dca6d1"
+    },
+    "Securityinfo.it": {
+        "Dante, lo spyware italiano usato in campagne di cyberspionaggio": "https://www.securityinfo.it/2025/10/27/dante-lo-spyware-italiano-usato-in-attacchi-di-cyberspionaggio/?utm_source=rss&utm_medium=rss&utm_campaign=dante-lo-spyware-italiano-usato-in-attacchi-di-cyberspionaggio",
+        "CERT-AGID 18–24 ottobre: phishing a tema PagoPA e Fascicolo Sanitario": "https://www.securityinfo.it/2025/10/27/cert-agid-18-24-ottobre-phishing-pagopa-fascicolo-sanitario/?utm_source=rss&utm_medium=rss&utm_campaign=cert-agid-18-24-ottobre-phishing-pagopa-fascicolo-sanitario"
+    },
+    "迪哥讲事": {
+        "自动SSRF漏洞扫描与利用工具": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498469&idx=1&sn=d924920c7a9e0232c18d43f9ad13297b"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "Earth Estries alive and kicking": "https://bartblaze.blogspot.com/2025/10/earth-estries-alive-and-kicking.html",
+        "US declines to join more than 70 countries in signing UN cybercrime treaty": "https://therecord.media/us-declines-signing-cybercrime-treaty",
+        "Google disputes false claims of massive Gmail data breach": "https://www.bleepingcomputer.com/news/security/google-disputes-false-claims-of-massive-gmail-data-breach/",
+        "X: Re-enroll 2FA security keys by November 10 or get locked out": "https://www.bleepingcomputer.com/news/security/x-re-enroll-2fa-security-keys-by-november-10-or-get-locked-out/",
+        "Sweden’s power grid operator confirms data breach claimed by ransomware gang": "https://therecord.media/sweden-power-grid-operator-data",
+        "Ransomware profits drop as victims stop paying hackers": "https://www.bleepingcomputer.com/news/security/ransomware-profits-drop-as-victims-stop-paying-hackers/",
+        "Windows will soon prompt for memory scans after BSOD crashes": "https://www.bleepingcomputer.com/news/microsoft/windows-will-soon-prompt-for-memory-scans-after-bsod-crashes/",
+        "Italian-made spyware spotted in breaches of Russian, Belarusian systems": "https://therecord.media/memento-labs-formerly-hacking-team-dante-spyware-russia-kaspersky",
+        "Cities reverse course on automated license plate reader cameras amid privacy concerns": "https://therecord.media/cities-reverse-course-on-automated-license-plate-reader-cameras",
+        "QNAP warns of critical ASP.NET flaw in its Windows backup software": "https://www.bleepingcomputer.com/news/security/qnap-warns-its-windows-backup-software-is-also-affected-by-critical-aspnet-flaw/",
+        "Italian spyware vendor linked to Chrome zero-day attacks": "https://www.bleepingcomputer.com/news/security/italian-spyware-vendor-linked-to-chrome-zero-day-attacks/",
+        "Google says everyone will be able to vibe code video games": "https://www.bleepingcomputer.com/news/google/google-says-everyone-will-be-able-to-vibe-code-video-games/",
+        "What brain privacy will look like in the age of neurotech": "https://therecord.media/what-brain-privacy-will-look-like",
+        "The State of Exposure Management in 2025: Insights From 3,000+ Organizations": "https://www.bleepingcomputer.com/news/security/the-state-of-exposure-management-in-2025-insights-from-3-000-plus-organizations/",
+        "Microsoft: New policy removes pre-installed Microsoft Store apps": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-remove-pre-installed-microsoft-store-apps-via-policy/",
+        "Guerre di Rete - Dove è finita l'etichetta AI": "https://guerredirete.substack.com/p/guerre-di-rete-dove-e-finita-letichetta",
+        "Post-Quantum Cryptography in 2025 – Migration Paths, Early Movers and CISO/RedTeam Impact": "https://www.darknet.org.uk/2025/10/post-quantum-cryptography-in-2025-migration-paths-early-movers-and-ciso-redteam-impact/",
+        "NetExec – Network Execution Toolkit for Windows and Active Directory": "https://www.darknet.org.uk/2025/10/netexec-network-execution-toolkit-for-windows-and-active-directory/",
+        "Reaper – Unified Application Security Testing with AI Support": "https://www.darknet.org.uk/2025/10/reaper-unified-application-security-testing-with-ai-support/",
+        "In corso uno smishing ai danni di Autostrade per l’Italia": "https://cert-agid.gov.it/news/in-corso-uno-smishing-ai-danni-di-autostrade-per-litalia/",
+        "APT-C-60 Escalates SpyGlace Campaigns Targeting Japan with Evolved Malware, Advanced Evasion TTPs": "https://cyble.com/blog/apt-c-60-escalates-spyglace-campaigns-targeting-japan-with-evolved-malware-advanced-evasion-ttps/",
+        "CISA orders feds to patch actively exploited Windows Server WSUS flaw": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-server-wsus-flaw-exploited-in-attacks/",
+        "From Human-Led to AI-Driven: Why Agentic AI Is Redefining Cybersecurity Strategy": "https://cyble.com/blog/agentic-ai-the-future-of-cybersecurity-defense/",
+        "CISA releases warning about Windows Server Update Service bug, orders agencies to patch": "https://therecord.media/wsus-vulnerability-cisa-late-friday-warning",
+        "Compliance Checker: come funziona il tool europeo per valutare la conformità all’AI Act": "https://www.cybersecurity360.it/news/compliance-checker-come-funziona-il-tool-europeo-per-valutare-la-conformita-allai-act/",
+        "Dante, lo spyware italiano usato in campagne di cyberspionaggio": "https://www.securityinfo.it/2025/10/27/dante-lo-spyware-italiano-usato-in-attacchi-di-cyberspionaggio/",
+        "Not found. Sign Up to RSS.app to use this feed.": "https://rss.app",
+        "Klopatra: exposing a new Android banking trojan operation with roots in Turkey | Cleafy LABS": "https://www.cleafy.com/cleafy-labs/klopatra-exposing-a-new-android-banking-trojan-operation-with-roots-in-turkey",
+        "Se l’AI diventa una minaccia interna: Atlas e i rischi aziendali": "https://www.cybersecurity360.it/nuove-minacce/se-lai-diventa-una-minaccia-interna-atlas-e-i-rischi-aziendali/",
+        "AI Act e la proposta di moratoria: in gioco è il modello europeo di governo del digitale": "https://www.cybersecurity360.it/legal/ai-act-e-la-proposta-di-moratoria-in-gioco-e-il-modello-europeo-di-governo-del-digitale/",
+        "Hackers steal Discord accounts with RedTiger-based infostealer": "https://www.bleepingcomputer.com/news/security/hackers-steal-discord-accounts-with-redtiger-based-infostealer/",
+        "Cosa insegnano Lynx e il Ransomware-as-a-Service (RaaS) in generale": "https://www.cybersecurity360.it/news/cosa-insegnano-lynx-e-il-raas/",
+        "CERT-AGID 18–24 ottobre: phishing a tema PagoPA e Fascicolo Sanitario tra le campagne più insidiose": "https://www.securityinfo.it/2025/10/27/cert-agid-18-24-ottobre-phishing-pagopa-fascicolo-sanitario/",
+        "NinjaFirewall and the General Data Protection Regulation (GDPR).": "https://blog.nintechnet.com/ninjafirewall-general-data-protection-regulation-compliance/",
+        "Mem3nt0 mori – The Hacking Team is back!": "https://securelist.com/forumtroll-apt-hacking-team-dante-spyware/117851/",
+        "MyVidster (2025) - 3,864,364 breached accounts": "https://haveibeenpwned.com/Breach/MyVidster2025",
+        "Uncovering Qilin attack methods exposed through multiple cases": "https://blog.talosintelligence.com/uncovering-qilin-attack-methods-exposed-through-multiple-cases/"
+    },
+    "The Hacker News": {
+        "X Warns Users With Security Keys to Re-Enroll Before November 10 to Avoid Lockouts": "https://thehackernews.com/2025/10/x-warns-users-with-security-keys-to-re.html",
+        "New ChatGPT Atlas Browser Exploit Lets Attackers Plant Persistent Hidden Commands": "https://thehackernews.com/2025/10/new-chatgpt-atlas-browser-exploit-lets.html",
+        "⚡ Weekly Recap: WSUS Exploited, LockBit 5.0 Returns, Telegram Backdoor, F5 Breach Widens": "https://thehackernews.com/2025/10/weekly-recap-wsus-exploited-lockbit-50.html",
+        "Qilin Ransomware Combines Linux Payload With BYOVD Exploit in Hybrid Attack": "https://thehackernews.com/2025/10/qilin-ransomware-combines-linux-payload.html",
+        "ChatGPT Atlas Browser Can Be Tricked by Fake URLs into Executing Hidden Commands": "https://thehackernews.com/2025/10/chatgpt-atlas-browser-can-be-tricked-by.html"
+    },
+    "Security Affairs": {
+        "Memento Labs, the ghost of Hacking Team, has returned — or maybe it was never gone at all.": "https://securityaffairs.com/183913/apt/memento-labs-the-ghost-of-hacking-team-has-returned-or-maybe-it-was-never-gone-at-all.html",
+        "Crafted URLs can trick OpenAI Atlas into running dangerous commands": "https://securityaffairs.com/183900/hacking/crafted-urls-can-trick-openai-atlas-into-running-dangerous-commands.html",
+        "Linux variant of Qilin Ransomware targets Windows via remote management tools and BYOVD": "https://securityaffairs.com/183891/malware/linux-variant-of-qilin-ransomware-targets-windows-via-remote-management-tools-and-byovd.html",
+        "Wordfence blocks 8.7M attacks exploiting old GutenKit and Hunk Companion flaws": "https://securityaffairs.com/183876/uncategorized/wordfence-blocks-8-7m-attacks-exploiting-old-gutenkit-and-hunk-companion-flaws.html"
+    },
+    "Deeplinks": {
+        "Opt Out October: Daily Tips to Protect Your Privacy and Security": "https://www.eff.org/deeplinks/2025/09/opt-out-october-daily-tips-protect-your-privacy-and-security",
+        "Joint Statement on the UN Cybercrime Convention: EFF and Global Partners Urge Governments Not to Sign": "https://www.eff.org/deeplinks/2025/10/joint-statement-un-cybercrime-convention-eff-and-global-partners-urge-governments"
+    },
+    "Security Weekly Podcast Network (Audio)": {
+        "Securing AI Agents with Dave Lewis, Enterprise News, and interviews from Oktane 2025 - Mike Poole, Conor Mulherin, Dave Lewis - ESW #430": "http://sites.libsyn.com/18678/securing-ai-agents-with-dave-lewis-enterprise-news-and-interviews-from-oktane-2025-mike-poole-conor-mulherin-dave-lewis-esw-430"
+    },
+    "Connor McGarr’s Blog": {
+        "Windows ARM64 Internals: Exception &amp; Privilege Model, Virtual Memory Management, and Windows under Virtualization Host Extensions (VHE)": "/arm64-windows-internals-basics/"
+    },
+    "Blaze's Security Blog": {
+        "Earth Estries alive and kicking": "https://bartblaze.blogspot.com/2025/10/earth-estries-alive-and-kicking.html"
+    }
+}
