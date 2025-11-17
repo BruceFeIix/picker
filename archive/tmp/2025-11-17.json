@@ -1,0 +1,101 @@
+{
+    "Doonsec's feed": {
+        "重磅！FortiWeb 新漏洞 CVE-2025-64446 的 PoC 已公开，攻击风险陡升": "https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492263&idx=1&sn=7a22f6368aa6fb330c86380c4e231f59",
+        "RuvarHRM人力资源管理系统存在SQL注入漏洞 附POC": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489530&idx=1&sn=cbe9b6102f57dd81d889c4f02aafe595",
+        "开源情报|国际动态|制度铁幕下的对华围堵：美国对盟友体系的重塑": "https://mp.weixin.qq.com/s?__biz=Mzg2NTcyNjU4Nw==&mid=2247486068&idx=1&sn=593320d2fb1bc7dce5d4fedf69daebdb",
+        "获奖名单公布！近3000人，1000支队伍参与第十一届“美亚杯”角逐": "https://mp.weixin.qq.com/s?__biz=MjM5NTU4NjgzMg==&mid=2651447817&idx=1&sn=2a8d4b2ccac9dff42d173793aabcd87f",
+        "2025年第十一届“美亚杯”个人赛参考题解上线！拆解考点+解题思路，复盘必看": "https://mp.weixin.qq.com/s?__biz=MjM5NTU4NjgzMg==&mid=2651447817&idx=2&sn=a27d47ecf8db6a21a8ba468deb727c56",
+        "EasyTools渗透测试工具箱V1.9.6更新(支持ctf 杂项流量包一键梭哈功能)": "https://mp.weixin.qq.com/s?__biz=MzkxNDYxMTc0Mg==&mid=2247484601&idx=1&sn=61f4e990cee0cca43f57677e9d90276f",
+        "极力推荐：万字大白话一次讲透OAuth 2.0如何“安全授权”，OIDC又如何“精准识人”！": "https://mp.weixin.qq.com/s?__biz=MzkyMTYyOTQ5NA==&mid=2247487658&idx=1&sn=9837663c18779f428bdd6a573ee0caa3",
+        "新法能否使网安行业告别“野蛮生长”，重回技术驱动时代？": "https://mp.weixin.qq.com/s?__biz=MzAxOTk3NTg5OQ==&mid=2247493397&idx=1&sn=3f20031208febfbd8211f4dc5ce117a8",
+        "Vulnhub靶场之funbox.Gaokao": "https://mp.weixin.qq.com/s?__biz=Mzg3MjgxMzkzMg==&mid=2247485317&idx=1&sn=f923f0abc34664321d5ab79f7721dbed",
+        "【ES双十一】全年仅一次，Rust神器限时优惠": "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488413&idx=1&sn=3c0d60659658765ae72e4692438746fe",
+        "ES::Dirscan | Web路径扫描器": "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488413&idx=2&sn=b9160708a7afd1821f8a064e5f883214",
+        "活该你能挖到洞": "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247521378&idx=1&sn=1fb26d9aaaca386ca6a7178423ff55e2",
+        "【连载】红蓝对抗-攻防演练-WEB安全渗透测试：文件上传漏洞原理（三）": "https://mp.weixin.qq.com/s?__biz=MzI0MzM3NTQ5MA==&mid=2247484862&idx=1&sn=aeaccf3c2026debd6e8c4504621f6b55",
+        "本周「微言晓意」ima知识库及知识星球更新汇总": "https://mp.weixin.qq.com/s?__biz=MzI5MTEyMDUzMw==&mid=2650046765&idx=1&sn=bf24a14956fead1dcbdce8843a98dddb",
+        "iOS 18-26 越狱关键突破：实现沙箱逃逸与权限提升": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183668&idx=1&sn=0b225a72f73c3f90c77af647352d6735",
+        "LSB 隐写：像素中的秘密": "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486892&idx=1&sn=56f14874fc587fc083c80f3f5c968fa0",
+        "2024华为漏洞管理白皮书": "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628694&idx=1&sn=5019972e07d564b3ea0fff7086c4eeba",
+        "智能汽车网络安全与信息安全基础培训课程 2025": "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628694&idx=2&sn=8a81893d6bfcae79bc54fe302fb370a5",
+        "中汽数据：基于分层检测架构与动态演进机制车联网车载信息安全入侵检测范式研究": "https://mp.weixin.qq.com/s?__biz=MzU2MDk1Nzg2MQ==&mid=2247628694&idx=3&sn=67e165fcc78cd03b7642cc255e47e605",
+        "【攻防实战】Ueditor编辑器文件上传联动CS远控打穿四层内网(下)": "https://mp.weixin.qq.com/s?__biz=Mzg5NTU2NjA1Mw==&mid=2247504949&idx=1&sn=d492149114d5d6f9af16fd1e3a48a2b6",
+        "使用微信加载恶意模块银狐黑产组织最新攻击样本分析": "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494331&idx=1&sn=0c49dc19830175b6cbc6fce26d32212b",
+        "搜寻VC/TC容器文件的进一步研究": "https://mp.weixin.qq.com/s?__biz=MjM5NDcxMDQzNA==&mid=2247490110&idx=1&sn=83ade1f87f9dbc27f9ba68393773c7eb",
+        "广东省金融科技创新应用首次以“AI”为主题": "https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653932929&idx=1&sn=c46e9b951a4638e8761dc5ef1b9101a8",
+        "国泰海通证券2025年AI智能因子投研系统采购项目": "https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653932929&idx=2&sn=c2bc32c1efbf1990614fe5e1015bb317",
+        "腾讯云中！华鑫国际信托AI知识库建设项目公示": "https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653932929&idx=3&sn=445278515a17c73c6344434d5385b4a3",
+        "【安全圈】约 40 年前的 Windows 古董命令被滥用，黑客远程投毒可掌控你的 PC": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072762&idx=1&sn=4225b92cfe71bb5a2195e3a39130753e",
+        "【安全圈】ClickFix 木马借人机验证系统实施新型网络攻击，窃取用户信息": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072762&idx=2&sn=d42f939d160e8838378791bef5a82bb6",
+        "【安全圈】微软推送 Win10 首个扩展安全更新：修复 63 个漏洞、解决误报 BUG": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072762&idx=3&sn=b546a0312adffe65c8c06576f8144422",
+        "当代大学生如何告别选择困难，过来人手把手教你搞定": "https://mp.weixin.qq.com/s?__biz=Mzg4MTUzNTI0Nw==&mid=2247484070&idx=1&sn=968c864d31f2c88ca759ea9f477b5f97"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sun Nov 16 11:54:07 UTC 2025": "https://github.com/trickest/cve/commit/1c01b9e713d6532c8d1303dc6b1e450990034133"
+    },
+    "SecWiki News": {
+        "SecWiki News 2025-11-16 Review": "http://www.sec-wiki.com/?2025-11-16"
+    },
+    "Hexacorn": {
+        "Some unusual run-time rundll32.exe artifacts": "https://www.hexacorn.com/blog/2025/11/16/some-unusual-run-time-rundll32-exe-artifacts/",
+        "1 or more little secrets of disksnapshot.exe": "https://www.hexacorn.com/blog/2025/11/16/1-or-more-little-secrets-of-disksnapshot-exe/"
+    },
+    "奇安信 CERT": {
+        "【在野利用】Fortinet FortiWeb 身份认证绕过漏洞(CVE-2025-64446)安全风险通告": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504170&idx=1&sn=0d94424a437dfe623e4407031fbad05f"
+    },
+    "K8哥哥’s Blog": {
+        "AI攻防 Gemini大模型越狱提示词": "http://k8gege.org/p/aibreak.html"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "NASA 宇航员的离异妻子承认撒谎": "https://www.solidot.org/story?sid=82816"
+    },
+    "威努特安全网络": {
+        "威努特商用密码建设，筑牢医疗数字防线": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651137845&idx=1&sn=794e8116888a57d04d647da828706445"
+    },
+    "黑鸟": {
+        "iOS 18-26 越狱关键突破：实现沙箱逃逸与权限提升": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451183668&idx=1&sn=0b225a72f73c3f90c77af647352d6735"
+    },
+    "极客公园": {
+        "当 AI 开始分「左右」": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653091029&idx=1&sn=f787bedda78c5ccbf57cf92eaf27aaf9",
+        "安谋科技发了一枚 NPU，要把 AIGC 算力提升 10 倍": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653091029&idx=2&sn=8c7c32a6dde88c66499e2451e4d9fe51",
+        "宇树完成上市辅导，拟境内IPO；传索尼开发Labubu电影；2699元！原道X小岛秀夫耳机限量发售 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653091071&idx=1&sn=e5863a404d46614136e8d6051b6f50e1"
+    },
+    "天黑说嘿话": {
+        "干货分享：常见内存镜像获取与分析工具": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485155&idx=1&sn=b59ae589bd2379c02e5ebe5e3f92a585"
+    },
+    "安全圈": {
+        "【安全圈】约 40 年前的 Windows 古董命令被滥用，黑客远程投毒可掌控你的 PC": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072762&idx=1&sn=4225b92cfe71bb5a2195e3a39130753e",
+        "【安全圈】ClickFix 木马借人机验证系统实施新型网络攻击，窃取用户信息": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072762&idx=2&sn=d42f939d160e8838378791bef5a82bb6",
+        "【安全圈】微软推送 Win10 首个扩展安全更新：修复 63 个漏洞、解决误报 BUG": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652072762&idx=3&sn=b546a0312adffe65c8c06576f8144422"
+    },
+    "电子物证": {
+        "【iPhone “失窃设备保护” 功能特性、取证影响与应对策略】": "https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048770&idx=1&sn=847a956ca72e1dffbb8d53a31971b88c",
+        "【一张照片成破案关键】": "https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048770&idx=2&sn=9762a4e519de6b5fcc57ddfbe662e46e"
+    },
+    "迪哥讲事": {
+        "一个存储型xss": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498589&idx=1&sn=cebb27c7ca6e1f5c22230b30df2bda40"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "Microsoft Patch Tuesday, November 2025 Edition": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
+        "Google to flag Android apps with excessive battery use on the Play Store": "https://www.bleepingcomputer.com/news/security/google-to-flag-android-apps-with-excessive-battery-use-on-the-play-store/",
+        ".net 10 framework sdk not available on vs.net 2026 and 2022": "https://trueliarx.blogspot.com/2025/11/net-10-framework-sdk-not-available-on.html",
+        "Upgrade older vs.net .net 4 framework solutions/applications to .net 10 sdk.": "https://trueliarx.blogspot.com/2025/11/upgrade-older-vsnet-net-4-framework.html",
+        "[FIX] Visual Studio 2022 + 2026: Warning CA1416 \"Call site reachable by all platforms\" but \"only supported on: 'windows'\"": "https://trueliarx.blogspot.com/2025/11/fix-visual-studio-2022-2026-warning.html"
+    },
+    "Krebs on Security": {
+        "Microsoft Patch Tuesday, November 2025 Edition": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/"
+    },
+    "Troy Hunt's Blog": {
+        "Weekly Update 478": "https://www.troyhunt.com/weekly-update-478/"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "&#x26;#xa;Finger.exe &#x26; ClickFix, (Sun, Nov 16th)": "https://isc.sans.edu/diary/rss/32492",
+        "SANS Holiday Hack Challenge 2025, (Sun, Nov 16th)": "https://isc.sans.edu/diary/rss/32488"
+    },
+    "Security Affairs": {
+        "Five admit helping North Korea evade sanctions through IT worker schemes": "https://securityaffairs.com/184712/cyber-crime/five-admit-helping-north-korea-evade-sanctions-through-it-worker-schemes.html",
+        "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 71": "https://securityaffairs.com/184695/malware/security-affairs-malware-newsletter-round-71.html",
+        "Security Affairs newsletter Round 550 by Pierluigi Paganini – INTERNATIONAL EDITION": "https://securityaffairs.com/184688/breaking-news/security-affairs-newsletter-round-550-by-pierluigi-paganini-international-edition.html",
+        "Anthropic: China-backed hackers launch first large-scale autonomous AI cyberattack": "https://securityaffairs.com/184666/hacking/anthropic-china-backed-hackers-launch-first-large-scale-autonomous-ai-cyberattack.html"
+    }
+}
