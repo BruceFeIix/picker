@@ -1,0 +1,111 @@
+{
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "Windows LNK File UI Misrepresentation Remote Code Execution": "https://cxsecurity.com/issue/WLB-2025120015",
+        "Microsoft Windows Media Player WMDRM 'RES://' URI Arbitrary Code Execution Vulnerability": "https://cxsecurity.com/issue/WLB-2025120014",
+        "phpMyFAQ  3.1.7 Reflected Cross-Site Scripting (XSS)": "https://cxsecurity.com/issue/WLB-2025120013",
+        "Pluck 4.7.7-dev2  PHP Code Execution": "https://cxsecurity.com/issue/WLB-2025120012",
+        "R.s.W - Sql Injection": "https://cxsecurity.com/issue/WLB-2025120011",
+        "NetBT e-Fatura 'InboxProcessor' Unquoted Service Path Privilege Escalation": "https://cxsecurity.com/issue/WLB-2025120010"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sun Dec 14 11:27:15 UTC 2025": "https://github.com/trickest/cve/commit/13637fdc838c69188a46b4480ec520ec8c081f62"
+    },
+    "博客": {
+        "jaxb related": "https://dyrnq.com/jaxb-related/"
+    },
+    "obaby@mars": {
+        "一键资源地址替换工具 — UniApp发布小程序体积精简": "https://h4ck.org.cn/2025/12/22157"
+    },
+    "SecWiki News": {
+        "SecWiki News 2025-12-14 Review": "http://www.sec-wiki.com/?2025-12-14"
+    },
+    "Doonsec's feed": {
+        "AI魔改OpenWrt系统第6周": "https://mp.weixin.qq.com/s?__biz=MzU4MTgxNDc2MQ==&mid=2247486537&idx=1&sn=b69271af8b46d2c7de4cca1ba3a99dee",
+        "苹果修复了两个在定向攻击中被利用的Webkit漏洞，其中一个与谷歌ANGLE漏洞同源": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184189&idx=1&sn=26f196ee19262d48195c0c797e5b51b2",
+        "一篇看懂：20 种最常见的网络攻击（小白版）": "https://mp.weixin.qq.com/s?__biz=MzI3NzM5NDA0NA==&mid=2247492339&idx=1&sn=3af98051f176ca0a89b9216afb5a373b",
+        "TL-NodeJsShell：Node.js 生态下的 WebShell 管理平台，内存马+交互终端+代理全覆盖": "https://mp.weixin.qq.com/s?__biz=MzU2MTc4NTEyNw==&mid=2247493092&idx=1&sn=4827701369096dba558144fcd2a4c527",
+        "【数据泄露】暗网公布某东方大国超5000w条公民个人三要素敏感数据": "https://mp.weixin.qq.com/s?__biz=MzkxNTY5MjQ5OQ==&mid=2247487101&idx=1&sn=b5c28a5c62ba9dc36fd5d4a7c8196bb7",
+        "Burp靶场 sql注入手注": "https://mp.weixin.qq.com/s?__biz=MzkxNTc0NzU0Ng==&mid=2247484080&idx=1&sn=2105baa3cd6b6e14e3fd8a62a009f031",
+        "山东大学 张悦课题组博士研究生招生公告.长期有效版": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501115&idx=1&sn=40d8e8cfe9a6f61bbec4bc44b647e5e1",
+        "大模型安全护栏主要功能与产品": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ3NzIxMw==&mid=2247485826&idx=1&sn=78b086f574c5d50c77444e28a4cef649",
+        "致远AnalyticsCloud分析云a接口存在任意文件读取漏洞 POC": "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247489703&idx=1&sn=7c332a50f54489ad2e8f3d0dcc2f08af",
+        "【好文翻译】Patch Wednesday：基于大语言模型的根因分析方法": "https://mp.weixin.qq.com/s?__biz=Mzg4NzgzMjUzOA==&mid=2247486231&idx=1&sn=320a685acc6bd8d34debab918045dcfd",
+        "安全不赚钱了？拆解网络安全10大商业模式，总有一款适合你": "https://mp.weixin.qq.com/s?__biz=MjM5MDk4OTk0NA==&mid=2650126831&idx=1&sn=c5304a532be5dd2929eb509f85f9f9fe",
+        "RedAgent —— AI 自动化快速评估工具": "https://mp.weixin.qq.com/s?__biz=MzE5ODA3NjAzNg==&mid=2247485205&idx=1&sn=dd153a133b68f1dd09eade96a9d85d82",
+        "【提权工具】绕过某60拦截的Potato免杀方法": "https://mp.weixin.qq.com/s?__biz=Mzk0MDczMzYxNw==&mid=2247484786&idx=1&sn=6315caa19cf4deb6eba22b2e8df01e57",
+        "记录一次Web3骗子诈骗手法": "https://mp.weixin.qq.com/s?__biz=MzAwNTc5MTMyNg==&mid=2247500661&idx=1&sn=7153d2fb6bf5701026c1d779e5937b8f",
+        "第十五届VARA大会 | “熵·基智能风险评估”分论坛成功举办": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664255397&idx=1&sn=aa7c11666dd9a17e7b7e372a00564181",
+        "国家安全部提示：手机APP非必要不授予位置权限": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664255397&idx=2&sn=dedb73610b7b2b7983efcd2bc817bcaf",
+        "发布 | 《数据安全技术 电子产品信息清除技术要求》强制性国家标准获批发布（附全文）": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664255397&idx=3&sn=3b1fbaf2fafd6c621c825d48f2ca8820",
+        "权威解答 | 《数据安全技术 电子产品信息清除技术要求》强制性国家标准答记者问": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664255397&idx=4&sn=ca7a66a7de0d283eff7b4d4544487103",
+        "WriteUp | 2025年重庆大学生信息安全竞赛部分WriteUp": "https://mp.weixin.qq.com/s?__biz=MzkxNjcyMTc0NQ==&mid=2247484732&idx=1&sn=16a39494830cd5db2ac779235531c962"
+    },
+    "Taxodium": {
+        "Advent of Code 2025 day9": "https://taxodium.ink/aoc-2025-day-9.html"
+    },
+    "MaskRay": {
+        "Weak AVL Tree": "https://maskray.me/blog/2025-12-14-weak-avl-tree"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "天文学家拍摄到类星战塔图因的系外行星": "https://www.solidot.org/story?sid=83055",
+        "全球电动汽车销量今年至今增长 21%": "https://www.solidot.org/story?sid=83054",
+        "Linux 6.19-rc1 释出，龙芯为内核加入 32 位架构 LoongArch32 支持": "https://www.solidot.org/story?sid=83053"
+    },
+    "安全分析与研究": {
+        "海莲花APT组织攻击样本分析": "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494769&idx=1&sn=4651749e743f3b275b0df531f74772b8"
+    },
+    "黑鸟": {
+        "苹果修复了两个在定向攻击中被利用的Webkit漏洞，其中一个与谷歌ANGLE漏洞同源": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184189&idx=1&sn=26f196ee19262d48195c0c797e5b51b2"
+    },
+    "威努特安全网络": {
+        "筑牢运维安全防线：国密技术加持下的安全运维管理系统揭秘": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651138580&idx=1&sn=9c09a6030df8e0aacb1b1e2090c1b64c"
+    },
+    "404 Not F0und": {
+        "我对流量安全风险感知的思考和实践": "https://mp.weixin.qq.com/s?__biz=MzUzNDU2NTIxOA==&mid=2247484119&idx=1&sn=849185014e261f63071871f4e77e1113"
+    },
+    "安全研究GoSSIP": {
+        "山东大学 张悦课题组博士研究生招生公告.长期有效版": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501115&idx=1&sn=40d8e8cfe9a6f61bbec4bc44b647e5e1"
+    },
+    "安全学术圈": {
+        "2025中国电子学会科学技术奖拟授奖名单(网络空间安全领域)": "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494557&idx=1&sn=6c7e0f71353a1becedcb13886bb51e4c"
+    },
+    "安全圈": {
+        "【安全圈】59元汉堡套餐“0元购”？上海一男子利用知名快餐APP系统漏洞，改价代下单1300笔牟利！": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073198&idx=1&sn=a8f89c45946624f7e850bf07b1ed02d7",
+        "【安全圈】民警黄某某任职期间开设网店，用密钥查询公民个人车辆信息，售出40多条获利2.4万元": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073198&idx=2&sn=54c7300b6f8f823ba343de90fff04762",
+        "【安全圈】为无人机“黑飞”提供破解服务，被刑拘！": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073198&idx=3&sn=9ca16a539684ec89c527c3eb65103499"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【资源】美国生物战/安全/防御相关机构": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153305&idx=1&sn=316f21a302df0111d6110fc3a0c67687",
+        "【资料】美国国防威胁降低局未来的战略意图": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153305&idx=2&sn=8432d4b6c604459c98a4ea7b396ec313"
+    },
+    "极客公园": {
+        "摩尔线程回应「75亿理财」：符合公司股东利益；OpenAI卖「周边」，上线秒空；宇树发「机器人App Store」| 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653094481&idx=1&sn=afae19a1187569154a6548c6f4031fc1"
+    },
+    "电子物证": {
+        "涉外网络犯罪取证难？电子数据跨境取证这样破": "https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048840&idx=1&sn=f220a94da1eb2ca8d48261876e54d11c",
+        "【Windows日志里\"设备名称\"痕迹分析】": "https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048840&idx=2&sn=ff6b165b6cae4dc572203dfb5b3c1c33"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "Should You Trust Your VPN Location?": "https://ipinfo.io/blog/vpn-location-mismatch-report",
+        "Ransomware in public services: when a cyberattack becomes an institutional crisis": "https://www.suspectfile.com/ransomware-in-public-services-when-a-cyberattack-becomes-an-institutional-crisis/",
+        "From apk to golden ticket": "https://www.exploit-db.com/docs/english/44032-from-apk-to-golden-ticket.pdf",
+        "CyberVolk’s ransomware debut stumbles on cryptography weakness": "https://www.bleepingcomputer.com/news/security/cybervolks-ransomware-debut-stumbles-on-cryptography-weakness/",
+        "Beware: PayPal subscriptions abused to send fake purchase emails": "https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/",
+        "An introduction to workflow and process automation with n8n and Camunda": "https://www.adainese.it/blog/2025/12/07/an-introduction-to-workflow-and-process-automation-with-n8n-and-camunda/",
+        "Automating user management with n8n and AI Agents": "https://www.adainese.it/blog/2025/12/14/automating-user-management-with-n8n-and-ai-agents/"
+    },
+    "迪哥讲事": {
+        "SRC实战-挖穿某app": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498794&idx=1&sn=0cb2ba6223905122374fe268f00e6a72"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "Wireshark 4.6.2 Released, (Sun, Dec 14th)": "https://isc.sans.edu/diary/rss/32568"
+    },
+    "Schneier on Security": {
+        "Upcoming Speaking Engagements": "https://www.schneier.com/blog/archives/2025/12/upcoming-speaking-engagements-51.html"
+    },
+    "Security Affairs": {
+        "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 75": "https://securityaffairs.com/185683/malware/security-affairs-malware-newsletter-round-75.html",
+        "Security Affairs newsletter Round 554 by Pierluigi Paganini – INTERNATIONAL EDITION": "https://securityaffairs.com/185673/breaking-news/security-affairs-newsletter-round-554-by-pierluigi-paganini-international-edition.html",
+        "Experts found an unsecured 16TB database containing 4.3B professional records": "https://securityaffairs.com/185661/data-breach/experts-found-an-unsecured-16tb-database-containing-4-3b-professional-records.html"
+    }
+}
