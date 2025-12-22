@@ -1,0 +1,79 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2025-12-21 Review": "http://www.sec-wiki.com/?2025-12-21"
+    },
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "openSIS Community Edition 8.0 SQL Injection": "https://cxsecurity.com/issue/WLB-2025120022",
+        "cmkoo - SQL Injection": "https://cxsecurity.com/issue/WLB-2025120021",
+        "HEUR.Backdoor.Win32.Poison.gen / Arbitrary Code Execution": "https://cxsecurity.com/issue/WLB-2025120020",
+        "Backdoor.Win32.ControlTotal.t / Insecure Credential Storage / MVID-2025-0702": "https://cxsecurity.com/issue/WLB-2025120019"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sun Dec 21 11:24:46 UTC 2025": "https://github.com/trickest/cve/commit/d089803534603481908774ead3da7a985305d327"
+    },
+    "InfoSec Write-ups - Medium": {
+        "Securing AI Agents with Information Flow Control (Part II)": "https://infosecwriteups.com/securing-ai-agents-with-information-flow-control-part-ii-d857e8937253?source=rss----7b722bfd1b8d---4"
+    },
+    "Y4tacker:Hacking The World!": {
+        "浅析帆软前台表达式注入&WAF-Bypass": "https://y4tacker.github.io/2025/12/21/year/2025/12/%E6%B5%85%E6%9E%90%E5%B8%86%E8%BD%AF%E5%89%8D%E5%8F%B0%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B3%A8%E5%85%A5/"
+    },
+    "黑海洋Wiki | Web开发工具包 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台": {
+        "Cloudflare部署的导航项目": "https://blog.upx8.com/4927"
+    },
+    "黑鸟": {
+        "美国导弹防御体系中精密授时服务的作用及发射前破坏策略分析": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184355&idx=1&sn=e6cf5b9b84552d7dd2955fc56418c85f"
+    },
+    "威努特安全网络": {
+        "威努特DeepSeek一体机助力企业打造AI管理新范式": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651138729&idx=1&sn=1fccbeaf236453ad16ceae2eda79ada6"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "AI 公司对 AGI 的警告是为了掩盖对权力的争夺": "https://www.solidot.org/story?sid=83113"
+    },
+    "锦行科技": {
+        "冬至已至，春归有期": "https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494506&idx=1&sn=94629ac27181bed9849d128fd8da2dc7"
+    },
+    "安全分析与研究": {
+        "SideWinder APT组织针对我国军工某次攻击活动分析": "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247494916&idx=1&sn=bdfac71c13063f80c2e2563eacb0fb43"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【情报知识】战术、战役、战略情报/间谍": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153360&idx=1&sn=7837ef471e6b4affe2c147750122536c",
+        "【培训】第16期开源情报能力培训班1月北京开班": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153360&idx=2&sn=adb3688b7a496f3d750d4a22b8d6073e"
+    },
+    "信息安全国家工程研究中心": {
+        "【二十四节气】冬至 | 黄钟应律好风催，阴伏阳升淑气回。": "https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247502494&idx=1&sn=517d752e84f9e1a4e91ae5e6544d091a"
+    },
+    "火绒安全": {
+        "冬至 | 冬至大如年 护网永周全": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247528984&idx=1&sn=7122a5f1766a3761671c3b2a51a272a3",
+        "诚邀渠道合作伙伴共启新征程": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247528984&idx=2&sn=3b7f3ac28e6878c0aa96e19682127842"
+    },
+    "安全圈": {
+        "【安全圈】某国企海外子公司疑遭数据泄露": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073315&idx=1&sn=19f4504f34fde82fdf1315b4ab2cb8e4",
+        "【安全圈】服务器瘫痪近200小时！原因竟是...": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073315&idx=2&sn=706e0e6eafd4b6180c04bc8c27a6ab1e",
+        "【安全圈】朝鲜黑客2025年盗走20.2亿美元加密货币": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073315&idx=3&sn=b51ec4cafcc0665769f9e7345bca48d6"
+    },
+    "情报分析师": {
+        "魔鬼藏在细节里，情报分析如何战胜认知偏见！": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650564535&idx=1&sn=87cf06c32f75b5783fc6297c04cdf2d4"
+    },
+    "电子物证": {
+        "【Word、Excel 与压缩包（含伪加密）解密】": "https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048848&idx=1&sn=896c39adf669183c994518a29181228c",
+        "【快速解锁 iTunes 备份文件密码】": "https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048848&idx=2&sn=3f8665069cdfc0a8def94e963baaecab"
+    },
+    "极客公园": {
+        "明年手机 PC 全线涨价，这个锅，AI 必须得背": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653095201&idx=1&sn=e1c447388143568f68f16e52816d5e8c",
+        "马斯克转发宇树机器人伴舞王力宏视频；内存涨价将致明年PC涨价15-20%；美法院将重审App Store垄断指控 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653095200&idx=1&sn=4dd2f36221c8105be485f008d729de5d"
+    },
+    "迪哥讲事": {
+        "意想不到的账号信息泄露": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498825&idx=1&sn=9b836ed5406f6120db5c636ffb3a4d3a"
+    },
+    "天御攻防实验室": {
+        "传奇黑客 ｜ 马拉加病毒作者之谜": "https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247486636&idx=1&sn=657976d33a6a228a8f0b555271120744"
+    },
+    "The Hacker News": {
+        "Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence": "https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html"
+    },
+    "Security Affairs": {
+        "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 76": "https://securityaffairs.com/185939/malware/security-affairs-malware-newsletter-round-76.html",
+        "Security Affairs newsletter Round 555 by Pierluigi Paganini – INTERNATIONAL EDITION": "https://securityaffairs.com/185930/breaking-news/security-affairs-newsletter-round-555-by-pierluigi-paganini-international-edition.html",
+        "Massive Android botnet Kimwolf infects millions, strikes with DDoS": "https://securityaffairs.com/185921/malware/massive-android-botnet-kimwolf-infects-millions-strikes-with-ddos.html"
+    }
+}
