@@ -1,0 +1,223 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2025-12-31 Review": "http://www.sec-wiki.com/?2025-12-31"
+    },
+    "奇安信攻防社区": {
+        "第五届“湾区杯”CTF Final - Blind writeup": "https://forum.butian.net/share/4688",
+        "第五届“湾区杯”CTF Final - 耄耋 writeup": "https://forum.butian.net/share/4686"
+    },
+    "Taxodium": {
+        "Album#19 - New Year's Eve": "https://taxodium.ink/album-19.html"
+    },
+    "paper - Last paper": {
+        "面向软件供应链安全自主防御的智能体人工智能：从溯源到漏洞缓解的进阶之路": "https://paper.seebug.org/3443/",
+        "使用 AI 辅助 fuzz 实战记录": "https://paper.seebug.org/3442/"
+    },
+    "Recent Commits to cve:main": {
+        "Update Wed Dec 31 11:29:47 UTC 2025": "https://github.com/trickest/cve/commit/6e37a12a7e03f6eb04820769aef685e393a84ba4"
+    },
+    "嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com": {
+        "MongoBleed高危漏洞遭在野利用 8万台MongoDB服务器暴露风险": "https://www.4hou.com/posts/OGNB",
+        "丈八网安完成数千万元B+轮融资：聚焦AI+网络仿真，加速产品智能化升级与区域布局": "https://www.4hou.com/posts/VWXB"
+    },
+    "安全客-有思想的安全新媒体": {
+        "iOS安全开发中的Frida检测": "https://www.anquanke.com/post/id/314115"
+    },
+    "Hexacorn": {
+        "Beyond good ol’ Run key, Part 152": "https://www.hexacorn.com/blog/2025/12/31/beyond-good-ol-run-key-part-152/",
+        "Beyond good ol’ Run key, Part 149 – update": "https://www.hexacorn.com/blog/2025/12/31/beyond-good-ol-run-key-part-149-update/"
+    },
+    "Malware-Traffic-Analysis.net - Blog Entries": {
+        "2025-12-30: Lumma Stealer infection with follow-up malware": "https://www.malware-traffic-analysis.net/2025/12/30/index.html"
+    },
+    "Malwarebytes": {
+        "In 2025, age checks started locking people out of the internet": "https://www.malwarebytes.com/blog/news/2025/12/in-2025-age-checks-started-locking-people-out-of-the-internet"
+    },
+    "CTFするぞ": {
+        "Best Pwnable Challenges 2025": "https://ptr-yudai.hatenablog.com/entry/2025/12/31/135605"
+    },
+    "The Trail of Bits Blog": {
+        "Detect Go’s silent arithmetic bugs with go-panikint": "https://blog.trailofbits.com/2025/12/31/detect-gos-silent-arithmetic-bugs-with-go-panikint/"
+    },
+    "rtl-sdr.com": {
+        "The Thought Emporium Explores IMSI Cell Phone Tracking and Other Advanced Cell Phone Attacks with Software Defined Radios": "https://www.rtl-sdr.com/the-thought-emporium-explores-imsi-cell-phone-tracking-and-other-advanced-cell-phone-attacks-with-software-defined-radios/"
+    },
+    "明天的乌云": {
+        "时间过得既快又慢": "https://blog.xlab.app/p/606eb4ce/"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "外国科技从业者正在避开美国": "https://www.solidot.org/story?sid=83192",
+        "以色列部署无人机激光防御系统": "https://www.solidot.org/story?sid=83191",
+        "印度 GDP 超过日本成为全球第四大经济体": "https://www.solidot.org/story?sid=83190",
+        "冰岛经历了有记录以来最暖和的平安夜": "https://www.solidot.org/story?sid=83189",
+        "中国癌症新药研发数量全球居首": "https://www.solidot.org/story?sid=83188",
+        "F-Droid 升级了服务器": "https://www.solidot.org/story?sid=83187"
+    },
+    "腾讯玄武实验室": {
+        "每日安全动态推送(25/12/31)": "https://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&mid=2651960340&idx=1&sn=2a58da275f64b4fba81a3e233af31748"
+    },
+    "Posts on 青鸟的博客": {
+        "2025 年度总结": "https://blue-bird1.github.io/posts/2025-end/"
+    },
+    "青衣十三楼飞花堂": {
+        "女科学家的2025": "https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488906&idx=1&sn=e61df7f2e0bcf86ab4b43b9d73d68ec6"
+    },
+    "代码卫士": {
+        "欧洲空间局证实“外部服务器”遭攻陷": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524774&idx=1&sn=b7f1ee58a6471570b261a95d96541d42",
+        "WIRED 数据库疑似被盗，230万条订阅者记录遭泄露": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247524774&idx=2&sn=6ffc0b0026f86cbffe963679d104cc4f"
+    },
+    "吾爱破解论坛": {
+        "【PC样本分析】VT0检测样本分析(一)": "https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143289&idx=1&sn=d5a6484ae6f22e385ead09ce82f5d087"
+    },
+    "青山青吖": {
+        "【课堂】3929开启的上涨复盘及后续调整分析【20251230】 | 黄金": "https://mp.weixin.qq.com/s?__biz=MzI5NzAzMDg0NA==&mid=2650698608&idx=1&sn=6430c46d4c1a0da783b3180161a11204"
+    },
+    "安全分析与研究": {
+        "2025年度总结": "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495290&idx=1&sn=211702d9447517d0d62bf6e637accc5e"
+    },
+    "安全内参": {
+        "火电龙头企业遭勒索软件攻击，IT基础设施全部瘫痪": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515410&idx=1&sn=731bbc67eb1a9e0292bbe6cad175c307",
+        "智能狂奔遇上安全掉队：2025年AI安全十大事件深度盘点": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515410&idx=2&sn=96554722be2c90a167cfdae796c00dcf"
+    },
+    "白帽100安全攻防实验室": {
+        "白帽一百2025年终总结": "https://mp.weixin.qq.com/s?__biz=MzIxMDYyNTk3Nw==&mid=2247515441&idx=1&sn=f8bdacb6ccdd84259aecdb58e88736e3"
+    },
+    "虎符智库": {
+        "智能狂奔遇上安全掉队：2025年AI安全十大事件深度盘点": "https://mp.weixin.qq.com/s?__biz=MzIwNjYwMTMyNQ==&mid=2247493647&idx=1&sn=a3b0aa1d702c2dcd61e02b20fd73e9dc"
+    },
+    "看雪学苑": {
+        "量子安全 quantum ctf Global Hyperlink Zone Hack the box": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606863&idx=1&sn=01fd80bfa67b7c7b26254022f0d11e81",
+        "攻击者仿冒Jackson JSON库入侵Maven Central，发起定向投毒攻击": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606863&idx=2&sn=0fcd1f204ed1096afd67047e906f45b3",
+        "速通秘籍来咯！VMProtect虚拟机逆向入门": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458606863&idx=3&sn=9c6d93f70a973fb6a6353c0f62a8d48f"
+    },
+    "黑鸟": {
+        "祝大家2026年新年快乐": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184577&idx=1&sn=be9df2219dd895ad0a48d2940fa7d78d"
+    },
+    "奇安信 CERT": {
+        "【已复现】RustFS gRPC 身份认证绕过漏洞(CVE-2025-68926)安全风险通告": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504410&idx=1&sn=0d7e1c182d22de87183f283e2db41c8d"
+    },
+    "雷神众测": {
+        "雷神众测漏洞周报2025.12.22-2025.12.28": "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503655&idx=1&sn=857eb870488d1f649d19455fefa34e04"
+    },
+    "天黑说嘿话": {
+        "安服仔如何优雅地“避祸”？": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485931&idx=1&sn=9ed4226c37097634fb91326c4a753268"
+    },
+    "安全研究GoSSIP": {
+        "G.O.S.S.I.P 阅读推荐 2025-12-31 Breaking the Bulkhead": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501218&idx=1&sn=affe636767a5d79915e1163fc7923874"
+    },
+    "安全学术圈": {
+        "西安电子科技大学 | GNNDroid：基于图学习的含原生代码安卓应用恶意软件检测": "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247494661&idx=1&sn=871eb90aa953e064080eef2ecfe4f136"
+    },
+    "君哥的体历": {
+        "安全运营实践与DNS应急容灾策略探讨｜总第305周": "https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492326&idx=1&sn=ff5875e19a62d5188720db5bc4faf75c"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【年终汇总】2025年丁爸情报分析师工具箱文章汇总": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153483&idx=1&sn=cf9cee90492f95f64684927c98bfdb24",
+        "【地理空间情报】台军应对我演习多地出动陆基反舰导弹": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651153483&idx=2&sn=eacf3b2e422c20dfbdbb6167939a420b"
+    },
+    "默安科技": {
+        "前方到站2026！一起探险AI安全新时代！": "https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247501518&idx=1&sn=ed8a37a6e4ffd648adc833f03e867bc1"
+    },
+    "黑哥虾撩": {
+        "2026 AI Agent 的核心：Context Engineering，让环境可计算化": "https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484466&idx=1&sn=e65765298da167e80bb0cf7f63cf34ce"
+    },
+    "安全圈": {
+        "【安全圈】蓝牙芯片供应链重大漏洞披露：数亿设备面临「耳机劫持」风险": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073493&idx=1&sn=99d83b30da4e7086118f985c334a167c",
+        "【安全圈】欧洲航天局确认外部服务器遭入侵": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073493&idx=2&sn=94b0a7707766a5aecf7c377b059f87c7",
+        "【安全圈】攻击者伪造Jackson JSON库入侵Maven中央仓库": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073493&idx=3&sn=d34cafc08d612449c11b0e0b3049b71f",
+        "【安全圈】前网络安全专家监守自盗：利用勒索软件攻击美国企业并索要千万美元赎金，面临最高 20 年监禁": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073493&idx=4&sn=22080a8ab04a8b5ff17e939e0992168c"
+    },
+    "嘶吼专业版": {
+        "丈八网安完成数千万元B+轮融资：聚焦AI+网络仿真，加速产品智能化升级与区域布局": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586144&idx=1&sn=6e6ffd6687d2ab4c52e2d69ced83b0aa",
+        "MongoBleed高危漏洞遭在野利用 8万台MongoDB服务器暴露风险": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586144&idx=2&sn=82369bded59acf2efd43574195ee052b"
+    },
+    "复旦白泽战队": {
+        "步履不停，创新不止 | 复旦白泽2025年度报告": "https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247497257&idx=1&sn=f42afe5b3e10609e9b6214dbbd313fec"
+    },
+    "极客公园": {
+        "罗永浩为什么要「吃力不讨好」的搞这场科技春晚？": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653096050&idx=1&sn=8cac0ea77b4bae431b138778a8770f06",
+        "罗永浩「科技春晚」落幕，166万收入全捐出；雷军今晚直播将现场「拆车」；中国汽车销量超越日本 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653096001&idx=1&sn=fae243dfc3dfd7d18fd6252501651795"
+    },
+    "火绒安全": {
+        "2025年火绒安全时光笔记": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247529745&idx=1&sn=a0a85669cf3447e603fe34f3e5810e1b",
+        "元旦期间，火绒将持续为您保驾护航~": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247529745&idx=2&sn=d6360b26aef62f3cb542258f550b292a",
+        "火绒小问答 ——「个人版」功能使用类top问题解答": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247529745&idx=3&sn=2e273912de077bc558017b52be8c6760",
+        "诚邀渠道合作伙伴共启新征程": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247529745&idx=4&sn=848a688b0c08bb66f37a6f209a1e37d8"
+    },
+    "数世咨询": {
+        "数世咨询：2025年度中国数字安全价值图谱（12月更新）": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541319&idx=1&sn=387d233df1f5d123ba1adcc31b39326a"
+    },
+    "Tide安全团队": {
+        "新潮信息-Tide安全团队2025年度总结": "https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247521907&idx=1&sn=78131ef54c78ef1c361b9b7570afcb53"
+    },
+    "知道创宇404实验室": {
+        "原创 Paper | 使用 AI 辅助 fuzz 实战记录": "https://mp.weixin.qq.com/s?__biz=MzAxNDY2MTQ2OQ==&mid=2650991093&idx=1&sn=1249bbd73ea70dc8640eaaf94e0dd8e7"
+    },
+    "情报分析师": {
+        "【不是预言者，而是记录者】情报分析师2025年全球安全风云中的情报足迹": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650565424&idx=1&sn=35d6b437e291fa248ce04ced29e25a40"
+    },
+    "字节跳动技术团队": {
+        "火山引擎发布系列《AI 安全白皮书》，构筑AI云原生可信基座": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247517886&idx=1&sn=715ec4740886415bd5863fa33746d1a6"
+    },
+    "安全牛": {
+        "2026网络安全趋势研判：从被动防护到智能对抗的体系跃迁": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651139924&idx=1&sn=cdb229ed047a9871e3cdbf70b1c0c81b"
+    },
+    "国家互联网应急中心CNCERT": {
+        "网络安全信息与动态周报2025年第52期（12月22日-12月28日）": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501057&idx=1&sn=608e6f7be52341b840a6abcabe681c20"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices": "https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/",
+        "Punto di “sniffing”": "https://roccosicilia.com/2025/12/31/punto-di-sniffing/",
+        "Hackers drain $3.9M from Unleash Protocol after multisig hijack": "https://www.bleepingcomputer.com/news/security/hackers-drain-39m-from-unleash-protocol-after-multisig-hijack/",
+        "RondoDox botnet exploits React2Shell flaw to breach Next.js servers": "https://www.bleepingcomputer.com/news/security/rondodox-botnet-exploits-react2shell-flaw-to-breach-nextjs-servers/",
+        "Finland seizes ship suspected of damaging subsea cable in Baltic Sea": "https://therecord.media/finland-seizes-ship-suspected-damaging-undersea-cable",
+        "Supply chain globale: come Fincantieri affronta la compliance NIS2": "https://www.cybersecurity360.it/legal/supply-chain-globale-come-fincantieri-affronta-la-compliance-nis2/",
+        "What the f**k is a CAO and do I need one?": "https://bfore.ai/blog/what-is-a-cao-and-do-i-need-one/",
+        "IBM warns of critical API Connect auth bypass vulnerability": "https://www.bleepingcomputer.com/news/security/ibm-warns-of-critical-api-connect-auth-bypass-vulnerability/",
+        "Disney will pay $10 million to settle children's data privacy lawsuit": "https://www.bleepingcomputer.com/news/security/disney-will-pay-10m-to-settle-claims-of-childrens-privacy-violations-on-youtube/",
+        "AI come arma cognitiva: dall’ISIS alla tecnodestra, la nuova ingegneria della radicalizzazione": "https://www.cybersecurity360.it/nuove-minacce/ai-come-arma-cognitiva-dallisis-alla-tecnodestra-la-nuova-ingegneria-della-radicalizzazione/",
+        "The Week in Vulnerabilities: The Year Ends with an Alarming New Trend": "https://cyble.com/blog/weekly-vulnerabilities-surge-trend-2026/",
+        "Backup immutabili e offline, che cosa sono e perché possono beffare i ransomware": "https://www.cybersecurity360.it/outlook/backup-immutabili-e-offline/"
+    },
+    "中国信息安全": {
+        "视频+全文 | 国家主席习近平发表二〇二六年新年贺词": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664256776&idx=1&sn=39f565daea744f4cc23393f522b474fb"
+    },
+    "迪哥讲事": {
+        "最新绕过Akamai和Cloudflare的waf的payload": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247498872&idx=1&sn=347a9cfb9912283931930b468138dcb6"
+    },
+    "娜璋AI安全之家": {
+        "2025年“AI安全之家”公众号文章全年汇总，感恩同行！": "https://mp.weixin.qq.com/s?__biz=Mzg5MTM5ODU2Mg==&mid=2247502333&idx=1&sn=b1be915ca3020e13a3296de3553b99aa"
+    },
+    "The Grey Corner": {
+        "Direct assessment of Istio external authorisers using Python": "/2025/12/31/test-istio-external-authorizer-using-python.html"
+    },
+    "Schneier on Security": {
+        "LinkedIn Job Scams": "https://www.schneier.com/blog/archives/2025/12/linkedin-job-scams.html"
+    },
+    "360数字安全": {
+        "智能体划重点！360数字安全2025年度高光时刻全收录": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247584045&idx=1&sn=7a5cb7aadfa9c20ebfe433b652d0dcd5"
+    },
+    "The Hacker News": {
+        "Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html",
+        "DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide": "https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html",
+        "IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass": "https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html",
+        "Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry": "https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html",
+        "U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware": "https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html"
+    },
+    "Daniel Miessler": {
+        "AI Changes I Expect in 2026": "https://danielmiessler.com/blog/ai-changes-2026?utm_source=rss&utm_medium=feed&utm_campaign=website",
+        "Cybersecurity Changes I Expect in 2026": "https://danielmiessler.com/blog/cybersecurity-changes-2026?utm_source=rss&utm_medium=feed&utm_campaign=website"
+    },
+    "Security Affairs": {
+        "ESA disclosed a data breach, hackers breached external servers": "https://securityaffairs.com/186370/security/esa-disclosed-a-data-breach-hackers-breached-external-servers.html",
+        "Singapore CSA warns of maximun severity SmarterMail RCE flaw": "https://securityaffairs.com/186353/security/singapore-csa-warns-of-maximun-severity-smartermail-rce-flaw.html",
+        "MongoBleed (CVE-2025-14847): the US, China, and the EU are among the top exploited GEOs": "https://securityaffairs.com/186338/hacking/mongobleed-cve-2025-14847-the-us-china-and-the-eu-are-among-the-top-exploited-geos.html"
+    },
+    "Deeplinks": {
+        "Congress's Crusade to Age Gate the Internet: 2025 in Review": "https://www.eff.org/deeplinks/2025/12/congresss-crusade-age-gate-internet-2025-review",
+        "States Tried to Censor Kids Online. Courts, and EFF, Mostly Stopped Them: 2025 in Review": "https://www.eff.org/deeplinks/2025/12/states-tried-censor-kids-online-courts-and-eff-mostly-stopped-them-2025-review"
+    },
+    "Security Weekly Podcast Network (Audio)": {
+        "Say Easy, Do Hard - Preventing Burnout, Focusing on CISO Health and Wellness - BSW #428": "http://sites.libsyn.com/18678/say-easy-do-hard-preventing-burnout-focusing-on-ciso-health-and-wellness-bsw-428"
+    }
+}
