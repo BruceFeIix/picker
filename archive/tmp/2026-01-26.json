@@ -1,0 +1,80 @@
+{
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "WordPress Plugin FS Affiliates 5.6 - Unrestricted Arbitrary File Upload": "https://cxsecurity.com/issue/WLB-2026010015",
+        "Telnet Argument Injection Privilege Escalation - RCE": "https://cxsecurity.com/issue/WLB-2026010014"
+    },
+    "SecWiki News": {
+        "SecWiki News 2026-01-25 Review": "http://www.sec-wiki.com/?2026-01-25"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sun Jan 25 11:33:15 UTC 2026": "https://github.com/trickest/cve/commit/a46ad7132c97993ea39c7705dac7c0eb21c0d81b"
+    },
+    "Blog | AppSec Labs": {
+        "What Is Real-Time Penetration Testing And Why It Matters": "https://appsec-labs.com/what-is-real-time-penetration-testing-and-why-it-matters/"
+    },
+    "MaskRay": {
+        "Long branches in compilers, assemblers, and linkers": "https://maskray.me/blog/2026-01-25-long-branches-in-compilers-assemblers-and-linkers"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "伊朗断网 17 天": "https://www.solidot.org/story?sid=83393",
+        "预期负面结果比正面结果带来的情绪冲击力更大": "https://www.solidot.org/story?sid=83392",
+        "AI 公司高管对 AGI 看法迥异": "https://www.solidot.org/story?sid=83391",
+        "微软释出第二个紧急更新修复第一个紧急更新导致的问题": "https://www.solidot.org/story?sid=83390"
+    },
+    "黑海洋Wiki | Web开发工具包 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台": {
+        "国际团体起诉指控WhatsApp隐私宣传虚假": "https://blog.upx8.com/%E5%9B%BD%E9%99%85%E5%9B%A2%E4%BD%93%E8%B5%B7%E8%AF%89%E6%8C%87%E6%8E%A7WhatsApp%E9%9A%90%E7%A7%81%E5%AE%A3%E4%BC%A0%E8%99%9A%E5%81%87",
+        "苹果将在二月推出由Gemini驱动的Siri助手": "https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%B0%86%E5%9C%A8%E4%BA%8C%E6%9C%88%E6%8E%A8%E5%87%BA%E7%94%B1Gemini%E9%A9%B1%E5%8A%A8%E7%9A%84Siri%E5%8A%A9%E6%89%8B",
+        "法国加速立法禁止15岁以下使用社交媒体": "https://blog.upx8.com/%E6%B3%95%E5%9B%BD%E5%8A%A0%E9%80%9F%E7%AB%8B%E6%B3%95%E7%A6%81%E6%AD%A215%E5%B2%81%E4%BB%A5%E4%B8%8B%E4%BD%BF%E7%94%A8%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93",
+        "研究发现：电动汽车普及与空气污染减少正相关": "https://blog.upx8.com/%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0-%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E6%99%AE%E5%8F%8A%E4%B8%8E%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93%E5%87%8F%E5%B0%91%E6%AD%A3%E7%9B%B8%E5%85%B3",
+        "AI内容正在污染科学最底层的基石": "https://blog.upx8.com/AI%E5%86%85%E5%AE%B9%E6%AD%A3%E5%9C%A8%E6%B1%A1%E6%9F%93%E7%A7%91%E5%AD%A6%E6%9C%80%E5%BA%95%E5%B1%82%E7%9A%84%E5%9F%BA%E7%9F%B3",
+        "Windows 系统盘清理利器": "https://blog.upx8.com/WindowsClear",
+        "苹果Siri“偷听”集体诉讼和解 用户获得赔偿": "https://blog.upx8.com/%E8%8B%B9%E6%9E%9CSiri-%E5%81%B7%E5%90%AC-%E9%9B%86%E4%BD%93%E8%AF%89%E8%AE%BC%E5%92%8C%E8%A7%A3-%E7%94%A8%E6%88%B7%E8%8E%B7%E5%BE%97%E8%B5%94%E5%81%BF",
+        "特朗普政府撤换对华科技制裁鹰派官员": "https://blog.upx8.com/%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%92%A4%E6%8D%A2%E5%AF%B9%E5%8D%8E%E7%A7%91%E6%8A%80%E5%88%B6%E8%A3%81%E9%B9%B0%E6%B4%BE%E5%AE%98%E5%91%98"
+    },
+    "安全分析与研究": {
+        "银狐黑产组织新型后门样本分析": "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495447&idx=1&sn=a3377f41f61c883f150efae1e1410390"
+    },
+    "黑鸟": {
+        "俄罗斯针对波兰电网进行破坏性网络攻击行动": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451184983&idx=1&sn=51136528937f325c19482a10af3fead8"
+    },
+    "白帽100安全攻防实验室": {
+        "VNCTF 2026 报名开启": "https://mp.weixin.qq.com/s?__biz=MzIxMDYyNTk3Nw==&mid=2247515465&idx=1&sn=4164a3b10ec02b6e586666b30f42d720"
+    },
+    "青衣十三楼飞花堂": {
+        "两道初一几何肯定会碰上的题": "https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247488994&idx=1&sn=9fde63fc19c82078ea556cd54cceb9fc"
+    },
+    "威努特安全网络": {
+        "威努特DeepSeek一体机赋能企业AI应用和数字化转型": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651139710&idx=1&sn=f81bd30ef2ab2a3186bbb84480798443"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【情报】美国在台设立弹药测试场": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154041&idx=1&sn=a66c6de9e0a34d840042a9bc067a7fd6"
+    },
+    "网络空间安全科学学报": {
+        "学术前沿 | 南开大学汪定教授团队：基于行为生物特征的自由手势认证增强方案": "https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507115&idx=1&sn=4db37c279da938ec4bdce6153bf441b6"
+    },
+    "极客公园": {
+        "「AI 无处不在」的达沃斯，科技巨头们都说了哪些金句？": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097750&idx=1&sn=cce2af7ef748f8ab14e25204819d6dc8",
+        "传 iPhone 17e 配灵动岛不涨价；大疆 Osmo Pocket 4 或春节后发布；中奖规则调整，买彩票成不了亿万富翁 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653097749&idx=1&sn=8716212769bff47a25e7ab1bc42c6544"
+    },
+    "情报分析师": {
+        "开源情报工具实战指南——信息收集的核心技法": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566501&idx=1&sn=b80697d961248cfa5892e7e526186a44"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "1Password adds pop-up warnings for suspected phishing sites": "https://www.bleepingcomputer.com/news/security/1password-adds-pop-up-warnings-for-suspected-phishing-sites/",
+        "Double Ransomware Attack Hits Resource Corporation of America: Medusa and Qilin Claim Separate Intrusions": "https://www.suspectfile.com/double-ransomware-attack-hits-resource-corporation-of-america-medusa-and-qilin-claim-separate-intrusions/",
+        "1Password adds pop-pup warnings for suspected phishing sites": "https://www.bleepingcomputer.com/news/security/1password-adds-pop-pup-warnings-for-suspected-phishing-sites/",
+        "Microsoft investigates Windows 11 boot failures after January updates": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-windows-11-boot-failures-after-january-updates/",
+        "28 gennaio 2026, lo stato dell’arte e il trend della protezione dei dati": "https://www.cybersecurity360.it/outlook/28-gennaio-2026-lo-stato-dellarte-e-il-trend-della-protezione-dei-dati/",
+        "No Hat 2026 – 10/10/2026": "https://www.hacklabg.net/news/no-hat-2026-10-10-2026/",
+        "GitLab as the backbone of IaC": "https://www.adainese.it/blog/2026/01/25/gitlab-as-the-backbone-of-iac/",
+        "Microsoft releases emergency OOB update to fix Outlook freezes": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/"
+    },
+    "bellingcat": {
+        "Alex Pretti: Analysing Footage of Minneapolis CBP Shooting": "https://www.bellingcat.com/news/2026/01/25/alex-pretti-analysing-footage-of-minneapolis-cbp-shooting/"
+    },
+    "Security Affairs": {
+        "Nike is investigating a possible data breach, after WorldLeaks claims": "https://securityaffairs.com/187303/data-breach/nike-is-investigating-a-possible-data-breach-after-worldleaks-claims.html",
+        "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 81": "https://securityaffairs.com/187299/malware/security-affairs-malware-newsletter-round-81.html",
+        "Security Affairs newsletter Round 560 by Pierluigi Paganini – INTERNATIONAL EDITION": "https://securityaffairs.com/187290/breaking-news/security-affairs-newsletter-round-560-by-pierluigi-paganini-international-edition.html"
+    }
+}
