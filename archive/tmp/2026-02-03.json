@@ -1,0 +1,318 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2026-02-02 Review": "http://www.sec-wiki.com/?2026-02-02"
+    },
+    "Light Cube": {
+        "勇闯纳斯达克：复盘我的美股第一年": "https://github.red/us-stock-1-year/"
+    },
+    "A Few Thoughts on Cryptographic Engineering": {
+        "WhatsApp Encryption, a Lawsuit, and a Lot of Noise": "https://blog.cryptographyengineering.com/2026/02/02/whatsapp-encryption-a-lawsuit-and-a-lot-of-noise/"
+    },
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "deephas < = 1.0.7 - Prototype Pollution leading to Arbitrary Code Execution / DoS": "https://cxsecurity.com/issue/WLB-2026020005",
+        "Piranha CMS 12.0 Stored XSS in Text Block": "https://cxsecurity.com/issue/WLB-2026020004",
+        "Django 5.1.13 SQL Injection": "https://cxsecurity.com/issue/WLB-2026020003",
+        "BoidCMS v2.0.0-authenticated-file-upload-RCE": "https://cxsecurity.com/issue/WLB-2026020002",
+        "Linux Kernel 5.8 <  5.15.25 - Local Privilege Escalation (DirtyPipe 2)": "https://cxsecurity.com/issue/WLB-2026020001"
+    },
+    "嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com": {
+        "vm2 Node.js沙箱库曝高危漏洞 可突破沙箱执行任意代码": "https://www.4hou.com/posts/qoOk"
+    },
+    "Taxodium": {
+        "Album#29 - 物件，所在": "https://taxodium.ink/album-29.html"
+    },
+    "奇安信攻防社区": {
+        "Bad Char 绕过实战：稳定 MIPS Shellcode 的设计方法": "https://forum.butian.net/share/4757"
+    },
+    "安全客-有思想的安全新媒体": {
+        "明修栈道，暗度陈仓：TA584组织投放“傲娇僵尸程序”并利用隐形注册表项实施攻击": "https://www.anquanke.com/post/id/314678",
+        "苹果为十年前iPhone推出史无前例的安全更新，标志着老旧设备支持策略生变": "https://www.anquanke.com/post/id/314675",
+        "太空探索技术公司的大胆布局：星链数据中心卫星如何重塑云计算经济格局": "https://www.anquanke.com/post/id/314671",
+        "飞塔单点登录配置漏洞暴露企业认证系统核心安全隐患": "https://www.anquanke.com/post/id/314667",
+        "签名盗用：“幻影窃取者”借虚假敦豪物流发票攻陷Java应用": "https://www.anquanke.com/post/id/314681",
+        "Moltbook AI平台曝出高危漏洞，致邮箱地址、登录令牌及API密钥泄露": "https://www.anquanke.com/post/id/314663",
+        "工业控制系统监控与数据采集漏洞引发拒绝服务攻击，或对工业生产运营造成中断影响": "https://www.anquanke.com/post/id/314653",
+        "“修复”实为陷阱：ConsentFix钓鱼攻击借Azure CLI绕过多重身份验证": "https://www.anquanke.com/post/id/314685",
+        "虚拟专用网络与虚假更新：谷歌捣毁大型IPIDEA代理网络": "https://www.anquanke.com/post/id/314650",
+        "IIS服务器遭猛攻：UAT-8099组织部署区域锁定“BadIIS”恶意软件及Linux变体": "https://www.anquanke.com/post/id/314688"
+    },
+    "Tenable Blog": {
+        "What’s New in Tenable Cloud Security: Multi-cloud Risk Analysis, Attack Surface Assessments, Improved IAM Security and More": "https://www.tenable.com/blog/whats-new-in-tenable-cloud-security-multi-cloud-risk-analysis-attack-surface-assessments"
+    },
+    "Recent Commits to cve:main": {
+        "Update Mon Feb  2 11:23:29 UTC 2026": "https://github.com/trickest/cve/commit/75248500119297fb1056596017dcf50acea8443a"
+    },
+    "Microsoft Security Blog": {
+        "Infostealers without borders: macOS, Python stealers, and platform abuse": "https://www.microsoft.com/en-us/security/blog/2026/02/02/infostealers-without-borders-macos-python-stealers-and-platform-abuse/"
+    },
+    "美团技术团队": {
+        "2025美团技术年货，「马」上到来": "https://tech.meituan.com/2026/02/02/2025-spring-festival-present.html",
+        "多维创新打造强泛化智能体模型，LongCat-Flash-Thinking-2601技术报告发布": "https://tech.meituan.com/2026/02/02/longcat-flash-thinking-2601-techreport.html"
+    },
+    "Cerbero Blog": {
+        "Memory Challenge 16: MemLabs Lab 1 – Beginner’s Luck": "https://blog.cerbero.io/memory-challenge-16-memlabs-lab-1-beginners-luck/"
+    },
+    "Malware-Traffic-Analysis.net - Blog Entries": {
+        "2026-02-02: KongTuke ClickFix activity leads to Async RAT": "https://www.malware-traffic-analysis.net/2026/02/02/index.html",
+        "2026-02-01: Seven days of scans and probes and web traffic hitting my web server": "https://www.malware-traffic-analysis.net/2026/02/01/index.html"
+    },
+    "Reverse Engineering": {
+        "/r/ReverseEngineering's Weekly Questions Thread": "https://www.reddit.com/r/ReverseEngineering/comments/1qtp2tt/rreverseengineerings_weekly_questions_thread/",
+        "Defeating a 40-year-old copy protection dongle": "https://www.reddit.com/r/ReverseEngineering/comments/1qtf7sc/defeating_a_40yearold_copy_protection_dongle/",
+        "InstaCloud - Cloud Storage using Instagram's API": "https://www.reddit.com/r/ReverseEngineering/comments/1qu24nv/instacloud_cloud_storage_using_instagrams_api/",
+        "AI agents are good enough for GameCube reverse-engineering": "https://www.reddit.com/r/ReverseEngineering/comments/1qu56q0/ai_agents_are_good_enough_for_gamecube/",
+        "Claude Code skill that automates Android APK decompilation and API endpoint extraction": "https://www.reddit.com/r/ReverseEngineering/comments/1qu64fi/claude_code_skill_that_automates_android_apk/",
+        "Recompiled APK crashes - Null context or signature verification issue?": "https://www.reddit.com/r/ReverseEngineering/comments/1qtofdn/recompiled_apk_crashes_null_context_or_signature/"
+    },
+    "Malwarebytes": {
+        "How Manifest v3 forced us to rethink Browser Guard, and why that’s a good thing": "https://www.malwarebytes.com/blog/inside-malwarebytes/2026/02/how-manifest-v3-forced-us-to-rethink-browser-guard-and-why-thats-a-good-thing",
+        "Scam-checking just got easier: Malwarebytes is now in ChatGPT": "https://www.malwarebytes.com/blog/product/2026/02/scam-checking-just-got-easier-malwarebytes-is-now-in-chatgpt",
+        "How fake party invitations are being used to install remote access tools": "https://www.malwarebytes.com/blog/threat-intel/2026/02/how-fake-party-invitations-are-being-used-to-install-remote-access-tools",
+        "A week in security (January 26 &#8211; February 1)": "https://www.malwarebytes.com/blog/news/2026/02/a-week-in-security-january-26-february-1"
+    },
+    "Robin Verton - it-security and software engineering": {
+        "Open Claude Code CLI from Raycast in a new Ghostty window": "https://robinverton.de/til/claude-cli-raycast/"
+    },
+    "daniel.haxx.se": {
+        "A third medal": "https://daniel.haxx.se/blog/2026/02/02/a-third-medal/"
+    },
+    "Security Café": {
+        "Mobile Pentesting 101 – The Death of ADB Backup: Modern Data Extraction in 2026": "https://securitycafe.ro/2026/02/02/mobile-pentesting-101-the-death-of-adb-backup-modern-data-extraction-in-2026/"
+    },
+    "JonLuca's Blog": {
+        "Vibecoding native apps has gotten really good": "https://blog.jonlu.ca/posts/vibecoding-native-apps"
+    },
+    "Depy's docs": {
+        "JD 分析": "https://docs.rce.ink/view/?view_id=b3242634a1ba3ea49f64063a53967f39"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "公安部发布《网络犯罪防治法（征求意见稿）》": "https://www.solidot.org/story?sid=83459",
+        "Notepad++ 被国家支持黑客劫持": "https://www.solidot.org/story?sid=83458",
+        "泄漏的聊天记录曝光东南亚电诈园区工人的日常生活": "https://www.solidot.org/story?sid=83457",
+        "太阳释放出 X8.11 级耀斑": "https://www.solidot.org/story?sid=83456",
+        "最大动漫盗版网站被关，运营者被捕": "https://www.solidot.org/story?sid=83455",
+        "Blue Origin 专注于月球项目放弃亚轨道旅游": "https://www.solidot.org/story?sid=83454",
+        "过去四个月比特币从峰值下跌了四成": "https://www.solidot.org/story?sid=83453",
+        "MRI 扫描显示锻炼让大脑看起来更年轻": "https://www.solidot.org/story?sid=83452",
+        "中国计划 2-3 年内向日地 L5 点发射羲和二号": "https://www.solidot.org/story?sid=83451",
+        "英伟达的 Shield TV 是支持时间最长的 Android 设备": "https://www.solidot.org/story?sid=83450",
+        "维基百科和生成式 AI": "https://www.solidot.org/story?sid=83449"
+    },
+    "黑海洋Wiki | Web开发工具包 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台": {
+        "Notepad++表示中国政府黑客劫持其软件更新达数月之久": "https://blog.upx8.com/Notepad-%E8%A1%A8%E7%A4%BA%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E9%BB%91%E5%AE%A2%E5%8A%AB%E6%8C%81%E5%85%B6%E8%BD%AF%E4%BB%B6%E6%9B%B4%E6%96%B0%E8%BE%BE%E6%95%B0%E6%9C%88%E4%B9%8B%E4%B9%85",
+        "美国企业批评波兰政府拟推数字服务税": "https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E4%BC%81%E4%B8%9A%E6%89%B9%E8%AF%84%E6%B3%A2%E5%85%B0%E6%94%BF%E5%BA%9C%E6%8B%9F%E6%8E%A8%E6%95%B0%E5%AD%97%E6%9C%8D%E5%8A%A1%E7%A8%8E"
+    },
+    "安全分析与研究": {
+        "捆绑WPS安装程序银狐黑产最新攻击样本分析": "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247495527&idx=1&sn=10a437f05d72b140124dc61aa8521f62"
+    },
+    "腾讯玄武实验室": {
+        "每日安全动态推送(26/2/2)": "https://mp.weixin.qq.com/s?__biz=MzA5NDYyNDI0MA==&mid=2651960372&idx=1&sn=1cd843c83eb4e3725ef8e167b3237064"
+    },
+    "黑鸟": {
+        "苹果手机间谍软件劫持iOS私有API：摄像头麦克风偷偷录制毫无提示": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185122&idx=1&sn=c023e4c313f1af1895f4d3b385325abc"
+    },
+    "威努特安全网络": {
+        "威努特全线产品，精准赋能区域医疗中心信息化建设": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651139828&idx=1&sn=cbee46a9633275a3ebd68f28b6d9a2f8"
+    },
+    "青衣十三楼飞花堂": {
+        "在[1,n]中与n互质的数有k个，求k/n": "https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489021&idx=1&sn=b21a25ee1aa24f452ec3de398e6753e4"
+    },
+    "安全客": {
+        "30余处电站通信系统遭攻击中断，波兰披露近年最严重关基网络威胁": "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649789675&idx=1&sn=5d46de5ea03661a7bdafdf9963f36f4f"
+    },
+    "虎符智库": {
+        "赋能、重塑与破局：2025年网络安全产业发展态势分析与2026年趋势展望": "https://mp.weixin.qq.com/s?__biz=MzIwNjYwMTMyNQ==&mid=2247493707&idx=1&sn=43451818499f78dc8746142ba6b6bfbe"
+    },
+    "安全内参": {
+        "以案为鉴明底线，合规笃行护安全：2025网络安全执法案例复盘": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515534&idx=1&sn=e111794de119078f138ef9b160f6bf9e",
+        "泄露超3000万客户个人隐私数据，电信巨头赔偿超8.1亿元": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247515534&idx=2&sn=412503ec025c55791b15a7ba24c69380"
+    },
+    "代码卫士": {
+        "SmarterMail 修复严重的未认证RCE漏洞": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525034&idx=1&sn=0937f8c4b8169acd746e47cdce1254e7",
+        "eScan 杀毒软件被用于供应链攻击传播恶意软件": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247525034&idx=2&sn=4f633dbace1d38d1867499fdf75619f6"
+    },
+    "RapidDNS": {
+        "RapidDNS Pro:高级搜索语法指南": "https://mp.weixin.qq.com/s?__biz=Mzg4NDU0ODMxOQ==&mid=2247485844&idx=1&sn=2e603466509deb11b6920ec271cb4a18"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【技巧】如何查找星链设备？": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154160&idx=1&sn=b3e02779f99a19cffe9a3e43e78c6ab0",
+        "【转载】《网络犯罪防治法（征求意见稿）》公开征求意见的公告": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154160&idx=2&sn=85c1987ceaeadb9d5d4c5e5e638d8b3a"
+    },
+    "安全圈": {
+        "【安全圈】元宝崩了！腾讯回应来了": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073971&idx=1&sn=29226d82814e3d9a9807b3bff55702f3",
+        "【安全圈】Moltbook AI 漏洞暴露邮箱地址、登录令牌与 API 密钥": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073971&idx=2&sn=7eb6eabc5a3c83bc7a5fe8427776717e",
+        "【安全圈】法国就业服务机构因重大数据泄露遭重罚近600万美元": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652073971&idx=3&sn=86f8ea13e1867a57761c683e2eb6369c"
+    },
+    "天黑说嘿话": {
+        "AI 安全开源项目汇总（攻防、检测、模型与 Prompt 安全）": "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247485972&idx=1&sn=93b587130b3406e06d37d7db5a9bee03"
+    },
+    "中国信息安全": {
+        "专题·回顾与展望 | 2025年国家网络安全风险与治理态势回顾": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258680&idx=1&sn=cc56f90c356303a534f3ed903c530074",
+        "国安部提醒：警惕使用NFC的潜在安全风险": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258680&idx=2&sn=e1ff73ae9247815584a3ededf171dba2",
+        "专家解读 | 黄道丽：网络犯罪防治的国际趋势与中国制度回应": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258680&idx=3&sn=4abe9669073b05974b786b7d6a96d6c4",
+        "前沿 | AI滥用与钓鱼攻击交织：人为因素仍是网络安全首要风险": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258680&idx=4&sn=069aff8af97d53c509fd232e1d7e01f8",
+        "评论 | 严打网络水军炮制虚假数据等行为": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664258680&idx=5&sn=35888a5356383fd2a53aacfcfb3ffff5"
+    },
+    "网络空间安全科学学报": {
+        "学术前沿 | 基于LWE加密的分布式隐私保护生物特征认证方案": "https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507225&idx=1&sn=cb69d18f5f6637a804e84bf17d9f90fe"
+    },
+    "慢雾科技": {
+        "载誉香港！慢雾荣获「网络安全精英嘉许计划 2025」两项殊荣": "https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247504247&idx=1&sn=1f40467b617f65c1bdac8ac668f6a9fc"
+    },
+    "安全牛": {
+        "网安合规到底值不值？这套合规ROI算账框架，让CFO无法拒绝": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140397&idx=1&sn=459664fe8991bfeed0dc79d18f41f75d",
+        "公安部就《网络犯罪防治法（征求意见稿）》公开征求意见；Amazon、Pinterest借AI裁员，Forrester报告揭露\"AI洗白\"乱象 | 牛览": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140397&idx=2&sn=b375ba015b7ea0d33be98dd05aac6cf7",
+        "《AI Agent驱动的威胁情报效能革命研究报告（2026版）》调研启动": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140397&idx=3&sn=9df90b2d311fdd3422b12995cb2cb1a9"
+    },
+    "电子物证": {
+        "【一图看懂】网站·服务器远程勘验": "https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048911&idx=1&sn=59f537e1958b3d93fb87cc530e33644a",
+        "【手机删除的聊天记录，真的能恢复吗？】": "https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651048911&idx=2&sn=f61b5da5aa2048cf3da019c0507c091c"
+    },
+    "极客公园": {
+        "在「今夜科技谈」立春特别版，找回对未来的掌控感": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098259&idx=1&sn=228b7c48f0323cf34c5d9b91a841323e",
+        "AI 应用大爆发，B 端 AI 应用交易的超级卖场来了": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098245&idx=1&sn=24af9f378b6f21afc33f96d37da969d3",
+        "AI 代理社交平台 Moltbook 曝严重漏洞；雷军：新 SU7 量产，春节到店；宇树机器人挑战极寒天自主行走｜极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653098212&idx=1&sn=2587a562e54b50ed31f2b4a703b78d22"
+    },
+    "火绒安全": {
+        "伪装Telegram汉化包  银狐钓鱼木马的隐蔽传播术": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530260&idx=1&sn=0be50372e8f2ec206812965d5e3837a2",
+        "诚邀渠道合作伙伴共启新征程": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530260&idx=2&sn=8ae60478e1952ffc0078113b778404ea"
+    },
+    "数世咨询": {
+        "天地和兴递交港股IPO申请，有望成工控安全赛道“第一股”": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541626&idx=1&sn=e8e9887411b015d22be97588b55f4339",
+        "紧急预警! 钓鱼邮件破4.25亿+银狐黑产肆虐，邮件安全方案速收": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541626&idx=2&sn=e7b8cac92373b86e579ffd566905ea57"
+    },
+    "嘶吼专业版": {
+        "DEF CON SG||售票开启&议题启征，邀你共赴狮城下的极客震荡！！": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586586&idx=1&sn=a6df8ea0b39117acb666cebf29ef6c35",
+        "vm2 Node.js沙箱库曝高危漏洞 可突破沙箱执行任意代码": "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247586586&idx=2&sn=134c3dcc84aa1d42f3b82514bd96d092"
+    },
+    "表图": {
+        "[科普贴]AI Agent们是怎么在Moltbook上互动的？": "https://mp.weixin.qq.com/s?__biz=MzUzOTI4NDQ3NA==&mid=2247484960&idx=1&sn=8971e9349963b3f5671178388577d718"
+    },
+    "看雪学苑": {
+        "深入浅出 Android Hook 技术：Frida 框架入门系列": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608939&idx=1&sn=1f40272488c196228ffd477b34e89d34",
+        "暗网市场出现新型OT攻击框架，可针对性破坏电力系统": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608939&idx=2&sn=78f264620dec14cc64ff5dae8fe43999",
+        "【招生中】无人机安全攻防入门": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458608939&idx=3&sn=6cfb0d195f3b606bab8e7be997c629bb"
+    },
+    "NETRESEC Network Security Blog": {
+        "njRAT runs MassLogger": "https://www.netresec.com/?page=Blog&month=2026-02&post=njRAT-runs-MassLogger"
+    },
+    "迪哥讲事": {
+        "Meta，隐私可被任意访问": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499005&idx=1&sn=9f3ea6e9d646c04321511847a6511b7c"
+    },
+    "字节跳动技术团队": {
+        "OpenViking：面向 Agent 的上下文数据库": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247518398&idx=1&sn=2ab5285d4fd04d77905ae027e393849f"
+    },
+    "DEF CON Announcements!": {
+        "DEF CON 34 Content Calls are Open!": "https://defcon.org/html/defcon-34/dc-34-cfi.html"
+    },
+    "吾爱破解论坛": {
+        "【权威发布】吾爱破解论坛2025年原创区、悬赏值TOP榜（下）": "https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143516&idx=1&sn=f8b2b5eb7ddd35b03c76e81079e12cfd"
+    },
+    "360数字安全": {
+        "Top10！典型AI技术攻击技战术指南": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247584748&idx=1&sn=46c13997e034aebc758bdd0564759f2a"
+    },
+    "ICT Security Magazine": {
+        "Geopolitica dei cavi sottomarini: il nuovo fronte della guerra ibrida": "https://www.ictsecuritymagazine.com/articoli/cavi-sottomarini/",
+        "Il Sahel come epicentro dell’espansione jihadista: implicazioni per la sicurezza globale e il ruolo dell’Intelligenza Artificiale": "https://www.ictsecuritymagazine.com/articoli/sahel-ai/"
+    },
+    "Securityinfo.it": {
+        "Abusato il sistema di update eScan per inviare malware multistage": "https://www.securityinfo.it/2026/02/02/abusato-il-sistema-di-update-escan-per-inviare-malware-multistage/?utm_source=rss&utm_medium=rss&utm_campaign=abusato-il-sistema-di-update-escan-per-inviare-malware-multistage"
+    },
+    "Schneier on Security": {
+        "AI Coding Assistants Secretly Copying All Code to China": "https://www.schneier.com/blog/archives/2026/02/ai-coding-assistants-secretly-copying-all-code-to-china.html"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "New GlassWorm attack targets macOS via compromised OpenVSX extensions": "https://www.bleepingcomputer.com/news/security/new-glassworm-attack-targets-macos-via-compromised-openvsx-extensions/",
+        "The Business of Being First After a Data Breach": "https://catchingphish.com/posts/f/the-business-of-being-first-after-a-data-breach",
+        "Russian hackers exploit recently patched Microsoft Office bug in attacks": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-recently-patched-microsoft-office-bug-in-attacks/",
+        "Netherlands latest European country to mull social media ban for children": "https://therecord.media/netherlands-social-media-ban-children",
+        "Malicious MoltBot skills used to push password-stealing malware": "https://www.bleepingcomputer.com/news/security/malicious-moltbot-skills-used-to-push-password-stealing-malware/",
+        "Mozilla announces switch to disable all Firefox AI features": "https://www.bleepingcomputer.com/news/software/mozilla-will-let-you-turn-off-all-firefox-ai-features/",
+        "Microsoft: January update shutdown bug affects more Windows PCs": "https://www.bleepingcomputer.com/news/microsoft/microsoft-january-update-shutdown-bug-affects-more-windows-pcs/",
+        "Grave falla in Moltbook: l’incubo cyber degli agenti è realtà": "https://www.cybersecurity360.it/news/grave-falla-in-moltbook-lincubo-cyber-degli-agenti-e-realta/",
+        "Auto aziendali e monitoraggio dei lavoratori: il Garante privacy dice stop": "https://www.cybersecurity360.it/news/auto-aziendali-e-monitoraggio-dei-lavoratori-il-garante-privacy-dice-stop/",
+        "Please Don’t Feed the Scattered Lapsus Shiny Hunters": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+        "Abusato il sistema di update eScan per inviare malware multistage": "https://www.securityinfo.it/2026/02/02/abusato-il-sistema-di-update-escan-per-inviare-malware-multistage/",
+        "CTM360 Report Warns of Global Surge in Fake High-Yield Investment Scams": "https://www.bleepingcomputer.com/news/security/ctm360-report-warns-of-global-surge-in-fake-high-yield-investment-scams/",
+        "Notepad++ update feature hijacked by Chinese state hackers for months": "https://www.bleepingcomputer.com/news/security/notepad-plus-plus-update-feature-hijacked-by-chinese-state-hackers-for-months/",
+        "Privacy Benchmark Cisco 2026: cosa dice e perché il confronto con le PMI italiane è aperto": "https://www.cybersecurity360.it/legal/privacy-dati-personali/privacy-benchmark-cisco-2026-cosa-dice-e-perche-il-confronto-con-le-pmi-italiane-e-aperto/",
+        "Notepad++ hijacked by suspected state-sponsored hackers": "https://therecord.media/popular-text-editor-hijacked-by-suspected-state-sponsored-hackers",
+        "Panera Bread breach impacts 5.1 million accounts, not 14 million customers": "https://www.bleepingcomputer.com/news/security/panera-bread-data-breach-impacts-51-million-accounts-not-14-million-customers/",
+        "Spyware maker is hijacking diplomatic efforts to limit commercial hacking, civil society warns": "https://therecord.media/spyware-maker-pall-mall-process-reputation",
+        "Hackers attempt to extort parents after school refuses to pay ransom fee": "https://therecord.media/hackers-attempt-to-extort-parents-after-school-refuses-ransom-demand",
+        "Drone sightings have doubled near UK military bases, warns British government": "https://therecord.media/military-drone-sightings-double-uk-government",
+        "Desperate Perth Renters Targeted by Rising Australian Housing Scam": "https://cyble.com/blog/perth-australian-housing-scam/",
+        "Microsoft fixes bug causing password sign-in option to disappear": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-password-sign-in-option-to-disappear/",
+        "Rischio cyber: il ruolo degli amministratori nella NIS 2, fra obblighi e responsabilità": "https://www.cybersecurity360.it/legal/rischio-cyber-il-ruolo-degli-amministratori-nella-nis-2-fra-obblighi-e-responsabilita/",
+        "Data Privacy Framework, i controlli obbligatori per i trasferimenti dati: ecco le nuove FAQ": "https://www.cybersecurity360.it/news/data-privacy-framework-i-controlli-obbligatori-per-i-trasferimenti-dati-ecco-le-nuove-faq/",
+        "Designing a GitLab CI/CD pipeline for IaC": "https://www.adainese.it/blog/2026/02/01/designing-a-gitlab-ci/cd-pipeline-for-iac/",
+        "NationStates confirms data breach, shuts down game site": "https://www.bleepingcomputer.com/news/security/nationstates-confirms-data-breach-shuts-down-game-site/",
+        "Digital Forensics nell’Industrial Internet of Things (IIoT): opportunità, limiti, prospettive": "https://www.cybersecurity360.it/soluzioni-aziendali/digital-forensics-iiot-opportunita-limiti-prospettive/"
+    },
+    "CNVD漏洞平台": {
+        "CNVD漏洞周报2026年第4期": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496683&idx=1&sn=cd757aad8add0b967838b6bf556ad101",
+        "上周关注度较高的产品安全漏洞（20260126-20260201)": "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496683&idx=2&sn=f1636f176936e7f3a30ce1f43b453905"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "Scanning for exposed Anthropic Models, (Mon, Feb 2nd)": "https://isc.sans.edu/diary/rss/32674",
+        "ISC Stormcast For Monday, February 2nd, 2026 https://isc.sans.edu/podcastdetail/9790, (Mon, Feb 2nd)": "https://isc.sans.edu/diary/rss/32672"
+    },
+    "NetSPI": {
+        "Pipe Dreams: Remote Code Execution via Quest Desktop Authority Named Pipe": "https://www.netspi.com/blog/technical-blog/adversary-simulation/pipe-dreams-remote-code-execution-via-quest-desktop-authority-named-pipe/"
+    },
+    "BorderGate": {
+        "Nested Virtualisation": "https://www.bordergate.co.uk/nested-virtualisation/"
+    },
+    "悬镜安全": {
+        "影响力！悬镜引领泰尔实验室《数字安全护航技术能力全景图》多个关键领域": "https://mp.weixin.qq.com/s?__biz=MzA3NzE2ODk1Mg==&mid=2647797703&idx=1&sn=760c12c5fca647e4517514677062a8ca"
+    },
+    "Tor Project blog": {
+        "Arti 2.0.0 released: Relay, directory authority, and RPC development.": "https://blog.torproject.org/arti_2_0_0_released/"
+    },
+    "Security Affairs": {
+        "MoltBot Skills exploited to distribute 400+ malware packages in days": "https://securityaffairs.com/187562/malware/moltbot-skills-exploited-to-distribute-400-malware-packages-in-days.html",
+        "Panera Bread breach affected 5.1 Million accounts, HIBP Confirms": "https://securityaffairs.com/187556/data-breach/panera-bread-breach-affected-5-1-million-accounts-hibp-confirms.html",
+        "Hackers exploit unsecured MongoDB instances to wipe data and demand ransom": "https://securityaffairs.com/187548/security/hackers-exploit-unsecured-mongodb-instances-to-wipe-data-and-demand-ransom.html",
+        "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 82": "https://securityaffairs.com/187539/security/security-affairs-malware-newsletter-round-82.html",
+        "Nation-state hack exploited hosting infrastructure to hijack Notepad++ updates": "https://securityaffairs.com/187531/security/nation-state-hack-exploited-hosting-infrastructure-to-hijack-notepad-updates.html",
+        "Security Affairs newsletter Round 561 by Pierluigi Paganini – INTERNATIONAL EDITION": "https://securityaffairs.com/187524/security/security-affairs-newsletter-round-561-by-pierluigi-paganini-international-edition.html"
+    },
+    "Social Engineering": {
+        "How you know you are good at something?": "https://www.reddit.com/r/SocialEngineering/comments/1qtye0q/how_you_know_you_are_good_at_something/"
+    },
+    "Your Open Hacker Community": {
+        "Over The Wire Bandit Level 16 → Level 17 Difficulties": "https://www.reddit.com/r/HowToHack/comments/1qtu1tu/over_the_wire_bandit_level_16_level_17/"
+    },
+    "Krebs on Security": {
+        "Please Don’t Feed the Scattered Lapsus ShinyHunters": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/"
+    },
+    "Technical Information Security Content & Discussion": {
+        "Notepad++ Hijacked by State-Sponsored Hackers": "https://www.reddit.com/r/netsec/comments/1qtif11/notepad_hijacked_by_statesponsored_hackers/",
+        "WhatsApp Encryption, a Lawsuit, and a Lot of Noise": "https://www.reddit.com/r/netsec/comments/1qu3bgd/whatsapp_encryption_a_lawsuit_and_a_lot_of_noise/",
+        "Your Phone Silently Sends GPS to Your Carrier via RRLP/LPP – Here's How the Control Plane Positioning Works": "https://www.reddit.com/r/netsec/comments/1qtnr2m/your_phone_silently_sends_gps_to_your_carrier_via/",
+        "vr2jb: Pwning the PlayStation VR2 using Sony's hidden recovery mode": "https://www.reddit.com/r/netsec/comments/1qtq2mm/vr2jb_pwning_the_playstation_vr2_using_sonys/",
+        "AppLocker Rules Abuse": "https://www.reddit.com/r/netsec/comments/1qttj14/applocker_rules_abuse/"
+    },
+    "Information Security": {
+        "New GRC book launched last month": "https://www.reddit.com/r/Information_Security/comments/1qu6bm6/new_grc_book_launched_last_month/"
+    },
+    "Deep Web": {
+        "Hey who needs guys like us do some work?": "https://www.reddit.com/r/deepweb/comments/1qu8euc/hey_who_needs_guys_like_us_do_some_work/"
+    },
+    "netsecstudents: Subreddit for students studying Network Security and its related subjects": {
+        "AppLocker Rules Abuse": "https://www.reddit.com/r/netsecstudents/comments/1qttgqt/applocker_rules_abuse/"
+    },
+    "The Hacker News": {
+        "Researchers Find 341 Malicious ClawHub Skills Stealing Data from OpenClaw Users": "https://thehackernews.com/2026/02/researchers-find-341-malicious-clawhub.html",
+        "OpenClaw Bug Enables One-Click Remote Code Execution via Malicious Link": "https://thehackernews.com/2026/02/openclaw-bug-enables-one-click-remote.html",
+        "Microsoft Begins NTLM Phase-Out With Three-Stage Plan to Move Windows to Kerberos": "https://thehackernews.com/2026/02/microsoft-begins-ntlm-phase-out-with.html",
+        "⚡ Weekly Recap: Proxy Botnet, Office Zero-Day, MongoDB Ransoms, AI Hijacks & New Threats": "https://thehackernews.com/2026/02/weekly-recap-proxy-botnet-office-zero.html",
+        "Securing the Mid-Market Across the Complete Threat Lifecycle": "https://thehackernews.com/2026/02/securing-mid-market-across-complete.html",
+        "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users": "https://thehackernews.com/2026/02/notepad-official-update-mechanism.html",
+        "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware": "https://thehackernews.com/2026/02/escan-antivirus-update-servers.html",
+        "Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm": "https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html"
+    },
+    "Security Weekly Podcast Network (Audio)": {
+        "Initial entry to resilience: understanding modern attack flows and this week's news - Warwick Webb - ESW #444": "http://sites.libsyn.com/18678/initial-entry-to-resilience-understanding-modern-attack-flows-and-this-weeks-news-warwick-webb-esw-444"
+    }
+}
