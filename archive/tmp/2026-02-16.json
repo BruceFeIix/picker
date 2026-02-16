@@ -1,0 +1,139 @@
+{
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "WordPress Plugin Ajax Upload for Gravity Forms - Arbitrary File Upload": "https://cxsecurity.com/issue/WLB-2026020017",
+        "Roundcube Webmail DOM-based XSS Exploit via SVG href Attribute": "https://cxsecurity.com/issue/WLB-2026020016"
+    },
+    "SecWiki News": {
+        "SecWiki News 2026-02-15 Review": "http://www.sec-wiki.com/?2026-02-15"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sun Feb 15 11:39:49 UTC 2026": "https://github.com/trickest/cve/commit/057927e66183eac776d8496f7222c6d985264242"
+    },
+    "Doonsec's feed": {
+        "Android和iOS安全技能树(2026版)": "https://mp.weixin.qq.com/s/Z75clH5sLTLuq5bgtvDj5Q",
+        "Claude AI编程(Claude Code + Projects)": "https://mp.weixin.qq.com/s/oe3DupfU0y3-OwQjIn3ZDw",
+        "2026年度RSAC创新沙盒十强深度研判": "https://mp.weixin.qq.com/s/_MInSrC6xZTx72i5t6RifA",
+        "2026年，网络安全公司如何活下去？": "https://mp.weixin.qq.com/s/vgqrNsSEnm1BI4UhXBKzAQ",
+        "EDU某证书站从信息收集到大量信息泄露": "https://mp.weixin.qq.com/s/XoH9xhZH3uCTlPEGHE0JRA",
+        "借助Claude逆向分析智能睡眠眼罩并发现安全问题": "https://mp.weixin.qq.com/s/bbJoKhX_05Ytw4sw83uMew",
+        "实战SQL注入之绕过代码拦截+软waf": "https://mp.weixin.qq.com/s/Nm9ZikqVEZ-_S9cv9_tvRQ",
+        "监委“穿透式”办案新规落地！": "https://mp.weixin.qq.com/s/u9RF6gFxQHva1eu942BwfA",
+        "CVE-2026-20841（Win11-记事本RCE）复现学习(未果)": "https://mp.weixin.qq.com/s/2oXwHStbvp8iBEFuds4VmQ",
+        "免费红包发放：继续守护数字世界的星光": "https://mp.weixin.qq.com/s/VTpylqVm82Z6sGHhQjt9KQ",
+        "【A1natas】2025年终总结": "https://mp.weixin.qq.com/s/iFO5vMrhaVIR4dVLInQnJA",
+        "1.6亿阅读神文：《在一天内修正你的人生》": "https://mp.weixin.qq.com/s/5ZD-Zrg3kg-21MZDQ0KEuQ",
+        "2025大厂年终奖开奖日历出炉！有的1月， 有的要等到6月": "https://mp.weixin.qq.com/s/M8hrSDzvNDNIM18TCCTpnA",
+        "已知三角形内任意一点，求其到三顶点距离和的最小值": "https://mp.weixin.qq.com/s/TSWI6boJTgCYxbgL0TGZGQ",
+        "从 0 到 1 打开黑客世界的魔法盒：这份 msfvenom 神器指南，绝对值百万阅读": "https://mp.weixin.qq.com/s/R5QqtuQDLVVvDczi2uU6hQ",
+        "凌日停机维护中 | 我们要去和马年撞个满怀": "https://mp.weixin.qq.com/s/Zn88o8FtlvZF2pdHr9REqQ",
+        "暗网付费帖子解锁(第三期)": "https://mp.weixin.qq.com/s/oFv7QVlso-rJWWzXNFgSEg",
+        "Havoc：现代化后渗透命令与控制(C2)工具": "https://mp.weixin.qq.com/s/tI7wYwJurNxz68AmhcSrNg",
+        "春节 | 篝火信安马年定制红包封面限量派发，给大家拜年啦，新年快乐！！！": "https://mp.weixin.qq.com/s/dwgOMf5085rqrgpQ5eJZcA",
+        "红包封面领取：魔都安全札记提前祝大家春节": "https://mp.weixin.qq.com/s/he42yNKTAMlcIDgONr74jA",
+        "[链接]心流鼠标手势 - FlowMouse v1.2 Chro": "https://mp.weixin.qq.com/s/wDWBWohfaL6_gNiY5bKToQ",
+        "哥一年打的比赛赶上你一辈子了": "https://mp.weixin.qq.com/s/DoQEHThJaJrqc52Qv-hhyQ",
+        "Vulnhub靶机m87_1渗透": "https://mp.weixin.qq.com/s/Bl0ATG8xJeeraOCN_9hQYA",
+        "漏洞复现 | 爱数AnyShare爱数云盘start_service远程代码执行漏洞": "https://mp.weixin.qq.com/s/OCNdz1QLqMwC-2F7WDKtKg",
+        "AI 时代，利用工具赚小钱还靠谱吗？": "https://mp.weixin.qq.com/s/eGQYd4NuowZFYKRXVPRtBg",
+        "Linux版CS样本分析与配置解密": "https://mp.weixin.qq.com/s/i7DHLujzZECBi1kQNRjyrw",
+        "【神人TV】我被西电ctf之神开户了": "https://mp.weixin.qq.com/s/hgThLAtz641L6lOw4LC0PA",
+        "极简文本编辑器Seditor": "https://mp.weixin.qq.com/s/h7EoaE1s4MHIhBlxyd2g5A",
+        "大模型的电量刺客! DrainCode引发算力爆炸": "https://mp.weixin.qq.com/s/V4KNjm4_EcpHvqOL1wkEgg",
+        "COM对象劫持": "https://mp.weixin.qq.com/s/d11gyXiH0WItzVXfmPjSPA",
+        "红包封面！": "https://mp.weixin.qq.com/s/LyMExKJCJFK1I4VjNZy4mA",
+        "春秋云境Initial wp": "https://mp.weixin.qq.com/s/jCEgDXzXP3YCtndNViUC4Q",
+        "千问红包也来了！": "https://mp.weixin.qq.com/s/SrnS9PYCRjR_hOlUC6bXlQ",
+        "[0215] 一周重点情报汇总｜天际友盟情报站": "https://mp.weixin.qq.com/s/slfqNuwv7Yvgmq1R4yKJPA",
+        "浦发银行“浦银智启”大模型服务矩阵完成智谱GLM-5上线": "https://mp.weixin.qq.com/s/N2nlbvW8rhNcAWNPJ4w7oQ"
+    },
+    "InfoSec Write-ups - Medium": {
+        "THM — ValenFind": "https://infosecwriteups.com/thm-valenfind-c5a42e2cf5b2?source=rss----7b722bfd1b8d---4",
+        "Phishing — Merry Clickmas | Tryhackme | Day-2": "https://infosecwriteups.com/phishing-merry-clickmas-tryhackme-day-2-7938ccab3b31?source=rss----7b722bfd1b8d---4",
+        "HAWK_II — Cryptography Challenge Writeup": "https://infosecwriteups.com/hawk-ii-cryptography-challenge-writeup-9b32187f4dd5?source=rss----7b722bfd1b8d---4",
+        "Linux CLI — Shells Bells | Tryhackme | Day-1": "https://infosecwriteups.com/linux-cli-shells-bells-tryhackme-day-1-f3f30ad7adb8?source=rss----7b722bfd1b8d---4",
+        "Piercing the Veil of Timelapse: Encrypted Keys & The LAPS Revelation ️": "https://infosecwriteups.com/piercing-the-veil-of-timelapse-encrypted-keys-the-laps-revelation-%EF%B8%8F-716bf0c289bb?source=rss----7b722bfd1b8d---4",
+        "The “Dumb” Editor That Got Too Smart: When Feature Bloat Leads to RCE": "https://infosecwriteups.com/the-dumb-editor-that-got-too-smart-when-feature-bloat-leads-to-rce-0fd08d9c62cd?source=rss----7b722bfd1b8d---4",
+        "I Wasn’t Looking at the Target — I Was Watching the Hackers First": "https://infosecwriteups.com/i-wasnt-looking-at-the-target-i-was-watching-the-hackers-first-866b552efd0f?source=rss----7b722bfd1b8d---4",
+        "Expanding React2Shell for Serverless Lambda Function": "https://infosecwriteups.com/expanding-react2shell-for-serverless-lambda-function-647de21722b4?source=rss----7b722bfd1b8d---4",
+        "How a Forgotten QA Page Led to an $800 Bounty: Unauthorized Document Access": "https://infosecwriteups.com/how-a-forgotten-qa-page-led-to-an-800-bounty-unauthorized-document-access-1065b05ab79d?source=rss----7b722bfd1b8d---4",
+        "Hacking OpenClaw": "https://infosecwriteups.com/hacking-openclaw-07dc2003c31d?source=rss----7b722bfd1b8d---4"
+    },
+    "Sandfly Security Blog RSS Feed": {
+        "Advantages of Agentless EDR for Linux": "https://sandflysecurity.com/blog/advantages-of-agentless-edr-for-linux",
+        "BPFDoor Detection, Analysis, and Hunting Tactics on Linux": "https://sandflysecurity.com/blog/bpfdoor-detection-analysis-and-hunting-tactics-on-linux"
+    },
+    "Bug Bounty in InfoSec Write-ups on Medium": {
+        "I Wasn’t Looking at the Target — I Was Watching the Hackers First": "https://infosecwriteups.com/i-wasnt-looking-at-the-target-i-was-watching-the-hackers-first-866b552efd0f?source=rss----7b722bfd1b8d--bug_bounty",
+        "Expanding React2Shell for Serverless Lambda Function": "https://infosecwriteups.com/expanding-react2shell-for-serverless-lambda-function-647de21722b4?source=rss----7b722bfd1b8d--bug_bounty",
+        "How a Forgotten QA Page Led to an $800 Bounty: Unauthorized Document Access": "https://infosecwriteups.com/how-a-forgotten-qa-page-led-to-an-800-bounty-unauthorized-document-access-1065b05ab79d?source=rss----7b722bfd1b8d--bug_bounty",
+        "Hacking Google Drive Integrations: A Deep Dive into OAuth Security": "https://infosecwriteups.com/hacking-google-drive-integrations-a-deep-dive-into-oauth-security-4e233bfcf395?source=rss----7b722bfd1b8d--bug_bounty",
+        "From Leak to Lead: How Dark Web Dumps Helped Me Find a Live Vulnerability ️‍♂️": "https://infosecwriteups.com/from-leak-to-lead-how-dark-web-dumps-helped-me-find-a-live-vulnerability-%EF%B8%8F-%EF%B8%8F-f1b0ea82b335?source=rss----7b722bfd1b8d--bug_bounty"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "地球暖化加速的原因": "https://www.solidot.org/story?sid=83566",
+        "在高危漏洞披露前电信公司提前屏蔽 Telnet 流量": "https://www.solidot.org/story?sid=83565",
+        "欧盟采取行动禁用无限滚动": "https://www.solidot.org/story?sid=83564",
+        "最高法院称激活辅助驾驶功能后司机依旧需要承责": "https://www.solidot.org/story?sid=83563"
+    },
+    "黑海洋Wiki | Web开发工具包 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台": {
+        "美国防部将阿里百度比亚迪等列入“涉军企业”": "https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%E5%B0%86%E9%98%BF%E9%87%8C%E7%99%BE%E5%BA%A6%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%AD%89%E5%88%97%E5%85%A5-%E6%B6%89%E5%86%9B%E4%BC%81%E4%B8%9A",
+        "马斯克预言2026年底编程或将全面自动化": "https://blog.upx8.com/%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%84%E8%A8%802026%E5%B9%B4%E5%BA%95%E7%BC%96%E7%A8%8B%E6%88%96%E5%B0%86%E5%85%A8%E9%9D%A2%E8%87%AA%E5%8A%A8%E5%8C%96",
+        "SpaceX获准在越南推出星链卫星互联网服务": "https://blog.upx8.com/SpaceX%E8%8E%B7%E5%87%86%E5%9C%A8%E8%B6%8A%E5%8D%97%E6%8E%A8%E5%87%BA%E6%98%9F%E9%93%BE%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E6%9C%8D%E5%8A%A1",
+        "Anthropic超级碗广告拉动用户增长11%": "https://blog.upx8.com/Anthropic%E8%B6%85%E7%BA%A7%E7%A2%97%E5%B9%BF%E5%91%8A%E6%8B%89%E5%8A%A8%E7%94%A8%E6%88%B7%E5%A2%9E%E9%95%BF11",
+        "中国芯片产业追赶竞争对手愈加乏力": "https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E4%BA%A7%E4%B8%9A%E8%BF%BD%E8%B5%B6%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E6%84%88%E5%8A%A0%E4%B9%8F%E5%8A%9B",
+        "乌方感谢中国提供一揽子人道能源援助": "https://blog.upx8.com/%E4%B9%8C%E6%96%B9%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E6%8F%90%E4%BE%9B%E4%B8%80%E6%8F%BD%E5%AD%90%E4%BA%BA%E9%81%93%E8%83%BD%E6%BA%90%E6%8F%B4%E5%8A%A9",
+        "中国企业跻身奥运赞助商，日企缺席": "https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E8%B7%BB%E8%BA%AB%E5%A5%A5%E8%BF%90%E8%B5%9E%E5%8A%A9%E5%95%86-%E6%97%A5%E4%BC%81%E7%BC%BA%E5%B8%AD"
+    },
+    "黑鸟": {
+        "借助Claude逆向分析智能睡眠眼罩并发现安全问题": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185285&idx=1&sn=ed4d792e0de41fc1d59c66c766cf125d"
+    },
+    "威努特安全网络": {
+        "特特祝您马到成功，快来领取马年专属红包封面！": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651140123&idx=1&sn=c180dbaec7e8d6ad2a96c22d0e87e22b"
+    },
+    "青衣十三楼飞花堂": {
+        "已知三角形内任意一点，求其到三顶点距离和的最小值": "https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489029&idx=1&sn=be6b8314cdb12b197b8fa82e159ccade"
+    },
+    "安全研究GoSSIP": {
+        "2026 年秋季｜香港中文大学周亚金课题组博士生招募（区块链安全方向）": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501413&idx=1&sn=d36876ea5f3e13feef1994caa4c9cdf6"
+    },
+    "网安杂谈": {
+        "Datawhale Easy-Vibe 开源学习 task3 动手做出原型": "https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890004&idx=1&sn=32259454ba3e8aa27b52f3879c1ae973"
+    },
+    "极客公园": {
+        "当 AI 开始报复人类，开源世界的第一起「自主攻击」事件": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099219&idx=1&sn=34b9cfed5809b81de7213cf766a120f0",
+        "豆包大模型 2.0 发布；用户吐槽 Deepseek 变冷淡了，官方回应；微信：抢红包「手气攻略」都是假的| 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099211&idx=1&sn=b3c73468d78b30ed05f2c7a1e4c7ec51"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【时政】美国马列主义毛泽东思想传播现状": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154300&idx=1&sn=b02b95285012ea48fb4b9d2641bd5b06"
+    },
+    "情报分析师": {
+        "六步掌握开源“识人术”，如何通过照片识别身份": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566741&idx=1&sn=5c51b8cf0bbbff5d9ea44852c6c6cc34",
+        "【热点研判】蒙古国改革内政谋振兴，我拓机遇需防范博弈暗流/美台签署对等贸易协定，我经贸版图面临新挑战/印度军备自主突进与风险齐现": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566741&idx=2&sn=ec51c611b25e7c694b0b4e74d456de7e"
+    },
+    "DEF CON Announcements!": {
+        "Hotel Room Blocks for DEF CON 34 are Open!": "https://defcon.org/html/links/dc-news.html#34rooms"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "Windows 11 KB5077181 fixes boot failures linked to failed updates": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5077181-fixes-boot-failures-linked-to-failed-updates/",
+        "CTM360: Lumma Stealer and Ninja Browser malware campaign abusing Google Groups": "https://www.bleepingcomputer.com/news/security/ctm360-lumma-stealer-and-ninja-browser-malware-campaign-abusing-google-groups/",
+        "Pastebin comments push ClickFix JavaScript attack to hijack crypto swaps": "https://www.bleepingcomputer.com/news/security/pastebin-comments-push-clickfix-javascript-attack-to-hijack-crypto-swaps/",
+        "Inside Bashe: The Interview with the Ransomware Group Known as APT73": "https://www.suspectfile.com/inside-bashe-the-interview-with-the-ransomware-group-known-as-apt73/"
+    },
+    "IT Service Management News": {
+        "Moltbook": "http://blog.cesaregallotti.it/2026/02/moltbook.html"
+    },
+    "吾爱破解论坛": {
+        "[链接]心流鼠标手势 - FlowMouse v1.2 Chro": "https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143645&idx=1&sn=0e8e895546419bca2b5b7f29f60922ca"
+    },
+    "BorderGate": {
+        "Credential Guard Part 2": "https://www.bordergate.co.uk/credential-guard-part-2/"
+    },
+    "Security Affairs": {
+        "Malicious npm and PyPI packages linked to Lazarus APT fake recruiter campaign": "https://securityaffairs.com/188009/apt/malicious-npm-and-pypi-packages-llinked-to-lazarus-apt-fake-recruiter-campaign.html",
+        "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 84": "https://securityaffairs.com/188004/malware/security-affairs-malware-newsletter-round-84.html",
+        "Security Affairs newsletter Round 563 by Pierluigi Paganini – INTERNATIONAL EDITION": "https://securityaffairs.com/187996/security/security-affairs-newsletter-round-563-by-pierluigi-paganini-international-edition.html"
+    },
+    "The Hacker News": {
+        "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging": "https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html"
+    }
+}
