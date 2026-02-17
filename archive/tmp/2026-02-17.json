@@ -1,0 +1,358 @@
+{
+    "Sukka's Blog": {
+        "杀死那只鹦鹉 —— 「白话文」讲解一种探测 XTLS VLESS REALITY 的手段": "https://blog.skk.moe/post/to-kill-a-parrot-detecting-xtls-vless-reality-server/"
+    },
+    "SecWiki News": {
+        "SecWiki News 2026-02-16 Review": "http://www.sec-wiki.com/?2026-02-16"
+    },
+    "Recent Commits to cve:main": {
+        "Update Mon Feb 16 11:19:09 UTC 2026": "https://github.com/trickest/cve/commit/2baa32d7d403b153a129832011215f89311a0373"
+    },
+    "ElcomSoft blog": {
+        "Perfect Acquisition: The True Physical Acquisition": "https://blog.elcomsoft.com/2026/02/perfect-acquisition-the-true-physical-acquisition/"
+    },
+    "MaskRay": {
+        "Call relocation types": "https://maskray.me/blog/2026-02-16-call-relocation-types"
+    },
+    "Doonsec's feed": {
+        "一晃就过去了": "https://mp.weixin.qq.com/s/y-wG3iTxPUqjtW-Elo-wGQ",
+        "2026 新起点": "https://mp.weixin.qq.com/s/90s1E8YCTF-HEiYCdcXeOA",
+        "一款针对 Android 和 iOS 的新型间谍软件": "https://mp.weixin.qq.com/s/RbnhIdqWwavFMIK8Up5aUw",
+        "新年快乐🎉": "https://mp.weixin.qq.com/s/ngUUGLMNhkMCpU2EJQU37w",
+        "祝您马年大吉！": "https://mp.weixin.qq.com/s/3weKH74EkzgcMdDr9iKc5w",
+        "新春快乐，马年大吉！": "https://mp.weixin.qq.com/s/5yP4uZpChqTCf2Ko2d_kuA",
+        "拜年了": "https://mp.weixin.qq.com/s/pDWjBa9WWXRueOV0M8uGpA",
+        "除夕特辑丨谣云驰马破，团圆享安乐": "https://mp.weixin.qq.com/s/h_jGRJKvVnXXI6UB1zBcJg",
+        "实测 MiniMax M2.5：它真的有那么强吗？": "https://mp.weixin.qq.com/s/_7PJICKE2KHtkmUxcA58nw",
+        "安全团队年终总结": "https://mp.weixin.qq.com/s/JFUyaUmCUF6tM_tsXdyiHQ",
+        "红包免费发放2：愿安全之光照亮每一段奔赴": "https://mp.weixin.qq.com/s/Cd2g5ydj7owhSooZSiNxUg",
+        "今日除夕！网警与您迎马年，网络安全护团圆": "https://mp.weixin.qq.com/s/m8x2s1couVPsF7auz1WiQg",
+        "湘安无事2025团队和培训总结-福利抽奖": "https://mp.weixin.qq.com/s/59SaCX24geNMxe1Kxt8Oiw",
+        "策马奔腾护安康": "https://mp.weixin.qq.com/s/SnyCaLj_tJEnEnRQHOVBcQ",
+        "明明只有一台电脑或设备出了问题，为什么整个办公室的人都突然上不了网？": "https://mp.weixin.qq.com/s/AZVeNoH98i1v06Z8zAOolA",
+        "《网络空间安全科学学报》恭祝大家新春快乐！": "https://mp.weixin.qq.com/s/omrNlcl__dphhB4UXiS_9Q",
+        "OnePanda-Sec 新年贺启": "https://mp.weixin.qq.com/s/u6b6rqwOSbZWEZ2SvynSxQ",
+        "【文末口令红包】新年专享，明天删！！": "https://mp.weixin.qq.com/s/vMnXZtYhWERptftW3VcMQA",
+        "春晚的\\\"含硅量\\\"与我们的\\\"含金量\\\"": "https://mp.weixin.qq.com/s/GY2PRTMoVsbvaN-5brLjDA",
+        "白昼信安  祝各位师傅2026新年快乐": "https://mp.weixin.qq.com/s/ttiftHZb1u5xBRlwu1SKiA",
+        "新年祝福-2026": "https://mp.weixin.qq.com/s/Q_sysd8MTE7dZOZqZGhjxg",
+        "从开源爆款到 OpenAI 收编：OpenClaw 体验、架构与 Prompt 全解析": "https://mp.weixin.qq.com/s/H1DzmanO_Pxwudb8eEH9QA",
+        "2026，新年快乐！": "https://mp.weixin.qq.com/s/EXxayfWPLCqa65aQ1l02Sw",
+        "守护不变，初心如一，东方隐侠祝您新春大吉": "https://mp.weixin.qq.com/s/5iz2nAxDCpnyKt63nYlfTQ",
+        "EDI安全祝大家新年快乐": "https://mp.weixin.qq.com/s/2WsudGEXx_3uFY5xQVi0QQ",
+        "U0001f9e8 福马迎新，共赴新程": "https://mp.weixin.qq.com/s/YhANAslJfJXGnZpCpO4NwQ",
+        "创研中心这一年，到底交付了多少“能落地的硬东西”？": "https://mp.weixin.qq.com/s/ub93Fzv1r9nLvBA_Sf-rpg",
+        "真爱坤全团队祝大家新年快乐": "https://mp.weixin.qq.com/s/0Awf0m3vb3nvBicLccrAhQ",
+        "伪装成奇安信专杀工具CS木马样本分析": "https://mp.weixin.qq.com/s/qeR4R-L2d8FQCinLz9KvkA",
+        "【2026 新春快乐】小 Q 祝各位大佬们春节快乐": "https://mp.weixin.qq.com/s/wqx9dsoYa-GRTf_dG_gFrA",
+        "2026新年快乐，安全第一！": "https://mp.weixin.qq.com/s/J9vvasrVSA_UexshGdSFgw",
+        "飓风安全祝大家除夕快乐，一马当先马上有福": "https://mp.weixin.qq.com/s/EkNbhYEsAH0H3Mmq000tmQ",
+        "新年快乐": "https://mp.weixin.qq.com/s/of_QUC6AZWKhwHNzggoRnA",
+        "可千万不能变成那样": "https://mp.weixin.qq.com/s/t075NZgzw2frJQHIFYQEsA",
+        "网安原创文章推荐【2026/2/15】": "https://mp.weixin.qq.com/s/ZP7hCg8JmQwYCal78fzqkg",
+        "㊗️各位同仁新春快乐！": "https://mp.weixin.qq.com/s/sASVKmGxOmQCmjaituILCA",
+        "r3kapig祝大家马年大吉": "https://mp.weixin.qq.com/s/2s_UayKD__7_o2DfJhK6aA",
+        "网安随行，码到成功！玄域靶场祝大家新春快乐~ | 祝福视频MV": "https://mp.weixin.qq.com/s/1xKaPTUgns9dJU8pnO64TA",
+        "Chroma DB存在swagger敏感信息泄露漏洞 附POC": "https://mp.weixin.qq.com/s/d3qPOLz46w46Z82WomfYHQ",
+        "岁序更新，华章再启。愿君新年得偿所愿，诸事顺遂。": "https://mp.weixin.qq.com/s/847XLAnYCymk-q9WqDhd9g",
+        "安天2026丙午马年原创春联拜大年": "https://mp.weixin.qq.com/s/8sCQUJ9oBRSTPQjIAVR0LA",
+        "新春大吉 |「码」上平安，「马」上有福U0001f9e7": "https://mp.weixin.qq.com/s/sqOfeKmxlUOvDEQD-_n-fg",
+        "Mysqljs的一个小trick": "https://mp.weixin.qq.com/s/iLA6aKabJvFeP8K46es_1Q",
+        "青骥安全小组，祝您马年大吉，阖家欢乐！": "https://mp.weixin.qq.com/s/y4lNqtscgcDXN-Q8KoU94w",
+        "辞旧灵蛇舞，迎新骏马驰，除夕快乐！": "https://mp.weixin.qq.com/s/IvP1oAQPy7fFxw9ozYZkPg",
+        "白帽一百祝各位 新春快乐万事胜意": "https://mp.weixin.qq.com/s/NeVMXYNyq19BDeLtYOjqZA",
+        "迎新春 向新行 | 老齐农历丙午年新春贺词": "https://mp.weixin.qq.com/s/ABQnBghytm90zuJneXFmqg",
+        "一马当先 连接万福｜银基科技祝您新春快乐": "https://mp.weixin.qq.com/s/h1AovId13FfzzftX6M3uwg",
+        "【除夕】迎新年，马到成功": "https://mp.weixin.qq.com/s/x50WXnMBVor6SyCh1Y2Xpw",
+        "祝大家新春快乐，全年好运 “益” 气洋洋 ！": "https://mp.weixin.qq.com/s/s6yCzMF-0MrwHQnYUeUZNw",
+        "除夕辞旧岁，新春迎福来。": "https://mp.weixin.qq.com/s/BY1cI_TgWY-uF4dppbGN0w",
+        "除夕平安，马年顺遂！安全邦祝大家 2026 马年大吉，阖家团圆，事业长青！": "https://mp.weixin.qq.com/s/icz4QUFRjmhzkmoQ5HVq7Q",
+        "网络靖安司CSIZ祝大家：骐骥驰聘 势不可挡": "https://mp.weixin.qq.com/s/09aUfdfhcW6Y46C09XP1Og",
+        "除夕团圆夜|鼎夏智能祝您阖家团圆": "https://mp.weixin.qq.com/s/pur8o3pIsEPqgXOvSUSeZg",
+        "QBDI原理详解": "https://mp.weixin.qq.com/s/cLlRY38yjhwEXhCbc-MNeA",
+        "除夕快乐 | 马年大吉": "https://mp.weixin.qq.com/s/47WNrkhECKKwD6H13Uyh1A",
+        "睿鉴安全知识库更新了，陪各位师傅过除夕！": "https://mp.weixin.qq.com/s/Yk_jJH8g4fYYE1FE_jJu7w",
+        "灵蛇辞岁，金马奔腾 | 2026除夕夜祝大家新年Pwn掉烦恼": "https://mp.weixin.qq.com/s/4jynWh8kPm0FCutBJ1TFvw",
+        "各位小伙伴，马年新春快乐！": "https://mp.weixin.qq.com/s/UdK-szcvIrSi6N7FSOPoTQ",
+        "行业资讯：深信服 连发两次关于提前赎回“信服转债”的提示性公告": "https://mp.weixin.qq.com/s/tjVnIaZmp1h7DgVbE4Xchw",
+        "行业资讯：亚信安全 关于转让子公司部分股权暨被动形成财务资助的公告": "https://mp.weixin.qq.com/s/4Yhey61jEJWUNhFtRj51GQ",
+        "行业资讯：国盾量子 选举张文强先生担任公司第四届董事会董事长并调整董事会成员": "https://mp.weixin.qq.com/s/jG8YzCw_Y4adcvGiEBzBDA",
+        "行业资讯：三未信安 2026年股票期权激励计划（草案）发布": "https://mp.weixin.qq.com/s/0zZY3X0EXcDJp0fD5us5fQ",
+        "祝负债人马年快乐！": "https://mp.weixin.qq.com/s/IL98dJ9nSBAXZNDyJNHxZw",
+        "威零安全祝大家，新年快乐！": "https://mp.weixin.qq.com/s/dMxavZ0JfkZ_9NBsAF0YFQ",
+        "山东大学网络空间安全学院郭山清教授团队在协议安全方向取得新成果": "https://mp.weixin.qq.com/s/OFgC0wr7Pt1Tqr8FOw779g",
+        "基于AI的铁路网络安全态势感知平台设计与开发": "https://mp.weixin.qq.com/s/krcmi3jGSZ35_tHytBt0pw",
+        "轨道交通网络安全（IT/OT 融合）培训课程 2026": "https://mp.weixin.qq.com/s/9TiS9jCnLSUFi3oLHJ8aTw",
+        "中铁上海设计院集团：基于等保2.0的城市轨道交通通信系统网络安全建设方案研究": "https://mp.weixin.qq.com/s/RiIcKEPhHZxaAN6FdsBt0A",
+        "新年快乐|手慢无！马年定制红包封面限量领取，州弟祝您新年快乐！！！": "https://mp.weixin.qq.com/s/IpHuazeDeQuY5QT0rDGxGg",
+        "除夕快乐！": "https://mp.weixin.qq.com/s/m4FhPiOSgKHglZEnqap5Vw",
+        "神农安全新春礼物祝福！2026新年第一抽！": "https://mp.weixin.qq.com/s/1ajEqOoGNuzJXq4KmGXjtw",
+        "微步祝各位新老朋友新春快乐！": "https://mp.weixin.qq.com/s/nKZDX1_KINZZS6KZaVi6pw",
+        "以梦为马，不负韶华，T00ls给您拜年了，祝大家2026新春快乐，策马扬鞭，顶峰相见，内附第二版红包封面": "https://mp.weixin.qq.com/s/-0o-cZmWFDSjHg1bZhkrSQ",
+        "万马奔腾、守护万家，公安部网安局祝全国人民新春快乐！": "https://mp.weixin.qq.com/s/KfExg23cE_WZHuZ_UQ9t5w",
+        "金盾检测祝您和家人除夕快乐，万事顺遂！": "https://mp.weixin.qq.com/s/VYBCOGsb3VlXUoF6UaT7Tg",
+        "这一年风雨兼程，今夜灯火可亲": "https://mp.weixin.qq.com/s/85_EK5bQf3aHRRUoYSDOKA",
+        "mac的arm64下编译debug版mettle与metasploit framework源码联调": "https://mp.weixin.qq.com/s/p7BgOVPIzo5LioZTA_HnOg",
+        "【贺词】2026马年新春贺词：让集成更集成，让专业更专业！": "https://mp.weixin.qq.com/s/oThaFnkAEUGqeGWSj_r_uA",
+        "G.O.S.S.I.P 2026 新春总动员（2）：黑胶唱片，启动！": "https://mp.weixin.qq.com/s/6fkU0hgBfVKdV2PTun2LuQ",
+        "u200bNu1L Team祝大家马年快乐！": "https://mp.weixin.qq.com/s/e0vcIXqcOCzyrhs0uSOJ0Q",
+        "【2026】辞旧迎新，马跃新程": "https://mp.weixin.qq.com/s/Esmlv3AgnyuvSP2d-laFBg",
+        "2026 以AI为翼，驰骋 取证 Agent 之年": "https://mp.weixin.qq.com/s/ZcrFlyPPQ0zQ2Rzj4XXfFw",
+        "Ankou 一款现代化的模块化指挥控制 (C2) 平台": "https://mp.weixin.qq.com/s/PV0oGfl6rafyfi67f2-bmw",
+        "硬核发布：Windows Defender 终结者 (win11_df-Killer)": "https://mp.weixin.qq.com/s/IDQDvrWh6mXZ9GTs-v2Y_Q",
+        "【CobaltStrike】NeoCS 4.9 终极版（自破解+二开+BUG修复）": "https://mp.weixin.qq.com/s/3t93dbio4UD4QDKC1X16rw",
+        "实战必备｜一键击溃 火绒 / Defender HDKiller全解析": "https://mp.weixin.qq.com/s/3ma3pRREQg0wqU94MtJbdw",
+        "智启新岁·云安同行|渝融云给您拜年啦": "https://mp.weixin.qq.com/s/W2AX-n5WNFqCzkx3R4TrRg",
+        "恭贺新春｜金马迎春 骏业腾飞": "https://mp.weixin.qq.com/s/s-uZg13c_yfrun_s-tQbRA",
+        "雾帜祝您新春快乐：以AI之力编排安全新图景": "https://mp.weixin.qq.com/s/g9C0_8S2sK6LxEG7lPq4LA",
+        "2026最新sqlmap使用手册，超详细": "https://mp.weixin.qq.com/s/tSMxwBNCHv6UW-zDRY_jHg",
+        "HackTheBox Season 10  WingData 难度:Easy": "https://mp.weixin.qq.com/s/f4Y422HIqutia5ifSnUs7A",
+        "2026，让我们继续同步（Sync）成长，连接（Connect）未来": "https://mp.weixin.qq.com/s/-YuhLUk6pWOpWupcNuAA1w",
+        "龙马精神！2026，愿您的生活“全栈”幸福，“高可用”运行！": "https://mp.weixin.qq.com/s/jrSqYMEg_KSOZuTjNXikWg",
+        "深入剖析 RDP 活动取证": "https://mp.weixin.qq.com/s/R_tHQ_5lVrTn9aQndTrVsw",
+        "Windows 事件日志被清除后因未初始化内存 bug 在无关日志文件中复活": "https://mp.weixin.qq.com/s/zXcKmS3Q3yKyUUQagD02xg",
+        "指纹浏览器行业安全风险深度分析": "https://mp.weixin.qq.com/s/jXEsghpI9SNX6ckzgkNrzQ",
+        "威胁行为者利用 Claude Artifacts 和 Google Ads 来攻击 macOS 用户": "https://mp.weixin.qq.com/s/HylmDA76a2G2Dwx3S7iNwQ",
+        "新春有奖活动 | 骐骥驰骋，势不可挡，盟友们新年快乐！": "https://mp.weixin.qq.com/s/2BP2_7PFi_QxLGvqTyPC7Q",
+        "新年快乐 · 红包封面": "https://mp.weixin.qq.com/s/CgWnsf3lyBijzy3L5Y7Xtg",
+        "汇众职业技能培训学校全体师生在这里给大家拜年了": "https://mp.weixin.qq.com/s/q2udfzRr3POdwnATUMNQdQ",
+        "祝各位师傅2026马年大吉，文末红包": "https://mp.weixin.qq.com/s/_90H650oko2_vl4KI3s2Yg",
+        "天启攻防实验室祝大家除夕快乐": "https://mp.weixin.qq.com/s/DdLBDhAE4rCGLbDEoBbYAA",
+        "前几天跟几个朋友聊天，说到一个为什么南北": "https://mp.weixin.qq.com/s/TF5g-aHIJeoKQuQL1bVbMw",
+        "逆合成孔径雷达ISAR，如何在运动中看透目标？": "https://mp.weixin.qq.com/s/ns0tncEjwMSfW-faNGlyuA",
+        "春节什么时候开始成为中国最重要的节日": "https://mp.weixin.qq.com/s/PXTMa4TtnyiJayy-m5Pmng",
+        "辞旧除夕夜 网安伴佳节": "https://mp.weixin.qq.com/s/KbkOkY-ANqOqht01L_UnNQ",
+        "诚邀渠道合作伙伴共启新征程": "https://mp.weixin.qq.com/s/uTtRuuGHfQswNJHwp6yZZQ",
+        "新岁启封，万象更新~": "https://mp.weixin.qq.com/s/Bmko_OSDwdk0K0fZYJaioA",
+        "《网络与信息安全学报》祝您新春快乐！": "https://mp.weixin.qq.com/s/qoQeB1Git3AXu3nr0kPtGA",
+        "祥龙贺岁辞旧去，骏马踏云迎春来！": "https://mp.weixin.qq.com/s/PlSIEdUazSpTuoLZNwHY-g",
+        "内网渗透工具--GhostKatz": "https://mp.weixin.qq.com/s/C5De4eyL0xje0w1TGG_BAQ",
+        "警惕！俄相关的全新APT组织使用AI加持的新型恶意软件CANFAIL，乌克兰成主要攻击目标": "https://mp.weixin.qq.com/s/2i-5Ic1yjuz07L7m_YJ9qA",
+        "EDU某证书站从信息收集到大量信息泄露": "https://mp.weixin.qq.com/s/G5BnSXSa-UTdSiMY_m9cFA",
+        "某CMS JWT鉴权绕过": "https://mp.weixin.qq.com/s/38k0R5qtKowmPrJVesgpRA",
+        "一个越权，我拿到了770条明文密码，厂商只是重启了一下服务器。": "https://mp.weixin.qq.com/s/TCqZNLgGxKbxm-pIiI0yAw",
+        "Havoc：现代化后渗透命令与控制(C2)工具": "https://mp.weixin.qq.com/s/XcqcHKZr-VLKsHOiFMY2rQ",
+        "2026新年献词 | AI安全工坊致每一位同行者": "https://mp.weixin.qq.com/s/RMPWi5FbmZwXfF5dG77Ngg",
+        "祝大家马年发大财！": "https://mp.weixin.qq.com/s/oImEthGmjCxpAwqsDVdAfw",
+        "2026 • 节前必读 | 最新私房钱埋藏指南": "https://mp.weixin.qq.com/s/RXVVUyL63tEyBjzFNOoJvg",
+        "辞旧迎新年 阖家共团圆": "https://mp.weixin.qq.com/s/mPq7tLY_jJpnD91oB9yk7g",
+        "除夕快乐": "https://mp.weixin.qq.com/s/KVkh8N0FNK4kPUnkWL6btw",
+        "2026大厂红包终极指南：11款App、除夕黄金4小时": "https://mp.weixin.qq.com/s/L4mUc6XLFM-oTNNlDl8PDQ",
+        "山海关安全团队2025年终总结": "https://mp.weixin.qq.com/s/zdl6-gylez-w9Dp2DI527Q",
+        "利用情报思维重新审视你的社交媒体": "https://mp.weixin.qq.com/s/3hqomV_25EpBTAnbPuYqkg",
+        "【网安春晚文末抽周边】完整版 · 哥一年的比赛顶你一辈子": "https://mp.weixin.qq.com/s/n_sa-sDg9QgsgUDoQSQGlw",
+        "好一个众筹": "https://mp.weixin.qq.com/s/NuNs_pmIlC0-4LCYpzs0DA",
+        "国自然中标真不难！经十年真实评审逐行打磨的本子，中标率提升87.7%": "https://mp.weixin.qq.com/s/gEwpuzYdmi-46xTYUFBHnQ",
+        "策马扬鞭开新局 奋蹄笃行启新程": "https://mp.weixin.qq.com/s/lzFFvruCEq0fJuveGkLWQw",
+        "齐守岁 共欢颜 | 骏马辞岁": "https://mp.weixin.qq.com/s/Dh4rLDvCKkNTs0UqFJRgJg",
+        "欢度新春|工信安创全体成员祝大家新年快乐！": "https://mp.weixin.qq.com/s/d0v2i9heVitwM5XUZVabKg",
+        "喜迎新春｜【信安百科】祝大家马年大吉": "https://mp.weixin.qq.com/s/ZHt9lfWn5zqYjZYsmXRkXA",
+        "制作元宝拜年朋友圈方法": "https://mp.weixin.qq.com/s/n2uNA5CkijMuJC1xfawnhg",
+        "前沿阵地恭祝所有星友2026新年快乐！": "https://mp.weixin.qq.com/s/f55ZiXupbZPkMToO1mGOQA",
+        "除夕 | 2026马年精选春节祝福语": "https://mp.weixin.qq.com/s/iLtnHDz_LS0TL3qHH_N6OQ",
+        "除夕守岁迎新春，阖家安康万事兴": "https://mp.weixin.qq.com/s/RI5aIHHVworiqQTt5rFFbQ",
+        "烟火年年  岁岁平安": "https://mp.weixin.qq.com/s/LEMdi4pvqgdKkUoQqdnJCA",
+        "16年坚守，安全如初 | 08sec除夕贺岁": "https://mp.weixin.qq.com/s/ozChyccDkKNHUxzTbEWz8Q",
+        "玲珑安全2025年度回顾：忙碌，但依然在路上": "https://mp.weixin.qq.com/s/xXobLe5UHECO2UPq8VJEAw",
+        "骐骥驰骋，万事呈祥｜NCC恭祝新春大吉！": "https://mp.weixin.qq.com/s/5q1Q40SSkeesPUw6Fs1PyQ",
+        "【神人TV】除夕笑传之急急急": "https://mp.weixin.qq.com/s/7exEnfeRKGXRUxqyUdbDQw",
+        "Wireshark Graphs | TCP Previous Segment Lost": "https://mp.weixin.qq.com/s/zr4Wgzzn3Kj3vjZbC9liiw",
+        "福马迎春，中新赛克提前给您拜年啦！": "https://mp.weixin.qq.com/s/DxnCKyTmCedXAKcEPbW8hA",
+        "春节假期应急保障通知": "https://mp.weixin.qq.com/s/ym79gtK1IL-jfAcsAjEbwA",
+        "三级系统十项测评一键管理：等保自查工具让合规工作系统化": "https://mp.weixin.qq.com/s/RZUl6giWd4LJrpkfEKH4Lw",
+        "2026马年新春，船山安全团队有哪些新征程？": "https://mp.weixin.qq.com/s/9JjliDkYWfmm_gjJB6AuIA",
+        "越权所导致的信息泄露": "https://mp.weixin.qq.com/s/Jo4b858lgaCYqp2nlJkDtQ",
+        "补天恭祝白帽师傅们除夕快乐！": "https://mp.weixin.qq.com/s/rY5oq8ikXcJoonZJ5Yjq0Q",
+        "万径安全祝您春节快乐！": "https://mp.weixin.qq.com/s/pgfsarSTCopVGT0ZJrXoQA",
+        "基于DSP结构的软件无线电的硬件组成---零中频数字无线电(二)": "https://mp.weixin.qq.com/s/7R117ErXrCodbszlrSmziA",
+        "骁马迎春，鹏程万里：XPSRC 祝各位“鹏友”除夕快乐，平安顺遂！": "https://mp.weixin.qq.com/s/rfsj7oiYyUPXoLf1lryDSQ",
+        "今夜，默安伴您除夕守岁，网络守安。": "https://mp.weixin.qq.com/s/D0qgVHY4wEhBnfV9YjWpug",
+        "网安培训中心祝大家阖家团圆，辞旧迎新": "https://mp.weixin.qq.com/s/SRnI-kelbcTMlQBjSYHPKg",
+        "WhoisXMLAPI祝大家2026新春快乐！": "https://mp.weixin.qq.com/s/kKcCDVVS6dG_-yU99FReXg",
+        "Dear「YAKer」，春节快乐！": "https://mp.weixin.qq.com/s/A_HZ481DIkjmAVYNqq8Neg",
+        "2025年人工智能安全指数报告": "https://mp.weixin.qq.com/s/mzkPPuvQn-ALqvN7e6TajQ",
+        "2025年低空经济大事记与2026年投资展望": "https://mp.weixin.qq.com/s/glnd3piit22bzxfZ3o50SQ",
+        "辞旧迎新|丈八祝您马年鸿运,福顺满满!": "https://mp.weixin.qq.com/s/jYkJJDRZE51qMKfuqx0twQ",
+        "我与AI的对话：jack叔叔的六年之约，不想读研的原因之一": "https://mp.weixin.qq.com/s/EISh7cN_Ua-_xjz_MKIxSQ",
+        "除夕｜马跃新春，“午”岁吉祥": "https://mp.weixin.qq.com/s/1aHI-dade-WwI2qmA95Hog",
+        "起底委内瑞拉近期网络威胁：5个黑客组织轮番登场，420GB军事机密与1TB教育档案遭泄露": "https://mp.weixin.qq.com/s/ZWWjCDBSAb1Mm_4otf2nHw",
+        "【今晚12点红包】锁定好靶场1-4群": "https://mp.weixin.qq.com/s/5jXily7Gh2BAiW1kY07jGw",
+        "北信源 丨 2026春启福临": "https://mp.weixin.qq.com/s/J7sR3XNvHMu5Qkm_spfFDA",
+        "【除夕】中孚与你共守岁  灯火温馨网亦安": "https://mp.weixin.qq.com/s/7dKLHWjTjTqTceVxaC5xww",
+        "【林晓月的段子】小品004-信息安全工程师曾经的烦恼": "https://mp.weixin.qq.com/s/w6LCfk5Tl_W9r33Kk5L60g"
+    },
+    "Malwarebytes": {
+        "ClickFix added nslookup commands to its arsenal for downloading RATs": "https://www.malwarebytes.com/blog/news/2026/02/clickfix-added-nslookup-commands-to-its-arsenal-for-downloading-rats",
+        "A week in security (February 9 &#8211; February 15)": "https://www.malwarebytes.com/blog/news/2026/02/a-week-in-security-february-9-february-15"
+    },
+    "Intigriti": {
+        "Chaining in action: techniques, terminology, and real-world impact on business": "https://www.intigriti.com/blog/business-insights/chaining-in-action-techniques-terminology-and-real-world-impact-on-business"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "巴比伦五号上传到 YouTube 可免费观看": "https://www.solidot.org/story?sid=83570",
+        "Ars Technica AI 记者为 AI 生成内容道歉": "https://www.solidot.org/story?sid=83569",
+        "OpenClaw 创始人加盟 OpenAI": "https://www.solidot.org/story?sid=83568",
+        "Vim 9.2 释出": "https://www.solidot.org/story?sid=83567"
+    },
+    "黑海洋Wiki | Web开发工具包 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台": {
+        "美国国防部接近与Anthropic切断关系": "https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8%E6%8E%A5%E8%BF%91%E4%B8%8EAnthropic%E5%88%87%E6%96%AD%E5%85%B3%E7%B3%BB",
+        "资深主持人就 NotebookLM 语音起诉谷歌": "https://blog.upx8.com/%E8%B5%84%E6%B7%B1%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%B0%B1-NotebookLM-%E8%AF%AD%E9%9F%B3%E8%B5%B7%E8%AF%89%E8%B0%B7%E6%AD%8C",
+        "苹果公司将于3月4日在纽约举行产品发布会": "https://blog.upx8.com/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B0%86%E4%BA%8E3%E6%9C%884%E6%97%A5%E5%9C%A8%E7%BA%BD%E7%BA%A6%E4%B8%BE%E8%A1%8C%E4%BA%A7%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A",
+        "人工智能使美国生产率翻倍": "https://blog.upx8.com/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BD%BF%E7%BE%8E%E5%9B%BD%E7%94%9F%E4%BA%A7%E7%8E%87%E7%BF%BB%E5%80%8D",
+        "阿里千问Qwen3.5：迈向原生多模态智能体": "https://blog.upx8.com/%E9%98%BF%E9%87%8C%E5%8D%83%E9%97%AEQwen3-5-%E8%BF%88%E5%90%91%E5%8E%9F%E7%94%9F%E5%A4%9A%E6%A8%A1%E6%80%81%E6%99%BA%E8%83%BD%E4%BD%93"
+    },
+    "Shostack & Friends Blog": {
+        "The DEF CON 33 Hackers Almanack": "https://shostack.org/blog/hackers-almanack-defcon-33/"
+    },
+    "锦行科技": {
+        "除夕・除旧｜马到成功": "https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494756&idx=1&sn=6a756326bccd7fb5f0dbf643794b846d"
+    },
+    "黑鸟": {
+        "一款针对 Android 和 iOS 的新型间谍软件": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185309&idx=1&sn=cec689e79cf3a3245ff10c5536336425"
+    },
+    "白帽100安全攻防实验室": {
+        "白帽一百祝各位 新春快乐万事胜意": "https://mp.weixin.qq.com/s?__biz=MzIxMDYyNTk3Nw==&mid=2247515481&idx=1&sn=3eee8202997445e84f28d13e1c1afd85"
+    },
+    "安全研究GoSSIP": {
+        "G.O.S.S.I.P 2026 新春总动员（2）：黑胶唱片，启动！": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501424&idx=1&sn=1ebe9847abddadfc724a3e8d5fff1828"
+    },
+    "信息安全国家工程研究中心": {
+        "骏马蹄疾，岁启新程": "https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247502991&idx=1&sn=8512dc0c2ff70d40cc0121cc7340ce48"
+    },
+    "中国信息安全": {
+        "辞旧迎新年 阖家共团圆": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664259414&idx=1&sn=26c93c11dd2c9c89b16043ee2bc4822f"
+    },
+    "网络空间安全科学学报": {
+        "《网络空间安全科学学报》恭祝大家新春快乐！": "https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247507287&idx=1&sn=adc54a1793df8ff941e7f954d996e6a5"
+    },
+    "全频带阻塞干扰": {
+        "2026 • 节前必读 | 最新私房钱埋藏指南": "https://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648959101&idx=1&sn=3efe5468de972671ca52dca56d4d7768"
+    },
+    "补天平台": {
+        "补天恭祝白帽师傅们除夕快乐！": "https://mp.weixin.qq.com/s?__biz=MzI2NzY5MDI3NQ==&mid=2247510303&idx=1&sn=65f11b5d8a9a2bad64eae9ebc8233e9d"
+    },
+    "默安科技": {
+        "今夜，默安伴您除夕守岁，网络守安。": "https://mp.weixin.qq.com/s?__biz=MzIzODQxMjM2NQ==&mid=2247501682&idx=1&sn=70366033bea3227366af16d0e4a64d89"
+    },
+    "火绒安全": {
+        "辞旧除夕夜 网安伴佳节": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530699&idx=1&sn=291a2667e39e3cc41b244556f7f704da",
+        "诚邀渠道合作伙伴共启新征程": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247530699&idx=2&sn=769b0cf68a172918c014028f91e7a30f"
+    },
+    "极客公园": {
+        "千问 3.5，用第一性原理打破大模型的不可能三角": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099292&idx=1&sn=3d7e655d39eef224dcb7f34f17e54bb3",
+        "OpenClaw 之父加入 OpenAI；Seedance2.0 暂不支持真人人脸和 IP 形象作为生成参考；字节芯片开启大规模招聘 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099266&idx=1&sn=ae5d569eb7e8c76cb80481274923c6e4"
+    },
+    "慢雾科技": {
+        "指纹浏览器行业安全风险深度分析": "https://mp.weixin.qq.com/s?__biz=MzU4ODQ3NTM2OA==&mid=2247504339&idx=1&sn=2333dd057c0f07b7cb6ae3f331bef8ef"
+    },
+    "黑伞安全": {
+        "春晚的\"含硅量\"与我们的\"含金量\"": "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489926&idx=1&sn=815ddb7452888613e69c0e7ca46a6d6c"
+    },
+    "情报分析师": {
+        "除夕日，谈谈开源情报的制胜关键": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566752&idx=1&sn=6ecb605fb47b31b00f5c687d48cf1432"
+    },
+    "Securityinfo.it": {
+        "Lo shotdown USA tarpa le ali alla CISA": "https://www.securityinfo.it/2026/02/16/lo-shotdown-usa-tarpa-le-ali-alla-cisa/?utm_source=rss&utm_medium=rss&utm_campaign=lo-shotdown-usa-tarpa-le-ali-alla-cisa"
+    },
+    "迪哥讲事": {
+        "越权所导致的信息泄露": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499078&idx=1&sn=f28877c2204ad239416a3ea14d10a0bd"
+    },
+    "Have I Been Pwned latest breaches": {
+        "University of Pennsylvania - 623,750 breached accounts": "https://haveibeenpwned.com/Breach/UniversityOfPennsylvania",
+        "APOIA.se - 450,764 breached accounts": "https://haveibeenpwned.com/Breach/APOIAse"
+    },
+    "网络安全回收站": {
+        "从开源爆款到 OpenAI 收编：OpenClaw 体验、架构与 Prompt 全解析": "https://mp.weixin.qq.com/s?__biz=Mzg2MTc1NDAxMA==&mid=2247485159&idx=1&sn=e4bd389610b4af7ec3285fd7b41dcd5d"
+    },
+    "Dark Space Blogspot": {
+        "Morto Federico Frusciante: Storia e Migliori Citazioni (1973-2026)": "http://darkwhite666.blogspot.com/2026/02/morto-federico-frusciante-storia-e.html"
+    },
+    "Yak Project": {
+        "Dear「YAKer」，春节快乐！": "https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247529405&idx=1&sn=0843ed2ed3c114fcbeccefb10fc75b8b"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "Il recruiting si trasforma in arma di compromissione: così funziona la truffa e come difendersi": "https://www.cybersecurity360.it/news/il-recruiting-si-trasforma-in-arma-di-compromissione-cosi-funziona-la-truffa-e-come-difendersi/",
+        "University of Pennsylvania - 623,750 breached accounts": "https://haveibeenpwned.com/Breach/UniversityOfPennsylvania",
+        "Dalla ricerca al mercato globale: la cyber security italiana si misura in Silicon Valley": "https://www.cybersecurity360.it/cultura-cyber/dalla-ricerca-al-mercato-globale-la-cyber-security-italiana-si-misura-in-silicon-valley/",
+        "Washington Hotel in Japan discloses ransomware infection incident": "https://www.bleepingcomputer.com/news/security/washington-hotel-in-japan-discloses-ransomware-infection-incident/",
+        "Eurail says stolen traveler data now up for sale on dark web": "https://www.bleepingcomputer.com/news/security/eurail-says-stolen-traveler-data-now-up-for-sale-on-dark-web/",
+        "Man arrested for demanding reward after accidental police data leak": "https://www.bleepingcomputer.com/news/security/man-arrested-for-demanding-reward-after-accidental-police-data-leak/",
+        "Over 500,000 VKontakte accounts hijacked through malicious Chrome extensions": "https://therecord.media/500000-vkontakte-accounts-hijacked-chrome-extensions",
+        "Starlink restrictions hit Russian forces as Moscow seeks workarounds": "https://therecord.media/starlink-restrictions-hit-russian-forces",
+        "Building a Secure Electron Auto-Updater": "https://blog.doyensec.com/2026/02/16/electron-safe-updater.html",
+        "Infostealer malware found stealing OpenClaw secrets for first time": "https://www.bleepingcomputer.com/news/security/infostealer-malware-found-stealing-openclaw-secrets-for-first-time/",
+        "Attacchi informatici al manifatturiero: il settore industriale più bersagliato dal cybercrime": "https://www.cybersecurity360.it/nuove-minacce/attacchi-informatici-nel-manifatturiero-il-settore-industriale-piu-bersagliato-dal-cybercrime/",
+        "Lo shotdown USA tarpa le ali alla CISA": "https://www.securityinfo.it/2026/02/16/lo-shotdown-usa-tarpa-le-ali-alla-cisa/",
+        "Passwords to passkeys: Staying ISO 27001 compliant in a passwordless era": "https://www.bleepingcomputer.com/news/security/passwords-to-passkeys-staying-iso-27001-compliant-in-a-passwordless-era/",
+        "Pexpect as a tool of last resort": "https://www.adainese.it/blog/2026/02/15/pexpect-as-a-tool-of-last-resort/",
+        "CISA gives feds 3 days to patch actively exploited BeyondTrust flaw": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-beyondtrust-flaw-within-three-days/",
+        "How the Protective Security Policy Framework Shapes Australia’s Commonwealth Cyber Security Strategy": "https://cyble.com/blog/2025-commonwealth-cyber-security-pspf-update/",
+        "“Your Best-Performing Ad Campaign Might Be a Bot” — Mike Schrobo Interview": "https://thecyberexpress.com/ad-fraud-mike-schrobo-interview/",
+        "Chinese Bots Targeting Websites of Government Portals, Paranormal Activity Blogs": "https://thecyberexpress.com/chinese-bots-lanzhou-website-traffic/",
+        "APOIA.se - 450,764 breached accounts": "https://haveibeenpwned.com/Breach/APOIAse",
+        "Direttiva NIS2 nel settore alimentare: implicazioni per la cyber security": "https://www.cybersecurity360.it/legal/direttiva-nis2-nel-settore-alimentare-implicazioni-per-la-cyber-security/",
+        "Google patches first Chrome zero-day exploited in attacks this year": "https://www.bleepingcomputer.com/news/security/google-patches-first-chrome-zero-day-exploited-in-attacks-this-year/",
+        "Google Chrome Fixes Actively Exploited CVE-2026-2441 Bug": "https://thecyberexpress.com/cve-2026-2441-google-chrome/",
+        "Canada Goose investigating as hackers leak 600K customer records": "https://www.bleepingcomputer.com/news/security/canada-goose-investigating-as-hackers-leak-600k-customer-records/",
+        "New ClickFix attack abuses nslookup to retrieve PowerShell payload via DNS": "https://www.bleepingcomputer.com/news/security/new-clickfix-attack-abuses-nslookup-to-retrieve-powershell-payload-via-dns/"
+    },
+    "看雪学苑": {
+        "QBDI原理详解": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611115&idx=1&sn=293899176e4090adb7cfc5878204988c",
+        "除夕快乐 | 马年大吉": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458611115&idx=2&sn=f86e72087a20f262d692d931b53e2e03"
+    },
+    "360数字安全": {
+        "除夕｜马跃新春，“午”岁吉祥": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585000&idx=1&sn=62ffeffed0c85c6908bdd590d0c66b7b"
+    },
+    "吾爱破解论坛": {
+        "（图作者 | @Aoemax）": "https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651143634&idx=1&sn=e19b5ebbee5cfdfe7e8c1bcf0bb8ae6d"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "2026 64-Bits Malware Trend, (Mon, Feb 16th)": "https://isc.sans.edu/diary/rss/32718",
+        "ISC Stormcast For Monday, February 16th, 2026 https://isc.sans.edu/podcastdetail/9810, (Mon, Feb 16th)": "https://isc.sans.edu/diary/rss/32716"
+    },
+    "Schneier on Security": {
+        "The Promptware Kill Chain": "https://www.schneier.com/blog/archives/2026/02/the-promptware-kill-chain.html"
+    },
+    "Full Disclosure": {
+        "SEC Consult SA-20260212-0 :: Multiple Vulnerabilities in various Solax Power Pocket WiFi models": "https://seclists.org/fulldisclosure/2026/Feb/17",
+        "[Full Disclosure] CVE-2025-69690 & CVE-2025-69691 — Authenticated RCE in Netgate pfSense CE 2.7.2 and 2.8.0": "https://seclists.org/fulldisclosure/2026/Feb/16",
+        "APPLE-SA-02-11-2026-9 Safari 26.3": "https://seclists.org/fulldisclosure/2026/Feb/29",
+        "APPLE-SA-02-11-2026-8 visionOS 26.3": "https://seclists.org/fulldisclosure/2026/Feb/28",
+        "APPLE-SA-02-11-2026-7 watchOS 26.3": "https://seclists.org/fulldisclosure/2026/Feb/27",
+        "APPLE-SA-02-11-2026-6 tvOS 26.3": "https://seclists.org/fulldisclosure/2026/Feb/26",
+        "APPLE-SA-02-11-2026-5 macOS Sonoma 14.8.4": "https://seclists.org/fulldisclosure/2026/Feb/25",
+        "APPLE-SA-02-11-2026-4 macOS Sequoia 15.7.4": "https://seclists.org/fulldisclosure/2026/Feb/24",
+        "APPLE-SA-02-11-2026-3 macOS Tahoe 26.3": "https://seclists.org/fulldisclosure/2026/Feb/23",
+        "APPLE-SA-02-11-2026-2 iOS 18.7.5 and iPadOS 18.7.5": "https://seclists.org/fulldisclosure/2026/Feb/22",
+        "APPLE-SA-02-11-2026-1 iOS 26.3 and iPadOS 26.3": "https://seclists.org/fulldisclosure/2026/Feb/21",
+        "Blind XXE in Electronic Invoice online tools (validator.invoice-portal.de, xrechnung.rib.de)": "https://seclists.org/fulldisclosure/2026/Feb/20",
+        "🚨 Public Disclosure: Remote BitLocker Bypass via Intel AMT — SYSTEM Access Without Login": "https://seclists.org/fulldisclosure/2026/Feb/15",
+        "Firedancer Solana Validator - QUIC Transport Parameter UB and\tConsensus-Splitting Cast Bug": "https://seclists.org/fulldisclosure/2026/Feb/14",
+        "[SYSS-2025-014] Linksys MX4200 - Improper Verification of Source of a Communication Channel": "https://seclists.org/fulldisclosure/2026/Feb/19"
+    },
+    "ICT Security Magazine": {
+        "OpenClaw: un incubo di sicurezza che riscrive le regole dell’IA agentica": "https://www.ictsecuritymagazine.com/notizie/openclaw-sicurezza-ia/",
+        "Golden Power 2.0: verso un modello europeo di sovranità tecnologica": "https://www.ictsecuritymagazine.com/notizie/golden-power-2-0/"
+    },
+    "Tor Project blog": {
+        "Keeping track of decisions using the ADR model": "https://blog.torproject.org/tpa-adr/"
+    },
+    "The Hacker News": {
+        "Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens": "https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html",
+        "Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers": "https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html",
+        "Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware": "https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html",
+        "Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud": "https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html",
+        "New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft": "https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html",
+        "New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released": "https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html"
+    },
+    "Security Affairs": {
+        "A security flaw at DavaIndia Pharmacy allowed attackers to access customers’ data and more": "https://securityaffairs.com/188056/security/a-security-flaw-at-davaindia-pharmacy-allowed-attackers-to-access-customers-data-and-more.html",
+        "ShinyHunters leaked 600K+ Canada Goose customer records, but the firm denies it was breached": "https://securityaffairs.com/188046/data-breach/shinyhunters-leaked-600k-canada-goose-customer-records-but-the-firm-denies-it-was-breached.html",
+        "Microsoft alerts on DNS-based ClickFix variant delivering malware via nslookup": "https://securityaffairs.com/188039/hacking/microsoft-alerts-on-dns-based-clickfix-variant-delivering-malware-via-nslookup.html",
+        "Google fixes first actively exploited Chrome zero-day of 2026": "https://securityaffairs.com/188029/security/google-fixes-first-actively-exploited-chrome-zero-day-of-2026.html",
+        "Japanese sex toys maker Tenga discloses data breach": "https://securityaffairs.com/188022/data-breach/japanese-sex-toys-maker-tenga-discloses-data-breach.html"
+    },
+    "Security Weekly Podcast Network (Audio)": {
+        "Hardware-level zero trust, don't trust AI with your employees, and the news - J Wolfgang Goerlich, Matias Katz - ESW #446": "http://sites.libsyn.com/18678/hardware-level-zero-trust-dont-trust-ai-with-your-employees-and-the-news-j-wolfgang-goerlich-matias-katz-esw-446"
+    }
+}
