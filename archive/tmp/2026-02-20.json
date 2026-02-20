@@ -1,0 +1,191 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2026-02-19 Review": "http://www.sec-wiki.com/?2026-02-19"
+    },
+    "Doonsec's feed": {
+        "分享图片": "https://mp.weixin.qq.com/s/AqQhNTo6ndDDxQf5qh2kog",
+        "openEuler 欧拉操作系统 - 200个常用命令大全": "https://mp.weixin.qq.com/s/_S4p753iBDAY2FGzS7RYGQ",
+        "ZoomEye扫出全局资产，红包拆得满院福光": "https://mp.weixin.qq.com/s/1kABqcHVqwt89lsddQYiUg",
+        "🛡️ T00ls祝大家 岁岁平安 🍎": "https://mp.weixin.qq.com/s/nnnHOyGPvnEDdkmPdMfgwA",
+        "英国信息技术巨头：英迈国际称，勒索软件攻击影响了4.2万人": "https://mp.weixin.qq.com/s/jcvlqjlOZVPNjmgRrDl4Jg",
+        "数据安全态势管理与云安全态势管理": "https://mp.weixin.qq.com/s/hcGfm0aC3qTPWhHzquztLA",
+        "网络安全取证（一）定义和概念模型": "https://mp.weixin.qq.com/s/vAmvSu7u3oNAh2LpKIjTjw",
+        "来自GitHub的优秀网络安全工具（无广告附链接）": "https://mp.weixin.qq.com/s/ABbTdX5QqguiOGwH7Ri6tw"
+    },
+    "Google Online Security Blog": {
+        "Keeping Google Play & Android app ecosystems safe in 2025": "http://security.googleblog.com/2026/02/keeping-google-play-android-app-ecosystem-safe-2025.html"
+    },
+    "InfoSec Write-ups - Medium": {
+        "Unpatchable? How Chinese Hackers Hid in Dell VMs for 2 Years Using \"Magic Packets\"": "https://infosecwriteups.com/unpatchable-how-chinese-hackers-hid-in-dell-vms-for-2-years-using-magic-packets-e5f8eb04e804?source=rss----7b722bfd1b8d---4",
+        "Extracting IPA from a Non-Jailbroken iOS Device with Apple Configurator": "https://infosecwriteups.com/extracting-ipa-from-a-non-jailbroken-ios-device-with-apple-configurator-7c26de094b4f?source=rss----7b722bfd1b8d---4",
+        "Breaking the Trust Boundary: SSRF via a Misconfigured Sentry Tunnel": "https://infosecwriteups.com/breaking-the-trust-boundary-ssrf-via-a-misconfigured-sentry-tunnel-ed054820b743?source=rss----7b722bfd1b8d---4"
+    },
+    "Microsoft Security Blog": {
+        "New e-book: Establishing a proactive defense with Microsoft Security Exposure Management": "https://www.microsoft.com/en-us/security/blog/2026/02/19/new-e-book-establishing-a-proactive-defense-with-microsoft-security-exposure-management/",
+        "Running OpenClaw safely: identity, isolation, and runtime risk": "https://www.microsoft.com/en-us/security/blog/2026/02/19/running-openclaw-safely-identity-isolation-runtime-risk/"
+    },
+    "Jiajun的技术笔记": {
+        "你好，2026！": "https://jiajunhuang.com/articles/2026_02_19-hello_2026.md.html"
+    },
+    "Recent Commits to cve:main": {
+        "Update Thu Feb 19 11:25:32 UTC 2026": "https://github.com/trickest/cve/commit/0b15653abab50078d6541fcd886f9b1e8b3487fa"
+    },
+    "Tenable Blog": {
+        "The Cloud and AI Velocity Trap: Why Governance Is Falling Behind Innovation": "https://www.tenable.com/blog/cloud-ai-research-report-2026-governance-vs-innovation"
+    },
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "Casdoor 2.55.0 Cross-Site Request Forgery (CSRF)": "https://cxsecurity.com/issue/WLB-2026020021",
+        "grub-btrfs initramfs hook Command Injection": "https://cxsecurity.com/issue/WLB-2026020020",
+        "Hyland OnBase Timer Service Unauthenticated .NET Remoting RCE": "https://cxsecurity.com/issue/WLB-2026020019",
+        "Repetier-Server < = 1.4.10 - Unauthenticated Path Traversal / Local File Inclusion": "https://cxsecurity.com/issue/WLB-2026020018"
+    },
+    "Bug Bounty in InfoSec Write-ups on Medium": {
+        "Breaking the Trust Boundary: SSRF via a Misconfigured Sentry Tunnel": "https://infosecwriteups.com/breaking-the-trust-boundary-ssrf-via-a-misconfigured-sentry-tunnel-ed054820b743?source=rss----7b722bfd1b8d--bug_bounty"
+    },
+    "GuidePoint Security": {
+        "Ransomware Trends by Industry: Insights from the GRIT 2026 Ransomware & Cyber Threat Report": "https://www.guidepointsecurity.com/blog/ransomware-trends-by-industry-2026-ransomware-cyber-threat-report/"
+    },
+    "Securelist": {
+        "Arkanix Stealer: a C++ & Python infostealer": "https://securelist.com/arkanix-stealer/119006/"
+    },
+    "Blogs  dade": {
+        "MacOS & Nix-Darwin": "https://0xda.de/blog/2026/02/macos-nix-darwin/"
+    },
+    "Malwarebytes": {
+        "AI-generated passwords are a security risk": "https://www.malwarebytes.com/blog/news/2026/02/ai-generated-passwords-are-a-security-risk",
+        "Intimate products maker Tenga spilled customer data": "https://www.malwarebytes.com/blog/news/2026/02/intimate-products-producer-tenga-spilled-customer-data",
+        "Meta patents AI that could keep you posting from beyond the grave": "https://www.malwarebytes.com/blog/ai/2026/02/meta-patents-ai-that-could-keep-you-posting-from-beyond-the-grave"
+    },
+    "Security Blog | Praetorian": {
+        "Praetorian Guard finds critical flaws in OpenClaw – And What It Means for Your Software Supply Chain": "https://www.praetorian.com/blog/praetorian-guard-finds-critical-flaws-in-openclaw-and-what-it-means-for-your-software-supply-chain/"
+    },
+    "rtl-sdr.com": {
+        "Echo iOS KiwiSDR & OpenWebRX App now in Beta Testing": "https://www.rtl-sdr.com/echo-ios-kiwisdr-openwebrx-app-now-in-beta-testing/"
+    },
+    "黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台": {
+        "美国资助了10亿美元与中国实验室相关研究": "https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E8%B5%84%E5%8A%A9%E4%BA%8610%E4%BA%BF%E7%BE%8E%E5%85%83%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%9B%B8%E5%85%B3%E7%A0%94%E7%A9%B6"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "99% 的 40 岁以上成年人存在一处肩袖异常": "https://www.solidot.org/story?sid=83579",
+        "Google 的新手机 Pixel 10a 基本上就是去年的 Pixel 9a": "https://www.solidot.org/story?sid=83578"
+    },
+    "黑鸟": {
+        "真实案例：苹果手机间谍软件“捕食者”攻击全过程": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185370&idx=1&sn=73fe9dd2eabccd74c998a427180535e3"
+    },
+    "锦行科技": {
+        "初三 · 敬宗 | 一脉相承，生生不息": "https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494759&idx=1&sn=2ef675377976de6843c89fa563cfcd1f"
+    },
+    "青衣十三楼飞花堂": {
+        "过年期间的数学扯淡": "https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489037&idx=1&sn=2886b98b370635068f82846ffff9fa07"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【资料】美国新版《对外援助法》": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154398&idx=1&sn=952b5c2691381d4166f66ef53110a43a"
+    },
+    "数世咨询": {
+        "2026网络安全技术趋势预测：在“永远不稳定”的世界中运行": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247541771&idx=1&sn=1ebee9c50ce379f57590ca44a2c1c6ef"
+    },
+    "极客公园": {
+        "春节 AI 模型大战，谁是最大赢家？": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099610&idx=1&sn=91593bac1b2f3d316983cd4c48ea98f0",
+        "困在 AI 里的工作：你没有解放，而是有了更多「任务」": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099589&idx=1&sn=a8d285d2450c18e7083855a653b7f3fa",
+        "特斯拉无人驾驶车正式下线；段永平、巴菲特大幅减持苹果；B 站春晚峰值 8600 万，弹幕爆发｜极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653099572&idx=1&sn=ffbc18769002730a9864c90e7ee5e783"
+    },
+    "情报分析师": {
+        "AI如何嵌入情报核心任务": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650566782&idx=1&sn=edd89d39b9e1a17a9b3694415cd719c3"
+    },
+    "TrustedSec": {
+        "Notepad++ Plugins: Plug and Payload": "https://trustedsec.com/blog/notepad-plugins-plug-and-payload"
+    },
+    "迪哥讲事": {
+        "通过路径遍历所造成的信息泄露": "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499091&idx=1&sn=4b29bdbab216506c9da82409b940098d"
+    },
+    "360数字安全": {
+        "大年初三 | 马载安康，祥“午”盈庭": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247585004&idx=1&sn=a7ee4c8e8a7f9ca19c3c3ba638c610f8"
+    },
+    "ICT Security Magazine": {
+        "Il Chief Information Officer si reinventa: da tecnico a stratega del business": "https://www.ictsecuritymagazine.com/notizie/chief-information-officer/"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "Leading Japanese semiconductor supplier responding to ransomware attack": "https://therecord.media/leading-japanese-semiconductor-supplier-ransomware",
+        "PromptSpy is the first known Android malware to use generative AI at runtime": "https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-known-android-malware-to-use-generative-ai-at-runtime/",
+        "PromptSpy is the first Android malware to use generative AI at runtime": "https://www.bleepingcomputer.com/news/security/promptspy-is-the-first-android-malware-to-use-generative-ai-at-runtime/",
+        "Cellebrite cut off Serbia citing abuse of its phone unlocking tools. Why not others?": "https://techcrunch.com/2026/02/19/cellebrite-cut-off-serbia-citing-abuse-of-its-phone-unlocking-tools-why-not-others/",
+        "FBI: More than 700 ATM jackpotting incidents with losses over $20 million occurred in 2025": "https://therecord.media/fbi-atm-jackpotting-2025-report",
+        "Researchers warn Volt Typhoon still embedded in US utilities and some breaches may never be found": "https://therecord.media/researchers-warn-volt-typhoon-still-active-critical-infrastructure",
+        "West Virginia sues Apple for alleged child sexual abuse material failures": "https://therecord.media/apple-csam-west-virginia-lawsuit",
+        "Using AI to defeat AI": "https://blog.talosintelligence.com/using-ai-to-defeat-ai/",
+        "Google blocked over 1.75 million Play Store app submissions in 2025": "https://www.bleepingcomputer.com/news/security/google-blocked-over-175-million-play-store-app-submissions-in-2025/",
+        "UK to require tech firms to remove nonconsensual intimate images within 48 hours or face fines": "https://therecord.media/united-kingdom-noncensual-images-fines",
+        "Attacco hacker cinese al Viminale: una violazione mirata per esfiltrare identità di agenti Digos": "https://www.cybersecurity360.it/cybersecurity-nazionale/attacco-hacker-cinese-al-viminale-una-violazione-mirata-per-esfiltrare-identita-di-agenti-digos/",
+        "Flaw in Grandstream VoIP phones allows stealthy eavesdropping": "https://www.bleepingcomputer.com/news/security/flaw-in-grandstream-voip-phones-allows-stealthy-eavesdropping/",
+        "Cisco Live 2026": "https://roccosicilia.com/2026/02/19/cisco-live-2026/",
+        "Uso dei recapiti telefonici dei pazienti per gli screening: ecco le nuove regole privacy": "https://www.cybersecurity360.it/news/uso-dei-recapiti-telefonici-dei-pazienti-per-gli-screening-ecco-le-nuove-regole-privacy/",
+        "Sex toys maker Tenga says hacker stole customer information": "https://techcrunch.com/2026/02/19/sex-toys-maker-tenga-says-hacker-stole-customer-information/",
+        "CISA orders feds to patch actively exploited Dell flaw within 3 days": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-dell-flaw-within-3-days/",
+        "Ransomware gang threatens Cheyenne and Arapaho Tribes after shutting down schools": "https://therecord.media/cheyenne-arapaho-ransomware-rhysida",
+        "How infostealers turn stolen credentials into real identities": "https://www.bleepingcomputer.com/news/security/how-infostealers-turn-stolen-credentials-into-real-identities/",
+        "Attackers breach France’s national bank account database": "https://therecord.media/attackers-breach-france-national-bank-account-database",
+        "Cyber Frontiers 2026": "https://roccosicilia.com/2026/02/19/cyber-frontiers-2026/",
+        "Intelligence italiana sempre più cyber: ecco le nuove figure professionali più ricercate": "https://www.cybersecurity360.it/cybersecurity-nazionale/intelligence-italiana-sempre-piu-cyber-ecco-le-nuove-figure-professionali-piu-ricercate/",
+        "An Incident Doesn’t Have to Be a Crisis": "https://binarydefense.com/resources/blog/an-incident-doesnt-have-to-be-a-crisis",
+        "Nigerian man gets eight years in prison for hacking tax firms": "https://www.bleepingcomputer.com/news/security/nigerian-man-gets-eight-years-in-prison-for-hacking-tax-firms/",
+        "Hackers target Microsoft Entra accounts in device code vishing attacks": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-entra-accounts-in-device-code-vishing-attacks/",
+        "Texas sues TP-Link over Chinese hacking risks, user deception": "https://www.bleepingcomputer.com/news/security/texas-sues-tp-link-over-chinese-hacking-risks-user-deception/",
+        "First Android Malware Weaponizes Gemini AI to Evade Detection, Maintain Persistence": "https://thecyberexpress.com/first-android-malware-promptspy/",
+        "The Week in Vulnerabilities: SolarWinds, Ivanti, and Critical ICS Exposure": "https://cyble.com/blog/cyble-weekly-vulnerability-report-feb-19/",
+        "Police arrests 651 suspects in African cybercrime crackdown": "https://www.bleepingcomputer.com/news/security/police-arrests-651-suspects-in-african-cybercrime-crackdown/",
+        "Arkanix Stealer: a C++ & Python infostealer": "https://securelist.com/arkanix-stealer/119006/",
+        "Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia": "https://www.group-ib.com/blog/indonesia-tax-impersonation-goldfactory-malware/",
+        "India’s AI Revolution: Why This Is India’s Most Significant Moment": "https://cyble.com/blog/india-ai-security-revolution-rising-threats/",
+        "New 'Massiv' Android banking malware poses as an IPTV app": "https://www.bleepingcomputer.com/news/security/new-massiv-android-banking-malware-poses-as-an-iptv-app/",
+        "Massiv: When your IPTV app terminates your savings": "https://www.threatfabric.com/blogs/massiv-when-your-iptv-app-terminates-your-savings",
+        "G2 Recognizes ANY.RUN as a Top Security Software Provider": "https://any.run/cybersecurity-blog/g2-top-security-software-provider/",
+        "Doubts Over Bashe’s Claims: Technical Analysis and Open Questions": "https://www.suspectfile.com/doubts-over-bashes-claims-technical-analysis-and-open-questions/",
+        "Critical Security Flaws Discovered in Four VS Code Extensions Affecting Millions": "https://thecyberexpress.com/vs-code-extensions-supply-chain-security-flaws/",
+        "Fattore umano: un nuovo protagonista nella roadmap NIS2": "https://www.cybersecurity360.it/legal/fattore-umano-un-nuovo-protagonista-nella-roadmap-nis2/",
+        "AI Has Entered Schools—But What About Its Responsible Use?": "https://thecyberexpress.com/ai-in-education-shaping-classrooms-of-tomorrow/",
+        "La tassonomia ACN per la Legge 90 chiude il cerchio sulla notifica degli incidenti cyber": "https://www.cybersecurity360.it/legal/la-tassonomia-acn-per-la-legge-90-chiude-il-cerchio-sulla-notifica-degli-incidenti-cyber/",
+        "Mozilla Firefox Issues Emergency Patch for Heap Buffer Overflow in Firefox v147": "https://thecyberexpress.com/firefox-v147-cve-2026-2447/",
+        "Advantest Cyberattack Triggers Ransomware Investigation Across Internal Network": "https://thecyberexpress.com/advantest-cyberattack-ransomware-investigation/"
+    },
+    "bellingcat": {
+        "Shipwrecks, Sham Papers and False Flags: Tracking the Company Behind It All": "https://www.bellingcat.com/news/2026/02/19/shipwrecks-sham-papers-and-false-flags-tracking-the-company-behind-it-all/"
+    },
+    "安全行者老霍": {
+        "挑选人工智能红队服务商越来越难": "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247485894&idx=1&sn=751108f6d9580da66019de9d0483e8b3"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "Under the Hood of DynoWiper, (Thu, Feb 19th)": "https://isc.sans.edu/diary/rss/32730",
+        "ISC Stormcast For Thursday, February 19th, 2026 https://isc.sans.edu/podcastdetail/9816, (Thu, Feb 19th)": "https://isc.sans.edu/diary/rss/32728"
+    },
+    "Include Security Research Blog": {
+        "The AWS Console and Terraform Security Gap": "https://blog.includesecurity.com/2026/02/the-aws-console-and-terraform-security-gap/"
+    },
+    "Schneier on Security": {
+        "Malicious AI": "https://www.schneier.com/blog/archives/2026/02/malicious-ai.html"
+    },
+    "Daniel Miessler": {
+        "A Simple Framework for Being Anti-Fragile": "https://danielmiessler.com/blog/antifragile-framework?utm_source=rss&utm_medium=feed&utm_campaign=website"
+    },
+    "The Hacker News": {
+        "PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence": "https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html",
+        "INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown": "https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html",
+        "Microsoft Patches CVE-2026-26119 Privilege Escalation in Windows Admin Center": "https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html",
+        "ThreatsDay Bulletin: OpenSSL RCE, Foxit 0-Days, Copilot Leak, AI Password Flaws & 20+ Stories": "https://thehackernews.com/2026/02/threatsday-bulletin-openssl-rce-foxit-0.html",
+        "From Exposure to Exploitation: How AI Collapses Your Response Window": "https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html",
+        "Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users": "https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html",
+        "CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware": "https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html"
+    },
+    "GRAHAM CLULEY": {
+        "Smashing Security podcast #455: Face off: Meta’s Glasses and America’s internet kill switch": "https://grahamcluley.com/smashing-security-podcast-455/"
+    },
+    "Security Affairs": {
+        "Germany’s national rail operator Deutsche Bahn hit by a DDoS attack": "https://securityaffairs.com/188254/breaking-news/germanys-national-rail-operator-deutsche-bahn-hit-by-a-ddos-attack.html",
+        "U.S. CISA adds Dell RecoverPoint and GitLab flaws to its Known Exploited Vulnerabilities catalog": "https://securityaffairs.com/188243/hacking/u-s-cisa-adds-dell-recoverpoint-and-gitlab-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "CISA alerts to critical auth bypass CVE-2026-1670 in Honeywell CCTVs": "https://securityaffairs.com/188234/security/cisa-alerts-to-critical-auth-bypass-cve-2026-1670-in-honeywell-cctvs.html",
+        "Irish regulator probes X after Grok allegedly generated sexual images of children": "https://securityaffairs.com/188226/ai/irish-regulator-probes-x-after-grok-allegedly-generated-sexual-images-of-children.html",
+        "Intellexa’s Predator spyware infected Angolan journalist’s device, Amnesty reports": "https://securityaffairs.com/188215/malware/intellexas-predator-spyware-infected-angolan-journalists-device-amnesty-reports.html"
+    },
+    "Security Weekly Podcast Network (Audio)": {
+        "Firmware Backdoors Be Spying On You - PSW #914": "http://sites.libsyn.com/18678/firmware-backdoors-be-spying-on-you-psw-914"
+    }
+}
