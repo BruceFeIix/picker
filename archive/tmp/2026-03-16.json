@@ -1,0 +1,157 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2026-03-15 Review": "http://www.sec-wiki.com/?2026-03-15"
+    },
+    "博客": {
+        "Error: Package ‘mysql-client-core-8.0’ has no installation candidate": "https://dyrnq.com/error-package-mysql-client-core-8-0-has-no-installation-candidate/"
+    },
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "zumba/json-serializer zumba/json-serializer <  3.2.3 RCE": "https://cxsecurity.com/issue/WLB-2026030023",
+        "Wekan 8.31.0 - 8.33Meteor DDP notificationUsers Sensitive Data Leak": "https://cxsecurity.com/issue/WLB-2026030022",
+        "Splunk Remote Command Execution via Improper Input Validation": "https://cxsecurity.com/issue/WLB-2026030021"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sun Mar 15 11:21:27 UTC 2026": "https://github.com/trickest/cve/commit/0d61883bdb78d584d22ebc4e8a2f4ccbd0824fac"
+    },
+    "InfoSec Write-ups - Medium": {
+        "Google Paid Hackers $17 Million in 2025 — Here’s Why": "https://infosecwriteups.com/google-paid-hackers-17-million-in-2025-heres-why-5f5fc65d827e?source=rss----7b722bfd1b8d---4",
+        "A Practical Web Pentesting CTF Challenge — Step-by-Step Walkthrough": "https://infosecwriteups.com/a-practical-web-pentesting-ctf-challenge-step-by-step-walkthrough-2c2bc2d63ef7?source=rss----7b722bfd1b8d---4",
+        "IDOR in Purchase Order Cancellation Allows Unauthorized Users to Cancel Other Users’ POs": "https://infosecwriteups.com/idor-in-purchase-order-cancellation-allows-unauthorized-users-to-cancel-other-users-pos-bb9cbf4f7548?source=rss----7b722bfd1b8d---4",
+        "Bypassing Threads Block System: Blocked Users Can Still View Custom Feed Content": "https://infosecwriteups.com/bypassing-threads-block-system-blocked-users-can-still-view-custom-feed-content-61a320325691?source=rss----7b722bfd1b8d---4",
+        "Mapping the Attackers Before Mapping the Application": "https://infosecwriteups.com/mapping-the-attackers-before-mapping-the-application-af002d1d396b?source=rss----7b722bfd1b8d---4",
+        "The Danger of Over-Permissive File Shares": "https://infosecwriteups.com/the-danger-of-over-permissive-file-shares-bea10fab5190?source=rss----7b722bfd1b8d---4",
+        "Alphabet Soup: LOTL Shellcode Obfuscation": "https://infosecwriteups.com/alphabet-soup-lotl-shellcode-obfuscation-891667a6ee46?source=rss----7b722bfd1b8d---4",
+        "“Bug Bounty Bootcamp #28: Boolean-Based Blind SQL Injection — Extracting Data One True/False at a…": "https://infosecwriteups.com/bug-bounty-bootcamp-28-boolean-based-blind-sql-injection-extracting-data-one-true-false-at-a-abe69e3de702?source=rss----7b722bfd1b8d---4",
+        "Single-endpoint Race Conditions": "https://infosecwriteups.com/single-endpoint-race-conditions-7a3879c09e79?source=rss----7b722bfd1b8d---4",
+        "DLL Search Order Hijacking: Finding and Exploiting the Flaw": "https://infosecwriteups.com/dll-search-order-hijacking-finding-and-exploiting-the-flaw-9f5dabaa2470?source=rss----7b722bfd1b8d---4"
+    },
+    "Bug Bounty in InfoSec Write-ups on Medium": {
+        "Google Paid Hackers $17 Million in 2025 — Here’s Why": "https://infosecwriteups.com/google-paid-hackers-17-million-in-2025-heres-why-5f5fc65d827e?source=rss----7b722bfd1b8d--bug_bounty",
+        "A Practical Web Pentesting CTF Challenge — Step-by-Step Walkthrough": "https://infosecwriteups.com/a-practical-web-pentesting-ctf-challenge-step-by-step-walkthrough-2c2bc2d63ef7?source=rss----7b722bfd1b8d--bug_bounty",
+        "Mapping the Attackers Before Mapping the Application": "https://infosecwriteups.com/mapping-the-attackers-before-mapping-the-application-af002d1d396b?source=rss----7b722bfd1b8d--bug_bounty",
+        "The Danger of Over-Permissive File Shares": "https://infosecwriteups.com/the-danger-of-over-permissive-file-shares-bea10fab5190?source=rss----7b722bfd1b8d--bug_bounty",
+        "“Bug Bounty Bootcamp #28: Boolean-Based Blind SQL Injection — Extracting Data One True/False at a…": "https://infosecwriteups.com/bug-bounty-bootcamp-28-boolean-based-blind-sql-injection-extracting-data-one-true-false-at-a-abe69e3de702?source=rss----7b722bfd1b8d--bug_bounty",
+        "Single-endpoint Race Conditions": "https://infosecwriteups.com/single-endpoint-race-conditions-7a3879c09e79?source=rss----7b722bfd1b8d--bug_bounty",
+        "API Hunting to Employee PII Data": "https://infosecwriteups.com/api-hunting-to-employee-pii-data-638866e3f494?source=rss----7b722bfd1b8d--bug_bounty",
+        "8. Second-Order Vulnerabilities: A Rare Bug -> $$$": "https://infosecwriteups.com/8-second-order-vulnerabilities-a-rare-bug-316829a5292d?source=rss----7b722bfd1b8d--bug_bounty",
+        "I Hacked Your Account with a 6-Digit PIN: The Brute-Force Nightmare You Need to Fix": "https://infosecwriteups.com/i-hacked-your-account-with-a-6-digit-pin-the-brute-force-nightmare-you-need-to-fix-7707309ca8c4?source=rss----7b722bfd1b8d--bug_bounty"
+    },
+    "CCC Event Blog": {
+        "24. Gulaschprogrammiernacht": "https://events.ccc.de/2026/03/15/gpn24/"
+    },
+    "Reverse Engineering": {
+        "RE//verse 2026: Hacking the Xbox One": "https://www.reddit.com/r/ReverseEngineering/comments/1runont/reverse_2026_hacking_the_xbox_one/",
+        "Locally hosted cheat sheets and helpful information for labs.": "https://www.reddit.com/r/ReverseEngineering/comments/1runu25/locally_hosted_cheat_sheets_and_helpful/",
+        "PHP 8 disable_functions bypass PoC": "https://www.reddit.com/r/ReverseEngineering/comments/1ruhuzm/php_8_disable_functions_bypass_poc/",
+        "Decomp vs Recomp vs Port! So What Is the Difference?": "https://www.reddit.com/r/ReverseEngineering/comments/1rupomr/decomp_vs_recomp_vs_port_so_what_is_the_difference/"
+    },
+    "daniel.haxx.se": {
+        "One hundred curl graphs": "https://daniel.haxx.se/blog/2026/03/15/one-hundred-curl-graphs/"
+    },
+    "Chen's Blog": {
+        "提权实录：通过命名管道劫持可写服务": "https://gh0st.cn/archives/2026-03-16/1"
+    },
+    "黑鸟": {
+        "成本96美元的便携式防空导弹火箭及发射器": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451185783&idx=1&sn=1f723b06da9273d859ae4fcff8a09dda"
+    },
+    "威努特安全网络": {
+        "迪拜石油核心数据遭窃，能源设施安全拉响警报": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651140879&idx=1&sn=f72f983dda65be8a4f29ad1f727a836d"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "工业用氦气出现短缺": "https://www.solidot.org/story?sid=83773",
+        "研究称 AI 的生产力提升仅为每周 16 分钟": "https://www.solidot.org/story?sid=83772",
+        "Windows 11 二月更新可能导致部分三星笔记本电脑用户无法访问 C 盘": "https://www.solidot.org/story?sid=83771",
+        "arXiv 成立独立基金会，招聘 CEO": "https://www.solidot.org/story?sid=83769"
+    },
+    "黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台": {
+        "导演斯皮尔伯格：我的电影创作从未使用AI": "https://blog.upx8.com/%E5%AF%BC%E6%BC%94%E6%96%AF%E7%9A%AE%E5%B0%94%E4%BC%AF%E6%A0%BC-%E6%88%91%E7%9A%84%E7%94%B5%E5%BD%B1%E5%88%9B%E4%BD%9C%E4%BB%8E%E6%9C%AA%E4%BD%BF%E7%94%A8AI",
+        "美国撤回要求全球AI芯片出口许可的草案规则": "https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E6%92%A4%E5%9B%9E%E8%A6%81%E6%B1%82%E5%85%A8%E7%90%83AI%E8%8A%AF%E7%89%87%E5%87%BA%E5%8F%A3%E8%AE%B8%E5%8F%AF%E7%9A%84%E8%8D%89%E6%A1%88%E8%A7%84%E5%88%99",
+        "特斯拉“造芯”真来了 Terafab项目7天后启动": "https://blog.upx8.com/%E7%89%B9%E6%96%AF%E6%8B%89-%E9%80%A0%E8%8A%AF-%E7%9C%9F%E6%9D%A5%E4%BA%86-Terafab%E9%A1%B9%E7%9B%AE7%E5%A4%A9%E5%90%8E%E5%90%AF%E5%8A%A8",
+        "日本拟引进乌克兰制无人机强化防御体系": "https://blog.upx8.com/%E6%97%A5%E6%9C%AC%E6%8B%9F%E5%BC%95%E8%BF%9B%E4%B9%8C%E5%85%8B%E5%85%B0%E5%88%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%BC%BA%E5%8C%96%E9%98%B2%E5%BE%A1%E4%BD%93%E7%B3%BB",
+        "白宫发布的视频或使用任天堂游戏片段": "https://blog.upx8.com/%E7%99%BD%E5%AE%AB%E5%8F%91%E5%B8%83%E7%9A%84%E8%A7%86%E9%A2%91%E6%88%96%E4%BD%BF%E7%94%A8%E4%BB%BB%E5%A4%A9%E5%A0%82%E6%B8%B8%E6%88%8F%E7%89%87%E6%AE%B5",
+        "Facebook让创作者更容易举报冒充者": "https://blog.upx8.com/Facebook%E8%AE%A9%E5%88%9B%E4%BD%9C%E8%80%85%E6%9B%B4%E5%AE%B9%E6%98%93%E4%B8%BE%E6%8A%A5%E5%86%92%E5%85%85%E8%80%85"
+    },
+    "青衣十三楼飞花堂": {
+        "号称史上最难逻辑谜题(三神)": "https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489130&idx=1&sn=dd2b784b785e7a9db315307ddbe51829"
+    },
+    "奇安信 CERT": {
+        "今日（2026年3月15日）OpenClaw 最新安全动态总结": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504752&idx=1&sn=3f8b3795d28cca77cf0e92200f5b3ec1"
+    },
+    "安全研究GoSSIP": {
+        "2026 年秋季｜北京航空航天大学博士生招募 （浏览器指纹 / Web安全 /卫星互联网安全）": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501506&idx=1&sn=cc2392869b911137904dbd58a975c879"
+    },
+    "网安杂谈": {
+        "养虾用哪家CodingPlan更好呢？": "https://mp.weixin.qq.com/s?__biz=MzAwMTMzMDUwNg==&mid=2650890162&idx=1&sn=760108572bf38ab49c2d3e5ae9267e14"
+    },
+    "复旦白泽战队": {
+        "🦞养虾人注意了！你的白泽龙虾安全助手已上线": "https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247498031&idx=1&sn=1a5cac61a4514eb07a23e9734b741879"
+    },
+    "极客公园": {
+        "把「顶配」做成「标配」，追觅掌握洗地机高端市场话语权": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101178&idx=1&sn=ac407a053772bdc7e045dba317c10c67",
+        "AWE 2026 五大观察，比 AI 和机器人更吸睛的是「它」": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101168&idx=1&sn=79f3d14ec3031a40602f435b0d9eb6b8",
+        "消息称 DeepSeek V4 和腾讯新混元模型将同时于4月发布；传 Kimi 新一轮融资估值涨至180亿美元；部分院校禁用「小龙虾」| 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653101152&idx=1&sn=8c668377549a4fff56b1669b1e4cd8ef"
+    },
+    "枇杷熟了": {
+        "枇杷熟了-全球网络安全日报2026-03-15": "https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247489977&idx=1&sn=24bf2eafc1856281231f63bf33566ccc"
+    },
+    "安全行者老霍": {
+        "我们如何黑掉麦肯锡和Jack & Jill的AI平台": "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486095&idx=1&sn=27c860abfb996ba1736385eb20b6f8d9",
+        "数字主权如何成为一项代理业务": "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486096&idx=1&sn=6d360b1729b7407bc9c19d735c0b10e5"
+    },
+    "火绒安全": {
+        "消费者权益日｜安全护消费 责任暖生活": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531430&idx=1&sn=6437d41be13a9da9e52e28a8c7ae5b76",
+        "诚邀渠道合作伙伴共启新征程": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247531430&idx=2&sn=8331d35f54b184de21513784bd8e2dbc"
+    },
+    "Over Security - Cybersecurity news aggregator": {
+        "OpenAI says ChatGPT ads are not rolling out globally for now": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/",
+        "Betterleaks, a new open-source secrets scanner to replace Gitleaks": "https://www.bleepingcomputer.com/news/security/betterleaks-a-new-open-source-secrets-scanner-to-replace-gitleaks/",
+        "Divine Skins - 105,814 breached accounts": "https://haveibeenpwned.com/Breach/DivineSkins",
+        "Baydöner - 1,266,822 breached accounts": "https://haveibeenpwned.com/Breach/Baydoner"
+    },
+    "Have I Been Pwned latest breaches": {
+        "Divine Skins - 105,814 breached accounts": "https://haveibeenpwned.com/Breach/DivineSkins",
+        "Baydöner - 1,266,822 breached accounts": "https://haveibeenpwned.com/Breach/Baydoner"
+    },
+    "netsecstudents: Subreddit for students studying Network Security and its related subjects": {
+        "I organized everything I learned about bug bounty into one structured vault": "https://www.reddit.com/r/netsecstudents/comments/1ruj9z3/i_organized_everything_i_learned_about_bug_bounty/",
+        "Looking for serious people interested in Cybersecurity / CTFs (learning community)": "https://www.reddit.com/r/netsecstudents/comments/1ruimbe/looking_for_serious_people_interested_in/",
+        "Can anyone tell me where to start?": "https://www.reddit.com/r/netsecstudents/comments/1ruleku/can_anyone_tell_me_where_to_start/",
+        "Struggling finding purpose in cybersecurity.": "https://www.reddit.com/r/netsecstudents/comments/1ru7vbb/struggling_finding_purpose_in_cybersecurity/",
+        "Se può essere d’aiuto a qualcuno :)": "https://www.reddit.com/r/netsecstudents/comments/1rufoct/se_può_essere_daiuto_a_qualcuno/",
+        "How should a beginner build a cybersecurity portfolio while studying networking ?": "https://www.reddit.com/r/netsecstudents/comments/1ru5rfa/how_should_a_beginner_build_a_cybersecurity/"
+    },
+    "Technical Information Security Content & Discussion": {
+        "The rise of malicious repositories on GitHub": "https://www.reddit.com/r/netsec/comments/1ruphzh/the_rise_of_malicious_repositories_on_github/",
+        "We audited authorization in 30 AI agent frameworks — 93% rely on unscoped API keys": "https://www.reddit.com/r/netsec/comments/1ruefpo/we_audited_authorization_in_30_ai_agent/",
+        "GlassWorm V2 analysis: Part 2. Infrastructure rotation and GitHub injection": "https://www.reddit.com/r/netsec/comments/1ruekc5/glassworm_v2_analysis_part_2_infrastructure/",
+        "Quick question for people running CrowdStrike, Zscaler, Netskope or similar in production.": "https://www.reddit.com/r/netsec/comments/1ru4cwc/quick_question_for_people_running_crowdstrike/",
+        "CVE-2024-45163: Remote DoS in Mirai C2 – research writeup + what it led me to build": "https://www.reddit.com/r/netsec/comments/1ru6xxl/cve202445163_remote_dos_in_mirai_c2_research/"
+    },
+    "Desync InfoSec": {
+        "OpenClaw 安全风险分析与网络流量检测方案": "https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489519&idx=1&sn=d9afbc30b7030a0e40965f68d67fb144"
+    },
+    "Your Open Hacker Community": {
+        "Preparing for an AI-centric CTF: What’s the learning roadmap for LLM/MCP exploitation? Body:": "https://www.reddit.com/r/HowToHack/comments/1rukb40/preparing_for_an_aicentric_ctf_whats_the_learning/",
+        "How Can I Start As A White Hat Hacker On Linux Mint?": "https://www.reddit.com/r/HowToHack/comments/1rum9f3/how_can_i_start_as_a_white_hat_hacker_on_linux/",
+        "Anyone see this on their rayhunter and what it means?": "https://www.reddit.com/r/HowToHack/comments/1ru1dws/anyone_see_this_on_their_rayhunter_and_what_it/"
+    },
+    "Social Engineering": {
+        "Resolving Cognitive Dissonance?": "https://www.reddit.com/r/SocialEngineering/comments/1rut2w5/resolving_cognitive_dissonance/"
+    },
+    "Deeplinks": {
+        "The Foilies 2026": "https://www.eff.org/deeplinks/2026/03/foilies-2026"
+    },
+    "Security Affairs": {
+        "Payload Ransomware claims the hack of Royal Bahrain Hospital": "https://securityaffairs.com/189467/cyber-crime/payload-ransomware-claims-the-hack-of-royal-bahrain-hospital.html",
+        "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 88": "https://securityaffairs.com/189459/breaking-news/security-affairs-malware-newsletter-round-88.html",
+        "Security Affairs newsletter Round 567 by Pierluigi Paganini – INTERNATIONAL EDITION": "https://securityaffairs.com/189451/breaking-news/security-affairs-newsletter-round-567-by-pierluigi-paganini-international-edition.html"
+    },
+    "Deep Web": {
+        "Try to bring agentic capabilities to any website - Experiment": "https://www.reddit.com/r/deepweb/comments/1rugkpn/try_to_bring_agentic_capabilities_to_any_website/",
+        "Who can help me with D* ??": "https://www.reddit.com/r/deepweb/comments/1ru0lml/who_can_help_me_with_d/"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【龙虾报告】伊朗导弹供应链分析": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154826&idx=1&sn=e33da38d5235e760b8485a19231b8531",
+        "【培训】开源情报分析师实战能力培训班-4月成都开班": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651154826&idx=2&sn=97c8fd08bbea428a8a7c28d4957b6cda"
+    }
+}
