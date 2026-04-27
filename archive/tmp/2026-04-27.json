@@ -1,0 +1,208 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2026-04-26 Review": "http://www.sec-wiki.com/?2026-04-26"
+    },
+    "Doonsec's feed": {
+        "如何通过漏洞组合链为工控平台CODESYS植入后门": "https://mp.weixin.qq.com/s/9N7PunFuq6yAsV40SKXloQ",
+        "今日起，DeepSeek V4成OpenClaw默认模型": "https://mp.weixin.qq.com/s/AVEVq_CeKotWyvlytBCztw",
+        "【资料】反情报分析作为一门基础且严谨的科学：传统技术手段模式的终结": "https://mp.weixin.qq.com/s/o5rRGv9yx0IzTzd8z23t5Q",
+        "【资料】被公开通缉的“台独”已达64个": "https://mp.weixin.qq.com/s/FVWvFtKcjO_3M08VfprXjg",
+        "追觅CEO俞浩怒怼小红书：一个非常非常烂的平台！": "https://mp.weixin.qq.com/s/BbMtiEbuW8o8BXpRDbJIaA",
+        "记录几个简单的edu漏洞挖掘思路": "https://mp.weixin.qq.com/s/5H6akWNhxIVosCiXm_Gw9A",
+        "全球暗网威胁情报周报（2026年4月20日 – 4月26日）大佬们请查收！": "https://mp.weixin.qq.com/s/_jum1qkAnd9MPg09UzIHsw",
+        "安全警报 | 警惕！威胁组织公开兜售知名医疗平台“妙手医生”用户数据": "https://mp.weixin.qq.com/s/J9HlSWazWR-q5tCit3bM1Q",
+        "Deepfake 2.0 时代：2026 年泛滥的身份安全威胁": "https://mp.weixin.qq.com/s/Krs2PSbe89FC0DOucW3_GQ",
+        "LinuxCheck，一款开源的应急排查工具": "https://mp.weixin.qq.com/s/DvPyJF7UQVeiCCq7V_FgpA",
+        "CSDN、知乎、公众号再也别想卡我了！code-box 一键解锁全部内容": "https://mp.weixin.qq.com/s/xFQXRUdtFTWga4CfEXIt6A",
+        "抓包之后再也不用手动分析了！Anything Analyzer 来了": "https://mp.weixin.qq.com/s/8GudCU7ofy9PKSe4nV7wRQ",
+        "2025 版上海数据出境负面清单政策理解与适用Q&amp;A（漫画版）": "https://mp.weixin.qq.com/s/LnUQ59wLohDGrat_4_T9zg",
+        "决赛排名出炉！第二届腾讯云黑客松智能渗透挑战赛收官": "https://mp.weixin.qq.com/s/lbbBiRCn9jXjBUcAEy8dAQ",
+        "体型相差一万倍": "https://mp.weixin.qq.com/s/ss7HAnvx7OXJV2z_G7QoUQ",
+        "中考前的练习题": "https://mp.weixin.qq.com/s/JRK0sxo5Px0fydq8627shQ",
+        "实战复盘  如何通过 Apache 日志还原黑客的攻击链路？": "https://mp.weixin.qq.com/s/lGvfRXZEcfkmo1gnCcLXWw",
+        "Day0｜重生之我在寺院修行": "https://mp.weixin.qq.com/s/_3Dlgw_NE3JVb3K2B1kLCA",
+        "Hermes的应用（三）：子代理二": "https://mp.weixin.qq.com/s/IQ8jacoqA6Pm3A8X1jvjPw",
+        "从 RAG 提示注入到 SSRF：AegisForge模型安全题详解": "https://mp.weixin.qq.com/s/NxLEcTmQC5z3lKAiAq6Vmw",
+        "我的主板断成了两截，还有得救吗？": "https://mp.weixin.qq.com/s/GayyPj3fJIdE-jCSSeBxVQ",
+        "iOS虚拟手机实现能力现状": "https://mp.weixin.qq.com/s/Mn4qQt3wRm4Rm2oWP5uYtA",
+        "73 个与 GlassWorm 关联的 Open VSX Sleeper 扩展程序激活了新的恶意软件活动": "https://mp.weixin.qq.com/s/Ajaac7Tj4A1mH-fpvfDHWg",
+        "实战案例:假Tiktok虚拟投资案件技术研判（OpenClaw VS TRAE解析）": "https://mp.weixin.qq.com/s/TGYNZumfVTuIdN_1F-dIzA",
+        "莱特币零日漏洞遭利用发起拒绝服务攻击，导致主要矿池瘫痪": "https://mp.weixin.qq.com/s/h5VwXQTWWdix-25c5T9UkQ",
+        "银行年报观察之AI战略评析及落地思考": "https://mp.weixin.qq.com/s/M4xsb5S_Td2XcpcFayc6TA",
+        "人保财险湖北省AI农业保险数字综合服务平台项目供应商征集": "https://mp.weixin.qq.com/s/V91XYzqwFxyarDw9IioToQ",
+        "我的安卓Windows 95主题": "https://mp.weixin.qq.com/s/WOCJQ9rENTUhF7F5MmUBJA",
+        "我爱无锡": "https://mp.weixin.qq.com/s/WFJe-wiCwpqLP21oi9GrYg",
+        "沃达丰疑似被黑": "https://mp.weixin.qq.com/s/6ad3ogcbC_AWljk9_J7iYg",
+        "知识星球|网安政策报告PPT周报": "https://mp.weixin.qq.com/s/D8l1EwcFGLF62ytMyLjpWg",
+        "含山警方抓获 3 名电诈洗钱嫌疑人，涉案超百万": "https://mp.weixin.qq.com/s/Gzv8q82OsP0v_pJO_HWzWQ",
+        "莆田检察出硬招，守护金融安全线": "https://mp.weixin.qq.com/s/_ua0NDeKS5YF880RnJ_R0g",
+        "日结 300 元的 “陷阱”，父子档倒卖数字钱包沦为电诈帮凶": "https://mp.weixin.qq.com/s/cGxMoarD_6ImCErmxR-RpA",
+        "漏洞复现 | 用友NC ServletForESBAdaptor 反序列化RCE漏洞": "https://mp.weixin.qq.com/s/76vg9O1K5kr0dynaOgEacA",
+        "黑客利用Telegram做“战报系统”，900余家企业遭React2Shell漏洞批量洗劫": "https://mp.weixin.qq.com/s/97zyDxpP1L2QMq4t2N4SxA",
+        "间接提示注入攻击正悄然蔓延至真实网络环境": "https://mp.weixin.qq.com/s/3X_tjGFTfk40X2NL6wEiNg",
+        "每周PDF资源：OpenClaw曝重大漏洞；2026高危漏洞TOP10盘点；黑客算改安卓NFC应用窃取支付数据": "https://mp.weixin.qq.com/s/51IPZ96leij4ShgvItxzFA",
+        "【安全趣文】主播陈泽团队冒充黑客被封禁！官方：危害网络安全！": "https://mp.weixin.qq.com/s/302NzhSlX2ySOezRIj_P_g",
+        "关于发布第十一届CNCERT网络安全应急服务支撑单位遴选结果的通知": "https://mp.weixin.qq.com/s/xPVej2lKWlZKStg-PzIh1A",
+        "[工具推荐]两款最新的shiro反序列化漏洞综合利用工具": "https://mp.weixin.qq.com/s/GsZn0E8bW4_PS7-Q0niQ2Q",
+        "汇聚行业力量，共筑国家网络安全屏障——第十一届CNCERT网络安全应急服务支撑单位遴选侧记": "https://mp.weixin.qq.com/s/dZ0ptR_9mWKyrwZTadAj3g",
+        "怎么说": "https://mp.weixin.qq.com/s/HsRxDHgu1zIZDJgy8UGoMw",
+        "1v1论文指导！985/211专业对口导师手把手指导至录用！SCI/SSCI/EI/中文核心/毕业论文": "https://mp.weixin.qq.com/s/bKX3G6jRp5jEE7YhTib-EQ",
+        "2026 年 SaaS 网络安全面临的 13 大威胁": "https://mp.weixin.qq.com/s/1IfXyjEwoiPlUiXO8zshBg",
+        "AI芯片争霸赛：2025年全球格局与中国突围": "https://mp.weixin.qq.com/s/uUHGGlsMh_N82RAQDJYzQQ",
+        "polarEDF个人pc题解": "https://mp.weixin.qq.com/s/60agNB9HKocOmgPdEn6e4Q",
+        "AI 芯片竞争白热化：谁将主导智能时代？": "https://mp.weixin.qq.com/s/sfAIFKUyWzP8dQmfGopE4g",
+        "Agent ID 管理员权限越界：一次针对 Entra ID 服务主体的劫持": "https://mp.weixin.qq.com/s/XgXpQW2W6F8iKqrO6XuoKQ",
+        "英国政府多层次技术预见体系的经验做法": "https://mp.weixin.qq.com/s/xc-CukiRTPVc6QPkuR_InQ",
+        "全国首例AI模型侵权案判赔160万！": "https://mp.weixin.qq.com/s/wbqsbN4dNuE37pni7cauaA",
+        "枪手冲破安检画面曝光": "https://mp.weixin.qq.com/s/3Xk7duDRyJ8Jab3FofYX0w",
+        "电子墨水屏的好处在于，它能让你在享受阳光的同时，又不损害你的眼睛": "https://mp.weixin.qq.com/s/XPXHQ1G-wEzhblxP2n7Bdw",
+        "CodeScan更新日志": "https://mp.weixin.qq.com/s/apbUORUxGFaJ14fCVB-o2Q",
+        "PolarEDF 2026春季个人挑战赛wp": "https://mp.weixin.qq.com/s/QrnXKf8UOvEx2dTrnNrQ0Q",
+        "从“蒸馏”到污名化：白宫 NSTM-4 备忘录的概念陷阱与政策误区": "https://mp.weixin.qq.com/s/CFJNxFCxBYNMDVqlDIsIqQ",
+        "体面！DeepSeek公开研发300人名单，10位核心成员坦然标注离职": "https://mp.weixin.qq.com/s/fM2bDq4yQYn_iwDlrmklmw",
+        "惊天爆料！Claude 桌面版暗藏间谍程序，隐私沦陷": "https://mp.weixin.qq.com/s/gTC6yD6RchztAUK1_meRIQ",
+        "我可以在这上面玩什么游戏？": "https://mp.weixin.qq.com/s/83Pews3aDCG0txk0dEuP9A",
+        "截图留个纪念": "https://mp.weixin.qq.com/s/SYzsIY_ZoJ6hK5hpS4HNlA",
+        "真的躺下了": "https://mp.weixin.qq.com/s/2Lay5-Ql1pEb1_zc0s-8nQ",
+        "美国众议院推动全国数据隐私立法": "https://mp.weixin.qq.com/s/Y64W4olBgKCWNYqLl_uXzg",
+        "十年守护，向光而行 | 从“扎根”到“致远”，我们的十年长征": "https://mp.weixin.qq.com/s/9YWz7R734iEMMHf45Ch2zg",
+        "网络安全考证必备：这款刷题软件完全免费！": "https://mp.weixin.qq.com/s/0jCRpDk6aPkfz6vu_2QLug",
+        "Java源码路由提取工具-html单文件": "https://mp.weixin.qq.com/s/A-5bCXy5BPtD6z21yyTcqg",
+        "【红队工具】SilentHarvest_BOF": "https://mp.weixin.qq.com/s/Yho9CNVbjN6bENTAsSpRDg",
+        "今日（2026年4月26日）热点网络安全漏洞动态": "https://mp.weixin.qq.com/s/yk3Na1rZNQq8d0ck-cs45A",
+        "春秋云境 Rivulet": "https://mp.weixin.qq.com/s/Alz-DFfAbJUQWNm1qmsNgQ",
+        "基于AI快速浏览器内核与CEF源码指纹定制": "https://mp.weixin.qq.com/s/_ssMWoZBo6YJLDRmof_nHw",
+        "从隐藏接口的 JWT 绕过到 AWS S3 任意文件覆盖": "https://mp.weixin.qq.com/s/HoSz-HQJR3O1j8ajxhLBXw",
+        "Cohere、OpenAI与破碎的沙盒困局": "https://mp.weixin.qq.com/s/mf_IvrGKWZ-ztzS2b2GlYQ",
+        "白宫记者晚宴枪击事件深度复盘": "https://mp.weixin.qq.com/s/cGCYaPqCHmxc2PW43v70hQ",
+        "赏金猎人笔记：SSRF 受限怎么办？搭上开放重定向接着打": "https://mp.weixin.qq.com/s/ofc6cYQB3oaqwi5Wwu-MWw",
+        "啊对的对的，啊不对不对": "https://mp.weixin.qq.com/s/ZWdOFeAvA01Lq7-YXvViuA",
+        "据称 ShinyHunters 内部聊天泄露": "https://mp.weixin.qq.com/s/vgypoG7BCMynVZKUkWfxyQ",
+        "蓝桥杯-Path_Slip": "https://mp.weixin.qq.com/s/7PqyxlP-_76Nk3YqNsRsjQ",
+        "网警发布：玩转NFC支付？请收好这份网络安全防护攻略~": "https://mp.weixin.qq.com/s/UFnXOQpsVwOfyEo5dybWFA",
+        "跨租户仿冒客服入侵全流程曝光：从钓鱼到数据外泄，黑客完整剧本公开": "https://mp.weixin.qq.com/s/yCqRS22XoAhbKBbR2GAktQ",
+        "老实说，2026年买MacBook M5值得吗？": "https://mp.weixin.qq.com/s/dG_aKIDJW7pzAbUCCNMIFg",
+        "6 分钟充满，跑 1500 公里！宁德时代的 “神行”，正在郑州寻找最佳搭档": "https://mp.weixin.qq.com/s/M6oUhEPr3_gVn9OhFoK99w",
+        "为什么三层交换机无法替代路由器?": "https://mp.weixin.qq.com/s/utd1bMjbo6E7p_-JNIgcrQ",
+        "孚盟云 AjaxProductTemplateList.ashx SQL注入漏洞": "https://mp.weixin.qq.com/s/OcI0Mu9VQqVIa8ucaWH_eQ"
+    },
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "Insecure Permissions vulnerability in Nagios Network Analyzer v.2024R1.02-64 and before allows a local attacker to escalate pri": "https://cxsecurity.com/issue/WLB-2026040019",
+        "Samsung ONE Integer Overflow in CircleConst Tensor Size Calculation": "https://cxsecurity.com/issue/WLB-2026040018",
+        "solaredge-CSRF-OOB-Injection": "https://cxsecurity.com/issue/WLB-2026040017"
+    },
+    "博客": {
+        "ZHITAI Ti600 4T nvme0n1 critical medium error, dev nvme0n1 Media and Data Integrity Errors": "https://dyrnq.com/zhitai-ti600-4t-nvme0n1-critical-medium-error-dev-nvme0n1-media-and-data-integrity-errors/"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sun Apr 26 11:18:36 UTC 2026": "https://github.com/trickest/cve/commit/b2b7be74780fb8a8e3ccfb1f8a47689f065fd5da"
+    },
+    "InfoSec Write-ups - Medium": {
+        "SSH vs SSL/TLS — Lessons I Learned While Studying Cybersecurity and Solving Labs": "https://infosecwriteups.com/ssh-vs-ssl-tls-lessons-i-learned-while-studying-cybersecurity-and-solving-labs-026ba83941b1?source=rss----7b722bfd1b8d---4",
+        "Why Phishing Still Works (Even If You Know About It)": "https://infosecwriteups.com/why-phishing-still-works-even-if-you-know-about-it-74a0b4c2b8f5?source=rss----7b722bfd1b8d---4",
+        "How to Learn Web & API Hacking in 2026: The Complete Roadmap": "https://infosecwriteups.com/how-to-learn-web-api-hacking-in-2026-the-complete-roadmap-4225510adf4d?source=rss----7b722bfd1b8d---4",
+        "Your Email Inbox is Lying to You (And How to Catch It Red-Handed)": "https://infosecwriteups.com/your-email-inbox-is-lying-to-you-and-how-to-catch-it-red-handed-7d42fbc62711?source=rss----7b722bfd1b8d---4",
+        "Everything You Need to Know About the DPDPA Act": "https://infosecwriteups.com/everything-you-need-to-know-about-the-dpdpa-act-758eaf91ffb7?source=rss----7b722bfd1b8d---4",
+        "Malware Analysis: payloadfinal.bin (Agent Tesla)": "https://infosecwriteups.com/malware-analysis-payloadfinal-bin-agent-tesla-c38cb9bc8c88?source=rss----7b722bfd1b8d---4",
+        "Flag Mastery: The Flags That Run Every Engagement": "https://infosecwriteups.com/flag-mastery-the-flags-that-run-every-engagement-5468d7a2b6ce?source=rss----7b722bfd1b8d---4",
+        "Ehxb | Password Spraying Attacks on AD": "https://infosecwriteups.com/ehxb-password-spraying-attacks-on-ad-46607fc4781b?source=rss----7b722bfd1b8d---4"
+    },
+    "ongoing by Tim Bray": {
+        "Corey’s Captives": "https://www.tbray.org/ongoing/When/202x/2026/04/26/Coreys-Captives"
+    },
+    "Bug Bounty in InfoSec Write-ups on Medium": {
+        "How to Learn Web & API Hacking in 2026: The Complete Roadmap": "https://infosecwriteups.com/how-to-learn-web-api-hacking-in-2026-the-complete-roadmap-4225510adf4d?source=rss----7b722bfd1b8d--bug_bounty",
+        "How A Simple Bug That Refused to Die, Paid Twice.": "https://infosecwriteups.com/how-a-simple-bug-that-refused-to-die-paid-twice-80752e4d5ec5?source=rss----7b722bfd1b8d--bug_bounty"
+    },
+    "Reverse Engineering": {
+        "Angry Birds Reverse engineering": "https://www.reddit.com/r/ReverseEngineering/comments/1swdg9d/angry_birds_reverse_engineering/",
+        "Importing GTA IV texture dictionary natively in Unreal": "https://www.reddit.com/r/ReverseEngineering/comments/1svvfrk/importing_gta_iv_texture_dictionary_natively_in/"
+    },
+    "Checkmarx": {
+        "Checkmarx Security Update: April 26": "https://checkmarx.com/blog/checkmarx-security-update-april-26/"
+    },
+    "黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台": {
+        "OpenAI CEO向塔姆伯勒里奇社区道歉": "https://blog.upx8.com/OpenAI-CEO%E5%90%91%E5%A1%94%E5%A7%86%E4%BC%AF%E5%8B%92%E9%87%8C%E5%A5%87%E7%A4%BE%E5%8C%BA%E9%81%93%E6%AD%89",
+        "中国火星探测器计划2031年前后带回火星样品": "https://blog.upx8.com/%E4%B8%AD%E5%9B%BD%E7%81%AB%E6%98%9F%E6%8E%A2%E6%B5%8B%E5%99%A8%E8%AE%A1%E5%88%922031%E5%B9%B4%E5%89%8D%E5%90%8E%E5%B8%A6%E5%9B%9E%E7%81%AB%E6%98%9F%E6%A0%B7%E5%93%81",
+        "何小鹏：希望把飞行汽车卖到全球更多国家": "https://blog.upx8.com/%E4%BD%95%E5%B0%8F%E9%B9%8F-%E5%B8%8C%E6%9C%9B%E6%8A%8A%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E5%8D%96%E5%88%B0%E5%85%A8%E7%90%83%E6%9B%B4%E5%A4%9A%E5%9B%BD%E5%AE%B6",
+        "马自达将结束“马自达2”日本国内生产与销售": "https://blog.upx8.com/%E9%A9%AC%E8%87%AA%E8%BE%BE%E5%B0%86%E7%BB%93%E6%9D%9F-%E9%A9%AC%E8%87%AA%E8%BE%BE2-%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%86%85%E7%94%9F%E4%BA%A7%E4%B8%8E%E9%94%80%E5%94%AE"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "Peter Thiel 移居阿根廷": "https://www.solidot.org/story?sid=84153",
+        "特朗普解雇了美国国家科学委员会所有 24 名成员": "https://www.solidot.org/story?sid=84152",
+        "AI 是一种压迫性技术": "https://www.solidot.org/story?sid=84151"
+    },
+    "黑鸟": {
+        "如何通过漏洞组合链为工控平台CODESYS植入后门": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186537&idx=1&sn=3ccf3691425dab440a91a09009211e4a"
+    },
+    "中国信息安全": {
+        "视频｜第三届“长城杯”网数智安全大赛（防护赛）决赛即将启幕": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261897&idx=1&sn=760a58de462d9837ef7c904c1af60d94",
+        "倒计时2天 | 第三届“长城杯”网数智安全大赛（防护赛）决赛": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664261897&idx=2&sn=76eb6a72a4e09e7815f5834e41afd2aa"
+    },
+    "情报小蜜蜂": {
+        "北极在\"哭泣\"，中国在\"听\"——冰川消融背后的中国北极机遇": "https://mp.weixin.qq.com/s?__biz=MzU0NjY5ODQ3Mw==&mid=2247486040&idx=1&sn=4ecb495a8d0c9fc2b7f55197235e1f6a"
+    },
+    "安全圈": {
+        "【安全圈】89TB数据灰飞烟灭！北京一科技公司工程师“删库”获刑5年": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076007&idx=1&sn=6a6eff1e09bd7d67b20d20ee06a2fd39",
+        "【安全圈】男子利用公安内部系统卖个人信息 非法获利被判刑": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076007&idx=2&sn=09ae1d9ef07438cdb39cedb748421211",
+        "【安全圈】装机必备的GPU-Z出事了！曝出严重安全漏洞：黑客可获取系统最高权限": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652076007&idx=3&sn=7b7cd810015615c15d6232964cb06d5f"
+    },
+    "奇安信 CERT": {
+        "今日（2026年4月26日）热点网络安全漏洞动态": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247505416&idx=1&sn=636e54844098a4c16540cd568eab6150"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【资料】反情报分析作为一门基础且严谨的科学：传统技术手段模式的终结": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155291&idx=1&sn=371eae6dfdf9e3ca7443463fbde41483",
+        "【资料】被公开通缉的“台独”已达64个": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651155291&idx=2&sn=eae5a5e92febea7c6b616209410e2809"
+    },
+    "极客公园": {
+        "DeepSeek-V4-Pro 开启 API 限时 2.5 折优惠；苹果地图植入广告；座头鲸数量恢复，形成大规模超群 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653104794&idx=1&sn=bc0404aa625fdd55a9c801cb86950337"
+    },
+    "dotNet安全矩阵": {
+        "通过反射深入理解 .NET 运行时动态操作类型": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500970&idx=1&sn=82a630d9cb0ada0d65913ca57281864f",
+        "一文读懂 .NET 中的全局 Global.asax 文件": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500970&idx=2&sn=31c31e31631b3303dacded887c26c0bb"
+    },
+    "软件安全与逆向分析": {
+        "iOS虚拟手机实现能力现状": "https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485134&idx=1&sn=9577361b5573c62a0b05424afff04237"
+    },
+    "国家互联网应急中心CNCERT": {
+        "关于发布第十一届CNCERT网络安全应急服务支撑单位遴选结果的通知": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501522&idx=1&sn=70d2df6473e2240f8faf59b6fd533659",
+        "汇聚行业力量，共筑国家网络安全屏障——第十一届CNCERT网络安全应急服务支撑单位遴选侧记": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247501521&idx=1&sn=7aabdf1e0de37624953596f90402f353"
+    },
+    "安全行者老霍": {
+        "多操作系统网络攻击：安全运营中心三步关闭严重风险": "https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486539&idx=1&sn=35f82e85288ad695dce3c1a8a9adfe8a"
+    },
+    "Luca Mercatanti": {
+        "Malware nascosto in un finto JPG: analisi forense di un attacco moderno": "https://luca-mercatanti.com/malware-nascosto-in-un-finto-jpg-analisi-forense-di-un-attacco-moderno/?utm_source=rss&utm_medium=rss&utm_campaign=malware-nascosto-in-un-finto-jpg-analisi-forense-di-un-attacco-moderno"
+    },
+    "Have I Been Pwned latest breaches": {
+        "Udemy - 1,401,259 breached accounts": "https://haveibeenpwned.com/Breach/Udemy"
+    },
+    "Security Affairs": {
+        "Critical bug in CrowdStrike LogScale let attackers access files": "https://securityaffairs.com/191343/hacking/critical-bug-in-crowdstrike-logscale-let-attackers-access-files.html",
+        "GopherWhisper: new China-linked APT targets Mongolia with Go-based malware": "https://securityaffairs.com/191318/apt/gopherwhisper-new-china-linked-apt-targets-mongolia-with-go-based-malware.html",
+        "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 94": "https://securityaffairs.com/191312/malware/security-affairs-malware-newsletter-round-94.html",
+        "Trigona ransomware adopts custom tool to steal data and evade detection": "https://securityaffairs.com/191294/cyber-crime/trigona-ransomware-adopts-custom-tool-to-steal-data-and-evade-detection.html",
+        "Security Affairs newsletter Round 574 by Pierluigi Paganini – INTERNATIONAL EDITION": "https://securityaffairs.com/191305/breaking-news/security-affairs-newsletter-round-574-by-pierluigi-paganini-international-edition.html"
+    },
+    "Blackhat Library: Hacking techniques and research": {
+        "SOC analysts — how bad is alert fatigue actually?": "https://www.reddit.com/r/blackhat/comments/1swcykl/soc_analysts_how_bad_is_alert_fatigue_actually/"
+    },
+    "Information Security": {
+        "GopherWhisper: China's New APT Hides 7 Backdoors Inside Slack, Discord and Outlook": "https://www.reddit.com/r/Information_Security/comments/1swadxu/gopherwhisper_chinas_new_apt_hides_7_backdoors/",
+        "Anyone actually keeping track of all their SaaS integrations": "https://www.reddit.com/r/Information_Security/comments/1sw0pcl/anyone_actually_keeping_track_of_all_their_saas/"
+    },
+    "netsecstudents: Subreddit for students studying Network Security and its related subjects": {
+        "Breaking into SOC Tier 1 — does LinkedIn networking actually work or just annoy people?": "https://www.reddit.com/r/netsecstudents/comments/1swh898/breaking_into_soc_tier_1_does_linkedin_networking/",
+        "Roast my CV — 2nd year Cybersecurity student, am I actually good enough for a Gulf internship or am I cooked?": "https://www.reddit.com/r/netsecstudents/comments/1swdyv3/roast_my_cv_2nd_year_cybersecurity_student_am_i/"
+    },
+    "IT Service Management News": {
+        "Bozze standard ETSI per CRA": "http://blog.cesaregallotti.it/2026/04/bozze-standard-etsi-per-cra.html"
+    },
+    "Your Open Hacker Community": {
+        "Why are SQL, HTML, and JS prone to injection while C, C++, Java, and Python aren't ?": "https://www.reddit.com/r/HowToHack/comments/1swmwap/why_are_sql_html_and_js_prone_to_injection_while/",
+        "Will reverse engineering games help me grow?": "https://www.reddit.com/r/HowToHack/comments/1sw4fet/will_reverse_engineering_games_help_me_grow/",
+        "transition from developer to hacking need help!": "https://www.reddit.com/r/HowToHack/comments/1swe1af/transition_from_developer_to_hacking_need_help/",
+        "Avoiding being detected by AI detctors": "https://www.reddit.com/r/HowToHack/comments/1sweqk4/avoiding_being_detected_by_ai_detctors/",
+        "Can Someone Show Me Step By Step To Hack": "https://www.reddit.com/r/HowToHack/comments/1svu10y/can_someone_show_me_step_by_step_to_hack/"
+    }
+}
