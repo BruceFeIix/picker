@@ -1,0 +1,108 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2026-06-07 Review": "http://www.sec-wiki.com/?2026-06-07"
+    },
+    "InfoSec Write-ups - Medium": {
+        "The Most Dangerous Security Bug Is the One That Feels Like a Feature": "https://infosecwriteups.com/the-most-dangerous-security-bug-is-the-one-that-feels-like-a-feature-6339d438b3a5?source=rss----7b722bfd1b8d---4",
+        "The 5 Skills Every Cybersecurity Engineer Needs in 2026 (That Universities Still Aren’t Teaching)": "https://infosecwriteups.com/the-5-skills-every-cybersecurity-engineer-needs-in-2026-that-universities-still-arent-teaching-b069a55c74ff?source=rss----7b722bfd1b8d---4",
+        "Update: The Ending of My $500 Loss and Web Cache Poisoning Story.": "https://infosecwriteups.com/update-the-ending-of-my-500-loss-and-web-cache-poisoning-story-153603be845a?source=rss----7b722bfd1b8d---4"
+    },
+    "MaskRay": {
+        "Recent LLVM hash table improvements": "https://maskray.me/blog/2026-06-07-recent-llvm-hash-table-improvements"
+    },
+    "128 nops": {
+        "Coverage bitmap": "https://carstein.github.io/rust/2026/06/07/coverage-bitmap.html"
+    },
+    "Bug Bounty in InfoSec Write-ups on Medium": {
+        "Update: The Ending of My $500 Loss and Web Cache Poisoning Story.": "https://infosecwriteups.com/update-the-ending-of-my-500-loss-and-web-cache-poisoning-story-153603be845a?source=rss----7b722bfd1b8d--bug_bounty",
+        "How I Hijacked a CTF Platform with Four Lines of Burp Suite Rules": "https://infosecwriteups.com/i-became-admin-on-a-ctf-platform-c26cb49546a5?source=rss----7b722bfd1b8d--bug_bounty"
+    },
+    "Hexacorn": {
+        "little secret of msconfig.exe": "https://www.hexacorn.com/blog/2026/06/07/little-secret-of-msconfig-exe/"
+    },
+    "Reverse Engineering": {
+        "HDD Firmware Hacking Part 1": "https://www.reddit.com/r/ReverseEngineering/comments/1tzmzs0/hdd_firmware_hacking_part_1/",
+        "Reverse Engineering the Garmin Running Dynamics BLE protocol": "https://www.reddit.com/r/ReverseEngineering/comments/1tz96x2/reverse_engineering_the_garmin_running_dynamics/",
+        "Independent Post-Quantum KEM and Digital Signature Suite in C++ (NSLD Reduction": "https://www.reddit.com/r/ReverseEngineering/comments/1tzjcma/independent_postquantum_kem_and_digital_signature/",
+        "Zhiyun Weebil-S Camera Gimbal BLE Protocol": "https://www.reddit.com/r/ReverseEngineering/comments/1tzd1zt/zhiyun_weebils_camera_gimbal_ble_protocol/"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "美国政府考虑在 AI 公司持有股份": "https://www.solidot.org/story?sid=84509",
+        "印度人口可能会更早开始下降": "https://www.solidot.org/story?sid=84508",
+        "加州伯克利的 CS 课程不及格率上升": "https://www.solidot.org/story?sid=84507"
+    },
+    "黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台": {
+        "窃贼直接搭Waymo逃逸半年仍未落网": "https://blog.upx8.com/%E7%AA%83%E8%B4%BC%E7%9B%B4%E6%8E%A5%E6%90%ADWaymo%E9%80%83%E9%80%B8%E5%8D%8A%E5%B9%B4%E4%BB%8D%E6%9C%AA%E8%90%BD%E7%BD%91",
+        "OpenAI酝酿推出ChatGPT问世以来最大幅度改版": "https://blog.upx8.com/OpenAI%E9%85%9D%E9%85%BF%E6%8E%A8%E5%87%BAChatGPT%E9%97%AE%E4%B8%96%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%B9%85%E5%BA%A6%E6%94%B9%E7%89%88"
+    },
+    "青衣十三楼飞花堂": {
+        "西城初一下学期的一道“新定义”": "https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247489591&idx=1&sn=d76b33a7168150e0d4e089be042056e3"
+    },
+    "我的安全视界观": {
+        "【AI复盘】AI编程代理提示词注入攻击": "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487554&idx=1&sn=f6bed4e22802f937ce32b1be952a0414"
+    },
+    "安全研究GoSSIP": {
+        "欢迎申请 G.O.S.S.I.P 2026 暑期实习": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247501773&idx=1&sn=c59c159e3ffafdc908322f52b8a77020"
+    },
+    "非尝咸鱼贩": {
+        "iOS 26.4 如何限制系统进程使用 JavaScriptCore": "https://mp.weixin.qq.com/s?__biz=Mzk0NDE3MTkzNQ==&mid=2247486053&idx=1&sn=94d02df5700c83173e6edd4fb665b40d"
+    },
+    "安全圈": {
+        "【安全圈】谷歌 Gemini 语音助理曝漏洞，黑客利用通知信息为 AI “下毒”": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077286&idx=1&sn=aab9a53a638861367f5b5bec17bc689a",
+        "【安全圈】安全公司警告有黑客在 GitHub 利用自动安装脚本发起供应链投毒": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077286&idx=2&sn=5279720d0f6c665e551545455954567e",
+        "【安全圈】AI Agent 发现 FFmpeg 21 个 0Day 漏洞；Chrome 创纪录修复 429 处缺陷": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077286&idx=3&sn=b58b232de63d38cb40d22f5c07af49d6"
+    },
+    "数世咨询": {
+        "最新议程 | 第六届数字安全大会诚邀参加": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543149&idx=1&sn=7dbf4df77d566f856158bafbb7827db2"
+    },
+    "极客公园": {
+        "「重返 Web2.0」！扎克伯格重做了一个「百度贴吧」，Why？": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653108284&idx=1&sn=79875618c5c740ec73f380b38b03d073",
+        "万亿美元 AI 公司，面试时禁止使用 AI": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653108308&idx=1&sn=3b76dff039b08e8ec5aa4d0b040bcb98",
+        "车规存储芯片暴涨 180%，车企被迫涨价；不说「谢谢」，AI 能耗降 25%；人类首次观测「黑洞呼吸」 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653108307&idx=1&sn=758b69ad86eb14ded8c0d1a7646a00d6"
+    },
+    "dotNet安全矩阵": {
+        "依托可信计算重构基础设施安全建设": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500999&idx=1&sn=9e7a979e1c6677a45428321a874d3040",
+        "一文解析 .NET 程序集和动态链接库二者间的差异性": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247500999&idx=2&sn=31e863966d53af5e01bc6f184e7f5b4b"
+    },
+    "Over Security": {
+        "Hands on with Intelligent Terminal, an AI-powered Windows Terminal": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
+        "Silent Ransom Group targets law firms with fake IT support calls": "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/",
+        "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware": "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/",
+        "Baker Distributing - 102,935 breached accounts": "https://haveibeenpwned.com/Breach/BakerDistributing"
+    },
+    "Have I Been Pwned latest breaches": {
+        "Baker Distributing - 102,935 breached accounts": "https://haveibeenpwned.com/Breach/BakerDistributing"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【AI报告】日本弹药库建设研究报告": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156205&idx=1&sn=7dfbd72ac3b179f2d167263eaaf67243"
+    },
+    "Computer Forensics": {
+        "Crow-Eye Release v0.11.0 — Eye AI Compliance & Correlation Engine Upgrade": "https://www.reddit.com/r/computerforensics/comments/1tzlfbf/croweye_release_v0110_eye_ai_compliance/"
+    },
+    "Technical Information Security Content & Discussion": {
+        "EDRChoker: Choking The Telemetry Stream to Bypass Defenses": "https://www.reddit.com/r/netsec/comments/1tz81jo/edrchoker_choking_the_telemetry_stream_to_bypass/",
+        "CVE-2026-46640: Developing payloads for Twig sandbox bypass": "https://www.reddit.com/r/netsec/comments/1tywxh9/cve202646640_developing_payloads_for_twig_sandbox/"
+    },
+    "Information Security": {
+        "Small Application Access Control": "https://www.reddit.com/r/Information_Security/comments/1tzp7af/small_application_access_control/",
+        "Vulnerability and Security": "https://www.reddit.com/r/Information_Security/comments/1tzp0m8/vulnerability_and_security/",
+        "Why Firewalls Still Matter More Than Ever": "https://www.reddit.com/r/Information_Security/comments/1tzl428/why_firewalls_still_matter_more_than_ever/",
+        "Computer vision feels underutilized in physical-world authentication — anyone working in this space?": "https://www.reddit.com/r/Information_Security/comments/1tzl008/computer_vision_feels_underutilized_in/"
+    },
+    "netsecstudents: Subreddit for students studying Network Security and its related subjects": {
+        "Am I overthinking the x86 compatibility issues? how much friction am I actually facing?": "https://www.reddit.com/r/netsecstudents/comments/1tze63f/am_i_overthinking_the_x86_compatibility_issues/",
+        "Learn AI Security Through Hands-On Attack Labs": "https://www.reddit.com/r/netsecstudents/comments/1tz9ptk/learn_ai_security_through_handson_attack_labs/"
+    },
+    "Deep Web": {
+        "VerifTools down again? Cloudflare 1033 this time": "https://www.reddit.com/r/deepweb/comments/1tzlwlb/veriftools_down_again_cloudflare_1033_this_time/",
+        "Contacts list from email account": "https://www.reddit.com/r/deepweb/comments/1tzmar5/contacts_list_from_email_account/"
+    },
+    "Security Affairs": {
+        "DentaQuest Breach: ShinyHunters Publish Data Impacting 2.6M People": "https://securityaffairs.com/193274/data-breach/dentaquest-breach-shinyhunters-publish-data-impacting-2-6m-people.html",
+        "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND  100": "https://securityaffairs.com/193268/malware/security-affairs-malware-newsletter-round-100.html",
+        "Security Affairs newsletter Round 580 by Pierluigi Paganini – INTERNATIONAL EDITION": "https://securityaffairs.com/193260/breaking-news/security-affairs-newsletter-round-580-by-pierluigi-paganini-international-edition.html"
+    },
+    "Your Open Hacker Community": {
+        "How do people get rare Instagram names/inactive accounts?": "https://www.reddit.com/r/HowToHack/comments/1tz0njy/how_do_people_get_rare_instagram_namesinactive/"
+    }
+}
