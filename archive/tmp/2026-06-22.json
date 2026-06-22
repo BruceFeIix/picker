@@ -1,0 +1,139 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2026-06-21 Review": "http://www.sec-wiki.com/?2026-06-21"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sun Jun 21 11:54:59 UTC 2026": "https://github.com/trickest/cve/commit/31eade4ca90872034a506e7a82fe737690d41cae"
+    },
+    "Doonsec's feed": {
+        "人工智能代理开发中的新常识": "https://mp.weixin.qq.com/s/wikLYTzKqWMbn9Qrm8HwPA",
+        "各大 SRC 白帽子月榜分析功能上线": "https://mp.weixin.qq.com/s/v6FS6KiB8-YIX-dQ93t-qw",
+        "原创-酷帥王子心得心法": "https://mp.weixin.qq.com/s/bri2WWU0ez-suUKjesr9qw",
+        "IDA 9.4 Beta：逆向工程王者的「全栈进化」，从Apple生态到高通DSP一网打尽": "https://mp.weixin.qq.com/s/avMolYwF2LmhcHPRJHFTtA",
+        "别一条条看了！我把Burp流量全喂给AI，自动标出越权漏洞": "https://mp.weixin.qq.com/s/18n9iv7uMZ40-WkW63-SnA",
+        "[EDU]因一个接口的开放导致平台接管": "https://mp.weixin.qq.com/s/0zEHtcunYN4Vi7vzMBdWPg",
+        "gemma-4-12B-agentic-fable5-composer2.5 V2 已发布": "https://mp.weixin.qq.com/s/uKCvKujIGLDqgQp-4tP5BQ",
+        "usbliter8：苹果 A12/A13 BootROM 硬件漏洞的完整利用路径": "https://mp.weixin.qq.com/s/FgJfXm5qaBIkTtycQ2qBUw",
+        "欧盟《网络安全法》修订（CSA2）对中国企业的影响": "https://mp.weixin.qq.com/s/cc8bLjBT24PRRFraY8ECIQ",
+        "真相来了|广西玉林AI生成虚假警察视频引流发布者被处罚": "https://mp.weixin.qq.com/s/gKh801Mhd1lbn4fJlMtK5A",
+        "那些牛人的高考志愿！Deepseek梁文锋：当年高考状元弃清华择浙大，如今领跑国产AI": "https://mp.weixin.qq.com/s/RNf6bHn-D7dfhPi0C9jw-g",
+        "网络安全等级保护2.0主要标准介绍": "https://mp.weixin.qq.com/s/HYX39dn6GBOM0Oiuu2j1wg",
+        "usermodehookhelper现已支持主驱动在开启签名校验的情况下加载": "https://mp.weixin.qq.com/s/XvYJypd6VM26-7lPU8TEXg",
+        "某2026最新去水印小程序文件上传漏洞组合拳": "https://mp.weixin.qq.com/s/NvJ2CrtzY178xBil_FEyZA",
+        "明天结束，再发一下吧": "https://mp.weixin.qq.com/s/VmlvqIZomOpbOgGcOBjQAw",
+        "【资料】2026年美国系列战略文件": "https://mp.weixin.qq.com/s/ITt-KXxXvS_KLNloiAXncQ",
+        "这些内存条都是来自一台戴尔PowerEdge R900服务器，每根内存条是4GB，每张卡有8根内存条，总共4张卡，只是有点太老了": "https://mp.weixin.qq.com/s/Eyets2aOYRClrfqyG5DMOg",
+        "CVE-2026-48907｜Joomla JCE编辑器扩展未授权远程代码执行漏洞（POC）": "https://mp.weixin.qq.com/s/k8XNVtK4eAqIGCMe_FtkLg",
+        "CVE-2026-20253｜Splunk Enterprise PostgreSQL Sidecar未授权远程代码执行漏洞（POC）": "https://mp.weixin.qq.com/s/MqklPO57H1Ff302leFQWSg",
+        "Hugging Face vs ModelScope：两大开源模型平台深度对比与高效下载指南": "https://mp.weixin.qq.com/s/mY60NHN1OI2hQWpdvs1Muw",
+        "小米开源！Miloco 2.0国产全屋智能 AI Agent方案，原生接入 OpenClaw，化身你的眼睛、耳朵、记忆，搞定复合型居家任务": "https://mp.weixin.qq.com/s/ctHMoNZs1k_56RUR6JUYXA",
+        "go-buena-clr加载.NET工具的实验记录：CLR托管机制与AMSI检测盲区": "https://mp.weixin.qq.com/s/aISTS365sNiSMGewWLzBSA",
+        "华瑞银行构建“一基两翼三维四效五力”AI规划，已落地36个AI场景": "https://mp.weixin.qq.com/s/gJEXkCE1r6TTVfOjrmc1_g",
+        "【安全圈】西安公安 19 小时打掉世界杯网络赌局": "https://mp.weixin.qq.com/s/Fk2NIqoz5mAhM_T4X0UWHg",
+        "【安全圈】初级黑客在其 C2 下线后使用 Tailscale 和 OpenSSH 保持访问": "https://mp.weixin.qq.com/s/oKEmicTvF5a8stxb8Xq2lQ",
+        "【安全圈】FortiBleed 泄露事件暴露 73,000 台设备的 Fortinet VPN 凭证": "https://mp.weixin.qq.com/s/XLh2AZ4o8U4-Th4AfK0zig",
+        "工具推荐 | 网站篡改、暗链、死链监测工具": "https://mp.weixin.qq.com/s/zK4kS4CH1wI38orgYg16sA",
+        "重生之我在美团做网安大神！": "https://mp.weixin.qq.com/s/OjnEy_56_c15ub4T1wgOQw",
+        "账户2FA 重置机制导致账户接管": "https://mp.weixin.qq.com/s/71OwfmGuNpjA5Q5DtA0Liw",
+        "雷军的回应来了！被过路小女孩吐槽“吃早饭还要这么多人拍照”": "https://mp.weixin.qq.com/s/59mpRHpgua4rwtvojXkZGg",
+        "2026年度湖北省科学技术奖网评通过项目清单（网络空间安全领域）": "https://mp.weixin.qq.com/s/PrS9Lrzd4BeIUuwoilk8qw",
+        "分享图片": "https://mp.weixin.qq.com/s/BU8X30gYS21VYjA4PPr8WQ",
+        "全球流行勒索病毒家族加解密算法详解": "https://mp.weixin.qq.com/s/iL2BhMn6HQwHJScWj12mNw",
+        "GentleKiller 深度解析：The Gentlemen 团伙的 EDR 杀手工具": "https://mp.weixin.qq.com/s/D7isrUhBt_Pvwkgp7YA5yw",
+        "任天堂美国员工数据遭泄露，第三方HR平台被勒索组织攻破": "https://mp.weixin.qq.com/s/NQnCMaeFiBVCXQbJ7waKhQ",
+        "每周PDF资源：Yakit与Claude全链路AI渗透；潜伏三年的云秘钥收割机": "https://mp.weixin.qq.com/s/UHbj8Erl-4dzmKjKoVATXQ",
+        "MBSE——基于模型的系统工程": "https://mp.weixin.qq.com/s/EQIuNE4SfOGny21JckERxA",
+        "Mythos几个小时入侵了NSA几乎所有机密系统": "https://mp.weixin.qq.com/s/5p6sZLb6Nd_DCGQJUYsBxA",
+        "SecEBL: 基于意图识别的入侵检测": "https://mp.weixin.qq.com/s/qJ4l6FVxfwCd13xW38h4xg",
+        "记一次edu攻防演练又拿下top2(湘安无事ai辅助版)": "https://mp.weixin.qq.com/s/pupfhqB0rOMqDRQHDQtJ_Q",
+        "什么是端口安全？": "https://mp.weixin.qq.com/s/Wvw_JVQXntVD3lBrRjoaHQ",
+        "做网安，至少要达到这种强度...": "https://mp.weixin.qq.com/s/eSXqKhmB8WeIUOMpmfuEtw",
+        "数据跨域安全流通：国外典型模式与案例": "https://mp.weixin.qq.com/s/SpyavU2YaTeVpgc91tCtdg",
+        "ctfplus-逆向每周练习-easyApp、rand_py、BabyJar、ez_pyyy、Minesweeper": "https://mp.weixin.qq.com/s/UHvCBEzAM0jcMX5dCHW4bA",
+        "中资网安携三款产品亮相科技创新成果展": "https://mp.weixin.qq.com/s/uVblNu17mnWedJGS4rhArA",
+        "32页幻灯片图解《银行业保险业人工智能安全开发应用的指导意见》": "https://mp.weixin.qq.com/s/uRtXNT5jMuleGhSZD60MVw",
+        "Claude Code 定制化的几个快速建议": "https://mp.weixin.qq.com/s/wPLaPX_QU01aDEXFeDfZ5g",
+        "倒计时3天，ISC.AI 2026即将开幕！": "https://mp.weixin.qq.com/s/R_uSyHu2-VQ8z0Fd7m8npQ",
+        "ISC.AI 2026 AI安全运营：安全智能体与智能体安全变奏交响论坛 议程提前看": "https://mp.weixin.qq.com/s/j12liKcUUAXhUlHmf9SjdA",
+        "ISC.AI 2026 AINative安全智能体-迈向智能体驱动的安全时代论坛 议程抢先看": "https://mp.weixin.qq.com/s/5yAtVgKhFlNPOZb_k2VWXg",
+        "读Notion创始人的《蒸汽、钢铁与无限心智》一文有感": "https://mp.weixin.qq.com/s/DoBmfdA65nhXMTQS9IWUrw",
+        "首次太空全景测绘:GPS干扰的真实规模远超预期": "https://mp.weixin.qq.com/s/H1xvnrGvlakU4bUzGxFaZg",
+        "日本踢得真好，观赏性和攻击力兼备，让我仿佛看到了08年欧洲杯上横空出世的西班牙:频繁的小范围传递、丢失球权以后第一时间就地反抢、强": "https://mp.weixin.qq.com/s/DOWVY_z138C9uPC0seKymA"
+    },
+    "Hacking Articles": {
+        "AI-Powered Active Directory Pentesting with Claude, HexStrike AI & NetExec": "https://www.hackingarticles.in/ai-powered-active-directory-pentesting-with-claude-hexstrike-ai-netexec/"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "芬兰图书馆提供缝纫机借用服务": "https://www.solidot.org/story?sid=84636",
+        "Google reCAPTCHA 系统引入手势验证": "https://www.solidot.org/story?sid=84635",
+        "疑似黑客劫持短信预警系统在巴西各地发送警报短信": "https://www.solidot.org/story?sid=84634",
+        "德国 2025 年人口出现下降": "https://www.solidot.org/story?sid=84633",
+        "俄罗斯导弹预警卫星 COSMOS 2546 被指干扰欧洲 GPS": "https://www.solidot.org/story?sid=84632"
+    },
+    "锦行科技": {
+        "父亲节・承爱｜无言相伴，厚爱绵长": "https://mp.weixin.qq.com/s?__biz=MzIxNTQxMjQyNg==&mid=2247494929&idx=1&sn=b5999f9f200b5443707351e9a817bb3c"
+    },
+    "黑鸟": {
+        "usbliter8：苹果 A12/A13 BootROM 硬件漏洞的完整利用路径": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451187115&idx=1&sn=7f5c9068ae5957b1cd79e9ece8c47195"
+    },
+    "安全分析与研究": {
+        "全球流行勒索病毒家族加解密算法详解": "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496838&idx=1&sn=f93f9c99bdd4b45776a685cfe6f57d94"
+    },
+    "灾难控制 局": {
+        "SecEBL: 基于意图识别的入侵检测": "https://mp.weixin.qq.com/s?__biz=MzI1NTc1NTcwNg==&mid=2247484510&idx=1&sn=8c685aa656a7dd4608ac26ef7da675db"
+    },
+    "黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台": {
+        "美国得州超300万人驾照、护照信息遭泄露": "https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E5%BE%97%E5%B7%9E%E8%B6%85300%E4%B8%87%E4%BA%BA%E9%A9%BE%E7%85%A7-%E6%8A%A4%E7%85%A7%E4%BF%A1%E6%81%AF%E9%81%AD%E6%B3%84%E9%9C%B2"
+    },
+    "安全学术圈": {
+        "2026年度湖北省科学技术奖网评通过项目清单（网络空间安全领域）": "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247495522&idx=1&sn=f56e0abbcecd4789fe21b3cbb6ffd99e"
+    },
+    "极客公园": {
+        "AI 巨头的「Token 补贴大战」，快打完了吗？": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109221&idx=1&sn=1ac529bdc665a31116b702a65df37685",
+        "OpenAI 最新模型 GPT-5.6 或下周发布；微信灰度测试 AI 助手「小微」；小米「寻天」SUV 自带帐篷 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653109240&idx=1&sn=3edf2b06824ded16b2813bd2bb6995f2"
+    },
+    "安全圈": {
+        "【安全圈】西安公安 19 小时打掉世界杯网络赌局": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077511&idx=1&sn=598d0b24b41a200057b435d21755cbc4",
+        "【安全圈】初级黑客在其 C2 下线后使用 Tailscale 和 OpenSSH 保持访问": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077511&idx=2&sn=762f450958e4b864e59c019aa5bc4c2f",
+        "【安全圈】FortiBleed 泄露事件暴露 73,000 台设备的 Fortinet VPN 凭证": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652077511&idx=3&sn=810539bc317e4a1ac44ab8a822e67fc8"
+    },
+    "火绒安全": {
+        "父亲节 | 向上的每一步 都有您的守护": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534650&idx=1&sn=d00b901a4cf6d82f9f8822bd60506aeb",
+        "夏至 | 盛夏初临 安全常存": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534650&idx=2&sn=d46bcf291d9e87ef4269a2e8bfd73cf7",
+        "诚邀渠道合作伙伴共启新征程": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247534650&idx=3&sn=97d7892d42d2dba0cc6212e377873651"
+    },
+    "我的安全视界观": {
+        "【AI复盘】员工VibeCoding引发数据泄露事件": "https://mp.weixin.qq.com/s?__biz=MzI3Njk2OTIzOQ==&mid=2247487658&idx=1&sn=efbfc4e16af026c748e2450742b5e94f"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【资料】2026年美国系列战略文件": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651156338&idx=1&sn=2df8910ebbb1881dd0a0ed14c63dd278"
+    },
+    "Over Security": {
+        "AryStinger botnet infected thousands of D-Link routers worldwide": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
+        "La sfida industriale dei computer quantistici": "https://guerredirete.substack.com/p/la-sfida-industriale-dei-computer"
+    },
+    "ICT Security Magazine": {
+        "DNS security: il livello che tutti usano e quasi nessuno difende": "https://www.ictsecuritymagazine.com/cyber-security/dns-security/"
+    },
+    "Daniel Miessler": {
+        "Debating the Morality of Dario Amodei": "https://danielmiessler.com/blog/debating-morality-dario-amodei?utm_source=rss&utm_medium=feed&utm_campaign=website"
+    },
+    "Security Affairs": {
+        "SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 102": "https://securityaffairs.com/193960/security/security-affairs-malware-newsletter-round-102.html",
+        "Security Affairs newsletter Round 582 by Pierluigi Paganini – INTERNATIONAL EDITION": "https://securityaffairs.com/193953/uncategorized/security-affairs-newsletter-round-582-by-pierluigi-paganini-international-edition.html"
+    },
+    "Full Disclosure": {
+        "OpenBSD mpls_do_error: Remote Kernel Stack Disclosure via MPLS Label Stack Over-read": "https://seclists.org/fulldisclosure/2026/Jun/17",
+        "OpenBSD sppp_pap_input: PAP authentication bypass": "https://seclists.org/fulldisclosure/2026/Jun/15",
+        "SEC Consult SA-20260618-0 :: Hardcoded Root Cloud Credentials in Application Binaries in Silver Leaf Technologies - Worksnaps.net Worksnaps": "https://seclists.org/fulldisclosure/2026/Jun/21",
+        "SEC Consult SA-20260617-1 :: Multiple Vulnerabilities in Quanos Content Solutions - SCHEMA ST4": "https://seclists.org/fulldisclosure/2026/Jun/20",
+        "SEC Consult SA-20260617-0 :: Multiple Critical Vulnerabilities in Sprecher Automation SPRECON-E-C/-E-P/-E-T3": "https://seclists.org/fulldisclosure/2026/Jun/19",
+        "SEC Consult SA-20260616-0 :: Broken Access Control in syracom AG Secure Login (2FA) for Atlassian Jira / Confluence / Bitbucket #CVE-2026-12225": "https://seclists.org/fulldisclosure/2026/Jun/16",
+        "APPLE-SA-06-16-2026-1 Beats Firmware Update 1B211": "https://seclists.org/fulldisclosure/2026/Jun/18",
+        "PHP 8.5.7 `levenshtein()` signed-integer overflow": "https://seclists.org/fulldisclosure/2026/Jun/14",
+        "PHP 8.5.7 `dom_xml_serialization_algorithm()` stack-overflow": "https://seclists.org/fulldisclosure/2026/Jun/13",
+        "PHP 8.5.7 `mb_substr()` 'SJIS-mac' size_t underflow": "https://seclists.org/fulldisclosure/2026/Jun/12",
+        "PHP 8.5.7 `FILTER_SANITIZE_ENCODED` uninitialized read": "https://seclists.org/fulldisclosure/2026/Jun/11",
+        "CVE-2025-68624: Cross-Tenant Authentication Bypass by Spoofing in N-able Mail Assure": "https://seclists.org/fulldisclosure/2026/Jun/10"
+    }
+}
