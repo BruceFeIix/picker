@@ -34,6 +34,19 @@ jobs:
           PICKER_DINGTALK_SECRET: ${{ secrets.PICKER_DINGTALK_SECRET }}
         run: python3 yarb.py
 
+      - name: Close previous issue
+        run: |
+          YESTERDAY=$(date -d "yesterday" +'%Y-%m-%d')
+          PREV_ISSUE=$(gh issue list --label daily --state open --search "[每日信息流] $YESTERDAY" --json number --jq '.[0].number')
+          if [ -n "$PREV_ISSUE" ]; then
+            gh issue close $PREV_ISSUE --comment "Automatically closed: daily news archived"
+            echo "Closed previous issue #$PREV_ISSUE"
+          else
+            echo "No previous issue found to close"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+
       - name: Issue
         run: gh issue create --title "[每日信息流] `date +'%Y-%m-%d'`" -F today.md --label "daily"
         env:
