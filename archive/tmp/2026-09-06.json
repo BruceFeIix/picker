@@ -1,0 +1,160 @@
+{
+    "Doonsec's feed": {
+        "手机关机，可以防止被监听吗": "https://mp.weixin.qq.com/s/HCDJA4MGDE49BBHCp0h_Tg"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sat Sep  5 12:11:42 UTC 2026": "https://github.com/trickest/cve/commit/6fa5b4be24fc16a6b3e8ee591bf661d9d8e1ab41"
+    },
+    "Armin Ronacher's Thoughts and Writings": {
+        "Latent Powers": "https://lucumr.pocoo.org/2026/9/5/latent-powers/"
+    },
+    "Sucuri Blog": {
+        "WordPress Security Plugins: How to Choose the Right One": "https://blog.sucuri.net/2026/09/wordpress-security-plugins-how-to-choose-the-right-one.html"
+    },
+    "SecWiki News": {
+        "SecWiki News 2026-09-05 Review": "http://www.sec-wiki.com/?2026-09-05"
+    },
+    "Kitploit": {
+        "AperiSolve v3.7.10": "https://kitploit.com/en/posts/github-zeecka-aperisolve-3710",
+        "caido v0.58.3": "https://kitploit.com/en/posts/github-caido-caido-v0583",
+        "ephemora-cell": "https://kitploit.com/en/tools/github/michaels1011/ephemora-cell",
+        "linux-insides": "https://kitploit.com/en/tools/github/0xax/linux-insides",
+        "doser.go": "https://kitploit.com/en/tools/github/quitten/doser.go",
+        "citrix-netscaler-triage": "https://kitploit.com/en/tools/github/fox-it/citrix-netscaler-triage",
+        "node9-proxy v2.8.3": "https://kitploit.com/en/posts/github-node9-ai-node9-proxy-v283",
+        "brave-browser v1.97.8": "https://kitploit.com/en/posts/github-brave-brave-browser-v1978",
+        "firefox-devtools-mcp v0.10.2": "https://kitploit.com/en/posts/github-mozilla-firefox-devtools-mcp-v0102",
+        "Antiphishing v33854571962": "https://kitploit.com/en/posts/github-julioliraup-antiphishing-release-33854571962",
+        "securesystemslib v1.5.1": "https://kitploit.com/en/posts/github-secure-systems-lab-securesystemslib-v151",
+        "quark-engine v26.9.1": "https://kitploit.com/en/posts/github-ev-flow-quark-engine-v2691",
+        "monty v0.0.22": "https://kitploit.com/en/posts/github-pydantic-monty-v0022",
+        "changedetection.io v0.60.3": "https://kitploit.com/en/posts/github-dgtlmoon-changedetectionio-0603",
+        "yakit v1.4.8-0905": "https://kitploit.com/en/posts/github-yaklang-yakit-v148-0905",
+        "resterm v1.5.6": "https://kitploit.com/en/posts/github-unkn0wn-root-resterm-v156",
+        "akto v2.32.5": "https://kitploit.com/en/posts/github-akto-api-security-akto-v2325",
+        "rdap v0.10.2": "https://kitploit.com/en/posts/github-openrdap-rdap-v0102",
+        "zitadel v4.17.3": "https://kitploit.com/en/posts/github-zitadel-zitadel-v4173",
+        "MCExtractor r352": "https://kitploit.com/en/posts/github-platomav-mcextractor-r352",
+        "opa v1.20.2": "https://kitploit.com/en/posts/github-open-policy-agent-opa-v1202",
+        "faraday v5.24.0": "https://kitploit.com/en/posts/github-infobyte-faraday-v5240",
+        "phpstan v2.2.13": "https://kitploit.com/en/posts/github-phpstan-phpstan-2213",
+        "peirates v1.1.31": "https://kitploit.com/en/posts/github-inguardians-peirates-v1131",
+        "emp3r0r v4.15.0": "https://kitploit.com/en/posts/github-jm33-m0-emp3r0r-v4150",
+        "openwisp-controller v1.3.0": "https://kitploit.com/en/posts/github-openwisp-openwisp-controller-130",
+        "cloud-custodian v0.9.52.0": "https://kitploit.com/en/posts/github-cloud-custodian-cloud-custodian-09520",
+        "mboxshell v0.7.3": "https://kitploit.com/en/posts/github-dcarrero-mboxshell-v073",
+        "arduino-pico v6.1.0": "https://kitploit.com/en/posts/github-earlephilhower-arduino-pico-610",
+        "Signal-iOS v8.27.0.1843": "https://kitploit.com/en/posts/github-signalapp-signal-ios-82701843",
+        "openvpn v2.7.7": "https://kitploit.com/en/posts/github-openvpn-openvpn-v277",
+        "SharpHound v2.16.0-rc2": "https://kitploit.com/en/posts/github-specterops-sharphound-v2160-rc2",
+        "parsedmarc v11.0.1": "https://kitploit.com/en/posts/github-domainaware-parsedmarc-1101"
+    },
+    "黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台": {
+        "美军移动设备陷广告追踪器暴露行踪风险 军方称已关闭功能": "https://blog.upx8.com/%E7%BE%8E%E5%86%9B%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87%E9%99%B7%E5%B9%BF%E5%91%8A%E8%BF%BD%E8%B8%AA%E5%99%A8%E6%9A%B4%E9%9C%B2%E8%A1%8C%E8%B8%AA%E9%A3%8E%E9%99%A9-%E5%86%9B%E6%96%B9%E7%A7%B0%E5%B7%B2%E5%85%B3%E9%97%AD%E5%8A%9F%E8%83%BD",
+        "徒步旅行者使用Gemini进行规划后被困山上": "https://blog.upx8.com/%E5%BE%92%E6%AD%A5%E6%97%85%E8%A1%8C%E8%80%85%E4%BD%BF%E7%94%A8Gemini%E8%BF%9B%E8%A1%8C%E8%A7%84%E5%88%92%E5%90%8E%E8%A2%AB%E5%9B%B0%E5%B1%B1%E4%B8%8A",
+        "6350元人民币！全球首款Wi-Fi 8路由器上市": "https://blog.upx8.com/6350%E5%85%83%E4%BA%BA%E6%B0%91%E5%B8%81-%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BEWi-Fi-8%E8%B7%AF%E7%94%B1%E5%99%A8%E4%B8%8A%E5%B8%82",
+        "任天堂连续两场直面会 塞尔达专场+综合": "https://blog.upx8.com/%E4%BB%BB%E5%A4%A9%E5%A0%82%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%9C%BA%E7%9B%B4%E9%9D%A2%E4%BC%9A-%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%B8%93%E5%9C%BA-%E7%BB%BC%E5%90%88",
+        "新世界地图要来了 联合国弃用墨卡托投影": "https://blog.upx8.com/%E6%96%B0%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE%E8%A6%81%E6%9D%A5%E4%BA%86-%E8%81%94%E5%90%88%E5%9B%BD%E5%BC%83%E7%94%A8%E5%A2%A8%E5%8D%A1%E6%89%98%E6%8A%95%E5%BD%B1",
+        "Claude首次实现费马大定理自动形式化证明": "https://blog.upx8.com/Claude%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E8%B4%B9%E9%A9%AC%E5%A4%A7%E5%AE%9A%E7%90%86%E8%87%AA%E5%8A%A8%E5%BD%A2%E5%BC%8F%E5%8C%96%E8%AF%81%E6%98%8E",
+        "美国白宫网站上线抓捕移民电子游戏": "https://blog.upx8.com/%E7%BE%8E%E5%9B%BD%E7%99%BD%E5%AE%AB%E7%BD%91%E7%AB%99%E4%B8%8A%E7%BA%BF%E6%8A%93%E6%8D%95%E7%A7%BB%E6%B0%91%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F"
+    },
+    "微步在线研究响应中心": {
+        "原创漏洞 | FreeRDP 客户端 X.224 routing token 堆缓冲区溢出漏洞": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247508912&idx=1&sn=2f17c849f02e78979d288165b3049447"
+    },
+    "黑鸟": {
+        "服务器正常运转，后门却已经编译进了负载均衡软件源码里": "https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451188451&idx=1&sn=1b534c02706e0587e875dee31c05f707"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "食用加工肉增加肺癌食道癌风险": "https://www.solidot.org/story?sid=85297",
+        "等效原理适用于量子领域": "https://www.solidot.org/story?sid=85296",
+        "肾病患者靠移植猪肾生活九个月": "https://www.solidot.org/story?sid=85295",
+        "F-Droid 考虑采用与 Debian 相同的 AI 政策": "https://www.solidot.org/story?sid=85294",
+        "联合国大会批准新地图": "https://www.solidot.org/story?sid=85293"
+    },
+    "安全圈": {
+        "【安全圈】WordPress 再曝插件漏洞使数百万网站面临接管攻击风险": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=1&sn=0edc246025fac54952c7708b37605e04",
+        "【安全圈】谷歌Chrome 152版本发布，修复漏洞CVE-2026-85046": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=2&sn=dac0f2bd379ed112cb57f96b93365b57",
+        "【安全圈】服务器管理销售面板WHMCS出现高危安全漏洞 无需登录即可窃取用户资料": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652078690&idx=3&sn=a0cf0c3ed40d84c4410fac5d8a31d0ae"
+    },
+    "看雪学苑": {
+        "把奇思妙想带到SDC，极客市集展商招募开启": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619528&idx=1&sn=10b4485c9fed16d4be2418d532a084ab",
+        "Windows调试体系揭秘": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458619528&idx=2&sn=24940f883e8435ecda20073eec37fb9b"
+    },
+    "奇安信 CERT": {
+        "【已复现】JimuReport未授权远程代码执行(QVD-2026-61751)安全风险通告": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247507460&idx=1&sn=e53dc07f1555117353dde7e52a9ec64b"
+    },
+    "极客公园": {
+        "没有方向盘、没有踏板、没有后视镜：特斯拉最疯狂的车来了": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113192&idx=1&sn=c0d003482886593b38fa92eca4cc0bef",
+        "互联网最古老的恐惧，被 AI 复活了": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113181&idx=1&sn=b39d6aca07d431c19ccc91b7e754c0ac",
+        "传玛莎拉蒂和华为+江淮合作开发电动车；苹果最大新品阵容时代开启；人人影视回归，终身 VIP 888 元 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113176&idx=1&sn=dae914a951a5fcb7a35ced1a03cf2263"
+    },
+    "朴实无华lake2": {
+        "百度“Agent+”攻防能力挑战赛参加感想": "https://mp.weixin.qq.com/s?__biz=Mzg4NTc0MjAwMg==&mid=2247484414&idx=1&sn=97dbe9257ffa9c230045e30155251e4f"
+    },
+    "ICT Security Magazine": {
+        "Comando e controllo su un broker MQTT pubblico: le backdoor Toy Ghouls e il punto cieco delle reti industriali": "https://www.ictsecuritymagazine.com/notizie/mqtt-matrix-command-control-backdoor-toy-ghouls/",
+        "Agenti AI su DseWiki: sei settimane di attività autonoma che nessuna norma obbligava a segnalare": "https://www.ictsecuritymagazine.com/notizie/agenti-ai-dsewiki-openai-ai-act-incidenti-gravi/",
+        "Incidenti significativi NIS2: perché IS-4 separa i soggetti essenziali da quelli importanti": "https://www.ictsecuritymagazine.com/notizie/incidenti-significativi-nis2-is4-soggetti-essenziali-importanti/",
+        "CVE-2026-19490: primi tentativi di sfruttamento sull’authentication bypass di Citrix NetScaler": "https://www.ictsecuritymagazine.com/notizie/cve-2026-19490-citrix-netscaler-authentication-bypass/",
+        "Amir Yaryab, taglia USA da 10 milioni sul capo cyber dell’IRGC": "https://www.ictsecuritymagazine.com/geopolitica-cyberspazio/amir-yaryab-taglia-usa/"
+    },
+    "Over Security": {
+        "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
+        "OpenAI admits it didn't disclose rogue AI wiki hijacking incident": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
+        "WordPress Security Plugins: How to Choose the Right One": "https://blog.sucuri.net/2026/09/wordpress-security-plugins-how-to-choose-the-right-one.html"
+    },
+    "安全分析与研究": {
+        "数据投毒的工程化检测与防御": "https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247497107&idx=1&sn=ce97a317ab04587edd2ce4697fd1db90"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "numbat - AI agent observability, (Fri, Sep 4th)": "https://isc.sans.edu/diary/rss/33312"
+    },
+    "The Hacker News": {
+        "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
+        "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
+        "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
+        "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+        "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
+        "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html"
+    },
+    "KitPloit - PenTest Tools!": {
+        "AperiSolve v3.7.10": "https://kitploit.com/en/posts/github-zeecka-aperisolve-3710",
+        "caido v0.58.3": "https://kitploit.com/en/posts/github-caido-caido-v0583",
+        "ephemora-cell": "https://kitploit.com/en/tools/github/michaels1011/ephemora-cell",
+        "linux-insides": "https://kitploit.com/en/tools/github/0xax/linux-insides",
+        "doser.go": "https://kitploit.com/en/tools/github/quitten/doser.go",
+        "citrix-netscaler-triage": "https://kitploit.com/en/tools/github/fox-it/citrix-netscaler-triage",
+        "node9-proxy v2.8.3": "https://kitploit.com/en/posts/github-node9-ai-node9-proxy-v283",
+        "brave-browser v1.97.8": "https://kitploit.com/en/posts/github-brave-brave-browser-v1978",
+        "firefox-devtools-mcp v0.10.2": "https://kitploit.com/en/posts/github-mozilla-firefox-devtools-mcp-v0102",
+        "Antiphishing v33854571962": "https://kitploit.com/en/posts/github-julioliraup-antiphishing-release-33854571962",
+        "securesystemslib v1.5.1": "https://kitploit.com/en/posts/github-secure-systems-lab-securesystemslib-v151",
+        "quark-engine v26.9.1": "https://kitploit.com/en/posts/github-ev-flow-quark-engine-v2691",
+        "monty v0.0.22": "https://kitploit.com/en/posts/github-pydantic-monty-v0022",
+        "changedetection.io v0.60.3": "https://kitploit.com/en/posts/github-dgtlmoon-changedetectionio-0603",
+        "yakit v1.4.8-0905": "https://kitploit.com/en/posts/github-yaklang-yakit-v148-0905",
+        "resterm v1.5.6": "https://kitploit.com/en/posts/github-unkn0wn-root-resterm-v156",
+        "akto v2.32.5": "https://kitploit.com/en/posts/github-akto-api-security-akto-v2325",
+        "rdap v0.10.2": "https://kitploit.com/en/posts/github-openrdap-rdap-v0102",
+        "zitadel v4.17.3": "https://kitploit.com/en/posts/github-zitadel-zitadel-v4173",
+        "MCExtractor r352": "https://kitploit.com/en/posts/github-platomav-mcextractor-r352",
+        "opa v1.20.2": "https://kitploit.com/en/posts/github-open-policy-agent-opa-v1202",
+        "faraday v5.24.0": "https://kitploit.com/en/posts/github-infobyte-faraday-v5240",
+        "phpstan v2.2.13": "https://kitploit.com/en/posts/github-phpstan-phpstan-2213",
+        "peirates v1.1.31": "https://kitploit.com/en/posts/github-inguardians-peirates-v1131",
+        "emp3r0r v4.15.0": "https://kitploit.com/en/posts/github-jm33-m0-emp3r0r-v4150",
+        "openwisp-controller v1.3.0": "https://kitploit.com/en/posts/github-openwisp-openwisp-controller-130",
+        "cloud-custodian v0.9.52.0": "https://kitploit.com/en/posts/github-cloud-custodian-cloud-custodian-09520",
+        "mboxshell v0.7.3": "https://kitploit.com/en/posts/github-dcarrero-mboxshell-v073",
+        "arduino-pico v6.1.0": "https://kitploit.com/en/posts/github-earlephilhower-arduino-pico-610",
+        "Signal-iOS v8.27.0.1843": "https://kitploit.com/en/posts/github-signalapp-signal-ios-82701843",
+        "openvpn v2.7.7": "https://kitploit.com/en/posts/github-openvpn-openvpn-v277",
+        "SharpHound v2.16.0-rc2": "https://kitploit.com/en/posts/github-specterops-sharphound-v2160-rc2",
+        "parsedmarc v11.0.1": "https://kitploit.com/en/posts/github-domainaware-parsedmarc-1101"
+    },
+    "Security Affairs": {
+        "OpenAI Announced $1B in Defensive Tools for Water Utilities": "https://securityaffairs.com/198506/ai/openai-announced-1b-in-defensive-tools-for-water-utilities.html",
+        "PaperCut Flaws Exploited in Attacks on U.S. and European Schools": "https://securityaffairs.com/198476/hacking/papercut-flaws-exploited-in-attacks-on-u-s-and-european-schools.html",
+        "Broadcom Patches Critical VMware Workstation and Fusion VM-Escape Vulnerabilities": "https://securityaffairs.com/198465/security/broadcom-patches-critical-vmware-workstation-and-fusion-vm-escape-vulnerabilities.html"
+    }
+}
