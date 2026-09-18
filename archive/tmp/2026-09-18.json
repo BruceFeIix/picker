@@ -1,0 +1,345 @@
+{
+    "Paper - 知道创宇404实验室": {
+        "当世界说谎：面向下游控制的潜在世界模型后门攻击": "https://paper.seebug.org/3520"
+    },
+    "Doonsec's feed": {
+        "区长分享之AI配合手工价值1700的src报告": "https://mp.weixin.qq.com/s/U3DdCvAUHm5duOJKGxDF2Q",
+        "计算机毕业设计怎么选？开题答辩怎么过？看完这篇不慌": "https://mp.weixin.qq.com/s/U5s02__ZfZzWVaUsXMnRBA",
+        "华为全联接大会2026 | 星河AI三层安全围栏，以AI守护AI，守护Token安全生产": "https://mp.weixin.qq.com/s/6bhG4dAttqxaCKa4n9p7Mg",
+        "华为全联接大会2026｜华为发布《华为AIFW技术白皮书》，助力产业新一代AI防火墙代际升级": "https://mp.weixin.qq.com/s/VTYrQP8pkKcUKz2br5u4jw",
+        "华为全联接大会2026 | 分销江湖系列漫画首发，现场限量赠送！": "https://mp.weixin.qq.com/s/4lAL-vGHYagw_EEDDbYT6Q",
+        "美国官网：紧急下架阿里Qwen3  ！且转头就“假装没用过”": "https://mp.weixin.qq.com/s/E-K0YoZgaBzuQmV897HGGg"
+    },
+    "SecWiki News": {
+        "SecWiki News 2026-09-17 Review": "http://www.sec-wiki.com/?2026-09-17"
+    },
+    "Recent Commits to cve:main": {
+        "Update Thu Sep 17 12:06:57 UTC 2026": "https://github.com/trickest/cve/commit/ba368b2495671fac4c6221a99b284bccf706af4b"
+    },
+    "先知安全技术社区": {
+        "BES2300 智能音响固件提取": "https://xz.aliyun.com/news/92850",
+        "从一次头像审核绕过，看内容风控是怎么工作的": "https://xz.aliyun.com/news/92849"
+    },
+    "InfoSec Write-ups - Medium": {
+        "How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass": "https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4",
+        "From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal": "https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4"
+    },
+    "Microsoft Security Blog": {
+        "From guidance to action: Security fundamentals that materially reduce risk": "https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/",
+        "Improving email security outcomes with real-world Microsoft Defender insights": "https://www.microsoft.com/en-us/security/blog/2026/09/17/improving-email-security-outcomes-with-real-world-microsoft-defender-insights/"
+    },
+    "博客园 - bamb00": {
+        "PDF 解析为什么难：一份面向 RAG 的问题清单与解决路线 - bamb00": "https://www.cnblogs.com/goodhacker/p/23008551"
+    },
+    "Horizon3": {
+        "CTEM Buyer’s Guide: How to Evaluate the Technologies That Turn Continuous Threat Exposure Management Into an Operating Model": "https://horizon3.ai/downloads/whitepapers/ctem-buyers-guide/",
+        "CyberCom 2.0 and the Revolution in AI-Enabled Offensive Cyber Operations": "https://horizon3.ai/downloads/whitepapers/cybercom-2-0-ai-enabled-offensive-cyber-operations/"
+    },
+    "Kitploit — Hacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!": {
+        "kin v0.7.20": "https://kitploit.com/en/posts/github-firelock-ai-kin-v0720",
+        "scanopy v0.17.16": "https://kitploit.com/en/posts/github-scanopy-scanopy-v01716",
+        "Specter-FlipperZero v2.9": "https://kitploit.com/en/posts/github-at0m-b0mb-specter-flipperzero-v29",
+        "trufflehog v3.97.5": "https://kitploit.com/en/posts/github-trufflesecurity-trufflehog-v3975",
+        "keycloak v26.7.4": "https://kitploit.com/en/posts/github-keycloak-keycloak-2674",
+        "santa v2026.8": "https://kitploit.com/en/posts/github-northpolesec-santa-20268",
+        "ddos-reduction-system": "https://kitploit.com/en/tools/github/devinblack001/ddos-reduction-system",
+        "oproxy v0.1.11": "https://kitploit.com/en/posts/github-sauravrao637-oproxy-v0111",
+        "vault v2.1.1": "https://kitploit.com/en/posts/github-hashicorp-vault-v211",
+        "remove-ai-watermarks v0.41.1": "https://kitploit.com/en/posts/github-wiltodelta-remove-ai-watermarks-v0411",
+        "nono v0.78.0": "https://kitploit.com/en/posts/github-nolabs-ai-nono-v0780",
+        "vet v1.19.1": "https://kitploit.com/en/posts/github-safedep-vet-v1191",
+        "resterm v1.8.1": "https://kitploit.com/en/posts/github-unkn0wn-root-resterm-v181",
+        "Guardrails v0.24.1": "https://kitploit.com/en/posts/github-nvidia-nemo-guardrails-v0241",
+        "parsec-cloud v3.10.0-rc.0": "https://kitploit.com/en/posts/github-scille-parsec-cloud-v3100-rc0",
+        "oxo v2.10.3": "https://kitploit.com/en/posts/github-ostorlab-oxo-v2103",
+        "CAPEsolo": "https://kitploit.com/en/tools/github/capesandbox/capesolo",
+        "Agent-Reach": "https://kitploit.com/en/tools/github/panniantong/agent-reach",
+        "nuclei-templates v10.4.9": "https://kitploit.com/en/posts/github-projectdiscovery-nuclei-templates-v1049",
+        "codex-security npm-v0.1.28": "https://kitploit.com/en/posts/github-openai-codex-security-npm-v0128",
+        "BrokenPipe": "https://kitploit.com/en/tools/github/killaboi/brokenpipe",
+        "OmniSec-Hex": "https://kitploit.com/en/tools/github/vighnesh91/omnisec-hex",
+        "neko-master": "https://kitploit.com/en/tools/github/foru17/neko-master",
+        "siem": "https://kitploit.com/en/tools/github/ekitji/siem",
+        "sysreptor v2026.75": "https://kitploit.com/en/posts/github-syslifters-sysreptor-202675",
+        "dnscontrol v5.1.0": "https://kitploit.com/en/posts/github-dnscontrol-dnscontrol-v510",
+        "cilium v1.20.2": "https://kitploit.com/en/posts/github-cilium-cilium-v1202",
+        "socks5 v0.8.0": "https://kitploit.com/en/posts/github-wzshiming-socks5-v080",
+        "minder v0.3.2": "https://kitploit.com/en/posts/github-mindersec-minder-v032",
+        "clients web-v2026.9.0": "https://kitploit.com/en/posts/github-bitwarden-clients-web-v202690",
+        "certgraveyard_yara v2026.09.16": "https://kitploit.com/en/posts/github-tjnel-certgraveyard_yara-v20260916",
+        "essh v0.4.0": "https://kitploit.com/en/posts/github-matthart1983-essh-v040",
+        "bramble v1.29.0-chromium": "https://kitploit.com/en/posts/github-flythenimbus-bramble-1290-chromium",
+        "fil-c v0.685": "https://kitploit.com/en/posts/github-pizlonator-fil-c-v0685",
+        "RAGE": "https://kitploit.com/en/tools/github/trustedsec/rage",
+        "Thunderstorm": "https://kitploit.com/en/tools/github/ustayready/thunderstorm",
+        "0xCr0ssCrush": "https://kitploit.com/en/tools/github/deathshotxd/0xcr0sscrush",
+        "ipaforge": "https://kitploit.com/en/tools/github/vighnesh91/ipaforge",
+        "terminalphone — Updated!": "https://kitploit.com/en/posts/gitlab-here_forawhile-terminalphone-9e8ee41e3bf1aeb607aef0a2b9954a62a44d50ec1ef11ae829a19227a4472c81",
+        "netbox v4.7.1": "https://kitploit.com/en/posts/github-netbox-community-netbox-v471"
+    },
+    "Bug Bounty in InfoSec Write-ups on Medium": {
+        "From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal": "https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d--bug_bounty"
+    },
+    "GuidePoint Security": {
+        "EtherHiding Exposed: Inside a Blockchain-powered Malware Campaign Hiding in Plain Sight": "https://www.guidepointsecurity.com/blog/etherhiding-exposed-deep-dive/"
+    },
+    "Securelist": {
+        "The Odyssey and trojans again: MovieReaper attacks users in multiple countries via compromised torrents": "https://securelist.com/moviereaper-malware-torrent-odyssey-solana/121344/"
+    },
+    "Reverse Engineering": {
+        "How not to solve Jane Street's ASIC puzzle. Kinda.": "https://www.reddit.com/r/ReverseEngineering/comments/1wj3pyt/how_not_to_solve_jane_streets_asic_puzzle_kinda/",
+        "I reconstructed a pseudo-source version of SmartScanner through reverse engineering": "https://www.reddit.com/r/ReverseEngineering/comments/1wj7uun/i_reconstructed_a_pseudosource_version_of/",
+        "[Release] Veridiff v0.2.4 — Zero-Allocation Dynamic Branch Divergence Engine for ARM64/x86": "https://www.reddit.com/r/ReverseEngineering/comments/1wirlmi/release_veridiff_v024_zeroallocation_dynamic/",
+        "Share code bypass ssl pinning facebook with Frida": "https://www.reddit.com/r/ReverseEngineering/comments/1wiocvp/share_code_bypass_ssl_pinning_facebook_with_frida/",
+        "Golang BYOVD Malware Loader and Vulnerable Driver Analysis": "https://www.reddit.com/r/ReverseEngineering/comments/1wiv6xo/golang_byovd_malware_loader_and_vulnerable_driver/"
+    },
+    "Malwarebytes": {
+        "Flock cameras are tracking people as well as cars": "https://www.malwarebytes.com/blog/privacy/2026/09/flock-cameras-are-tracking-people-as-well-as-cars",
+        "Revolut phishing texts appear days after data breach": "https://www.malwarebytes.com/blog/threat-intel/2026/09/revolut-phishing-texts-appear-days-after-data-breach",
+        "12 celebrity deepfake websites seized by Manhattan DA": "https://www.malwarebytes.com/blog/ai/2026/09/12-celebrity-deepfake-websites-seized-by-manhattan-da",
+        "T-Mobile rewards points expiry texts are a phishing scam": "https://www.malwarebytes.com/blog/threat-intel/2026/09/t-mobile-rewards-points-expiry-texts-are-a-phishing-scam"
+    },
+    "rtl-sdr.com": {
+        "LakeShark: P25 Phase 1, FM, POCSAG, ADS-B and Sub-GHz with an RTL-SDR on the LilyGO T-Display P4 (ESP32-P4)": "https://www.rtl-sdr.com/lakeshark-p25-phase-1-fm-pocsag-ads-b-and-sub-ghz-with-an-rtl-sdr-on-the-lilygo-t-display-p4-esp32-p4/"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "微塑料像特洛伊木马一样传播有毒物质": "https://www.solidot.org/story?sid=85412",
+        "德国法庭裁决 Meta 要为其平台上第三方发布的虚假广告承担责任": "https://www.solidot.org/story?sid=85411",
+        "刚果埃博拉疫情死亡人数超过 3500 人": "https://www.solidot.org/story?sid=85410",
+        "Roman 太空望远镜有足够的燃料可服役 22 年": "https://www.solidot.org/story?sid=85409",
+        "今年上线的微短剧逾九成是 AI 剧": "https://www.solidot.org/story?sid=85408",
+        "地球正变得不那么扁平": "https://www.solidot.org/story?sid=85407",
+        "GNOME 51 释出": "https://www.solidot.org/story?sid=85406",
+        "人脑类器官在小鼠体内形成神经网络": "https://www.solidot.org/story?sid=85405",
+        "商船再次安装基于风帆的推进系统": "https://www.solidot.org/story?sid=85403",
+        "广州提议禁止公共交通内外放声音": "https://www.solidot.org/story?sid=85402",
+        "卫星数据显示过去 47 年格陵兰岛和南极洲损失 12.5 万亿吨冰": "https://www.solidot.org/story?sid=85401"
+    },
+    "Shostack & Friends Blog": {
+        "Diagrams and Common Elements (Threat Model Thursday)": "https://shostack.org/blog/diagram-common-elements-threat-model-thursday/"
+    },
+    "威努特安全网络": {
+        "构建上网行为管控体系，防范校园“翻墙”行为": "https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651144182&idx=1&sn=ad4bdf7b946c7db3f7b2a41b5cbb770e"
+    },
+    "vivo千镜": {
+        "AI无界，安全有方：vivo如何打造智能体时代的「可信AI终端」": "https://mp.weixin.qq.com/s?__biz=MzI0Njg4NzE3MQ==&mid=2247492470&idx=1&sn=27340f220d96d998038edde74d8909da"
+    },
+    "Hackerman's Hacking Tutorials": {
+        "Preparing My Taxes with AI": "https://parsiya.net/blog/tax-ai/"
+    },
+    "Offensive Security Blog: Latest Trends in Hacking | Praetorian": {
+        "Credentials Are Still the Shortest Path In": "https://www.praetorian.com/blog/credential-testing-brutus/"
+    },
+    "安全内参": {
+        "跨国油轮遭网络攻击失联超30小时，美军登船开展调查": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516611&idx=1&sn=f1e28a8e0b5b903c6543ce3f0dd3a6d5",
+        "CNCERT发布2026年人工智能大模型安全众测结果": "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247516611&idx=2&sn=3bf916e230c28755bead33aa3498363c"
+    },
+    "看雪学苑": {
+        "ret2shellcode 浅析": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458620497&idx=1&sn=ad5450b7723941e8ae0f280a34e4792b",
+        "Win11九月高危补丁翻车！域信任断裂，合法账号无法登录终端": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458620497&idx=2&sn=b16604558e0b1255693ad7a64e837dd8",
+        "可试看 | 当漏洞挖掘遇上 AI Agent：主流企业防火墙 0day 挖掘实战": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458620497&idx=3&sn=f6fdd9e6c8bc6c1fd4b8013cb7eea23f"
+    },
+    "HackerNews": {
+        "攻击者利用 Issabel Framework 漏洞实现未经身份验证的 OS 命令执行": "http://0.0.0.0:8080/post/64697",
+        "三个威胁组织以后门、勒索软件和擦除器攻击俄罗斯企业": "http://0.0.0.0:8080/post/64696",
+        "攻击者劫持 AI 编程助手会话，将 Shai-Hulud 传播至约 100 个代码仓库": "http://0.0.0.0:8080/post/64695",
+        "伊朗黑客使用 CHOSEN BRICK Windows 恶意软件监视目标": "http://0.0.0.0:8080/post/64694",
+        "西班牙数据保护机构收到首起 AI 驱动数据泄露的报告": "http://0.0.0.0:8080/post/64693",
+        "严重 ScreenConnect 漏洞现已在攻击中遭到积极利用": "http://0.0.0.0:8080/post/64692"
+    },
+    "代码卫士": {
+        "Check Point 紧急修复严重漏洞，可使远程未认证攻击者获得 root 权限": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527165&idx=1&sn=065c0d69dff53c546fce09eee69ae140",
+        "攻击者劫持AI编程助手会话，在近100个仓库中传播Shai-Hulud 蠕虫": "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247527165&idx=2&sn=fd24c49fe7f07313c48685469ef2fa3e"
+    },
+    "二道情报贩子": {
+        "炸锅！Anthropic被曝已成AI邪教，员工奉Claude为神！": "https://mp.weixin.qq.com/s?__biz=MzU5NTA3MTk5Ng==&mid=2247490092&idx=1&sn=66a8fd33dce06696f84166db0f149c10"
+    },
+    "极客公园": {
+        "OPPO 姜昱辰：大模型的差距越来越小，AI 手机的差距才刚拉开": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113732&idx=1&sn=e2bff0942188b3406aab16421ce923cb",
+        "AI 硬件创业者，疯狂涌入手机的背面": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653113718&idx=1&sn=93745fdcf5554be82e934ef4b0506723"
+    },
+    "安全牛": {
+        "员工密码出现在窃密日志里？改密码可能还不够，这6个步骤才能防止账号接管": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142753&idx=1&sn=bb18552ca49444dd4dbd73e791ba2377",
+        "全国网安标委发布《人工智能应用安全指引 总则》等4项实践指南；安永调研：代理式 AI 落地加速，企业 AI 治理存在显著安全盲区| 牛览": "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651142753&idx=2&sn=279efbb5ced04473e3974b7cb9909d90"
+    },
+    "微步在线": {
+        "比木马危害更大的，是凭据失窃": "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650188148&idx=1&sn=85f2f5c571604e3c2e6e7cd0e19ac51c"
+    },
+    "字节跳动技术团队": {
+        "日志服务 TLS AgentLoop：让多模态调用清晰可见": "https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247522649&idx=1&sn=bf5be5b2b912342f3263ee49c0c5728c"
+    },
+    "火绒安全": {
+        "多层伪装躲避防护检测！分层式模块化窃密木马解析": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247537645&idx=1&sn=968b0abb966af1de017f0ec93d255dbb",
+        "诚邀渠道合作伙伴共启新征程": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247537645&idx=2&sn=deaa95fcb6fcae53b7ffbbd2a7609f02"
+    },
+    "中国信息安全": {
+        "CCS2026 | “AI+网信安全”技术交流活动成功举办": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664266953&idx=1&sn=b95f1effd23e1965db1afe06b3ce41b1"
+    },
+    "信息安全国家工程研究中心": {
+        "以良法夯实网络安全法治根基": "https://mp.weixin.qq.com/s?__biz=MzU5OTQ0NzY3Ng==&mid=2247505142&idx=1&sn=405f79759f0b4170b8a9c916858d4959"
+    },
+    "数世咨询": {
+        "中国信通院卓越示范中心启动智能化安全防御能力就绪度提升工作": "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247543925&idx=1&sn=c6c81d0c8071bb5f8270a083507ee3a7"
+    },
+    "360数字安全": {
+        "国家信息安全漏洞共享平台认证！360揽获三项漏洞治理核心殊荣": "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247586940&idx=1&sn=f12393e9a73c08bbc753b5e7eb087a16"
+    },
+    "网络空间安全科学学报": {
+        "10月17日专题会议：数据安全防护与治理前沿学术会议": "https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247509075&idx=1&sn=aaecdbf42bbed3511361867400607ca3",
+        "CHIMA大讲堂第127期": "https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247509075&idx=2&sn=95486b5d5a3eaf3e069e0b09a750a0be"
+    },
+    "TrustedSec": {
+        "Unpacking a laZzzy Donut": "https://trustedsec.com/blog/unpacking-a-lazzzy-donut"
+    },
+    "情报分析师": {
+        "腰围、胡须还是镜头？美防长的“精兵演讲”究竟在筛选战斗力，还是筛选画面？": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569703&idx=1&sn=929da9eb4fb69d12bef10c07b02b326c",
+        "万斯关联金主网络据报接触巴西总统热门候选人，以稀土供应链换取反我定位与竞选支持，拉美关键矿产“去我化”政治交易浮出水面": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650569703&idx=2&sn=ccfc224d89be787c293a559a6c459303"
+    },
+    "奇安信威胁情报中心": {
+        "夜鹰转向：APT-Q-95组织被曝攻击俄罗斯企业，Exchange后门GhostContainer再度现身": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247520480&idx=1&sn=7d25d6e963d57e3fc70f5e37bd6c173c"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)": "https://isc.sans.edu/diary/rss/33348",
+        "ISC Stormcast For Thursday, September 17th, 2026 https://isc.sans.edu/podcastdetail/10098, (Thu, Sep 17th)": "https://isc.sans.edu/diary/rss/33346"
+    },
+    "ICT Security Magazine": {
+        "Metriche di sicurezza dell’AI: i numeri che i fornitori pubblicano non dicono se il sistema è sicuro": "https://www.ictsecuritymagazine.com/articoli/metriche-di-sicurezza-dell-ai/",
+        "Stato dell’Unione 2026: l’EU Kids Act arriva fuori programma, il Digital Fairness Act resta al quarto trimestre": "https://www.ictsecuritymagazine.com/articoli/eu-kids-act-stato-unione-2026/"
+    },
+    "Over Security": {
+        "New RatHat Android malware uses AI to automate device control": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
+        "European Commission set to push social media restrictions, safety requirements into law": "https://therecord.media/european-commission-set-to-push-social-media-kids-restrictions-into-law",
+        "OpenAI details more cases of AI agents taking unauthorized actions": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
+        "Should you care about an “AI slowdown?”": "https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/",
+        "One Attacker's Trash is Another Attacker's Treasure: A New Ecosystem Drives Cybercrime Innovation": "https://www.kelacyber.com/one-attackers-trash-is-another-attackers-treasure-2/",
+        "サイバー犯罪マーケット「Genesis」のサプライチェーン": "https://www.kelacyber.com/exploring-the-genesis-supply-chain-for-fun-and-profit/",
+        "The Duties Beyond Assisting the Public: Darknet Threats Against Canadian Health & Support Organizations": "https://www.kelacyber.com/duties-beyond-assisting-the-public-3/",
+        "Access-as-a-Service – Remote Access Markets in the Cybercrime Underground": "https://www.kelacyber.com/access-as-a-service-remote-access-markets-in-the-cybercrime-underground/",
+        "Slacking Off – Slack and the Corporate Attack Surface Landscape": "https://www.kelacyber.com/slacking-off-slack-and-the-corporate-attack-surface-landscape/",
+        "Back to School: Why Cybercriminals Continue to Target the Education Sector | Part One": "https://www.kelacyber.com/back-to-school-why-cybercriminals-continue-to-target-the-education-sector-3-2/",
+        "Back to School: Why Cybercriminals Continue to Target the Education Sector | Part Two": "https://www.kelacyber.com/back-to-school-why-cybercriminals-continue-to-target-the-education-sector-2-2-2/",
+        "初期アクセス・ブローカーのツールボックス – リモート監視&管理ツール": "https://www.kelacyber.com/the-initial-access-brokers-toolbox-remote-monitoring-and-management-2/",
+        "攻撃すべきか、せざるべきか — アンダーグラウンドのエコシステムで医療セクターを取り巻く議論": "https://www.kelacyber.com/to-attack-or-not-to-attack-targeting-the-healthcare-sector-in-the-underground-ecosystem-2/",
+        "2020年9月に販売されたネットワークアクセス—KELAが見たその100件の詳細": "https://www.kelacyber.com/kelas-100-over-100-september2020-in-network-access-sales/",
+        "Zooming into Darknet Threats Targeting Japanese Organizations": "https://www.kelacyber.com/zooming-into-darknet-threats-targeting-jp-orgs-kela/",
+        "特集：日本の組織を狙うサイバー犯罪の脅威": "https://www.kelacyber.com/zooming-into-darknet-threats-kela-ja/",
+        "君にはゴミでも僕には宝石：新たなエコシステムが推進するサイバー犯罪のイノベーション": "https://www.kelacyber.com/one-attackers-trash-is-another-attackers-treasure-3/",
+        "お手軽な侵入経路となったのか？ランサムウェアの餌食となった5つの企業とサイバー犯罪サイトに流れたPulse Secureの VPN 資格情報": "https://www.kelacyber.com/easy-way-in-5-ransomware-victims-had-their-pulse-secure-vpn-credentials-leaked-2/",
+        "Easy Way In? 5 Ransomware Victims Had Their Pulse Secure VPN Credentials Leaked": "https://www.kelacyber.com/easy-way-in-5-ransomware-victims-had-their-pulse-secure-vpn-credentials-leaked/",
+        "サイバー犯罪社会のアクター達がゲーム業界に仕掛ける「脅威のゲーム」": "https://www.kelacyber.com/darknet-threat-actors-are-not-playing-games-with-the-gaming-industry-2/",
+        "Darknet Threat Actors Are Not Playing Games with the Gaming Industry": "https://www.kelacyber.com/darknet-threat-actors-are-not-playing-games-with-the-gaming-industry/",
+        "もはや100万ドルでは終わらない —2020年第4四半期の ネットワークアクセス販売状況": "https://www.kelacyber.com/1-million-is-just-the-beginning-q4-2020-in-network-access-sales-2/",
+        "$1 Million is Just the Beginning: Q4 2020 in Network Access Sales": "https://www.kelacyber.com/1-million-is-just-the-beginning-q4-2020-in-network-access-sales/",
+        "廃業するサイバー犯罪マーケット、ユーザー達が次に向かう先は？": "https://www.kelacyber.com/dark-net-markets-going-out-of-business-where-are-users-headed-to-next-2/",
+        "Dark Net Markets Going Out of Business: Where are Users Headed to Next?": "https://www.kelacyber.com/dark-net-markets-going-out-of-business-where-are-users-headed-to-next/",
+        "Hunting Down Initial Access Brokers with DARKBEAST": "https://www.kelacyber.com/hunting-down-initial-access-brokers-with-darkbeast/",
+        "Ransomware Gangs are Starting to Look Like Ocean’s 11": "https://www.kelacyber.com/ransomware-gangs-are-starting-to-look-like-oceans-11/",
+        "初期アクセス・ブローカーの間に生まれた5つのトレンド": "https://www.kelacyber.com/%E5%88%9D%E6%9C%9F%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%83%BB%E3%83%96%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%BC%E9%81%94%E3%81%AE%E9%96%93%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%9F5%E3%81%A4%E3%81%AE/",
+        "Ain’t No Actor Trustworthy Enough: The importance of validating sources": "https://www.kelacyber.com/aint-no-actor-trustworthy-enough-the-importance-of-validating-sources/",
+        "人気上昇中のログマーケット「2easy」": "https://www.kelacyber.com/2easy-logs-marketplace-on-the-rise-2/",
+        "2easy: Logs Marketplace on the Rise": "https://www.kelacyber.com/2easy-logs-marketplace-on-the-rise/",
+        "Season’s Stealings – The Dark Side of Holiday Shopping": "https://www.kelacyber.com/seasons-stealings-the-dark-side-of-holiday-shopping-2/",
+        "完全に信用できるアクターなど存在しない― ソース検証の重要性": "https://www.kelacyber.com/aint-no-actor-trustworthy-enough-the-importance-of-validating-sources-2/",
+        "From Initial Access to Ransomware Attack – 5 Real Cases Showing the Path from Start to End": "https://www.kelacyber.com/from-initial-access-to-ransomware-attack-5-real-cases-showing-the-path-from-start-to-end/",
+        "初期アクセスがランサムウエア攻撃にいたるまで—5つの事例": "https://www.kelacyber.com/from-initial-access-to-ransomware-attack-5-real-cases-showing-the-path-from-start-to-end-2/",
+        "ロシアのウクライナ侵攻がもたらしたサ イバー犯罪社会情勢の変化": "https://www.kelacyber.com/how-the-cybercrime-landscape-has-been-changed-following-the-russia-ukraine-war-2/",
+        "How the Cybercrime Landscape has been Changed following the Russia-Ukraine War": "https://www.kelacyber.com/how-the-cybercrime-landscape-has-been-changed-following-the-russia-ukraine-war/",
+        "次世代の情報窃取マルウエア": "https://www.kelacyber.com/information-stealers-a-new-landscape-2/",
+        "ロスト・イン・トランスレーションが起こらない世界—サイバー犯罪者にとって言語が障壁とならない理由とは": "https://www.kelacyber.com/not-lost-in-translation-why-your-language-doesnt-matter-to-cybercriminals-2/",
+        "誕生から6カ月、BreachedはRaidForumsの後継となりえたのか?": "https://www.kelacyber.com/six-months-into-breached-the-legacy-of-raidforums-2/",
+        "ディフェンダー・ イン・ザ・ミドル": "https://www.kelacyber.com/%E3%83%87%E3%82%A3%E3%83%95%E3%82%A7%E3%83%B3%E3%83%80%E3%83%BC%E3%83%BB-%E3%82%A4%E3%83%B3%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%9F%E3%83%89%E3%83%AB/",
+        "狙われるMSP： 脅威アクターの一石二鳥 （多鳥）な攻撃術": "https://www.kelacyber.com/attacks-on-msps-how-threat-actors-kill-two-birds-and-more-with-one-stone-2/",
+        "RaidForumsから流出したデータベースに関するKELAの考察": "https://www.kelacyber.com/unveiling-the-leaked-raidforums-database-insights-and-intelligence-by-kela-2/",
+        "生成AIを悪用するサイバー犯罪者たち": "https://www.kelacyber.com/your-malware-has-been-generated-how-cybercriminals-exploit-the-power-of-generative-ai-and-what-can-organizations-do-about-it-2/",
+        "5 Reasons Why MSSPs Should Embrace a CTI Solution": "https://www.kelacyber.com/5-reasons-why-mssps-should-embrace-a-cti-solution-2/",
+        "活動を再開したデータリークグループ「Stormous」": "https://www.kelacyber.com/stormous-extortion-group-strikes-back-blog-2/",
+        "復号ツールがあってもへっちゃらで攻撃を続けるランサムウエアグループ「Akira」": "https://www.kelacyber.com/akira-ransomware-evades-decryptor-2/",
+        "ランサムウエア「Cyclops」が標的を拡大し、新たなRaaS「Knight」を発表": "https://www.kelacyber.com/cyclops-ransomware-gang-unveils-knight-raas-2/",
+        "ランサムウエアグループ「Qilin」が導入した型破りな決済方法：アフィリエイトを通じた身代金の決済": "https://www.kelacyber.com/qilin-ransomware-gang-adopts-ransom-payments-through-affiliates-2/",
+        "ログのクラウド（Telegram）― ネットワークへの最短ルート": "https://www.kelacyber.com/telegram-clouds-of-logs-the-fastest-gateway-to-your-network-2/"
+    },
+    "国家互联网应急中心CNCERT": {
+        "2026年人工智能大模型安全众测结果发布": "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247502205&idx=1&sn=040d1cef004541ef31964d118deb61fd"
+    },
+    "Schneier on Security": {
+        "How Candidates Could Use AI for Good": "https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html"
+    },
+    "The Hacker News": {
+        "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
+        "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
+        "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
+        "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
+        "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
+        "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+        "CISO's Expert Guide to Agentic Pentesting for Websites": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
+        "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
+        "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
+        "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS": "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html",
+        "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
+        "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
+        "U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks": "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html"
+    },
+    "GRAHAM CLULEY": {
+        "US Coast Guard and FBI board oil tanker to investigate cyber attack": "https://www.bitdefender.com/en-us/blog/hotforsecurity/us-coast-guard-fbi-board-oil-tanker-investigate-cyber-attack"
+    },
+    "Deeplinks": {
+        "California’s “Addictive Feeds” Law Violates Teens’ First Amendment Rights": "https://www.eff.org/deeplinks/2026/09/californias-addictive-feeds-law-violates-teens-first-amendment-rights"
+    },
+    "Security Weekly Podcast Network (Audio)": {
+        "AI hates CAPTCHAs - PSW #944": "http://sites.libsyn.com/18678/ai-hates-captchas-psw-944"
+    },
+    "KitPloit - PenTest Tools!": {
+        "kin v0.7.20": "https://kitploit.com/en/posts/github-firelock-ai-kin-v0720",
+        "scanopy v0.17.16": "https://kitploit.com/en/posts/github-scanopy-scanopy-v01716",
+        "Specter-FlipperZero v2.9": "https://kitploit.com/en/posts/github-at0m-b0mb-specter-flipperzero-v29",
+        "trufflehog v3.97.5": "https://kitploit.com/en/posts/github-trufflesecurity-trufflehog-v3975",
+        "keycloak v26.7.4": "https://kitploit.com/en/posts/github-keycloak-keycloak-2674",
+        "santa v2026.8": "https://kitploit.com/en/posts/github-northpolesec-santa-20268",
+        "ddos-reduction-system": "https://kitploit.com/en/tools/github/devinblack001/ddos-reduction-system",
+        "oproxy v0.1.11": "https://kitploit.com/en/posts/github-sauravrao637-oproxy-v0111",
+        "vault v2.1.1": "https://kitploit.com/en/posts/github-hashicorp-vault-v211",
+        "remove-ai-watermarks v0.41.1": "https://kitploit.com/en/posts/github-wiltodelta-remove-ai-watermarks-v0411",
+        "nono v0.78.0": "https://kitploit.com/en/posts/github-nolabs-ai-nono-v0780",
+        "vet v1.19.1": "https://kitploit.com/en/posts/github-safedep-vet-v1191",
+        "resterm v1.8.1": "https://kitploit.com/en/posts/github-unkn0wn-root-resterm-v181",
+        "Guardrails v0.24.1": "https://kitploit.com/en/posts/github-nvidia-nemo-guardrails-v0241",
+        "parsec-cloud v3.10.0-rc.0": "https://kitploit.com/en/posts/github-scille-parsec-cloud-v3100-rc0",
+        "oxo v2.10.3": "https://kitploit.com/en/posts/github-ostorlab-oxo-v2103",
+        "CAPEsolo": "https://kitploit.com/en/tools/github/capesandbox/capesolo",
+        "Agent-Reach": "https://kitploit.com/en/tools/github/panniantong/agent-reach",
+        "nuclei-templates v10.4.9": "https://kitploit.com/en/posts/github-projectdiscovery-nuclei-templates-v1049",
+        "codex-security npm-v0.1.28": "https://kitploit.com/en/posts/github-openai-codex-security-npm-v0128",
+        "BrokenPipe": "https://kitploit.com/en/tools/github/killaboi/brokenpipe",
+        "OmniSec-Hex": "https://kitploit.com/en/tools/github/vighnesh91/omnisec-hex",
+        "neko-master": "https://kitploit.com/en/tools/github/foru17/neko-master",
+        "siem": "https://kitploit.com/en/tools/github/ekitji/siem",
+        "sysreptor v2026.75": "https://kitploit.com/en/posts/github-syslifters-sysreptor-202675",
+        "dnscontrol v5.1.0": "https://kitploit.com/en/posts/github-dnscontrol-dnscontrol-v510",
+        "cilium v1.20.2": "https://kitploit.com/en/posts/github-cilium-cilium-v1202",
+        "socks5 v0.8.0": "https://kitploit.com/en/posts/github-wzshiming-socks5-v080",
+        "minder v0.3.2": "https://kitploit.com/en/posts/github-mindersec-minder-v032",
+        "clients web-v2026.9.0": "https://kitploit.com/en/posts/github-bitwarden-clients-web-v202690",
+        "certgraveyard_yara v2026.09.16": "https://kitploit.com/en/posts/github-tjnel-certgraveyard_yara-v20260916",
+        "essh v0.4.0": "https://kitploit.com/en/posts/github-matthart1983-essh-v040",
+        "bramble v1.29.0-chromium": "https://kitploit.com/en/posts/github-flythenimbus-bramble-1290-chromium",
+        "fil-c v0.685": "https://kitploit.com/en/posts/github-pizlonator-fil-c-v0685",
+        "RAGE": "https://kitploit.com/en/tools/github/trustedsec/rage",
+        "Thunderstorm": "https://kitploit.com/en/tools/github/ustayready/thunderstorm",
+        "0xCr0ssCrush": "https://kitploit.com/en/tools/github/deathshotxd/0xcr0sscrush",
+        "ipaforge": "https://kitploit.com/en/tools/github/vighnesh91/ipaforge",
+        "terminalphone — Updated!": "https://kitploit.com/en/posts/gitlab-here_forawhile-terminalphone-9e8ee41e3bf1aeb607aef0a2b9954a62a44d50ec1ef11ae829a19227a4472c81",
+        "netbox v4.7.1": "https://kitploit.com/en/posts/github-netbox-community-netbox-v471",
+        "mini-diarium v0.7.3": "https://kitploit.com/en/posts/github-fjrevoredo-mini-diarium-v073"
+    },
+    "Security Affairs": {
+        "OpenAI admits its models lie to cover their own mistakes": "https://securityaffairs.com/199302/ai/openai-admits-its-models-lie-to-cover-their-own-mistakes.html",
+        "Cyberattacks on Oil Tankers Put Maritime Critical Infrastructure at Risk": "https://securityaffairs.com/199280/hacking/cyberattacks-on-oil-tankers-put-maritime-critical-infrastructure-at-risk.html",
+        "SilkParasite Infrastructure Links SpiceRAT to Central Asian Targets": "https://securityaffairs.com/199267/apt/silkparasite-infrastructure-links-spicerat-to-central-asian-targets.html",
+        "NightmareStresser Goes Offline in Global DDoS-for-Hire Crackdown": "https://securityaffairs.com/199251/cyber-crime/nightmarestresser-goes-offline-in-global-ddos-for-hire-crackdown.html",
+        "U.S. CISA adds Acronis Backup, Cisco ISE, and Google Pixel flaws to its Known Exploited Vulnerabilities catalog": "https://securityaffairs.com/199239/security/u-s-cisa-adds-acronis-backup-cisco-ise-and-google-pixel-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "Chosen Brick, Iran’s Surveillance Malware": "https://securityaffairs.com/199217/malware/chosen-brick-irans-surveillance-malware.html"
+    },
+    "网安寻路人": {
+        "国标《智能体数据处理安全要求》：济南汇报": "https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247508827&idx=1&sn=5f7a94fa97a0631de6d17af0b0fefc75"
+    }
+}
