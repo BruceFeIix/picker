@@ -1,0 +1,164 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2026-10-02 Review": "http://www.sec-wiki.com/?2026-10-02"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Exploit for CVE-2026-102282": "https://sploitus.com/exploit?id=23482FFE-B5C9-5736-A66B-ABBDCFF4AFA5&utm_source=rss&utm_medium=rss",
+        "Exploit for CVE-2026-15989": "https://sploitus.com/exploit?id=9F5189C5-CE21-56B0-BC4D-0E6C71AE4BEA&utm_source=rss&utm_medium=rss",
+        "relapse exploit": "https://sploitus.com/exploit?id=6988CA7C-4653-5F42-8E60-DAB4E57F6B60&utm_source=rss&utm_medium=rss",
+        "cheesy-p4u-decomp exploit": "https://sploitus.com/exploit?id=645B1166-D3F3-5183-A210-63A40DF31D9E&utm_source=rss&utm_medium=rss",
+        "Recruit-SSRF-LFI-SQL-Injection-Admin-Takeover-THM- exploit": "https://sploitus.com/exploit?id=11FEC0DD-9813-5D5E-8D97-60A38FBB5C8D&utm_source=rss&utm_medium=rss",
+        "Recruit-SSRF-LFI-SQL-Injection-Admin-Takeover-THM exploit": "https://sploitus.com/exploit?id=B0207EDE-C6C2-5FC6-A209-C0E0C0DF7CCC&utm_source=rss&utm_medium=rss",
+        "Cloud-Penetration-Testing-Guide exploit": "https://sploitus.com/exploit?id=03907739-994B-5360-8D69-09FD3DD16E00&utm_source=rss&utm_medium=rss",
+        "VORNEX-MTOOL exploit": "https://sploitus.com/exploit?id=E60D5646-D397-50DC-8903-CD911258418A&utm_source=rss&utm_medium=rss",
+        "CVE-2024-29671-POC exploit": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-LASKDJLASKDJ12-CVE-2024-29671-POC&utm_source=rss&utm_medium=rss",
+        "CVE-2017-5223 exploit": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-CSCLI-CVE-2017-5223&utm_source=rss&utm_medium=rss",
+        "DolibabyPhp exploit": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ANDRIA-DEV-DOLIBABYPHP&utm_source=rss&utm_medium=rss",
+        "CVE-2022-30525 exploit": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-FURKANZENGIN-CVE-2022-30525&utm_source=rss&utm_medium=rss",
+        "exploit-CVE-2020-5844": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-UNICORDEV-EXPLOIT-CVE-2020-5844&utm_source=rss&utm_medium=rss",
+        "Emojify exploit": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TOMIWA-OT-EMOJIFY&utm_source=rss&utm_medium=rss",
+        "bcm4360-wpa3 exploit": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-UNSIGNEDCHAD-BCM4360-WPA3&utm_source=rss&utm_medium=rss",
+        "CVE-2026-53921-PoC-Exploit": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TC4DY-CVE-2026-53921-POC-EXPLOIT&utm_source=rss&utm_medium=rss",
+        "rekor exploit": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SIGSTORE-REKOR&utm_source=rss&utm_medium=rss",
+        "tippa-my-tongue exploit": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-J-BAINES-TIPPA-MY-TONGUE&utm_source=rss&utm_medium=rss",
+        "CVE-2018-14847 exploit": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TAUSIFZAMAN-CVE-2018-14847&utm_source=rss&utm_medium=rss",
+        "CVE-2014-2383-LFI-to-RCE-Escalation exploit": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-RELATIV3PA1N-CVE-2014-2383-LFI-TO-RCE-ESCALATION&utm_source=rss&utm_medium=rss",
+        "CVE-2024-29868 exploit": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-DEVISIONS-CVE-2024-29868&utm_source=rss&utm_medium=rss",
+        "CVE-2024-9474 exploit": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ARATANE-CVE-2024-9474&utm_source=rss&utm_medium=rss",
+        "CVE-2026-44706 exploit": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-HAKAIOFFSEC-CVE-2026-44706&utm_source=rss&utm_medium=rss"
+    },
+    "Der Flounder": {
+        "Copying macOS login keychains to different Macs on macOS Tahoe 26.4 and later": "https://derflounder.wordpress.com/2026/10/02/copying-macos-login-keychains-to-different-macs-on-macos-tahoe-26-4-and-later/"
+    },
+    "obaby 𝐢‍𝐧⃝ void": {
+        "再谈 Carplay 播放视频": "https://zhongxiaojie.cn/2026/10/2029/"
+    },
+    "Recent Commits to cve:main": {
+        "Update Fri Oct  2 12:33:02 UTC 2026": "https://github.com/trickest/cve/commit/0a11ab945b81964bf0f31210f21587ee380b7cef"
+    },
+    "GuidePoint Security": {
+        "AI Governance: Between the Prompt and the Policy": "https://www.guidepointsecurity.com/blog/ai-governance-prompt-to-policy/"
+    },
+    "Kitploit — Hacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!": {
+        "ZoneClaw-code": "https://kitploit.com/en/tools/github/euph00/zoneclaw-code",
+        "cowrie v3.1.0": "https://kitploit.com/en/posts/cowrie-4115130f3aeb0ede",
+        "proxy-workbench": "https://kitploit.com/en/tools/github/davidvoitenko/proxy-workbench",
+        "C2SP": "https://kitploit.com/en/tools/github/c2sp/c2sp",
+        "ndaal_public_auditd": "https://kitploit.com/en/tools/gitlab/ndaal_open_source/ndaal_public_auditd",
+        "PEASS-ng v20261002-82d9fad1": "https://kitploit.com/en/posts/peass-ng-b4e92c308cecd712",
+        "HashcatRosetta": "https://kitploit.com/en/tools/github/bandrel/hashcatrosetta",
+        "advisory": "https://kitploit.com/en/tools/github/carlosalbertotuma/advisory",
+        "vmp-devirt": "https://kitploit.com/en/tools/github/rasetsuu/vmp-devirt",
+        "semgrep v1.179.0": "https://kitploit.com/en/posts/semgrep-17c504983bedd72c",
+        "MEA-Bench": "https://kitploit.com/en/tools/github/sliu11-byte/mea-bench",
+        "refusal-relocates": "https://kitploit.com/en/tools/github/js-lee-ai/refusal-relocates",
+        "InfraPulse-Core": "https://kitploit.com/en/tools/github/vighnesh91/infrapulse-core",
+        "frida v17.20.0": "https://kitploit.com/en/posts/frida-4802884e62231eb1",
+        "ai-agent-gateway": "https://kitploit.com/en/tools/github/tuskira/ai-agent-gateway",
+        "OWASP-Top-10-Neocloud-and-AI-Data-Center-Security-Risks": "https://kitploit.com/en/tools/github/owasp/owasp-top-10-neocloud-and-ai-data-center-security-risks",
+        "cortex": "https://kitploit.com/en/tools/github/pdb333/cortex",
+        "Kousei": "https://kitploit.com/en/tools/github/nu11secur1ty/kousei",
+        "skyvern v1.0.55": "https://kitploit.com/en/posts/skyvern-6756867a08a9a525",
+        "ps-ppl-bypass": "https://kitploit.com/en/tools/github/r41n3rzuf477/ps-ppl-bypass"
+    },
+    "Hexacorn": {
+        "EtwCheckCoverage API": "https://www.hexacorn.com/blog/2026/10/02/etwcheckcoverage-api/"
+    },
+    "Whwlsfb's Tech Blog": {
+        "hacked by trenggalek6etar": "https://blog.wanghw.cn/uncategorized/cox-htm.html"
+    },
+    "Horizon3": {
+        "Horizon3 + CrowdStrike: Prove. Prioritize. Verify.": "https://horizon3.ai/downloads/factsheets/horizon3-crowdstrike-integration/"
+    },
+    "The Trail of Bits Blog": {
+        "SequenceHash: multihashing for the rest of us": "https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/"
+    },
+    "白帽Wiki - 一个简单的wiki": {
+        "[2026]sm120上sglang的fp8的triton内核的矩阵乘性能问题": "https://key08.com/index.php/2026/10/02/3341.html"
+    },
+    "ICT Security Magazine": {
+        "Conservazione dei dati di traffico: il vincolo che torna da Bruxelles non è il termine, è la struttura dell’archivio": "https://www.ictsecuritymagazine.com/gdpr-e-privacy/conservazione-dei-dati-di-traffico-separazione-archivi/",
+        "La formazione in cybersecurity funziona? Efficacia percepita e cambiamenti comportamentali": "https://www.ictsecuritymagazine.com/articoli/formazione-in-cybersecurity/"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "ISC Stormcast For Friday, October 2nd, 2026 https://isc.sans.edu/podcastdetail/10120, (Fri, Oct 2nd)": "https://isc.sans.edu/diary/rss/33390"
+    },
+    "Over Security": {
+        "Judge dismisses spyware case brought by Salvadoran journalists targeted with Pegasus": "https://therecord.media/judge-dismisses-spyware-case-brought-by-salvadoran-journalists",
+        "Bipartisan backlash to ALPRs grows as two high-profile bills are introduced": "https://therecord.media/alpr-legislation-hawley-sanders-merkley-aoc",
+        "Canva hacked via vendor's Salesforce instance; Other customers affected as well (1) - DataBreaches.Net": "https://databreaches.net/2026/09/23/canva-hacked-via-vendors-salesforce-instance-other-customers-affected-as-well/",
+        "Frontline Education breach exposes school district employee data": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+        "Warlock ransomware breach SharePoint in water, telecom operator attacks": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+        "GitLab warns of critical RCE vulnerability in AI Gateway service": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
+        "Sintesi riepilogativa delle campagne malevole nella settimana del 26 settembre – 2 ottobre": "https://cert-agid.gov.it/news/sintesi-riepilogativa-delle-campagne-malevole-nella-settimana-del-26-settembre-2-ottobre/",
+        "Agenti OpenAI, è escalation di incidenti: che succede ora": "https://www.cybersecurity360.it/news/agenti-openai-e-escalation-di-incidenti-che-succede-ora/",
+        "US sanctions Tren de Aragua gang members in ATM hacks crackdown": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
+        "Quella colpevole ricerca del colpevole": "https://www.cybersecurity360.it/cultura-cyber/quella-colpevole-ricerca-del-colpevole/",
+        "'Warlock' ransomware used in attacks on critical infrastructure in Portuguese, Spanish-speaking countries": "https://therecord.media/warlock-ransomware-used-in-critical-infrastructure-attacks",
+        "Mississippi mayor says ransomware incident led city to shut down systems": "https://therecord.media/vicksburg-mississippi-government-ransomware-attack",
+        "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
+        "Custom GPT malevoli: così ChatGPT diventa il primo anello di un attacco ClickFix": "https://www.cybersecurity360.it/nuove-minacce/custom-gpt-malevoli-cosi-chatgpt-diventa-il-primo-anello-di-un-attacco-clickfix/",
+        "Dell asks admins to patch max severity CSM flaws as soon as possible": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
+        "Sicurezza per agentic AI: la gestione dei dati cloud": "https://www.cybersecurity360.it/nuove-minacce/sicurezza-per-agentic-ai-la-gestione-dei-dati-cloud/",
+        "Cyber security, tre bandi tra Italia e UE: fondi per PMI, CRA e innovazione": "https://www.cybersecurity360.it/news/cyber-security-tre-bandi-tra-italia-e-ue-fondi-per-pmi-cra-e-innovazione/",
+        "Pwn2Own Ireland 2025 – Home Assistant": "https://blog.compass-security.com/2026/10/pwn2own-ireland-2025-home-assistant/",
+        "Proton Pass Plus, password manager in promozione: crittografia zero-knowledge, alias email e monitoraggio del dark web al 50% di sconto": "https://www.cybersecurity360.it/cultura-cyber/proton-pass-plus-sconto-gestore-password-crittografia-zero-knowledge/",
+        "Microsoft’s X account hacked in crypto pump-and-dump scheme": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
+        "Trattamenti per finalità di Polizia: come governare la circolazione dei dati": "https://www.cybersecurity360.it/legal/privacy-dati-personali/trattamenti-per-finalita-di-polizia-come-governare-la-circolazione-dei-dati/",
+        "Anatomía de BraZetsu: Cómo los cibercriminales abastecen el ecosistema clandestino": "https://www.group-ib.com/blog/brazetsu-ai-enhanced-iab-marketplace-es/"
+    },
+    "Future of Tech and Security: Strategy & Innovation with Raffy": {
+        "The Security Operations Market Is Moving From Narrative To Execution": "https://raffy.ch/blog/2026/10/02/the-security-operations-market-is-moving-from-narrative-to-execution/"
+    },
+    "Security Affairs": {
+        "U.S. CISA adds Zammad GmbH Zammad flaws to its Known Exploited Vulnerabilities catalog": "https://securityaffairs.com/200248/security/u-s-cisa-adds-zammad-gmbh-zammad-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "AI Agents Attempt SQL Injection While Searching Government Data": "https://securityaffairs.com/200234/ai/ai-agents-attempt-sql-injection-while-searching-government-data.html",
+        "Investigators trace an AI agent ‘s path from research task to reconnaissance": "https://securityaffairs.com/200215/ai/investigators-trace-an-ai-agent-s-path-from-research-task-to-reconnaissance.html",
+        "U.S. CISA adds Fortinet FortiMail flaw to its Known Exploited Vulnerabilities catalog": "https://securityaffairs.com/200224/security/u-s-cisa-adds-fortinet-fortimail-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
+    },
+    "KitPloit - PenTest Tools!": {
+        "ZoneClaw-code": "https://kitploit.com/en/tools/github/euph00/zoneclaw-code",
+        "cowrie v3.1.0": "https://kitploit.com/en/posts/cowrie-4115130f3aeb0ede",
+        "proxy-workbench": "https://kitploit.com/en/tools/github/davidvoitenko/proxy-workbench",
+        "C2SP": "https://kitploit.com/en/tools/github/c2sp/c2sp",
+        "ndaal_public_auditd": "https://kitploit.com/en/tools/gitlab/ndaal_open_source/ndaal_public_auditd",
+        "PEASS-ng v20261002-82d9fad1": "https://kitploit.com/en/posts/peass-ng-b4e92c308cecd712",
+        "HashcatRosetta": "https://kitploit.com/en/tools/github/bandrel/hashcatrosetta",
+        "advisory": "https://kitploit.com/en/tools/github/carlosalbertotuma/advisory",
+        "vmp-devirt": "https://kitploit.com/en/tools/github/rasetsuu/vmp-devirt",
+        "semgrep v1.179.0": "https://kitploit.com/en/posts/semgrep-17c504983bedd72c",
+        "MEA-Bench": "https://kitploit.com/en/tools/github/sliu11-byte/mea-bench",
+        "refusal-relocates": "https://kitploit.com/en/tools/github/js-lee-ai/refusal-relocates",
+        "InfraPulse-Core": "https://kitploit.com/en/tools/github/vighnesh91/infrapulse-core",
+        "frida v17.20.0": "https://kitploit.com/en/posts/frida-4802884e62231eb1",
+        "ai-agent-gateway": "https://kitploit.com/en/tools/github/tuskira/ai-agent-gateway",
+        "OWASP-Top-10-Neocloud-and-AI-Data-Center-Security-Risks": "https://kitploit.com/en/tools/github/owasp/owasp-top-10-neocloud-and-ai-data-center-security-risks",
+        "cortex": "https://kitploit.com/en/tools/github/pdb333/cortex",
+        "Kousei": "https://kitploit.com/en/tools/github/nu11secur1ty/kousei",
+        "skyvern v1.0.55": "https://kitploit.com/en/posts/skyvern-6756867a08a9a525",
+        "ps-ppl-bypass": "https://kitploit.com/en/tools/github/r41n3rzuf477/ps-ppl-bypass"
+    },
+    "Schneier on Security": {
+        "Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html",
+        "Unidentified Flock Cameras in Florida": "https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html",
+        "How American Political Campaigns Are Using AI—and What They’re Spending on the Tools": "https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html"
+    },
+    "The Hacker News": {
+        "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+        "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+        "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+        "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
+        "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
+        "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
+        "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html"
+    },
+    "Deeplinks": {
+        "Site-Blocking Will Not Defend IP, No Matter the Bill’s Name": "https://www.eff.org/deeplinks/2026/10/site-blocking-will-not-defend-ip-no-matter-bills-name",
+        "Congress Has Another Site-Blocking Bill, And This One Targets VPNs": "https://www.eff.org/deeplinks/2026/10/congress-has-another-site-blocking-bill-and-one-targets-vpns",
+        "Victory! Court Rejects Government Effort to Dismiss Social Media Surveillance Lawsuit": "https://www.eff.org/press/releases/victory-court-rejects-government-effort-dismiss-social-media-surveillance-lawsuit",
+        "Ola Bini Ordered to Leave Ecuador Under Obscure Accusations": "https://www.eff.org/deeplinks/2026/10/ola-bini-ordered-leave-ecuador-under-obscure-accusations"
+    },
+    "Security Weekly Podcast Network (Audio)": {
+        "RAM, Muse, CloudSyncD, Springsteen, Software, Persistence, and Michael Jenkins - Michael Jenkins - SWN #621": "http://sites.libsyn.com/18678/ram-muse-cloudsyncd-springsteen-software-persistence-michael-jenkins-cto-and-michael-jenkins-swn-621"
+    }
+}
