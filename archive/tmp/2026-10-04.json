@@ -1,0 +1,206 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2026-10-03 Review": "http://www.sec-wiki.com/?2026-10-03"
+    },
+    "Recent Commits to cve:main": {
+        "Update Sat Oct  3 12:33:01 UTC 2026": "https://github.com/trickest/cve/commit/de57b3a5c16ff0c40c543149c930e2eef3c2d611"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Exploit for Improper Encoding or Escaping of Output in Motioneye_Project Motioneye": "https://sploitus.com/exploit?id=DA26F5F2-4091-52FF-AC34-43E8B5297DC1&utm_source=rss&utm_medium=rss",
+        "Exploit for Missing Authentication for Critical Function in Nginxui Nginx_Ui": "https://sploitus.com/exploit?id=7C3CEB66-1DCE-5EBA-9FCA-3B3691F18588&utm_source=rss&utm_medium=rss",
+        "Exploit for CVE-2026-103956": "https://sploitus.com/exploit?id=C3321643-5A75-57A5-8B74-AC3AE48421E9&utm_source=rss&utm_medium=rss",
+        "ps5-esp32host exploit": "https://sploitus.com/exploit?id=8A8BB820-C395-5700-ADAE-514D03DB507B&utm_source=rss&utm_medium=rss",
+        "Exploit for Argument Injection in Thecodingmachine Gotenberg": "https://sploitus.com/exploit?id=F660F078-7767-5727-AB93-EECB3FC14396&utm_source=rss&utm_medium=rss",
+        "Root-My-Galaxy-Payloads exploit": "https://sploitus.com/exploit?id=D0555BCA-8868-5EB0-AF8C-034EDF109D6F&utm_source=rss&utm_medium=rss",
+        "Exploit for CVE-2024-51482": "https://sploitus.com/exploit?id=4E683AC2-6813-5CBF-AEB3-24B143102210&utm_source=rss&utm_medium=rss",
+        "dita-structure-translation-poc exploit": "https://sploitus.com/exploit?id=F7C20639-D2E8-5D5C-A07A-AD8397D2D3AD&utm_source=rss&utm_medium=rss",
+        "cve-threat-intelligence-hub exploit": "https://sploitus.com/exploit?id=FE6BEBA3-ACB8-5216-A8F5-C36387EDF6F0&utm_source=rss&utm_medium=rss",
+        "Exploit for Interpretation Conflict in Wordpress": "https://sploitus.com/exploit?id=E2481DFB-5EA1-50CD-B8F7-F55F80DEBBAD&utm_source=rss&utm_medium=rss",
+        "Exploit for CVE-2026-64561": "https://sploitus.com/exploit?id=F19FC6C3-1E4E-5B3C-84C2-D0301445482F&utm_source=rss&utm_medium=rss",
+        "pentest-labs exploit": "https://sploitus.com/exploit?id=D292EBD0-C487-53F4-B21E-7C5A106AEB71&utm_source=rss&utm_medium=rss",
+        "IOS-Cybersecurity-Task-1-XSS exploit": "https://sploitus.com/exploit?id=88EA7D81-A75D-5F92-8C77-DD45CF57B7D2&utm_source=rss&utm_medium=rss",
+        "AERA exploit": "https://sploitus.com/exploit?id=89896E92-075D-51ED-A346-4C00FE0E1319&utm_source=rss&utm_medium=rss",
+        "Exploit for CVE-2025-21065": "https://sploitus.com/exploit?id=B397F9A9-21F3-5411-BA9B-66E46344CA39&utm_source=rss&utm_medium=rss",
+        "Exploit for OS Command Injection in Fortinet Fortisandbox": "https://sploitus.com/exploit?id=5A7006C8-FF5C-5E22-887D-64BD181A8295&utm_source=rss&utm_medium=rss",
+        "Exploit for OS Command Injection in Redhat Openshift_Container_Platform": "https://sploitus.com/exploit?id=D7A54D76-AB6F-5E61-90A2-ABBD4E269BF9&utm_source=rss&utm_medium=rss",
+        "wordpress-stored-xss-privilege-escalation-admin-creation exploit": "https://sploitus.com/exploit?id=347AF061-4557-5E0C-B60B-A201240B961B&utm_source=rss&utm_medium=rss",
+        "wordpress-rce-theme-editor-webshell-injection exploit": "https://sploitus.com/exploit?id=B9D53E0D-CAC4-5C9A-8AD6-3D3FE788BA1D&utm_source=rss&utm_medium=rss",
+        "Suricata-Rule-for-Detecting-CVE-2025-55182 exploit": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-SOLIDEVIL14-SURICATA-RULE-FOR-DETECTING-CVE-2025-55182&utm_source=rss&utm_medium=rss",
+        "LnkMeMaybe exploit": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-TRUSTEDSEC-LNKMEMAYBE&utm_source=rss&utm_medium=rss",
+        "url-cheatsheet-data exploit": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-PORTSWIGGER-URL-CHEATSHEET-DATA&utm_source=rss&utm_medium=rss",
+        "casbin exploit": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-APACHE-CASBIN&utm_source=rss&utm_medium=rss",
+        "CVE-2020-13941 exploit": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-MBADANOIU-CVE-2020-13941&utm_source=rss&utm_medium=rss",
+        "CVE-2024-22891 exploit": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-EQSTLAB-CVE-2024-22891&utm_source=rss&utm_medium=rss",
+        "CVE-2025-2294 exploit": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-YUCAERIN-CVE-2025-2294&utm_source=rss&utm_medium=rss",
+        "CVE-2022-26134 exploit": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-COSKPER-PAPA-CVE-2022-26134&utm_source=rss&utm_medium=rss",
+        "haruspex exploit": "https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-0XDEA-HARUSPEX&utm_source=rss&utm_medium=rss",
+        "udpx exploit": "https://sploitus.com/exploit?id=KITPLOIT:938872279280755664&utm_source=rss&utm_medium=rss"
+    },
+    "Doonsec's feed": {
+        "Black Hat USA 2026：Roblox隐私工程": "https://mp.weixin.qq.com/s/usIOL7KckqjlQPc1sCwLQQ",
+        "安卓完美云手机内测镜像支持机型更新，文末有惊喜": "https://mp.weixin.qq.com/s/_9_VxU-ibXOJJz4ouY8pOQ",
+        "构建零成本、防盗刷的全球混合图床架构": "https://mp.weixin.qq.com/s/uHRbztGcrFgJXW_ZiTo5EQ",
+        "【AI安全】智能体提前拿到授权，真正执行时还算数吗？ZeroGate 的一次性通行证": "https://mp.weixin.qq.com/s/8M171j01QBK1YYCc-SEF1w",
+        "DragonForce：一个靠组织而非技术做大的勒索团伙": "https://mp.weixin.qq.com/s/FxblGNBWjucAyTrIYl3C7w",
+        "秦安：形势恶化！俄乌战争要升级！欧盟支付900亿欧元，乌克兰还要200亿美元，俄明年国防支出较预算增长约27%，为开战爆发以来最高水平！": "https://mp.weixin.qq.com/s/2zPIqdzj_rNFgjQL7dMLIg",
+        "不写一行 shellcode，怎么把 DLL 塞进别人的进程？": "https://mp.weixin.qq.com/s/MVGqOM4jdqZ5h_qiaVgPGw",
+        "十四载磨锋，共庆火炬木生日": "https://mp.weixin.qq.com/s/1fRM6mlBJ60i57ZIg0nfcw",
+        "AI能参与审稿，但不能替你做研究": "https://mp.weixin.qq.com/s/DU02oikNos8TPQ1-vzRPAQ",
+        "AI 克隆声音侵权，日本首次认定声音享有形象权！": "https://mp.weixin.qq.com/s/rFSw1z8w1s-o30alndkGHQ",
+        "国际河流组织：一家披着环保外衣的基建阻击手": "https://mp.weixin.qq.com/s/InhHsuVv1-TsomNUCadg4Q",
+        "库什纳借道以色列金融巨头，套现超3亿美元“战争红利”": "https://mp.weixin.qq.com/s/LkjF-Ki8uDTTFMlpRW0u4w",
+        "TraderTraitor扩大狩猎范围！不再只盯加密行业，API反向呼叫后门瞄准普通IT服务商": "https://mp.weixin.qq.com/s/oE5or4z_is6xty6Bl2vfvw",
+        "小忠今年的佛学修行，最后修成了早睡和吃月饼": "https://mp.weixin.qq.com/s/3AFP-z1nyd5wIzmosbbEWg",
+        "【一周安全资讯1003】《江苏省网络数据安全管理办法（草案）》（征求意见稿）发布；Bitget遭窃3.88亿美元，攻击者利用第三方0Day漏洞入侵": "https://mp.weixin.qq.com/s/RR7OPaHIWAEEA9ixDIpKNQ",
+        "Fundamental Research ｜ 尤肖虎、尹浩等：移动信息网络加速构筑未来社会的“智能底座”": "https://mp.weixin.qq.com/s/t2QjRPJvAXYPbzs3TNUDOA",
+        "安天AVL SDK反病毒引擎升级通告（20261003）": "https://mp.weixin.qq.com/s/oSHlZP8-vIUWmVGp_mrtUw",
+        "行业资讯｜AI 安全事件点燃部分网安股，永信至诚三日涨超 30%，中新赛克 13 天 7 板": "https://mp.weixin.qq.com/s/NqAld9EhXl-JDtvq1a_giA",
+        "银狐遭专项打击C2坍缩九成：「甲蚁」团伙1060个仿冒域名盯上运维终端": "https://mp.weixin.qq.com/s/zHpaH2IrbDF3EGrW6_ntNg",
+        "腾讯哈勃恶意样本分析引擎横空出世：一台机器揭穿所有Linux病毒伪装": "https://mp.weixin.qq.com/s/CX8Fy0Zu06JMGuaHsirzFw",
+        "GitLab AI Gateway曝CVSS 9.9严重漏洞(CVE-2026-90970)，认证用户可逃逸模板沙箱执行任意命令": "https://mp.weixin.qq.com/s/du2n-D_EMbzVneaiamqeLQ",
+        "【国庆特惠】199元/年，加入蓝军知识星球享6大硬核权益！": "https://mp.weixin.qq.com/s/hkyTXsUmv2_TvdIty1HYuA",
+        "美军组建“四星自主司令部”：蜂群作战迎来体系化落地": "https://mp.weixin.qq.com/s/S0bilyskVoAH1O7qRE2hAQ",
+        "将俄乌战争经验教训应用于太平洋战区": "https://mp.weixin.qq.com/s/09l3uw4xZ0541afs5j-ICw",
+        "【系列报告】美军“印太”战略兵力部署与岛链基地整合": "https://mp.weixin.qq.com/s/alyvVXb6EE6H1Rf9zfKpQA",
+        "【分析报告】强对抗环境下外军敏捷航空保障体系演进与协同机制研究": "https://mp.weixin.qq.com/s/YapFVDzkEQpSI1TMpXd8NQ",
+        "【会员下载】美国陆军“金盾计划”的5个经验教训": "https://mp.weixin.qq.com/s/0Zw9EW5sGtvqmE5_Ldk4Sg",
+        "护网行动安全布防图编制与应用培训": "https://mp.weixin.qq.com/s/6waFQIyK7NfWI90tlv3A4w",
+        "1300余名被害人、1600余万元：一起网络套路贷案，是怎么把人套进去的？": "https://mp.weixin.qq.com/s/9Kz0bPEQVT-fbQm7ioRWwg",
+        "Next.js 远程代码执行漏洞 CVE-2026-94545 的 PoC 利用代码已发布": "https://mp.weixin.qq.com/s/H862agm6XxfkiTRG0KrCvw",
+        "曾经的天才萧炎...": "https://mp.weixin.qq.com/s/UMh2BNKldBs_XI15RcRSPg",
+        "sci一直投不中？三甲医生私藏！一年连发5篇医学sci真的不难": "https://mp.weixin.qq.com/s/ce2rvQQ16EowV7FTPqkYNg",
+        "孩子在跟AI聊啥，你知道么？？？": "https://mp.weixin.qq.com/s/cy1Ck8MRhmFrWXhflSzaGg",
+        "长夜不歇，守得长假安宁": "https://mp.weixin.qq.com/s/jdLYV347y7PM_ExvI2VYRQ",
+        "Streamlink：一次重定向，为什么能读到本地文件": "https://mp.weixin.qq.com/s/J4aEi0dDpFUYwCd9kmodkQ",
+        "留给AI玩具和服务机器人的时间，还有不到一年": "https://mp.weixin.qq.com/s/e7MCVzIj8BwOqzqL0Jh0Cg",
+        "谛听 | FIGAN：面向工业协议格式推理的多样性流量生成": "https://mp.weixin.qq.com/s/Ji-KuMTnOPQcaiZHSVnMug",
+        "edusrc 脆弱资产收集&amp;统一身份认证逻辑绕过": "https://mp.weixin.qq.com/s/LjPd79SIRf-NJcB8LtpR2Q",
+        "Jupyter Server：日志泄露令牌，不只是“日志问题”": "https://mp.weixin.qq.com/s/xadpyERPGkZgCHD4rrB7Hg",
+        "中国科学家让新型存储器写入超过100亿次，耐久性提升约100倍": "https://mp.weixin.qq.com/s/WhRYUDV2X52mU-sAHNKNsg",
+        "2026年福建省大学生数据安全大赛火热报名中！": "https://mp.weixin.qq.com/s/D43TjXSOOpYJJuGM7hNtcw",
+        "关于举办第五届全省“赣网杯”网络安全大赛的通知": "https://mp.weixin.qq.com/s/xpptsRIyAptmfHeEna4tMg",
+        "关于举办首届江苏省“人工智能+”创新应用大赛的通知": "https://mp.weixin.qq.com/s/M3Sxe4FvKi0XIJAku9OKVA",
+        "赛查查喊你来投票！ | 投出你最喜欢的安全赛事": "https://mp.weixin.qq.com/s/HWIlP16PBhagFdfhKi7D_Q",
+        "Agent Harness 实战：从零实现并行工具调用引擎": "https://mp.weixin.qq.com/s/dE2qVwbptBwgz6gkdc565w",
+        "做了十年网工，为什么突然连面试机会都少了": "https://mp.weixin.qq.com/s/k6nTMEY7PhQVQINjcqO8Jg",
+        "AI安全、agent安全所有外刊文章汇总（全网最全）": "https://mp.weixin.qq.com/s/OxELrrHM9uhNOAdFThlL4w",
+        "五角大楼新的网络安全技能提升激励模式承诺开启“新时代”，网络部队却面临减薪风暴": "https://mp.weixin.qq.com/s/KcmOgvEcLmnvmTXkY65REA",
+        "战争部长发布新指令，加快美军反无人机行动": "https://mp.weixin.qq.com/s/JX5H1Zz1JI_82dfLvy8dFQ",
+        "暗网泄露:德国伊策霍市基民盟党": "https://mp.weixin.qq.com/s/1B-R7c86OgUKWmL_FPrmxQ",
+        "QClaw 要停服了，我让它做了个用户画像": "https://mp.weixin.qq.com/s/FS0cfTyp5S3oio38iEzqvQ",
+        "第六届全国开源情报技术大会（COSINT-2026）报名火热进行中": "https://mp.weixin.qq.com/s/md__rd_0ljryapulYp4mXA",
+        "情报分析师培训课程（二）u3000情报史：从远古时代到近现代（2）": "https://mp.weixin.qq.com/s/xcyDi84f_rKWk0qW8zwpUw",
+        "开放接口批量抓取付费文档二十余万篇，开发者获刑一年九个月": "https://mp.weixin.qq.com/s/Ik7B-yvYRL81eWs5IbJ9-g",
+        "传奇类私服年流水2515亿元超正版，剑网2025剑指灰色产业链": "https://mp.weixin.qq.com/s/qwHBWuvdzCTmk0ZxhPswZw",
+        "IPv6城市级定位准确率仅30%到55%，出海广告归因偏差月吞预算5至10万美元": "https://mp.weixin.qq.com/s/-Lmy4XkBv3Tp7Phb90I5AQ",
+        "你电脑上那些 MCP，可能早就被人投过毒了": "https://mp.weixin.qq.com/s/QBHmjBSMy2EAbvh8YZPXag",
+        "秦安：明确为暴恐！以色列版“911事件”为何中断？以色列、美国和伊朗，到底谁是幕后操盘手？": "https://mp.weixin.qq.com/s/sBHp6iqP22SpQ0rjhDPzoA",
+        "秦安：突发！俄一图-95轰炸机坠毁6人死亡，深层原因与俄乌局势升级风险研判": "https://mp.weixin.qq.com/s/XYmqfj111ejjyfgvWX1VEQ",
+        "秦安：重大利好！建国以来第一回。": "https://mp.weixin.qq.com/s/nBR2P1KWjDB3J8Iehvp4IQ",
+        "【软考网规】等保专题": "https://mp.weixin.qq.com/s/UTxXuXbedKTqD9bUwE8V9g",
+        "新型信息窃取程序可从Windows电脑窃取密码、银行卡信息、Cookie和Wi-Fi密钥": "https://mp.weixin.qq.com/s/2pCd5JLI6ulokOZ0jo5_Cw",
+        "当 AI 开始自己打渗透：One\\'s Vibe 上的安全工具巡礼": "https://mp.weixin.qq.com/s/JDXBvwfPdWzLBvcFHEesJw",
+        "一个默认口令，端掉整个商会系统：一次授权渗透的完整复盘": "https://mp.weixin.qq.com/s/Tp6embs2uJtGv-62RjqIYw",
+        "Apache Superset SQL注入漏洞公开发布 PoC": "https://mp.weixin.qq.com/s/AwxC3HnLGNlo7mCQ4lGCmA",
+        "净网专项行动 | 公安部网安局公布5起网暴运动员典型案例": "https://mp.weixin.qq.com/s/ObcUWHaknOS6VZT9d2jvhA",
+        "依靠人工智能生存：攻击者策略的下一个演进阶段": "https://mp.weixin.qq.com/s/6BbbUpQG7WHLyC4NLKXN2g",
+        "反编译逆向，二进制分析最新版Vector35BinaryNinja6.0.10601Persona": "https://mp.weixin.qq.com/s/-eCdLBA_H0aHC0zRT4n6ug",
+        "我们都在按清单完成任务，没人敢谈风险": "https://mp.weixin.qq.com/s/QeSxSXG2jAfjx5Qa5mFqwQ"
+    },
+    "博客": {
+        "ifupdown and ifupdown2": "https://dyrnq.com/ifupdown-and-ifupdown2/"
+    },
+    "Hexacorn": {
+        "The boring state of stalled timelines…": "https://www.hexacorn.com/blog/2026/10/03/the-boring-state-of-stalled-timelines/"
+    },
+    "Malware-Traffic-Analysis.net - Blog Entries": {
+        "2026-09-29: Macfinger ClickFix activity": "https://www.malware-traffic-analysis.net/2026/09/29/index.html"
+    },
+    "Reverse Engineering": {
+        "I turned a low-cost RP2040-Zero into a FIDO2/WebAuthn security key": "https://www.reddit.com/r/ReverseEngineering/comments/1wwwvpb/i_turned_a_lowcost_rp2040zero_into_a/",
+        "Pre-installed C2 loader on cheap Android projectors - deploys proxy/ad-fraud botnets, can run arbitrary code (Technical analysis)": "https://www.reddit.com/r/ReverseEngineering/comments/1wwmw15/preinstalled_c2_loader_on_cheap_android/",
+        "N0xis: from a hardware watchpoint in a live process to the decompiled statement that wrote the value (Rust, Windows/Linux, CLI + MCP)": "https://www.reddit.com/r/ReverseEngineering/comments/1wwy6x4/n0xis_from_a_hardware_watchpoint_in_a_live/",
+        "how to remove or bypass this message from flutter app \"com.vistring.blink.android\" \"message : you are currently use unofficial version\" pirated message after remove pairip": "https://www.reddit.com/r/ReverseEngineering/comments/1wwt2vk/how_to_remove_or_bypass_this_message_from_flutter/",
+        "Anti-Debug tricks ( unknow )": "https://www.reddit.com/r/ReverseEngineering/comments/1wwh3li/antidebug_tricks_unknow/"
+    },
+    "Hacking Dream": {
+        "Understanding Abliteration: How I Learned to Read and Edit an Open-Weight LLM Without Fine-Tuning": "https://www.hackingdream.net/2026/10/understanding-abliteration-how-i-learned-to-edit-an-open-weight-llm-without-finetuning.html"
+    },
+    "Kitploit — Hacking, PenTest, and Cybersecurity Tools for Your Security Arsenal!": {
+        "N0xis": "https://kitploit.com/en/tools/github/structio-labs/n0xis",
+        "Decepticon v1.2.2": "https://kitploit.com/en/posts/decepticon-7ec23d84d6dcd0b8",
+        "selenium-stealth": "https://kitploit.com/en/tools/github/diprajpatra/selenium-stealth",
+        "ASC": "https://kitploit.com/en/tools/github/mg1937/asc",
+        "evil-winrm-py": "https://kitploit.com/en/tools/github/adityatelange/evil-winrm-py",
+        "caddy v2.11.7": "https://kitploit.com/en/posts/caddy-ec9d91782107e88d",
+        "ultrafuzz": "https://kitploit.com/en/tools/github/monad-developers/ultrafuzz",
+        "CISCO": "https://kitploit.com/en/tools/github/nu11secur1ty/cisco",
+        "ps5-pihost": "https://kitploit.com/en/tools/github/flex36ty/ps5-pihost",
+        "Heroinn": "https://kitploit.com/en/tools/github/b23r0/heroinn",
+        "Vulnvault": "https://kitploit.com/en/tools/github/viralmaniar/vulnvault",
+        "hosts v3.16.119": "https://kitploit.com/en/posts/hosts-c3bee1b97fd7d218",
+        "NativePe": "https://kitploit.com/en/tools/github/habanada/nativepe",
+        "web-check v2.3.0": "https://kitploit.com/en/posts/web-check-60ee57776a4f9938",
+        "quipu": "https://kitploit.com/en/tools/github/corelight/quipu",
+        "Xenon": "https://kitploit.com/en/tools/github/mythicagents/xenon",
+        "httpx": "https://kitploit.com/en/tools/github/mythicc2profiles/httpx",
+        "grype v0.120.0": "https://kitploit.com/en/posts/grype-244879363bf818de",
+        "Chamemask": "https://kitploit.com/en/tools/github/manhnho/chamemask",
+        "CCTV": "https://kitploit.com/en/tools/github/c2sp/cctv"
+    },
+    "Yang Hao's blog": {
+        "桌面壁纸层监控HUD踩坑实录": "https://yanghaoi.github.io/2026/10/04/zhuo-mian-bi-zhi-ceng-jian-kong-hud-cai-keng-shi-lu/"
+    },
+    "Over Security": {
+        "Google Gemini could soon get full access to your Mac’s files, apps and the web": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
+        "ShinyHunters hacker reportedly detained in Jordan, aiding FBI": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
+        "Danish university DTU breach exposes data of up to 200,000 people": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/"
+    },
+    "LastKnight.com Feed": {
+        "Altman e Amodei sul ceppo: la macchina che trema è l’alibi perfetto": "https://mgpf.it/2026/10/03/altman-amodei-ceppo.html"
+    },
+    "SANS Internet Storm Center, InfoCON: green": {
+        "YARA-X 1.21.0 Release, (Sat, Oct 3rd)": "https://isc.sans.edu/diary/rss/33392"
+    },
+    "ICT Security Magazine": {
+        "Zero trust negli ambienti OT: perché l’air gap non basta più": "https://www.ictsecuritymagazine.com/articoli/zero-trust-ot-air-gap/"
+    },
+    "GRAHAM CLULEY": {
+        "N0n ransomware: what you need to know": "https://www.fortra.com/blog/n0n-ransomware-what-you-need-know"
+    },
+    "Computer Forensics": {
+        "Best way to decrypt a file vault encrypted USB drive and image the data": "https://www.reddit.com/r/computerforensics/comments/1wwqtai/best_way_to_decrypt_a_file_vault_encrypted_usb/"
+    },
+    "The Hacker News": {
+        "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
+        "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
+        "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html"
+    },
+    "Security Affairs": {
+        "Fake Zoom installer hides macOS backdoor CloudSyncD": "https://securityaffairs.com/200293/malware/fake-zoom-installer-hides-macos-backdoor-cloudsyncd.html",
+        "CVE-2026-90970: Critical GitLab AI Gateway Flaw Fixed": "https://securityaffairs.com/200283/hacking/cve-2026-90970-critical-gitlab-ai-gateway-flaw-fixed.html",
+        "Antino Backdoor Lets China-Linked UAT-11587 Turn Microsoft 365 Into a C2 Channel": "https://securityaffairs.com/200264/apt/antino-backdoor-uses-your-inbox-as-its-control-panel.html"
+    },
+    "KitPloit - PenTest Tools!": {
+        "N0xis": "https://kitploit.com/en/tools/github/structio-labs/n0xis",
+        "Decepticon v1.2.2": "https://kitploit.com/en/posts/decepticon-7ec23d84d6dcd0b8",
+        "selenium-stealth": "https://kitploit.com/en/tools/github/diprajpatra/selenium-stealth",
+        "ASC": "https://kitploit.com/en/tools/github/mg1937/asc",
+        "evil-winrm-py": "https://kitploit.com/en/tools/github/adityatelange/evil-winrm-py",
+        "caddy v2.11.7": "https://kitploit.com/en/posts/caddy-ec9d91782107e88d",
+        "ultrafuzz": "https://kitploit.com/en/tools/github/monad-developers/ultrafuzz",
+        "CISCO": "https://kitploit.com/en/tools/github/nu11secur1ty/cisco",
+        "ps5-pihost": "https://kitploit.com/en/tools/github/flex36ty/ps5-pihost",
+        "Heroinn": "https://kitploit.com/en/tools/github/b23r0/heroinn",
+        "Vulnvault": "https://kitploit.com/en/tools/github/viralmaniar/vulnvault",
+        "hosts v3.16.119": "https://kitploit.com/en/posts/hosts-c3bee1b97fd7d218",
+        "NativePe": "https://kitploit.com/en/tools/github/habanada/nativepe",
+        "web-check v2.3.0": "https://kitploit.com/en/posts/web-check-60ee57776a4f9938",
+        "quipu": "https://kitploit.com/en/tools/github/corelight/quipu",
+        "Xenon": "https://kitploit.com/en/tools/github/mythicagents/xenon",
+        "httpx": "https://kitploit.com/en/tools/github/mythicc2profiles/httpx",
+        "grype v0.120.0": "https://kitploit.com/en/posts/grype-244879363bf818de",
+        "Chamemask": "https://kitploit.com/en/tools/github/manhnho/chamemask",
+        "CCTV": "https://kitploit.com/en/tools/github/c2sp/cctv"
+    }
+}
