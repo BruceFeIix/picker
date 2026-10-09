@@ -129,196 +129,116 @@ def push_issue(issue_number):
         with open(data_path, 'r', encoding="utf-8") as f1:
             data = json.load(f1)
 
-        text = ""
         for feed, articles in data.items():
             for title, link in articles.items():
                 if title == issue_title:
                     success = True
-                    body = feed + f": [{issue_title}]({link})"
-                    print(body)
-                    popen(f"gh issue edit {issue_number} --body \"{body}\"")
-                    body = issue["author"]["login"] + " 挑选了精选文章:\n\n" + body
-                    body += f"\n\n可以在[discussion]({issue['url']})讨论"
-                    for bot in picker_bots:
-                        bot.send_raw(issue_title, body)
-                    break
-            if success:
-                break
-    if not success:
-        console.print(f"{issue_title} not found title in {today}.json", style='bold yellow')
-        body = issue["author"]["login"] + " 新增了精选文章:\n\n" + issue_title + " - " + issue["body"] + f"\n\n可以在 [discussion]({issue['url']}) 讨论"
-        for bot in picker_bots:
-            bot.send_raw(issue_title, body)
+
+    return success
 
 
-def push_comment(issue_number):
-    issue = json.loads(popen(f"gh issue view {issue_number} --json title,url,comments"))
-    issue_title = issue["title"].lstrip(f"[{today}]").strip()
-
-    comment = issue["comments"][-1]
-    text = f"{comment['author']['login']} 评论了 [{issue_title}]({issue['url']}): \n\n" + comment["body"]
-    for bot in picker_bots:
-        bot.send_raw(f"{comment['author']['login']} 评论了 {issue_title}", text)
-
-
-def parse_rss(url: str, proxy_url=''):
-    """获取文章线程"""
+def get_feed(rss_path, proxy_url=''):
+    """获取订阅源"""
     proxy = {'http': proxy_url, 'https': proxy_url} if proxy_url else {'http': None, 'https': None}
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
-        'Accept-Language': 'zh-CN,zh;q=0.9',
-    }
 
-    title = ''
     result = {}
-    try:
-        r = requests.get(url, timeout=10, headers=headers, verify=False, proxies=proxy)
-        r = feedparser.parse(r.content)
-        title = r.feed.title
-        for entry in r.entries:
-            d = entry.get('published_parsed')
-            if not d:
-                d = entry.updated_parsed
-            yesterday = datetime.date.today() + datetime.timedelta(-1)
-            pubday = datetime.date(d[0], d[1], d[2])
-            if pubday == yesterday:
-                print(entry.title)
-                result[entry.title] = entry.link
-        console.print(f'[+] {title}\t{url}\t{len(result.values())}/{len(r.entries)}', style='bold green')
-    except Exception as e:
-        console.print(f'[-] failed: {url}', style='bold red')
-        print(e)
+    rss = listparser.parse(str(rss_path))
+    feeds = rss.feeds
 
-    return title, result
-
-
-def init_bot(bot_conf: dict, proxy_url='', pick=False):
-    """初始化机器人"""
-    bots = []
-    for name, v in bot_conf.items():
-        if v['enabled']:
-            key = getenv(v['secrets'], pick) or v['key']
-            bot_name = globals()[f'{name}Bot']
-            if name == 'mail':
-                receiver = getenv(v['secrets_receiver']) or v['receiver']
-                bot = bot_name(v['address'], key, receiver, v['from'], v['server'])
-                bots.append(bot)
-            elif name == 'qq':
-                bot = bot_name(v['group_id'])
-                if bot.start_server(v['qq_id'], key):
-                    bots.append(bot)
-            elif name == 'telegram':
-                bot = bot_name(key, v['chat_id'], proxy_url)
-                if bot.test_connect():
-                    bots.append(bot)
-            elif name == 'dingtalk':
-                bot = bot_name(key, getenv("DINGTALK_SECRET", pick) or v['secret'], proxy_url)
-                bots.append(bot)
-            else:
-                bot = bot_name(key, proxy_url)
-                bots.append(bot)
-    return bots
-
-
-def init_rss(conf: dict, update: bool=False, proxy_url=''):
-    """初始化订阅源"""
-    rss_list = []
-    enabled = [{k: v} for k, v in conf.items() if v['enabled']]
-    for rss in enabled:
-        if update:
-            if rss := update_rss(rss, proxy_url):
-                rss_list.append(rss)
-        else:
-            (key, value), = rss.items()
-            rss_list.append({key: root_path.joinpath(f'rss/{value["filename"]}')})
-
-    # 合并相同链接
-    feeds = []
-    for rss in rss_list:
-        (_, value), = rss.items()
+    def fetch(feed):
+        title = feed.title
+        url = feed.url
         try:
-            rss = listparser.parse(open(value,encoding="utf-8").read())
-            for feed in rss.feeds:
-                url = feed.url.strip().rstrip('/')
-                short_url = url.split('://')[-1].split('www.')[-1]
-                check = [feed for feed in feeds if short_url in feed]
-                if not check:
-                    feeds.append(url)
+            r = feedparser.parse(url, request_headers={'User-Agent': 'Mozilla/5.0'})
+            articles = {}
+            for entry in r.entries:
+                if hasattr(entry, 'published_parsed') and entry.published_parsed:
+                    pub_date = datetime.datetime(*entry.published_parsed[:6]).strftime("%Y-%m-%d")
+                    if pub_date == today:
+                        articles[entry.title] = entry.link
+                elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
+                    pub_date = datetime.datetime(*entry.updated_parsed[:6]).strftime("%Y-%m-%d")
+                    if pub_date == today:
+                        articles[entry.title] = entry.link
+            if articles:
+                return {title: articles}
         except Exception as e:
-            console.print(f'[-] 解析失败：{value}', style='bold red')
-            print(e)
+            console.print(f'[-] 获取失败：{title} {e}', style='bold red')
+        return None
 
-    console.print(f'[+] {len(feeds)} feeds', style='bold yellow')
-    return feeds
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        futures = {executor.submit(fetch, feed): feed for feed in feeds}
+        for future in as_completed(futures):
+            res = future.result()
+            if res:
+                result.update(res)
 
-
-def job(args, conf):
-    """定时任务"""
-
-    proxy_rss = conf['proxy']['url'] if conf['proxy']['rss'] else ''
-    feeds = init_rss(conf['rss'], args.update, proxy_rss)
-    count = 0
-    results = {}
-    if args.test:
-        # 测试数据
-        results = {"a":"i+1" for i in range(100)}
-    else:
-        # 获取文章
-        tasks = []
-        with ThreadPoolExecutor(100) as executor:
-            tasks.extend(executor.submit(parse_rss, url, proxy_rss) for url in feeds)
-            for task in as_completed(tasks):
-                feed, result = task.result()
-                if result:
-                    count += len(result.values())
-                    results[feed] = result
-        console.print(f'[+] {len(results)} feeds, {count} articles', style='bold yellow')
-
-        temp_path = root_path.joinpath(f'archive//tmp//{today}.json')
-        with open(temp_path, 'w+', encoding="utf-8") as f:
-            f.write(json.dumps(results, indent=4, ensure_ascii=False))
-            console.print(f'[+] temp data: {temp_path}', style='bold yellow')
-
-        # 更新today
-        update_today(results)
-
-    for bot in bots:
-        bot.send(bot.parse_results(results))
-        bot.send_raw(f"{today} 信息流摘要", f"今日({today})信息流推送完毕, 从{len(feeds)} feeds抓取到{yesterday}日共新增了{count}文章, 可在[issues]({conf['repo']}/issues)中查看")
+    return result
 
 
-def argument():
+def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--update', help='Update RSS config file', action='store_true', required=False)
-    parser.add_argument('--config', help='Use specified config file', type=str, required=False)
-    parser.add_argument('--test', help='Test bot', action='store_true', required=False)
-    parser.add_argument('--push-issue', help="update issue")
-    parser.add_argument("--update-pick", help="update pick", action='store_true')
-    parser.add_argument("--push-comment", help="update comment")
-    return parser.parse_args()
+    parser.add_argument('--update-rss', action='store_true', help='更新订阅源文件')
+    parser.add_argument('--update-today', action='store_true', help='更新today.md')
+    parser.add_argument('--update-pick', action='store_true', help='更新精选')
+    parser.add_argument('--push-issue', type=int, help='推送issue')
+    parser.add_argument('--proxy', type=str, default='', help='代理地址')
+    args = parser.parse_args()
+
+    if args.update_rss:
+        rss_config_path = root_path.joinpath('rss/rss.yml')
+        with open(rss_config_path, 'r', encoding='utf-8') as f:
+            rss_config = yaml.safe_load(f)
+        with ThreadPoolExecutor(max_workers=5) as executor:
+            futures = [executor.submit(update_rss, {k: v}, args.proxy) for k, v in rss_config.items()]
+            for future in as_completed(futures):
+                future.result()
+
+    elif args.update_today:
+        update_today()
+
+    elif args.update_pick:
+        update_pick()
+
+    elif args.push_issue:
+        push_issue(args.push_issue)
+
+    else:
+        # Default: fetch feeds and update today
+        rss_config_path = root_path.joinpath('rss/rss.yml')
+        if not rss_config_path.exists():
+            console.print('[-] rss.yml not found', style='bold red')
+            return
+
+        with open(rss_config_path, 'r', encoding='utf-8') as f:
+            rss_config = yaml.safe_load(f)
+
+        rss_paths = {}
+        with ThreadPoolExecutor(max_workers=5) as executor:
+            futures = {executor.submit(update_rss, {k: v}, args.proxy): k for k, v in rss_config.items()}
+            for future in as_completed(futures):
+                res = future.result()
+                if res:
+                    rss_paths.update(res)
+
+        data = {}
+        for name, rss_path in rss_paths.items():
+            feeds = get_feed(rss_path, args.proxy)
+            data.update(feeds)
+
+        data_path = root_path.joinpath(f'archive/tmp/{today}.json')
+        data_path.parent.mkdir(parents=True, exist_ok=True)
+        with open(data_path, 'w+', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=2)
+
+        update_today(data)
+
+        for bot in bots:
+            today_path = root_path.joinpath('today.md')
+            with open(today_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+            bot.send_raw(f'[{today} 每日信息流]', content)
 
 
 if __name__ == '__main__':
-    args = argument()
-    global bots, picker_bots
-    conf = {}
-    if args.config:
-        config_path = Path(args.config).expanduser().absolute()
-    else:
-        config_path = root_path.joinpath('config.yml')
-    with open(config_path, encoding="utf-8") as f:
-        conf = yaml.safe_load(f)
-
-    proxy_bot = conf['proxy']['url'] if conf['proxy']['bot'] else ''
-    bots = init_bot(conf['bot'], proxy_bot)
-    picker_bots = init_bot(conf["pick_bot"], proxy_bot, True)
-
-    if args.push_issue:
-        push_issue(args.push_issue)
-    elif args.update_pick:
-        update_pick()
-    elif args.push_comment:
-        push_comment(args.push_comment)
-    else:
-        job(args, conf)
+    main()
