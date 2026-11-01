@@ -15,7 +15,6 @@ from bot import *
 from utils import *
 
 import requests
-requests.packages.urllib3.disable_warnings()
 
 today = datetime.datetime.now().strftime("%Y-%m-%d")
 yesterday = str(datetime.date.today() + datetime.timedelta(-1))
@@ -173,7 +172,7 @@ def parse_rss(url: str, proxy_url=''):
     title = ''
     result = {}
     try:
-        r = requests.get(url, timeout=10, headers=headers, verify=False, proxies=proxy)
+        r = requests.get(url, timeout=10, headers=headers, proxies=proxy)
         r = feedparser.parse(r.content)
         title = r.feed.title
         for entry in r.entries:
